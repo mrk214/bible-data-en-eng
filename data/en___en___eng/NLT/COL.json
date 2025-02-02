@@ -1,0 +1,988 @@
+{
+  "book_usfm": "COL",
+  "local_abbreviation": "NLT",
+  "local_title": "New Living Translation",
+  "version_id": 116,
+  "publisher": {
+    "name": "Tyndale House Publishers Inc."
+  },
+  "copyright": {
+    "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+    "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "chapters": [
+    {
+      "chapter_usfm": "COL.1",
+      "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch1\" data-usfm=\"COL.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greetings from Paul</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.1.1\"><span class=\"label\">1</span><span class=\"content\">This letter is from Paul, chosen by the will of God to be an apostle of Christ Jesus, and from our brother Timothy.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"COL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"label\">2</span><span class=\"content\">We are writing to God&#8217;s holy people in the city of Colosse, who are faithful brothers and sisters</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:2 </span><span class=\"ft\">Greek </span><span class=\"fqa\">faithful brothers.</span></span></span><span class=\"content\"> in Christ.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"content\">May God our Father give you grace and peace.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Thanksgiving and Prayer</span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"COL.1.3\"><span class=\"label\">3</span><span class=\"content\">We always pray for you, and we give thanks to God, the Father of our Lord Jesus Christ. </span></span><span class=\"verse v4\" data-usfm=\"COL.1.4\"><span class=\"label\">4</span><span class=\"content\">For we have heard of your faith in Christ Jesus and your love for all of God&#8217;s people, </span></span><span class=\"verse v5\" data-usfm=\"COL.1.5\"><span class=\"label\">5</span><span class=\"content\">which come from your confident hope of what God has reserved for you in heaven. You have had this expectation ever since you first heard the truth of the Good News.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"COL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"COL.1.6\"><span class=\"label\">6</span><span class=\"content\">This same Good News that came to you is going out all over the world. It is bearing fruit everywhere by changing lives, just as it changed your lives from the day you first heard and understood the truth about God&#8217;s wonderful grace.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"COL.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"COL.1.7\"><span class=\"label\">7</span><span class=\"content\">You learned about the Good News from Epaphras, our beloved co-worker. He is Christ&#8217;s faithful servant, and he is helping us on your behalf.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Or </span><span class=\"fqa\">he is ministering on your behalf; </span><span class=\"ft\">some manuscripts read </span><span class=\"fqa\">he is ministering on our behalf.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"COL.1.8\"><span class=\"label\">8</span><span class=\"content\">He has told us about the love for others that the Holy Spirit has given you.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"COL.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"COL.1.9\"><span class=\"label\">9</span><span class=\"content\">So we have not stopped praying for you since we first heard about you. We ask God to give you complete knowledge of his will and to give you spiritual wisdom and understanding. </span></span><span class=\"verse v10\" data-usfm=\"COL.1.10\"><span class=\"label\">10</span><span class=\"content\">Then the way you live will always honor and please the Lord, and your lives will produce every kind of good fruit. All the while, you will grow as you learn to know God better and better.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"COL.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"COL.1.11\"><span class=\"label\">11</span><span class=\"content\">We also pray that you will be strengthened with all his glorious power so you will have all the endurance and patience you need. May you be filled with joy,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">all the patience and endurance you need with joy.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"COL.1.12\"><span class=\"label\">12</span><span class=\"content\">always thanking the Father. He has enabled you to share in the inheritance that belongs to his people, who live in the light. </span></span><span class=\"verse v13\" data-usfm=\"COL.1.13\"><span class=\"label\">13</span><span class=\"content\">For he has rescued us from the kingdom of darkness and transferred us into the Kingdom of his dear Son, </span></span><span class=\"verse v14\" data-usfm=\"COL.1.14\"><span class=\"label\">14</span><span class=\"content\">who purchased our freedom</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:14 </span><span class=\"ft\">Some manuscripts add </span><span class=\"fqa\">with his blood.</span></span></span><span class=\"content\"> and forgave our sins.</span></span></div><div class=\"s1\"><span class=\"heading\">Christ Is Supreme</span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"COL.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"COL.1.15\"><span class=\"label\">15</span><span class=\"content\">Christ is the visible image of the invisible God.</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"COL.1.15\"><span class=\"content\">He existed before anything was created and is supreme over all creation,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Or </span><span class=\"fqa\">He is the firstborn of all creation.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"COL.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"label\">16</span><span class=\"content\">for through him God created everything</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"content\">in the heavenly realms and on earth.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"content\">He made the things we can see</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"content\">and the things we can&#8217;t see&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"content\">such as thrones, kingdoms, rulers, and authorities in the unseen world.</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"content\">Everything was created through him and for him.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"COL.1.17\"><span class=\"label\">17</span><span class=\"content\">He existed before anything else,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"COL.1.17\"><span class=\"content\">and he holds all creation together.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"COL.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"label\">18</span><span class=\"content\">Christ is also the head of the church,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"content\">which is his body.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"content\">He is the beginning,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"content\">supreme over all who rise from the dead.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:18 </span><span class=\"ft\">Or </span><span class=\"fqa\">the firstborn from the dead.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"content\">So he is first in everything.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"COL.1.19\"><span class=\"label\">19</span><span class=\"content\">For God in all his fullness</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"COL.1.19\"><span class=\"content\">was pleased to live in Christ,</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"COL.1.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"label\">20</span><span class=\"content\">and through him God reconciled</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"content\">everything to himself.</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"content\">He made peace with everything in heaven and on earth</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"content\">by means of Christ&#8217;s blood on the cross.</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"COL.1.21\"><span class=\"label\">21</span><span class=\"content\">This includes you who were once far away from God. You were his enemies, separated from him by your evil thoughts and actions. </span></span><span class=\"verse v22\" data-usfm=\"COL.1.22\"><span class=\"label\">22</span><span class=\"content\">Yet now he has reconciled you to himself through the death of Christ in his physical body. As a result, he has brought you into his own presence, and you are holy and blameless as you stand before him without a single fault.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"COL.1.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"COL.1.23\"><span class=\"label\">23</span><span class=\"content\">But you must continue to believe this truth and stand firmly in it. Don&#8217;t drift away from the assurance you received when you heard the Good News. The Good News has been preached all over the world, and I, Paul, have been appointed as God&#8217;s servant to proclaim it.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Work for the Church</span></div><div class=\"m\"><span class=\"verse v23\" data-usfm=\"COL.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"COL.1.24\"><span class=\"label\">24</span><span class=\"content\">I am glad when I suffer for you in my body, for I am participating in the sufferings of Christ that continue for his body, the church. </span></span><span class=\"verse v25\" data-usfm=\"COL.1.25\"><span class=\"label\">25</span><span class=\"content\">God has given me the responsibility of serving his church by proclaiming his entire message to you. </span></span><span class=\"verse v26\" data-usfm=\"COL.1.26\"><span class=\"label\">26</span><span class=\"content\">This message was kept secret for centuries and generations past, but now it has been revealed to God&#8217;s people. </span></span><span class=\"verse v27\" data-usfm=\"COL.1.27\"><span class=\"label\">27</span><span class=\"content\">For God wanted them to know that the riches and glory of Christ are for you Gentiles, too. And this is the secret: Christ lives in you. This gives you assurance of sharing his glory.</span></span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"COL.1.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"COL.1.28\"><span class=\"label\">28</span><span class=\"content\">So we tell others about Christ, warning everyone and teaching everyone with all the wisdom God has given us. We want to present them to God, perfect</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:28 </span><span class=\"ft\">Or </span><span class=\"fqa\">mature.</span></span></span><span class=\"content\"> in their relationship to Christ. </span></span><span class=\"verse v29\" data-usfm=\"COL.1.29\"><span class=\"label\">29</span><span class=\"content\">That&#8217;s why I work and struggle so hard, depending on Christ&#8217;s mighty power that works within me.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "chapter_text": "This letter is from Paul, chosen by the will of God to be an apostle of Christ Jesus, and from our brother Timothy.\nWe are writing to God’s holy people in the city of Colosse, who are faithful brothers and sisters in Christ.\nMay God our Father give you grace and peace.\n\nWe always pray for you, and we give thanks to God, the Father of our Lord Jesus Christ. For we have heard of your faith in Christ Jesus and your love for all of God’s people, which come from your confident hope of what God has reserved for you in heaven. You have had this expectation ever since you first heard the truth of the Good News.\nThis same Good News that came to you is going out all over the world. It is bearing fruit everywhere by changing lives, just as it changed your lives from the day you first heard and understood the truth about God’s wonderful grace.\nYou learned about the Good News from Epaphras, our beloved co-worker. He is Christ’s faithful servant, and he is helping us on your behalf. He has told us about the love for others that the Holy Spirit has given you.\nSo we have not stopped praying for you since we first heard about you. We ask God to give you complete knowledge of his will and to give you spiritual wisdom and understanding. Then the way you live will always honor and please the Lord, and your lives will produce every kind of good fruit. All the while, you will grow as you learn to know God better and better.\nWe also pray that you will be strengthened with all his glorious power so you will have all the endurance and patience you need. May you be filled with joy, always thanking the Father. He has enabled you to share in the inheritance that belongs to his people, who live in the light. For he has rescued us from the kingdom of darkness and transferred us into the Kingdom of his dear Son, who purchased our freedom and forgave our sins.\n\nChrist is the visible image of the invisible God.\nHe existed before anything was created and is supreme over all creation,\nfor through him God created everything\nin the heavenly realms and on earth.\nHe made the things we can see\nand the things we can’t see—\nsuch as thrones, kingdoms, rulers, and authorities in the unseen world.\nEverything was created through him and for him.\nHe existed before anything else,\nand he holds all creation together.\nChrist is also the head of the church,\nwhich is his body.\nHe is the beginning,\nsupreme over all who rise from the dead.\nSo he is first in everything.\nFor God in all his fullness\nwas pleased to live in Christ,\nand through him God reconciled\neverything to himself.\nHe made peace with everything in heaven and on earth\nby means of Christ’s blood on the cross.\n\nThis includes you who were once far away from God. You were his enemies, separated from him by your evil thoughts and actions. Yet now he has reconciled you to himself through the death of Christ in his physical body. As a result, he has brought you into his own presence, and you are holy and blameless as you stand before him without a single fault.\nBut you must continue to believe this truth and stand firmly in it. Don’t drift away from the assurance you received when you heard the Good News. The Good News has been preached all over the world, and I, Paul, have been appointed as God’s servant to proclaim it.\n\nI am glad when I suffer for you in my body, for I am participating in the sufferings of Christ that continue for his body, the church. God has given me the responsibility of serving his church by proclaiming his entire message to you. This message was kept secret for centuries and generations past, but now it has been revealed to God’s people. For God wanted them to know that the riches and glory of Christ are for you Gentiles, too. And this is the secret: Christ lives in you. This gives you assurance of sharing his glory.\nSo we tell others about Christ, warning everyone and teaching everyone with all the wisdom God has given us. We want to present them to God, perfect in their relationship to Christ. That’s why I work and struggle so hard, depending on Christ’s mighty power that works within me.",
+      "reference": {
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colossians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colossians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Philippians 4",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Greetings from Paul"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "This letter is from Paul, chosen by the will of God to be an apostle of Christ Jesus, and from our brother Timothy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "We are writing to God’s holy people in the city of Colosse, who are faithful brothers and sisters in Christ.",
+            "May God our Father give you grace and peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Thanksgiving and Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "We always pray for you, and we give thanks to God, the Father of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For we have heard of your faith in Christ Jesus and your love for all of God’s people,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "which come from your confident hope of what God has reserved for you in heaven. You have had this expectation ever since you first heard the truth of the Good News."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "This same Good News that came to you is going out all over the world. It is bearing fruit everywhere by changing lives, just as it changed your lives from the day you first heard and understood the truth about God’s wonderful grace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "You learned about the Good News from Epaphras, our beloved co-worker. He is Christ’s faithful servant, and he is helping us on your behalf."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "He has told us about the love for others that the Holy Spirit has given you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "So we have not stopped praying for you since we first heard about you. We ask God to give you complete knowledge of his will and to give you spiritual wisdom and understanding."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Then the way you live will always honor and please the Lord, and your lives will produce every kind of good fruit. All the while, you will grow as you learn to know God better and better."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "We also pray that you will be strengthened with all his glorious power so you will have all the endurance and patience you need. May you be filled with joy,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "always thanking the Father. He has enabled you to share in the inheritance that belongs to his people, who live in the light."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For he has rescued us from the kingdom of darkness and transferred us into the Kingdom of his dear Son,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "who purchased our freedom and forgave our sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Christ Is Supreme"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Christ is the visible image of the invisible God.",
+            "He existed before anything was created and is supreme over all creation,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "for through him God created everything",
+            "in the heavenly realms and on earth.",
+            "He made the things we can see",
+            "and the things we can’t see—",
+            "such as thrones, kingdoms, rulers, and authorities in the unseen world.",
+            "Everything was created through him and for him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "He existed before anything else,",
+            "and he holds all creation together."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Christ is also the head of the church,",
+            "which is his body.",
+            "He is the beginning,",
+            "supreme over all who rise from the dead.",
+            "So he is first in everything."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "For God in all his fullness",
+            "was pleased to live in Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "and through him God reconciled",
+            "everything to himself.",
+            "He made peace with everything in heaven and on earth",
+            "by means of Christ’s blood on the cross."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "This includes you who were once far away from God. You were his enemies, separated from him by your evil thoughts and actions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Yet now he has reconciled you to himself through the death of Christ in his physical body. As a result, he has brought you into his own presence, and you are holy and blameless as you stand before him without a single fault."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "But you must continue to believe this truth and stand firmly in it. Don’t drift away from the assurance you received when you heard the Good News. The Good News has been preached all over the world, and I, Paul, have been appointed as God’s servant to proclaim it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Work for the Church"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "I am glad when I suffer for you in my body, for I am participating in the sufferings of Christ that continue for his body, the church."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "God has given me the responsibility of serving his church by proclaiming his entire message to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "This message was kept secret for centuries and generations past, but now it has been revealed to God’s people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "For God wanted them to know that the riches and glory of Christ are for you Gentiles, too. And this is the secret: Christ lives in you. This gives you assurance of sharing his glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "So we tell others about Christ, warning everyone and teaching everyone with all the wisdom God has given us. We want to present them to God, perfect in their relationship to Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "That’s why I work and struggle so hard, depending on Christ’s mighty power that works within me."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.2",
+      "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch2\" data-usfm=\"COL.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.2.1\"><span class=\"label\">1</span><span class=\"content\">I want you to know how much I have agonized for you and for the church at Laodicea, and for many other believers who have never met me personally. </span></span><span class=\"verse v2\" data-usfm=\"COL.2.2\"><span class=\"label\">2</span><span class=\"content\">I want them to be encouraged and knit together by strong ties of love. I want them to have complete confidence that they understand God&#8217;s mysterious plan, which is Christ himself. </span></span><span class=\"verse v3\" data-usfm=\"COL.2.3\"><span class=\"label\">3</span><span class=\"content\">In him lie hidden all the treasures of wisdom and knowledge.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"COL.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"COL.2.4\"><span class=\"label\">4</span><span class=\"content\">I am telling you this so no one will deceive you with well-crafted arguments. </span></span><span class=\"verse v5\" data-usfm=\"COL.2.5\"><span class=\"label\">5</span><span class=\"content\">For though I am far away from you, my heart is with you. And I rejoice that you are living as you should and that your faith in Christ is strong.</span></span></div><div class=\"s1\"><span class=\"heading\">Freedom from Rules and New Life in Christ</span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"COL.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"COL.2.6\"><span class=\"label\">6</span><span class=\"content\">And now, just as you accepted Christ Jesus as your Lord, you must continue to follow him. </span></span><span class=\"verse v7\" data-usfm=\"COL.2.7\"><span class=\"label\">7</span><span class=\"content\">Let your roots grow down into him, and let your lives be built on him. Then your faith will grow strong in the truth you were taught, and you will overflow with thankfulness.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"COL.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"COL.2.8\"><span class=\"label\">8</span><span class=\"content\">Don&#8217;t let anyone capture you with empty philosophies and high-sounding nonsense that come from human thinking and from the spiritual powers</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">the spiritual principles; </span><span class=\"ft\">also in 2:20.</span></span></span><span class=\"content\"> of this world, rather than from Christ. </span></span><span class=\"verse v9\" data-usfm=\"COL.2.9\"><span class=\"label\">9</span><span class=\"content\">For in Christ lives all the fullness of God in a human body.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">in him dwells all the completeness of the Godhead bodily.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"COL.2.10\"><span class=\"label\">10</span><span class=\"content\">So you also are complete through your union with Christ, who is the head over every ruler and authority.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"COL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"COL.2.11\"><span class=\"label\">11</span><span class=\"content\">When you came to Christ, you were &#8220;circumcised,&#8221; but not by a physical procedure. Christ performed a spiritual circumcision&#8212;the cutting away of your sinful nature.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Greek </span><span class=\"fqa\">the cutting away of the body of the flesh.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"COL.2.12\"><span class=\"label\">12</span><span class=\"content\">For you were buried with Christ when you were baptized. And with him you were raised to new life because you trusted the mighty power of God, who raised Christ from the dead.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"COL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"COL.2.13\"><span class=\"label\">13</span><span class=\"content\">You were dead because of your sins and because your sinful nature was not yet cut away. Then God made you alive with Christ, for he forgave all our sins. </span></span><span class=\"verse v14\" data-usfm=\"COL.2.14\"><span class=\"label\">14</span><span class=\"content\">He canceled the record of the charges against us and took it away by nailing it to the cross. </span></span><span class=\"verse v15\" data-usfm=\"COL.2.15\"><span class=\"label\">15</span><span class=\"content\">In this way, he disarmed</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or </span><span class=\"fqa\">he stripped off.</span></span></span><span class=\"content\"> the spiritual rulers and authorities. He shamed them publicly by his victory over them on the cross.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"COL.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.2.16\"><span class=\"label\">16</span><span class=\"content\">So don&#8217;t let anyone condemn you for what you eat or drink, or for not celebrating certain holy days or new moon ceremonies or Sabbaths. </span></span><span class=\"verse v17\" data-usfm=\"COL.2.17\"><span class=\"label\">17</span><span class=\"content\">For these rules are only shadows of the reality yet to come. And Christ himself is that reality. </span></span><span class=\"verse v18\" data-usfm=\"COL.2.18\"><span class=\"label\">18</span><span class=\"content\">Don&#8217;t let anyone condemn you by insisting on pious self-denial or the worship of angels,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:18 </span><span class=\"ft\">Or </span><span class=\"fqa\">or worshiping with angels.</span></span></span><span class=\"content\"> saying they have had visions about these things. Their sinful minds have made them proud, </span></span><span class=\"verse v19\" data-usfm=\"COL.2.19\"><span class=\"label\">19</span><span class=\"content\">and they are not connected to Christ, the head of the body. For he holds the whole body together with its joints and ligaments, and it grows as God nourishes it.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"COL.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"COL.2.20\"><span class=\"label\">20</span><span class=\"content\">You have died with Christ, and he has set you free from the spiritual powers of this world. So why do you keep on following the rules of the world, such as, </span></span><span class=\"verse v21\" data-usfm=\"COL.2.21\"><span class=\"label\">21</span><span class=\"content\">&#8220;Don&#8217;t handle! Don&#8217;t taste! Don&#8217;t touch!&#8221;? </span></span><span class=\"verse v22\" data-usfm=\"COL.2.22\"><span class=\"label\">22</span><span class=\"content\">Such rules are mere human teachings about things that deteriorate as we use them. </span></span><span class=\"verse v23\" data-usfm=\"COL.2.23\"><span class=\"label\">23</span><span class=\"content\">These rules may seem wise because they require strong devotion, pious self-denial, and severe bodily discipline. But they provide no help in conquering a person&#8217;s evil desires.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "chapter_text": "I want you to know how much I have agonized for you and for the church at Laodicea, and for many other believers who have never met me personally. I want them to be encouraged and knit together by strong ties of love. I want them to have complete confidence that they understand God’s mysterious plan, which is Christ himself. In him lie hidden all the treasures of wisdom and knowledge.\nI am telling you this so no one will deceive you with well-crafted arguments. For though I am far away from you, my heart is with you. And I rejoice that you are living as you should and that your faith in Christ is strong.\n\nAnd now, just as you accepted Christ Jesus as your Lord, you must continue to follow him. Let your roots grow down into him, and let your lives be built on him. Then your faith will grow strong in the truth you were taught, and you will overflow with thankfulness.\nDon’t let anyone capture you with empty philosophies and high-sounding nonsense that come from human thinking and from the spiritual powers of this world, rather than from Christ. For in Christ lives all the fullness of God in a human body. So you also are complete through your union with Christ, who is the head over every ruler and authority.\nWhen you came to Christ, you were “circumcised,” but not by a physical procedure. Christ performed a spiritual circumcision—the cutting away of your sinful nature. For you were buried with Christ when you were baptized. And with him you were raised to new life because you trusted the mighty power of God, who raised Christ from the dead.\nYou were dead because of your sins and because your sinful nature was not yet cut away. Then God made you alive with Christ, for he forgave all our sins. He canceled the record of the charges against us and took it away by nailing it to the cross. In this way, he disarmed the spiritual rulers and authorities. He shamed them publicly by his victory over them on the cross.\nSo don’t let anyone condemn you for what you eat or drink, or for not celebrating certain holy days or new moon ceremonies or Sabbaths. For these rules are only shadows of the reality yet to come. And Christ himself is that reality. Don’t let anyone condemn you by insisting on pious self-denial or the worship of angels, saying they have had visions about these things. Their sinful minds have made them proud, and they are not connected to Christ, the head of the body. For he holds the whole body together with its joints and ligaments, and it grows as God nourishes it.\nYou have died with Christ, and he has set you free from the spiritual powers of this world. So why do you keep on following the rules of the world, such as, “Don’t handle! Don’t taste! Don’t touch!”? Such rules are mere human teachings about things that deteriorate as we use them. These rules may seem wise because they require strong devotion, pious self-denial, and severe bodily discipline. But they provide no help in conquering a person’s evil desires.",
+      "reference": {
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colossians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colossians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colossians 1",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I want you to know how much I have agonized for you and for the church at Laodicea, and for many other believers who have never met me personally."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I want them to be encouraged and knit together by strong ties of love. I want them to have complete confidence that they understand God’s mysterious plan, which is Christ himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "In him lie hidden all the treasures of wisdom and knowledge."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I am telling you this so no one will deceive you with well-crafted arguments."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For though I am far away from you, my heart is with you. And I rejoice that you are living as you should and that your faith in Christ is strong."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Freedom from Rules and New Life in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And now, just as you accepted Christ Jesus as your Lord, you must continue to follow him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Let your roots grow down into him, and let your lives be built on him. Then your faith will grow strong in the truth you were taught, and you will overflow with thankfulness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Don’t let anyone capture you with empty philosophies and high-sounding nonsense that come from human thinking and from the spiritual powers of this world, rather than from Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For in Christ lives all the fullness of God in a human body."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "So you also are complete through your union with Christ, who is the head over every ruler and authority."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "When you came to Christ, you were “circumcised,” but not by a physical procedure. Christ performed a spiritual circumcision—the cutting away of your sinful nature."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For you were buried with Christ when you were baptized. And with him you were raised to new life because you trusted the mighty power of God, who raised Christ from the dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "You were dead because of your sins and because your sinful nature was not yet cut away. Then God made you alive with Christ, for he forgave all our sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "He canceled the record of the charges against us and took it away by nailing it to the cross."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "In this way, he disarmed the spiritual rulers and authorities. He shamed them publicly by his victory over them on the cross."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "So don’t let anyone condemn you for what you eat or drink, or for not celebrating certain holy days or new moon ceremonies or Sabbaths."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For these rules are only shadows of the reality yet to come. And Christ himself is that reality."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Don’t let anyone condemn you by insisting on pious self-denial or the worship of angels, saying they have had visions about these things. Their sinful minds have made them proud,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "and they are not connected to Christ, the head of the body. For he holds the whole body together with its joints and ligaments, and it grows as God nourishes it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "You have died with Christ, and he has set you free from the spiritual powers of this world. So why do you keep on following the rules of the world, such as,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "“Don’t handle! Don’t taste! Don’t touch!”?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Such rules are mere human teachings about things that deteriorate as we use them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "These rules may seem wise because they require strong devotion, pious self-denial, and severe bodily discipline. But they provide no help in conquering a person’s evil desires."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.3",
+      "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch3\" data-usfm=\"COL.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Living the New Life</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.3.1\"><span class=\"label\">1</span><span class=\"content\">Since you have been raised to new life with Christ, set your sights on the realities of heaven, where Christ sits in the place of honor at God&#8217;s right hand. </span></span><span class=\"verse v2\" data-usfm=\"COL.3.2\"><span class=\"label\">2</span><span class=\"content\">Think about the things of heaven, not the things of earth. </span></span><span class=\"verse v3\" data-usfm=\"COL.3.3\"><span class=\"label\">3</span><span class=\"content\">For you died to this life, and your real life is hidden with Christ in God. </span></span><span class=\"verse v4\" data-usfm=\"COL.3.4\"><span class=\"label\">4</span><span class=\"content\">And when Christ, who is your</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:4 </span><span class=\"ft\">Some manuscripts read </span><span class=\"fqa\">our.</span></span></span><span class=\"content\"> life, is revealed to the whole world, you will share in all his glory.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"COL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"COL.3.5\"><span class=\"label\">5</span><span class=\"content\">So put to death the sinful, earthly things lurking within you. Have nothing to do with sexual immorality, impurity, lust, and evil desires. Don&#8217;t be greedy, for a greedy person is an idolater, worshiping the things of this world. </span></span><span class=\"verse v6\" data-usfm=\"COL.3.6\"><span class=\"label\">6</span><span class=\"content\">Because of these sins, the anger of God is coming.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Some manuscripts read </span><span class=\"fqa\">is coming on all who disobey him.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"COL.3.7\"><span class=\"label\">7</span><span class=\"content\">You used to do these things when your life was still part of this world. </span></span><span class=\"verse v8\" data-usfm=\"COL.3.8\"><span class=\"label\">8</span><span class=\"content\">But now is the time to get rid of anger, rage, malicious behavior, slander, and dirty language. </span></span><span class=\"verse v9\" data-usfm=\"COL.3.9\"><span class=\"label\">9</span><span class=\"content\">Don&#8217;t lie to each other, for you have stripped off your old sinful nature and all its wicked deeds. </span></span><span class=\"verse v10\" data-usfm=\"COL.3.10\"><span class=\"label\">10</span><span class=\"content\">Put on your new nature, and be renewed as you learn to know your Creator and become like him. </span></span><span class=\"verse v11\" data-usfm=\"COL.3.11\"><span class=\"label\">11</span><span class=\"content\">In this new life, it doesn&#8217;t matter if you are a Jew or a Gentile,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11a </span><span class=\"ft\">Greek </span><span class=\"fqa\">a Greek.</span></span></span><span class=\"content\"> circumcised or uncircumcised, barbaric, uncivilized,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11b </span><span class=\"ft\">Greek </span><span class=\"fqa\">Barbarian, Scythian.</span></span></span><span class=\"content\"> slave, or free. Christ is all that matters, and he lives in all of us.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"COL.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"COL.3.12\"><span class=\"label\">12</span><span class=\"content\">Since God chose you to be the holy people he loves, you must clothe yourselves with tenderhearted mercy, kindness, humility, gentleness, and patience. </span></span><span class=\"verse v13\" data-usfm=\"COL.3.13\"><span class=\"label\">13</span><span class=\"content\">Make allowance for each other&#8217;s faults, and forgive anyone who offends you. Remember, the Lord forgave you, so you must forgive others. </span></span><span class=\"verse v14\" data-usfm=\"COL.3.14\"><span class=\"label\">14</span><span class=\"content\">Above all, clothe yourselves with love, which binds us all together in perfect harmony. </span></span><span class=\"verse v15\" data-usfm=\"COL.3.15\"><span class=\"label\">15</span><span class=\"content\">And let the peace that comes from Christ rule in your hearts. For as members of one body you are called to live in peace. And always be thankful.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"COL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.3.16\"><span class=\"label\">16</span><span class=\"content\">Let the message about Christ, in all its richness, fill your lives. Teach and counsel each other with all the wisdom he gives. Sing psalms and hymns and spiritual songs to God with thankful hearts. </span></span><span class=\"verse v17\" data-usfm=\"COL.3.17\"><span class=\"label\">17</span><span class=\"content\">And whatever you do or say, do it as a representative of the Lord Jesus, giving thanks through him to God the Father.</span></span></div><div class=\"s1\"><span class=\"heading\">Instructions for Christian Households</span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"COL.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.3.18\"><span class=\"label\">18</span><span class=\"content\">Wives, submit to your husbands, as is fitting for those who belong to the Lord.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"COL.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"COL.3.19\"><span class=\"label\">19</span><span class=\"content\">Husbands, love your wives and never treat them harshly.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"COL.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"COL.3.20\"><span class=\"label\">20</span><span class=\"content\">Children, always obey your parents, for this pleases the Lord. </span></span><span class=\"verse v21\" data-usfm=\"COL.3.21\"><span class=\"label\">21</span><span class=\"content\">Fathers, do not aggravate your children, or they will become discouraged.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"COL.3.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"COL.3.22\"><span class=\"label\">22</span><span class=\"content\">Slaves, obey your earthly masters in everything you do. Try to please them all the time, not just when they are watching you. Serve them sincerely because of your reverent fear of the Lord. </span></span><span class=\"verse v23\" data-usfm=\"COL.3.23\"><span class=\"label\">23</span><span class=\"content\">Work willingly at whatever you do, as though you were working for the Lord rather than for people. </span></span><span class=\"verse v24\" data-usfm=\"COL.3.24\"><span class=\"label\">24</span><span class=\"content\">Remember that the Lord will give you an inheritance as your reward, and that the Master you are serving is Christ.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:24 </span><span class=\"ft\">Or </span><span class=\"fqa\">and serve Christ as your Master.</span></span></span><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"COL.3.25\"><span class=\"label\">25</span><span class=\"content\">But if you do what is wrong, you will be paid back for the wrong you have done. For God has no favorites.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "chapter_text": "Since you have been raised to new life with Christ, set your sights on the realities of heaven, where Christ sits in the place of honor at God’s right hand. Think about the things of heaven, not the things of earth. For you died to this life, and your real life is hidden with Christ in God. And when Christ, who is your life, is revealed to the whole world, you will share in all his glory.\nSo put to death the sinful, earthly things lurking within you. Have nothing to do with sexual immorality, impurity, lust, and evil desires. Don’t be greedy, for a greedy person is an idolater, worshiping the things of this world. Because of these sins, the anger of God is coming. You used to do these things when your life was still part of this world. But now is the time to get rid of anger, rage, malicious behavior, slander, and dirty language. Don’t lie to each other, for you have stripped off your old sinful nature and all its wicked deeds. Put on your new nature, and be renewed as you learn to know your Creator and become like him. In this new life, it doesn’t matter if you are a Jew or a Gentile, circumcised or uncircumcised, barbaric, uncivilized, slave, or free. Christ is all that matters, and he lives in all of us.\nSince God chose you to be the holy people he loves, you must clothe yourselves with tenderhearted mercy, kindness, humility, gentleness, and patience. Make allowance for each other’s faults, and forgive anyone who offends you. Remember, the Lord forgave you, so you must forgive others. Above all, clothe yourselves with love, which binds us all together in perfect harmony. And let the peace that comes from Christ rule in your hearts. For as members of one body you are called to live in peace. And always be thankful.\nLet the message about Christ, in all its richness, fill your lives. Teach and counsel each other with all the wisdom he gives. Sing psalms and hymns and spiritual songs to God with thankful hearts. And whatever you do or say, do it as a representative of the Lord Jesus, giving thanks through him to God the Father.\n\nWives, submit to your husbands, as is fitting for those who belong to the Lord.\nHusbands, love your wives and never treat them harshly.\nChildren, always obey your parents, for this pleases the Lord. Fathers, do not aggravate your children, or they will become discouraged.\nSlaves, obey your earthly masters in everything you do. Try to please them all the time, not just when they are watching you. Serve them sincerely because of your reverent fear of the Lord. Work willingly at whatever you do, as though you were working for the Lord rather than for people. Remember that the Lord will give you an inheritance as your reward, and that the Master you are serving is Christ. But if you do what is wrong, you will be paid back for the wrong you have done. For God has no favorites.",
+      "reference": {
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colossians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colossians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colossians 2",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Living the New Life"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Since you have been raised to new life with Christ, set your sights on the realities of heaven, where Christ sits in the place of honor at God’s right hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Think about the things of heaven, not the things of earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For you died to this life, and your real life is hidden with Christ in God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "And when Christ, who is your life, is revealed to the whole world, you will share in all his glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "So put to death the sinful, earthly things lurking within you. Have nothing to do with sexual immorality, impurity, lust, and evil desires. Don’t be greedy, for a greedy person is an idolater, worshiping the things of this world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Because of these sins, the anger of God is coming."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "You used to do these things when your life was still part of this world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But now is the time to get rid of anger, rage, malicious behavior, slander, and dirty language."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Don’t lie to each other, for you have stripped off your old sinful nature and all its wicked deeds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Put on your new nature, and be renewed as you learn to know your Creator and become like him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "In this new life, it doesn’t matter if you are a Jew or a Gentile, circumcised or uncircumcised, barbaric, uncivilized, slave, or free. Christ is all that matters, and he lives in all of us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Since God chose you to be the holy people he loves, you must clothe yourselves with tenderhearted mercy, kindness, humility, gentleness, and patience."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Make allowance for each other’s faults, and forgive anyone who offends you. Remember, the Lord forgave you, so you must forgive others."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Above all, clothe yourselves with love, which binds us all together in perfect harmony."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And let the peace that comes from Christ rule in your hearts. For as members of one body you are called to live in peace. And always be thankful."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Let the message about Christ, in all its richness, fill your lives. Teach and counsel each other with all the wisdom he gives. Sing psalms and hymns and spiritual songs to God with thankful hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And whatever you do or say, do it as a representative of the Lord Jesus, giving thanks through him to God the Father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Instructions for Christian Households"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Wives, submit to your husbands, as is fitting for those who belong to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Husbands, love your wives and never treat them harshly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Children, always obey your parents, for this pleases the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Fathers, do not aggravate your children, or they will become discouraged."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Slaves, obey your earthly masters in everything you do. Try to please them all the time, not just when they are watching you. Serve them sincerely because of your reverent fear of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Work willingly at whatever you do, as though you were working for the Lord rather than for people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Remember that the Lord will give you an inheritance as your reward, and that the Master you are serving is Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "But if you do what is wrong, you will be paid back for the wrong you have done. For God has no favorites."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.4",
+      "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n    <div class=\"book bkCOL\">\n        <div class=\"chapter ch4\" data-usfm=\"COL.4\">\n            <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.4.1\"><span class=\"label\">1</span><span class=\"content\">Masters, be just and fair to your slaves. Remember that you also have a Master&#8212;in heaven.</span></span></div><div class=\"s1\"><span class=\"heading\">An Encouragement for Prayer</span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"COL.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"COL.4.2\"><span class=\"label\">2</span><span class=\"content\">Devote yourselves to prayer with an alert mind and a thankful heart. </span></span><span class=\"verse v3\" data-usfm=\"COL.4.3\"><span class=\"label\">3</span><span class=\"content\">Pray for us, too, that God will give us many opportunities to speak about his mysterious plan concerning Christ. That is why I am here in chains. </span></span><span class=\"verse v4\" data-usfm=\"COL.4.4\"><span class=\"label\">4</span><span class=\"content\">Pray that I will proclaim this message as clearly as I should.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"COL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"COL.4.5\"><span class=\"label\">5</span><span class=\"content\">Live wisely among those who are not believers, and make the most of every opportunity. </span></span><span class=\"verse v6\" data-usfm=\"COL.4.6\"><span class=\"label\">6</span><span class=\"content\">Let your conversation be gracious and attractive</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:6 </span><span class=\"ft\">Greek </span><span class=\"fqa\">and seasoned with salt.</span></span></span><span class=\"content\"> so that you will have the right response for everyone.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Final Instructions and Greetings</span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"COL.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"COL.4.7\"><span class=\"label\">7</span><span class=\"content\">Tychicus will give you a full report about how I am getting along. He is a beloved brother and faithful helper who serves with me in the Lord&#8217;s work. </span></span><span class=\"verse v8\" data-usfm=\"COL.4.8\"><span class=\"label\">8</span><span class=\"content\">I have sent him to you for this very purpose&#8212;to let you know how we are doing and to encourage you. </span></span><span class=\"verse v9\" data-usfm=\"COL.4.9\"><span class=\"label\">9</span><span class=\"content\">I am also sending Onesimus, a faithful and beloved brother, one of your own people. He and Tychicus will tell you everything that&#8217;s happening here.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"COL.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"COL.4.10\"><span class=\"label\">10</span><span class=\"content\">Aristarchus, who is in prison with me, sends you his greetings, and so does Mark, Barnabas&#8217;s cousin. As you were instructed before, make Mark welcome if he comes your way. </span></span><span class=\"verse v11\" data-usfm=\"COL.4.11\"><span class=\"label\">11</span><span class=\"content\">Jesus (the one we call Justus) also sends his greetings. These are the only Jewish believers among my co-workers; they are working with me here for the Kingdom of God. And what a comfort they have been!</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"COL.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"COL.4.12\"><span class=\"label\">12</span><span class=\"content\">Epaphras, a member of your own fellowship and a servant of Christ Jesus, sends you his greetings. He always prays earnestly for you, asking God to make you strong and perfect, fully confident that you are following the whole will of God. </span></span><span class=\"verse v13\" data-usfm=\"COL.4.13\"><span class=\"label\">13</span><span class=\"content\">I can assure you that he prays hard for you and also for the believers in Laodicea and Hierapolis.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"COL.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"COL.4.14\"><span class=\"label\">14</span><span class=\"content\">Luke, the beloved doctor, sends his greetings, and so does Demas. </span></span><span class=\"verse v15\" data-usfm=\"COL.4.15\"><span class=\"label\">15</span><span class=\"content\">Please give my greetings to our brothers and sisters</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:15 </span><span class=\"ft\">Greek </span><span class=\"fqa\">brothers.</span></span></span><span class=\"content\"> at Laodicea, and to Nympha and the church that meets in her house.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"COL.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.4.16\"><span class=\"label\">16</span><span class=\"content\">After you have read this letter, pass it on to the church at Laodicea so they can read it, too. And you should read the letter I wrote to them.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"COL.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"COL.4.17\"><span class=\"label\">17</span><span class=\"content\">And say to Archippus, &#8220;Be sure to carry out the ministry the Lord gave you.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"COL.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.4.18\"><span class=\"label\">18</span><span class=\"content\">  </span><span class=\"sc\"><span class=\"content\">Here is my greeting in my own handwriting&#8212;Paul</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"COL.4.18\"><span class=\"content\">Remember my chains.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"COL.4.18\"><span class=\"content\">May God&#8217;s grace be with you.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "chapter_text": "Masters, be just and fair to your slaves. Remember that you also have a Master—in heaven.\n\nDevote yourselves to prayer with an alert mind and a thankful heart. Pray for us, too, that God will give us many opportunities to speak about his mysterious plan concerning Christ. That is why I am here in chains. Pray that I will proclaim this message as clearly as I should.\nLive wisely among those who are not believers, and make the most of every opportunity. Let your conversation be gracious and attractive so that you will have the right response for everyone.\n\nTychicus will give you a full report about how I am getting along. He is a beloved brother and faithful helper who serves with me in the Lord’s work. I have sent him to you for this very purpose—to let you know how we are doing and to encourage you. I am also sending Onesimus, a faithful and beloved brother, one of your own people. He and Tychicus will tell you everything that’s happening here.\nAristarchus, who is in prison with me, sends you his greetings, and so does Mark, Barnabas’s cousin. As you were instructed before, make Mark welcome if he comes your way. Jesus (the one we call Justus) also sends his greetings. These are the only Jewish believers among my co-workers; they are working with me here for the Kingdom of God. And what a comfort they have been!\nEpaphras, a member of your own fellowship and a servant of Christ Jesus, sends you his greetings. He always prays earnestly for you, asking God to make you strong and perfect, fully confident that you are following the whole will of God. I can assure you that he prays hard for you and also for the believers in Laodicea and Hierapolis.\nLuke, the beloved doctor, sends his greetings, and so does Demas. Please give my greetings to our brothers and sisters at Laodicea, and to Nympha and the church that meets in her house.\nAfter you have read this letter, pass it on to the church at Laodicea so they can read it, too. And you should read the letter I wrote to them.\nAnd say to Archippus, “Be sure to carry out the ministry the Lord gave you.”\nHERE IS MY GREETING IN MY OWN HANDWRITING—PAUL.\nRemember my chains.\nMay God’s grace be with you.",
+      "reference": {
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colossians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Thessalonians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colossians 3",
+        "toc": true
+      },
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Masters, be just and fair to your slaves. Remember that you also have a Master—in heaven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "An Encouragement for Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Devote yourselves to prayer with an alert mind and a thankful heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Pray for us, too, that God will give us many opportunities to speak about his mysterious plan concerning Christ. That is why I am here in chains."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Pray that I will proclaim this message as clearly as I should."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Live wisely among those who are not believers, and make the most of every opportunity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Let your conversation be gracious and attractive so that you will have the right response for everyone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Final Instructions and Greetings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Tychicus will give you a full report about how I am getting along. He is a beloved brother and faithful helper who serves with me in the Lord’s work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I have sent him to you for this very purpose—to let you know how we are doing and to encourage you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I am also sending Onesimus, a faithful and beloved brother, one of your own people. He and Tychicus will tell you everything that’s happening here."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Aristarchus, who is in prison with me, sends you his greetings, and so does Mark, Barnabas’s cousin. As you were instructed before, make Mark welcome if he comes your way."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Jesus (the one we call Justus) also sends his greetings. These are the only Jewish believers among my co-workers; they are working with me here for the Kingdom of God. And what a comfort they have been!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Epaphras, a member of your own fellowship and a servant of Christ Jesus, sends you his greetings. He always prays earnestly for you, asking God to make you strong and perfect, fully confident that you are following the whole will of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I can assure you that he prays hard for you and also for the believers in Laodicea and Hierapolis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Luke, the beloved doctor, sends his greetings, and so does Demas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Please give my greetings to our brothers and sisters at Laodicea, and to Nympha and the church that meets in her house."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "After you have read this letter, pass it on to the church at Laodicea so they can read it, too. And you should read the letter I wrote to them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And say to Archippus, “Be sure to carry out the ministry the Lord gave you.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Here is my greeting in my own handwriting—Paul.",
+            "Remember my chains.",
+            "May God’s grace be with you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
