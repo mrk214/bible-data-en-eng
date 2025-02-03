@@ -1,6 +1,6 @@
 # The Bible in JSON format
 
-📖 This project is a **Bible** dataset in `JSON` format, obtained via web scraping, to spread the Word of God. The data has been restructured to make it easy to implement in any project.
+📖 This project is a **Bible** dataset in `JSON` format (encoding `utf8`), obtained via web scraping, to spread the Word of God. The data has been restructured to make it easy to implement in any project.
 
 👨‍💻 The **data** folder contains Bible translations, with each book of the Bible stored in a separate `JSON` file.
 
