@@ -1,0 +1,985 @@
+{
+  "book_usfm": "COL",
+  "name": "Colossians",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "COL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colossians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colossians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Philippians 4",
+        "toc": true
+      },
+      "chapter_text": "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,\nTo the saints and faithful brothers in Christ at Colossae:\nGrace to you and peace from God our Father.\n\nWe always thank God, the Father of our Lord Jesus Christ, when we pray for you, since we heard of your faith in Christ Jesus and of the love that you have for all the saints, because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel, which has come to you, as indeed in the whole world it is bearing fruit and increasing—as it also does among you, since the day you heard it and understood the grace of God in truth, just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf and has made known to us your love in the Spirit.\nAnd so, from the day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding, so as to walk in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God; being strengthened with all power, according to his glorious might, for all endurance and patience with joy; giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light. He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, in whom we have redemption, the forgiveness of sins.\n\nHe is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together. And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.\nAnd you, who once were alienated and hostile in mind, doing evil deeds, he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister.\n\nNow I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ’s afflictions for the sake of his body, that is, the church, of which I became a minister according to the stewardship from God that was given to me for you, to make the word of God fully known, the mystery hidden for ages and generations but now revealed to his saints. To them God chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory. Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ. For this I toil, struggling with all his energy that he powerfully works within me.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch1\" data-usfm=\"COL.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greeting</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 1:1 </span></span><span class=\"content\">an apostle of Christ Jesus </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Cor. 1:1 </span></span><span class=\"content\">by the will of God, and Timothy </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Thess. 3:2</span></span><span class=\"content\">our brother,</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"COL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"label\">2</span><span class=\"content\">To the </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 1:1; See Phil. 1:1 </span></span><span class=\"content\">saints and faithful brothers</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:2 </span><span class=\"ft\">Or </span><span class=\"fq\">brothers and sisters</span><span class=\"ft\">. In New Testament usage, depending on the context, the plural Greek word </span><span class=\"fq\">adelphoi </span><span class=\"ft\">(translated &#8220;brothers&#8221;) may refer either to </span><span class=\"fq\">brothers </span><span class=\"ft\">or to </span><span class=\"fq\">brothers and sisters</span></span></span><span class=\"content\"> in Christ at Colossae:</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Rom. 1:7\n        </span></span><span class=\"content\">Grace to you and peace from God our Father.</span></span></div><div class=\"s1\"><span class=\"heading\">Thanksgiving and Prayer</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"COL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"COL.1.3\"><span class=\"label\">3</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Eph. 1:15, 16; Philem. 4  </span></span><span class=\"content\">We always thank God, the Father of our Lord Jesus Christ, when we pray for you, </span></span><span class=\"verse v4\" data-usfm=\"COL.1.4\"><span class=\"label\">4</span><span class=\"content\">since we heard of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Thess. 1:3</span></span><span class=\"content\">your faith in Christ Jesus and of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Thess. 1:3</span></span><span class=\"content\">the love that you have for all the saints, </span></span><span class=\"verse v5\" data-usfm=\"COL.1.5\"><span class=\"label\">5</span><span class=\"content\">because of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 23; See Acts 23:6; Titus 1:2; Heb. 3:6 </span></span><span class=\"content\">the hope </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Tim. 4:8; 1 Pet. 1:4 </span></span><span class=\"content\">laid up for you in heaven. Of this you have heard before in </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 1:13</span></span><span class=\"content\">the word of the truth, the gospel, </span></span><span class=\"verse v6\" data-usfm=\"COL.1.6\"><span class=\"label\">6</span><span class=\"content\">which has come to you, as indeed </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 23; Ps. 98:3]; See Matt. 24:14 </span></span><span class=\"content\">in the whole world it is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">John 15:5, 16; [Phil. 1:11] </span></span><span class=\"content\">bearing fruit and increasing&#8212;as it also does among you, since the day you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 16:26; Eph. 4:21] </span></span><span class=\"content\">heard it and understood </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 11:23</span></span><span class=\"content\">the grace of God in truth, </span></span><span class=\"verse v7\" data-usfm=\"COL.1.7\"><span class=\"label\">7</span><span class=\"content\">just as you learned it from </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:12; Philem. 23 </span></span><span class=\"content\">Epaphras our beloved </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:7</span></span><span class=\"content\">fellow servant.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">sundoulos</span><span class=\"ft\">, see Preface</span></span></span><span class=\"content\"> He is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:7</span></span><span class=\"content\">a faithful minister of Christ on your</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Some manuscripts </span><span class=\"fq\">our</span></span></span><span class=\"content\"> behalf </span></span><span class=\"verse v8\" data-usfm=\"COL.1.8\"><span class=\"label\">8</span><span class=\"content\">and has made known to us your </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 15:30]</span></span><span class=\"content\">love in the Spirit.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"COL.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"COL.1.9\"><span class=\"label\">9</span><span class=\"content\">And so, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 4 </span></span><span class=\"content\">from the day we heard, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Thess. 1:11 </span></span><span class=\"content\">we have not ceased to pray for you, asking that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 1:17] </span></span><span class=\"content\">you may be filled with the knowledge of his will in all </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:5; Eph. 1:8; [1 Cor. 12:8]</span></span><span class=\"content\">spiritual wisdom and understanding, </span></span><span class=\"verse v10\" data-usfm=\"COL.1.10\"><span class=\"label\">10</span><span class=\"content\">so as </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ps. 1:1, 3]; See Eph. 4:1 </span></span><span class=\"content\">to walk in a manner worthy of the Lord, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Cor. 5:9; Eph. 5:10; 1 Thess. 4:1] </span></span><span class=\"content\">fully pleasing to him: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 6</span></span><span class=\"content\">bearing fruit in every good work and increasing in the knowledge of God; </span></span><span class=\"verse v11\" data-usfm=\"COL.1.11\"><span class=\"label\">11</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 3:16 </span></span><span class=\"content\">being strengthened with all power, according to his glorious might, for </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:2 </span></span><span class=\"content\">all endurance and patience </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 5:12</span></span><span class=\"content\">with joy; </span></span><span class=\"verse v12\" data-usfm=\"COL.1.12\"><span class=\"label\">12</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:15; Eph. 5:20 </span></span><span class=\"content\">giving thanks</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Or </span><span class=\"fq\">patience, with joy giving thanks</span></span></span><span class=\"content\"> to the Father, who has qualified you</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Some manuscripts </span><span class=\"fq\">us</span></span></span><span class=\"content\"> to share in </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 26:18</span></span><span class=\"content\">the inheritance of the saints in light. </span></span><span class=\"verse v13\" data-usfm=\"COL.1.13\"><span class=\"label\">13</span><span class=\"content\">He </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Thess. 1:10 </span></span><span class=\"content\">has delivered us from </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Luke 22:53; Eph. 6:12 </span></span><span class=\"content\">the domain of darkness and transferred us to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Pet. 1:11 </span></span><span class=\"content\">the kingdom of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 1:6]</span></span><span class=\"content\">his beloved Son, </span></span><span class=\"verse v14\" data-usfm=\"COL.1.14\"><span class=\"label\">14</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 1:7</span></span><span class=\"content\">in whom we have redemption, the forgiveness of sins.</span></span></div><div class=\"s1\"><span class=\"heading\">The Preeminence of Christ</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"COL.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"COL.1.15\"><span class=\"label\">15</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    See 2 Cor. 4:4   </span></span><span class=\"content\">He is the image of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Tim. 1:17 </span></span><span class=\"content\">the invisible God, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ps. 89:27]; See Rom. 8:29</span></span><span class=\"content\">the firstborn of all creation. </span></span><span class=\"verse v16\" data-usfm=\"COL.1.16\"><span class=\"label\">16</span><span class=\"content\">For by</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:16 </span><span class=\"ft\">That is, by means of; or </span><span class=\"fq\">in</span></span></span><span class=\"content\"> him all things were created, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 1:10 </span></span><span class=\"content\">in heaven and on earth, visible and invisible, whether </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ezek. 10:1] </span></span><span class=\"content\">thrones or </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 1:21 </span></span><span class=\"content\">dominions or rulers or authorities&#8212;all things were created </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 11:36; 1 Cor. 8:6</span></span><span class=\"content\">through him and for him. </span></span><span class=\"verse v17\" data-usfm=\"COL.1.17\"><span class=\"label\">17</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[John 8:58]; See John 1:1 </span></span><span class=\"content\">he is before all things, and in him all things </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Heb. 1:3]</span></span><span class=\"content\">hold together. </span></span><span class=\"verse v18\" data-usfm=\"COL.1.18\"><span class=\"label\">18</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 1:22, 23 </span></span><span class=\"content\">he is the head of the body, the church. He is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rev. 3:14 </span></span><span class=\"content\">the beginning, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 26:23; 1 Cor. 15:20; Rev. 1:5</span></span><span class=\"content\">the firstborn from the dead, that in everything he might be preeminent. </span></span><span class=\"verse v19\" data-usfm=\"COL.1.19\"><span class=\"label\">19</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:9 </span></span><span class=\"content\">in him all the </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See John 1:16</span></span><span class=\"content\">fullness of God was pleased to dwell, </span></span><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"label\">20</span><span class=\"content\">and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 5:18; Eph. 1:10 </span></span><span class=\"content\">through him to reconcile to himself all things, whether on earth or in heaven, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 2:14 </span></span><span class=\"content\">making peace </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 2:13]</span></span><span class=\"content\">by the blood of his cross.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"COL.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"COL.1.21\"><span class=\"label\">21</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    See Eph. 2:1, 2, 12   </span></span><span class=\"content\">And you, who once were alienated and hostile in mind, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Titus 1:16]</span></span><span class=\"content\">doing evil deeds, </span></span><span class=\"verse v22\" data-usfm=\"COL.1.22\"><span class=\"label\">22</span><span class=\"content\">he has now reconciled </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 7:4] </span></span><span class=\"content\">in his body of flesh by his death, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Jude 24; See Eph. 1:4; 5:27 </span></span><span class=\"content\">in order to present you holy and blameless and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 1:8</span></span><span class=\"content\">above reproach before him, </span></span><span class=\"verse v23\" data-usfm=\"COL.1.23\"><span class=\"label\">23</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See John 15:4 </span></span><span class=\"content\">if indeed you continue in the faith, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:7; Eph. 3:17 </span></span><span class=\"content\">stable and steadfast, not shifting from </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 5, 6 </span></span><span class=\"content\">the hope of the gospel that you heard, which has been proclaimed </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Mark 16:15; [Acts 2:5] </span></span><span class=\"content\">in all creation</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:23 </span><span class=\"ft\">Or </span><span class=\"fq\">to every creature</span></span></span><span class=\"content\"> under heaven, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 3:6</span></span><span class=\"content\">and of which I, Paul, became a minister.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Ministry to the Church</span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"COL.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"COL.1.24\"><span class=\"label\">24</span><span class=\"content\">Now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 7:4 </span></span><span class=\"content\">I rejoice in my sufferings for your sake, and in my flesh </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Tim. 1:8; 2:10] </span></span><span class=\"content\">I am filling up </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 1:5 </span></span><span class=\"content\">what is lacking in Christ&#8217;s afflictions </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 4:12]</span></span><span class=\"content\">for the sake of his body, that is, the church, </span></span><span class=\"verse v25\" data-usfm=\"COL.1.25\"><span class=\"label\">25</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 23 </span></span><span class=\"content\">of which I became a minister according to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 3:2</span></span><span class=\"content\">the stewardship from God that was given to me for you, to make the word of God fully known, </span></span><span class=\"verse v26\" data-usfm=\"COL.1.26\"><span class=\"label\">26</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 3:9; See Rom. 16:25, 26</span></span><span class=\"content\">the mystery hidden for ages and generations but now revealed to his saints. </span></span><span class=\"verse v27\" data-usfm=\"COL.1.27\"><span class=\"label\">27</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:2] </span></span><span class=\"content\">To them God chose to make known how great among the Gentiles are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 1:18; 3:16 </span></span><span class=\"content\">the riches of the glory of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 26 above] </span></span><span class=\"content\">this mystery, which is Christ in you, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 1:1</span></span><span class=\"content\">the hope of glory. </span></span><span class=\"verse v28\" data-usfm=\"COL.1.28\"><span class=\"label\">28</span><span class=\"content\">Him we proclaim, warning everyone and teaching everyone with all wisdom, that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ver. 22, 23 </span></span><span class=\"content\">we may present everyone </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 5:48</span></span><span class=\"content\">mature in Christ. </span></span><span class=\"verse v29\" data-usfm=\"COL.1.29\"><span class=\"label\">29</span><span class=\"content\">For this </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 15:10; 1 Tim. 4:10 </span></span><span class=\"content\">I toil, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:12; [ch. 2:1] </span></span><span class=\"content\">struggling </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 1:19</span></span><span class=\"content\">with all his energy that he powerfully works within me.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "To the saints and faithful brothers in Christ at Colossae:",
+            "Grace to you and peace from God our Father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Thanksgiving and Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "since we heard of your faith in Christ Jesus and of the love that you have for all the saints,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "which has come to you, as indeed in the whole world it is bearing fruit and increasing—as it also does among you, since the day you heard it and understood the grace of God in truth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "and has made known to us your love in the Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And so, from the day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "so as to walk in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "being strengthened with all power, according to his glorious might, for all endurance and patience with joy;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "in whom we have redemption, the forgiveness of sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Preeminence of Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "He is the image of the invisible God, the firstborn of all creation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And he is before all things, and in him all things hold together."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "For in him all the fullness of God was pleased to dwell,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "And you, who once were alienated and hostile in mind, doing evil deeds,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Ministry to the Church"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ’s afflictions for the sake of his body, that is, the church,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "of which I became a minister according to the stewardship from God that was given to me for you, to make the word of God fully known,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "the mystery hidden for ages and generations but now revealed to his saints."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "To them God chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "For this I toil, struggling with all his energy that he powerfully works within me."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colossians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colossians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colossians 1",
+        "toc": true
+      },
+      "chapter_text": "For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face, that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God’s mystery, which is Christ, in whom are hidden all the treasures of wisdom and knowledge. I say this in order that no one may delude you with plausible arguments. For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order and the firmness of your faith in Christ.\n\nTherefore, as you received Christ Jesus the Lord, so walk in him, rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving.\nSee to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ. For in him the whole fullness of deity dwells bodily, and you have been filled in him, who is the head of all rule and authority. In him also you were circumcised with a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ, having been buried with him in baptism, in which you were also raised with him through faith in the powerful working of God, who raised him from the dead. And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross. He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him.\n\nTherefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. These are a shadow of the things to come, but the substance belongs to Christ. Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind, and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God.\nIf with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations— “Do not handle, Do not taste, Do not touch” (referring to things that all perish as they are used)—according to human precepts and teachings? These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch2\" data-usfm=\"COL.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.2.1\"><span class=\"label\">1</span><span class=\"content\">For I want you to know </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 1:30 </span></span><span class=\"content\">how great a </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ch. 1:29 above]</span></span><span class=\"content\">struggle I have for you and for those at Laodicea and for all who have not seen me face to face, </span></span><span class=\"verse v2\" data-usfm=\"COL.2.2\"><span class=\"label\">2</span><span class=\"content\">that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:8; Eph. 6:22 </span></span><span class=\"content\">their hearts may be encouraged, being </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 3:14] </span></span><span class=\"content\">knit together in love, to reach all the riches of full assurance of understanding and the knowledge of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 1:27</span></span><span class=\"content\">God&#8217;s mystery, which is Christ, </span></span><span class=\"verse v3\" data-usfm=\"COL.2.3\"><span class=\"label\">3</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 11:2; 45:3; 1 Cor. 1:24, 30; 2:6, 7; [Luke 11:49; Eph. 1:8]</span></span><span class=\"content\">in whom are hidden all the treasures of wisdom and knowledge. </span></span><span class=\"verse v4\" data-usfm=\"COL.2.4\"><span class=\"label\">4</span><span class=\"content\">I say this in order </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 16:18; [Eph. 5:6; 2 Pet. 2:3]</span></span><span class=\"content\">that no one may delude you with plausible arguments. </span></span><span class=\"verse v5\" data-usfm=\"COL.2.5\"><span class=\"label\">5</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 5:3 </span></span><span class=\"content\">though I am absent in body, yet I am with you in spirit, rejoicing to see your </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 14:40 </span></span><span class=\"content\">good order and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Pet. 5:9</span></span><span class=\"content\">the firmness of your faith in Christ.</span></span></div><div class=\"s1\"><span class=\"heading\">Alive in Christ</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"COL.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"COL.2.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    ch. 1:10; 1 Thess. 4:1  </span></span><span class=\"content\">Therefore, as you received Christ Jesus the Lord, so walk in him, </span></span><span class=\"verse v7\" data-usfm=\"COL.2.7\"><span class=\"label\">7</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 3:17 </span></span><span class=\"content\">rooted and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 20:32; Eph. 2:20; See 1 Cor. 3:9 </span></span><span class=\"content\">built up in him and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Heb. 13:9 </span></span><span class=\"content\">established in the faith, just </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:21 </span></span><span class=\"content\">as you were taught, abounding </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:2; Eph. 5:20</span></span><span class=\"content\">in thanksgiving.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"COL.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"COL.2.8\"><span class=\"label\">8</span><span class=\"content\">See to it that no one takes you captive by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Tim. 6:20] </span></span><span class=\"content\">philosophy and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 5:6 </span></span><span class=\"content\">empty deceit, according to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 15:2 </span></span><span class=\"content\">human tradition, according to the </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 20</span></span><span class=\"content\">elemental spirits</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Or </span><span class=\"fq\">elementary principles</span><span class=\"ft\">; also verse 20</span></span></span><span class=\"content\"> of the world, and not according to Christ. </span></span><span class=\"verse v9\" data-usfm=\"COL.2.9\"><span class=\"label\">9</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:19; John 1:14 </span></span><span class=\"content\">in him the whole fullness of deity dwells </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 17]</span></span><span class=\"content\">bodily, </span></span><span class=\"verse v10\" data-usfm=\"COL.2.10\"><span class=\"label\">10</span><span class=\"content\">and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 3:19 </span></span><span class=\"content\">you have been filled in him, who is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 1:21, 22</span></span><span class=\"content\">the head of all rule and authority. </span></span><span class=\"verse v11\" data-usfm=\"COL.2.11\"><span class=\"label\">11</span><span class=\"content\">In him also </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 2:11]; See Rom. 2:29 </span></span><span class=\"content\">you were circumcised with a circumcision made without hands, by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 15; ch. 3:9</span></span><span class=\"content\">putting off the body of the flesh, by the circumcision of Christ, </span></span><span class=\"verse v12\" data-usfm=\"COL.2.12\"><span class=\"label\">12</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 6:4 </span></span><span class=\"content\">having been buried with him in baptism, in which </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:1; [Rom. 6:5] </span></span><span class=\"content\">you were also raised with him through faith in </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 6:14]; See Acts 2:24; Eph. 1:19</span></span><span class=\"content\">the powerful working of God, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 6:14]; See Acts 2:24; Eph. 1:19</span></span><span class=\"content\">who raised him from the dead. </span></span><span class=\"verse v13\" data-usfm=\"COL.2.13\"><span class=\"label\">13</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 2:1 </span></span><span class=\"content\">And you, who were dead in your trespasses and the uncircumcision of your flesh, God </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 2:5</span></span><span class=\"content\">made alive together with him, having forgiven us all our trespasses, </span></span><span class=\"verse v14\" data-usfm=\"COL.2.14\"><span class=\"label\">14</span><span class=\"content\">by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 3:19 </span></span><span class=\"content\">canceling </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 7:4</span></span><span class=\"content\">the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross. </span></span><span class=\"verse v15\" data-usfm=\"COL.2.15\"><span class=\"label\">15</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 11 above] </span></span><span class=\"content\">He disarmed the rulers and authorities</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Probably demonic rulers and authorities</span></span></span><span class=\"content\"> and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Gen. 3:15; Ps. 68:18; Isa. 53:12; Matt. 12:29; Luke 10:18; John 12:31; 16:11; Eph. 4:8; Heb. 2:14] </span></span><span class=\"content\">put them to open shame, by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 2:16</span></span><span class=\"content\">triumphing over them in him.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or </span><span class=\"fq\">in it </span><span class=\"ft\">(that is, the cross)</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Let No One Disqualify You</span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"COL.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"COL.2.16\"><span class=\"label\">16</span><span class=\"content\">Therefore let no one </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 14:3, 10, 13 </span></span><span class=\"content\">pass judgment on you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 14:17; Heb. 9:10; See Lev. 11:2 </span></span><span class=\"content\">in questions of food and drink, or with regard to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Lev. 23:2; Rom. 14:5 </span></span><span class=\"content\">a festival or </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Mark 2:28]; See Num. 28:11</span></span><span class=\"content\">a new moon or a Sabbath. </span></span><span class=\"verse v17\" data-usfm=\"COL.2.17\"><span class=\"label\">17</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Heb. 8:5; 10:1 </span></span><span class=\"content\">These are a shadow of the things to come, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 2]</span></span><span class=\"content\">the substance belongs to Christ. </span></span><span class=\"verse v18\" data-usfm=\"COL.2.18\"><span class=\"label\">18</span><span class=\"content\">Let no one </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 9:24 </span></span><span class=\"content\">disqualify you, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 23 </span></span><span class=\"content\">insisting on asceticism and worship of angels, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ezek. 13:7; 1 Tim. 1:7] </span></span><span class=\"content\">going on in detail about visions,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:18 </span><span class=\"ft\">Or </span><span class=\"fq\">about the things he has seen</span></span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 4:17] </span></span><span class=\"content\">puffed up without reason by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 8:7]</span></span><span class=\"content\">his sensuous mind, </span></span><span class=\"verse v19\" data-usfm=\"COL.2.19\"><span class=\"label\">19</span><span class=\"content\">and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 4:15, 16 </span></span><span class=\"content\">not </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rev. 2:13; 3:11</span></span><span class=\"content\">holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"COL.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"COL.2.20\"><span class=\"label\">20</span><span class=\"content\">If with Christ </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 6:2 </span></span><span class=\"content\">you died to the </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 8 </span></span><span class=\"content\">elemental spirits of the world, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Gal. 4:9]</span></span><span class=\"content\">why, as if you were still alive in the world, do you submit to regulations&#8212; </span></span><span class=\"verse v21\" data-usfm=\"COL.2.21\"><span class=\"label\">21</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 16; 1 Tim. 4:3</span></span><span class=\"content\">&#8220;Do not handle, Do not taste, Do not touch&#8221; </span></span><span class=\"verse v22\" data-usfm=\"COL.2.22\"><span class=\"label\">22</span><span class=\"content\">(</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 6:13 </span></span><span class=\"content\">referring to things that all perish as they are used)&#8212;according to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 29:13; Matt. 15:9; [Titus 1:14]</span></span><span class=\"content\">human precepts and teachings? </span></span><span class=\"verse v23\" data-usfm=\"COL.2.23\"><span class=\"label\">23</span><span class=\"content\">These have indeed an appearance of wisdom in </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 18 </span></span><span class=\"content\">promoting self-made religion and asceticism and severity to the body, but they are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Tim. 4:8]</span></span><span class=\"content\">of no value in stopping the indulgence of the flesh.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God’s mystery, which is Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "in whom are hidden all the treasures of wisdom and knowledge."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I say this in order that no one may delude you with plausible arguments."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order and the firmness of your faith in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Alive in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Therefore, as you received Christ Jesus the Lord, so walk in him,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "rooted and built up in him and established in the faith, just as you were taught, abounding in thanksgiving."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "See to it that no one takes you captive by philosophy and empty deceit, according to human tradition, according to the elemental spirits of the world, and not according to Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For in him the whole fullness of deity dwells bodily,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and you have been filled in him, who is the head of all rule and authority."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "In him also you were circumcised with a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "having been buried with him in baptism, in which you were also raised with him through faith in the powerful working of God, who raised him from the dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Let No One Disqualify You"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "These are a shadow of the things to come, but the substance belongs to Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "“Do not handle, Do not taste, Do not touch”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "(referring to things that all perish as they are used)—according to human precepts and teachings?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colossians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colossians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.2"
+        ],
+        "human": "Colossians 2",
+        "toc": true
+      },
+      "chapter_text": "If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. Set your minds on things that are above, not on things that are on earth. For you have died, and your life is hidden with Christ in God. When Christ who is your life appears, then you also will appear with him in glory.\nPut to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry. On account of these the wrath of God is coming. In these you too once walked, when you were living in them. But now you must put them all away: anger, wrath, malice, slander, and obscene talk from your mouth. Do not lie to one another, seeing that you have put off the old self with its practices and have put on the new self, which is being renewed in knowledge after the image of its creator. Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all.\nPut on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience, bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive. And above all these put on love, which binds everything together in perfect harmony. And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful. Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God. And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him.\n\nWives, submit to your husbands, as is fitting in the Lord. Husbands, love your wives, and do not be harsh with them. Children, obey your parents in everything, for this pleases the Lord. Fathers, do not provoke your children, lest they become discouraged. Bondservants, obey in everything those who are your earthly masters, not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord. Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ. For the wrongdoer will be paid back for the wrong he has done, and there is no partiality.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch3\" data-usfm=\"COL.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Put On the New Self</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.3.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    ch. 2:12   </span></span><span class=\"content\">If then you have been raised with Christ, seek </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Phil. 3:14] </span></span><span class=\"content\">the things that are above, where Christ is, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 1:20</span></span><span class=\"content\">seated at the right hand of God. </span></span><span class=\"verse v2\" data-usfm=\"COL.3.2\"><span class=\"label\">2</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 16:23</span></span><span class=\"content\">Set your minds on things that are above, not on things that are on earth. </span></span><span class=\"verse v3\" data-usfm=\"COL.3.3\"><span class=\"label\">3</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:20; See Rom. 6:2</span></span><span class=\"content\">you have died, and your life is hidden with Christ in God. </span></span><span class=\"verse v4\" data-usfm=\"COL.3.4\"><span class=\"label\">4</span><span class=\"content\">When Christ </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See John 11:25 </span></span><span class=\"content\">who is your</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:4 </span><span class=\"ft\">Some manuscripts </span><span class=\"fq\">our</span></span></span><span class=\"content\"> life </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Phil. 3:21; 1 Pet. 1:1, 7, 13; 1 John 2:28; 3:2] </span></span><span class=\"content\">appears, then you also will appear with him </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 15:43</span></span><span class=\"content\">in glory.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"COL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"COL.3.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Rom. 8:13; [Gal. 5:24]   </span></span><span class=\"content\">Put to death therefore </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 6:13 </span></span><span class=\"content\">what is earthly in you:</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:5 </span><span class=\"ft\">Greek </span><span class=\"fq\">therefore your members that are on the earth</span></span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 5:3, 5 </span></span><span class=\"content\">sexual immorality, impurity, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 1:26 </span></span><span class=\"content\">passion, evil desire, and covetousness, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Job 31:25, 26]</span></span><span class=\"content\">which is idolatry. </span></span><span class=\"verse v6\" data-usfm=\"COL.3.6\"><span class=\"label\">6</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 5:6</span></span><span class=\"content\">On account of these the wrath of God is coming.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Some manuscripts add </span><span class=\"fq\">upon the sons of disobedience</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"COL.3.7\"><span class=\"label\">7</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 2:2, 11</span></span><span class=\"content\">In these you too once walked, when you were living in them. </span></span><span class=\"verse v8\" data-usfm=\"COL.3.8\"><span class=\"label\">8</span><span class=\"content\">But now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 4:22 </span></span><span class=\"content\">you must put them all away: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:31 </span></span><span class=\"content\">anger, wrath, malice, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 4:29</span></span><span class=\"content\">slander, and obscene talk from your mouth. </span></span><span class=\"verse v9\" data-usfm=\"COL.3.9\"><span class=\"label\">9</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Lev. 19:11; See Eph. 4:25 </span></span><span class=\"content\">Do not lie to one another, seeing that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:11 </span></span><span class=\"content\">you have put off </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 6:6; Eph. 4:22</span></span><span class=\"content\">the old self</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:9 </span><span class=\"ft\">Greek </span><span class=\"fq\">man</span><span class=\"ft\">; also as supplied in verse 10</span></span></span><span class=\"content\"> with its practices </span></span><span class=\"verse v10\" data-usfm=\"COL.3.10\"><span class=\"label\">10</span><span class=\"content\">and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:24 </span></span><span class=\"content\">have put on </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 6:4 </span></span><span class=\"content\">the new self, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 12:2 </span></span><span class=\"content\">which is being renewed in knowledge </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 8:29 </span></span><span class=\"content\">after the image of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 2:10]</span></span><span class=\"content\">its creator. </span></span><span class=\"verse v11\" data-usfm=\"COL.3.11\"><span class=\"label\">11</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 10:12]; See 1 Cor. 12:13; Gal. 5:6 </span></span><span class=\"content\">Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">doulos</span><span class=\"ft\">, see Preface; likewise for </span><span class=\"fq\">Bondservants </span><span class=\"ft\">in verse 22</span></span></span><span class=\"content\"> free; but Christ is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 1:23</span></span><span class=\"content\">all, and in all.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"COL.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"COL.3.12\"><span class=\"label\">12</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    ver. 10   </span></span><span class=\"content\">Put on then, as </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 8:33 </span></span><span class=\"content\">God&#8217;s chosen ones, holy and beloved, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 2:1 </span></span><span class=\"content\">compassionate hearts, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:32 </span></span><span class=\"content\">kindness, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 4:2</span></span><span class=\"content\">humility, meekness, and patience, </span></span><span class=\"verse v13\" data-usfm=\"COL.3.13\"><span class=\"label\">13</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 12 above] </span></span><span class=\"content\">bearing with one another and, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Mark 11:25 </span></span><span class=\"content\">if one has a complaint against another, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 12 above]</span></span><span class=\"content\">forgiving each other; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 12 above]</span></span><span class=\"content\">as the Lord has forgiven you, so you also must forgive. </span></span><span class=\"verse v14\" data-usfm=\"COL.3.14\"><span class=\"label\">14</span><span class=\"content\">And above all these put on </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Thess. 5:8]; See Eph. 5:2 </span></span><span class=\"content\">love, which </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:3 </span></span><span class=\"content\">binds everything together in </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Heb. 6:1; [John 17:23]</span></span><span class=\"content\">perfect harmony. </span></span><span class=\"verse v15\" data-usfm=\"COL.3.15\"><span class=\"label\">15</span><span class=\"content\">And let </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Phil. 4:7 </span></span><span class=\"content\">the peace of Christ rule in your hearts, to which indeed you were called </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 2:16 </span></span><span class=\"content\">in one body. And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 17</span></span><span class=\"content\">be thankful. </span></span><span class=\"verse v16\" data-usfm=\"COL.3.16\"><span class=\"label\">16</span><span class=\"content\">Let </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">John 15:3 </span></span><span class=\"content\">the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Eph. 5:19 </span></span><span class=\"content\">singing psalms and hymns and spiritual songs, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:6</span></span><span class=\"content\">with thankfulness in your hearts to God. </span></span><span class=\"verse v17\" data-usfm=\"COL.3.17\"><span class=\"label\">17</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 23; 1 Cor. 10:31 </span></span><span class=\"content\">whatever you do, in word or deed, do everything in the name of the Lord Jesus, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:12; 4:2; See Eph. 5:20</span></span><span class=\"content\">giving thanks to God the Father through him.</span></span></div><div class=\"s1\"><span class=\"heading\">Rules for Christian Households</span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"COL.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.3.18\"><span class=\"label\">18</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    For ch. 3:18&#8211;4:1, see Eph. 5:22&#8211;6:9   </span></span><span class=\"content\">Wives, submit to your husbands, as </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 5:4; Philem. 8</span></span><span class=\"content\">is fitting in the Lord. </span></span><span class=\"verse v19\" data-usfm=\"COL.3.19\"><span class=\"label\">19</span><span class=\"content\">Husbands, love your wives, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:31</span></span><span class=\"content\">do not be harsh with them. </span></span><span class=\"verse v20\" data-usfm=\"COL.3.20\"><span class=\"label\">20</span><span class=\"content\">Children, obey your parents </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 5:24; Titus 2:9]</span></span><span class=\"content\">in everything, for this pleases the Lord. </span></span><span class=\"verse v21\" data-usfm=\"COL.3.21\"><span class=\"label\">21</span><span class=\"content\">Fathers, do not provoke your children, lest they become discouraged. </span></span><span class=\"verse v22\" data-usfm=\"COL.3.22\"><span class=\"label\">22</span><span class=\"content\">Bondservants, obey </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 20 above]</span></span><span class=\"content\">in everything those who are your earthly masters,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:22 </span><span class=\"ft\">Or </span><span class=\"fq\">your masters according to the flesh</span></span></span><span class=\"content\"> not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord. </span></span><span class=\"verse v23\" data-usfm=\"COL.3.23\"><span class=\"label\">23</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 17 </span></span><span class=\"content\">Whatever you do, work heartily, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Philem. 16]</span></span><span class=\"content\">as for the Lord and not for men, </span></span><span class=\"verse v24\" data-usfm=\"COL.3.24\"><span class=\"label\">24</span><span class=\"content\">knowing that from the Lord </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 6:8] </span></span><span class=\"content\">you will receive the inheritance as your reward. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 7:22]</span></span><span class=\"content\">You are serving the Lord Christ. </span></span><span class=\"verse v25\" data-usfm=\"COL.3.25\"><span class=\"label\">25</span><span class=\"content\">For the wrongdoer will be paid back for the wrong he has done, and there is no partiality.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Put On the New Self"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Set your minds on things that are above, not on things that are on earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For you have died, and your life is hidden with Christ in God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "When Christ who is your life appears, then you also will appear with him in glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Put to death therefore what is earthly in you: sexual immorality, impurity, passion, evil desire, and covetousness, which is idolatry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "On account of these the wrath of God is coming."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "In these you too once walked, when you were living in them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But now you must put them all away: anger, wrath, malice, slander, and obscene talk from your mouth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Do not lie to one another, seeing that you have put off the old self with its practices"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and have put on the new self, which is being renewed in knowledge after the image of its creator."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Put on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And above all these put on love, which binds everything together in perfect harmony."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And let the peace of Christ rule in your hearts, to which indeed you were called in one body. And be thankful."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Let the word of Christ dwell in you richly, teaching and admonishing one another in all wisdom, singing psalms and hymns and spiritual songs, with thankfulness in your hearts to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Rules for Christian Households"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Wives, submit to your husbands, as is fitting in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Husbands, love your wives, and do not be harsh with them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Children, obey your parents in everything, for this pleases the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Fathers, do not provoke your children, lest they become discouraged."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Bondservants, obey in everything those who are your earthly masters, not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Whatever you do, work heartily, as for the Lord and not for men,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "knowing that from the Lord you will receive the inheritance as your reward. You are serving the Lord Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "For the wrongdoer will be paid back for the wrong he has done, and there is no partiality."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "COL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colossians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Thessalonians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.3"
+        ],
+        "human": "Colossians 3",
+        "toc": true
+      },
+      "chapter_text": "Masters, treat your bondservants justly and fairly, knowing that you also have a Master in heaven.\n\nContinue steadfastly in prayer, being watchful in it with thanksgiving. At the same time, pray also for us, that God may open to us a door for the word, to declare the mystery of Christ, on account of which I am in prison— that I may make it clear, which is how I ought to speak.\nWalk in wisdom toward outsiders, making the best use of the time. Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person.\n\nTychicus will tell you all about my activities. He is a beloved brother and faithful minister and fellow servant in the Lord. I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts, and with him Onesimus, our faithful and beloved brother, who is one of you. They will tell you of everything that has taken place here.\nAristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions—if he comes to you, welcome him), and Jesus who is called Justus. These are the only men of the circumcision among my fellow workers for the kingdom of God, and they have been a comfort to me. Epaphras, who is one of you, a servant of Christ Jesus, greets you, always struggling on your behalf in his prayers, that you may stand mature and fully assured in all the will of God. For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis. Luke the beloved physician greets you, as does Demas. Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house. And when this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea. And say to Archippus, “See that you fulfill the ministry that you have received in the Lord.”\nI, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkCOL\">\n      <div class=\"chapter ch4\" data-usfm=\"COL.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"COL.4.1\"><span class=\"label\">1</span><span class=\"content\">Masters, treat your bondservants</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:1 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">doulos</span><span class=\"ft\">, see Preface; likewise for </span><span class=\"fq\">servant </span><span class=\"ft\">in verse 12</span></span></span><span class=\"content\"> justly and fairly, knowing that you also have a Master in heaven.</span></span></div><div class=\"s1\"><span class=\"heading\">Further Instructions</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"COL.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"COL.4.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    For ver. 2-4, see Eph. 6:18-20   </span></span><span class=\"content\">Continue steadfastly in prayer, being watchful in it </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:7</span></span><span class=\"content\">with thanksgiving. </span></span><span class=\"verse v3\" data-usfm=\"COL.4.3\"><span class=\"label\">3</span><span class=\"content\">At the same time, pray also for us, that God may </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 14:27 </span></span><span class=\"content\">open to us a door for the word, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 16:25 </span></span><span class=\"content\">to declare the mystery of Christ, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 18; Eph. 6:20; See Phil. 1:7</span></span><span class=\"content\">on account of which I am in prison&#8212; </span></span><span class=\"verse v4\" data-usfm=\"COL.4.4\"><span class=\"label\">4</span><span class=\"content\">that I may make it clear, which is how I ought to speak.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"COL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"COL.4.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    See Eph. 5:15-17   </span></span><span class=\"content\">Walk in wisdom toward </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Mark 4:11</span></span><span class=\"content\">outsiders, making the best use of the time. </span></span><span class=\"verse v6\" data-usfm=\"COL.4.6\"><span class=\"label\">6</span><span class=\"content\">Let your speech always </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:16 </span></span><span class=\"content\">be gracious, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Mark 9:50 </span></span><span class=\"content\">seasoned with salt, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Pet. 3:15</span></span><span class=\"content\">so that you may know how you ought to answer each person.</span></span></div><div class=\"s1\"><span class=\"heading\">Final Greetings</span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"COL.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"COL.4.7\"><span class=\"label\">7</span><span class=\"content\">Tychicus will tell you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">For ver. 7-9, see Eph. 6:21, 22</span></span><span class=\"content\">all about my activities. He is a beloved brother and faithful minister and fellow servant</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:7 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">sundoulos</span><span class=\"ft\">, see Preface</span></span></span><span class=\"content\"> in the Lord. </span></span><span class=\"verse v8\" data-usfm=\"COL.4.8\"><span class=\"label\">8</span><span class=\"content\">I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts, </span></span><span class=\"verse v9\" data-usfm=\"COL.4.9\"><span class=\"label\">9</span><span class=\"content\">and with him </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Philem. 10 </span></span><span class=\"content\">Onesimus, our faithful and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Philem. 16</span></span><span class=\"content\">beloved brother, who is one of you. They will tell you of everything that has taken place here.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"COL.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"COL.4.10\"><span class=\"label\">10</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Acts 19:29; 20:4; 27:2; Philem. 24; [Rom. 16:7]   </span></span><span class=\"content\">Aristarchus my fellow prisoner greets you, and Mark </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 15:37, 39 </span></span><span class=\"content\">the cousin of Barnabas (concerning whom you have received instructions&#8212;</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Tim. 4:11]</span></span><span class=\"content\">if he comes to you, welcome him), </span></span><span class=\"verse v11\" data-usfm=\"COL.4.11\"><span class=\"label\">11</span><span class=\"content\">and Jesus who is called </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 1:23; 18:7] </span></span><span class=\"content\">Justus. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 11:2 </span></span><span class=\"content\">These are the only men of the circumcision among my fellow workers for the kingdom of God, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Philem. 7]</span></span><span class=\"content\">they have been a comfort to me. </span></span><span class=\"verse v12\" data-usfm=\"COL.4.12\"><span class=\"label\">12</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:7; Philem. 23 </span></span><span class=\"content\">Epaphras, who is one of you, a servant of Christ Jesus, greets you, always </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 15:30 </span></span><span class=\"content\">struggling on your behalf in his prayers, that you may stand </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 5:48</span></span><span class=\"content\">mature and fully assured in all the will of God. </span></span><span class=\"verse v13\" data-usfm=\"COL.4.13\"><span class=\"label\">13</span><span class=\"content\">For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis. </span></span><span class=\"verse v14\" data-usfm=\"COL.4.14\"><span class=\"label\">14</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Tim. 4:11; See Acts 16:10 </span></span><span class=\"content\">Luke the beloved physician greets you, as does </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Tim. 4:10; Philem. 24</span></span><span class=\"content\">Demas. </span></span><span class=\"verse v15\" data-usfm=\"COL.4.15\"><span class=\"label\">15</span><span class=\"content\">Give my greetings to the brothers</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:15 </span><span class=\"ft\">Or </span><span class=\"fq\">brothers and sisters</span></span></span><span class=\"content\"> at Laodicea, and to Nympha and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 16:5</span></span><span class=\"content\">the church in her house. </span></span><span class=\"verse v16\" data-usfm=\"COL.4.16\"><span class=\"label\">16</span><span class=\"content\">And when </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Thess. 5:27</span></span><span class=\"content\">this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea. </span></span><span class=\"verse v17\" data-usfm=\"COL.4.17\"><span class=\"label\">17</span><span class=\"content\">And say to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Philem. 2 </span></span><span class=\"content\">Archippus, &#8220;See that you fulfill </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Tim. 4:5</span></span><span class=\"content\">the ministry that you have received in the Lord.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"COL.4.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"COL.4.18\"><span class=\"label\">18</span><span class=\"content\">I, Paul, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Cor. 16:21 </span></span><span class=\"content\">write this greeting with my own hand. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Heb. 13:3] </span></span><span class=\"content\">Remember </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 3; See Phil. 1:7 </span></span><span class=\"content\">my chains. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 6:21; 2 Tim. 4:22; [Titus 3:15]</span></span><span class=\"content\">Grace be with you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Masters, treat your bondservants justly and fairly, knowing that you also have a Master in heaven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Further Instructions"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Continue steadfastly in prayer, being watchful in it with thanksgiving."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "At the same time, pray also for us, that God may open to us a door for the word, to declare the mystery of Christ, on account of which I am in prison—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "that I may make it clear, which is how I ought to speak."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Walk in wisdom toward outsiders, making the best use of the time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Final Greetings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Tychicus will tell you all about my activities. He is a beloved brother and faithful minister and fellow servant in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "and with him Onesimus, our faithful and beloved brother, who is one of you. They will tell you of everything that has taken place here."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions—if he comes to you, welcome him),"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "and Jesus who is called Justus. These are the only men of the circumcision among my fellow workers for the kingdom of God, and they have been a comfort to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Epaphras, who is one of you, a servant of Christ Jesus, greets you, always struggling on your behalf in his prayers, that you may stand mature and fully assured in all the will of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Luke the beloved physician greets you, as does Demas."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "And when this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And say to Archippus, “See that you fulfill the ministry that you have received in the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

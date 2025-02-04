@@ -1,0 +1,428 @@
+{
+  "book_usfm": "HAG",
+  "name": "Haggai",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "HAG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Haggai 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Haggai 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Zephaniah 3",
+        "toc": true
+      },
+      "chapter_text": "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the LORD came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest: “Thus says the LORD of hosts: These people say the time has not yet come to rebuild the house of the LORD.” Then the word of the LORD came by the hand of Haggai the prophet, “Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins? Now, therefore, thus says the LORD of hosts: Consider your ways. You have sown much, and harvested little. You eat, but you never have enough; you drink, but you never have your fill. You clothe yourselves, but no one is warm. And he who earns wages does so to put them into a bag with holes.\n“Thus says the LORD of hosts: Consider your ways. Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the LORD. You looked for much, and behold, it came to little. And when you brought it home, I blew it away. Why? declares the LORD of hosts. Because of my house that lies in ruins, while each of you busies himself with his own house. Therefore the heavens above you have withheld the dew, and the earth has withheld its produce. And I have called for a drought on the land and the hills, on the grain, the new wine, the oil, on what the ground brings forth, on man and beast, and on all their labors.”\nLORD\nThen Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him. And the people feared the LORD. Then Haggai, the messenger of the LORD, spoke to the people with the LORD’s message, “I am with you, declares the LORD.” And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and worked on the house of the LORD of hosts, their God, on the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch1\" data-usfm=\"HAG.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">The Command to Rebuild the Temple</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.1.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    ver. 15; ch. 2:10; Ezra 4:24; 5:1; Zech. 1:1, 7   </span></span><span class=\"content\">In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came by the hand of Haggai the prophet to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Chr. 3:19 </span></span><span class=\"content\">Zerubbabel the son of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Chr. 3:17 </span></span><span class=\"content\">Shealtiel, governor of Judah, and to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Ezra 3:2 </span></span><span class=\"content\">Joshua the son of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Chr. 6:15</span></span><span class=\"content\">Jehozadak, the high priest: </span></span><span class=\"verse v2\" data-usfm=\"HAG.1.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Thus says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts: These people say the time has not yet come to rebuild the house of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.&#8221; </span></span><span class=\"verse v3\" data-usfm=\"HAG.1.3\"><span class=\"label\">3</span><span class=\"content\">Then the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ezra 5:1</span></span><span class=\"content\">by the hand of Haggai the prophet, </span></span><span class=\"verse v4\" data-usfm=\"HAG.1.4\"><span class=\"label\">4</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Sam. 7:2]; See Ps. 132:3-5 </span></span><span class=\"content\">&#8220;Is it a time for you yourselves to dwell in your paneled houses, while </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Neh. 2:3, 17; Isa. 64:11; Jer. 33:10, 12</span></span><span class=\"content\">this house lies in ruins? </span></span><span class=\"verse v5\" data-usfm=\"HAG.1.5\"><span class=\"label\">5</span><span class=\"content\">Now, therefore, thus says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:15, 18]</span></span><span class=\"content\">Consider your ways. </span></span><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"label\">6</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Mic. 6:15 </span></span><span class=\"content\">You have sown much, and harvested little. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Hos. 4:10 </span></span><span class=\"content\">You eat, but you never have enough; you drink, but you never have your fill. You clothe yourselves, but no one is warm. And he who </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zech. 8:10]</span></span><span class=\"content\">earns wages does so to put them into a bag with holes.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAG.1.7\"><span class=\"label\">7</span><span class=\"content\">&#8220;Thus says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 5 above]</span></span><span class=\"content\">Consider your ways. </span></span><span class=\"verse v8\" data-usfm=\"HAG.1.8\"><span class=\"label\">8</span><span class=\"content\">Go up to the hills and bring wood and build the house, that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ps. 132:13, 14] </span></span><span class=\"content\">I may take pleasure in it and that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:9]</span></span><span class=\"content\">I may be glorified, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span></span><span class=\"verse v9\" data-usfm=\"HAG.1.9\"><span class=\"label\">9</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 6 above] </span></span><span class=\"content\">You looked for much, and behold, it came to little. And when you brought it home, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:17] </span></span><span class=\"content\">I blew it away. Why? declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. Because of my house </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 4 above]</span></span><span class=\"content\">that lies in ruins, while each of you busies himself with his own house. </span></span><span class=\"verse v10\" data-usfm=\"HAG.1.10\"><span class=\"label\">10</span><span class=\"content\">Therefore </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Jer. 5:24, 25; Zech. 8:12]; See 1 Kgs. 8:35</span></span><span class=\"content\">the heavens above you have withheld the dew, and the earth has withheld its produce. </span></span><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"label\">11</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Kgs. 8:1; [Ps. 105:16] </span></span><span class=\"content\">I have called for a drought on the land and the hills, on </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Hos. 2:9 </span></span><span class=\"content\">the grain, the new wine, the oil, on what the ground brings forth, on man and beast, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:17; Ps. 128:2</span></span><span class=\"content\">on all their labors.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">The People Obey the </span><span class=\"nd\"><span class=\"heading\">Lord</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAG.1.12\"><span class=\"label\">12</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Ezra 5:2   </span></span><span class=\"content\">Then </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 1 </span></span><span class=\"content\">Zerubbabel the son of Shealtiel, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 1 </span></span><span class=\"content\">Joshua the son of Jehozadak, the high priest, with all </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:2</span></span><span class=\"content\">the remnant of the people, obeyed the voice of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> their God, and the words of Haggai the prophet, as the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> their God had sent him. And the people feared the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span></span><span class=\"verse v13\" data-usfm=\"HAG.1.13\"><span class=\"label\">13</span><span class=\"content\">Then Haggai, the messenger of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, spoke to the people with the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s message, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:4; [Isa. 43:5]</span></span><span class=\"content\">&#8220;I am with you, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.&#8221; </span></span><span class=\"verse v14\" data-usfm=\"HAG.1.14\"><span class=\"label\">14</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Chr. 36:22; Ezra 1:1] </span></span><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> stirred up the spirit of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 12 above] </span></span><span class=\"content\">Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 1 </span></span><span class=\"content\">Joshua the son of Jehozadak, the high priest, and the spirit of all </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:2 </span></span><span class=\"content\">the remnant of the people. And they came and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:4; Ezra 5:8]</span></span><span class=\"content\">worked on the house of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, their God, </span></span><span class=\"verse v15\" data-usfm=\"HAG.1.15\"><span class=\"label\">15</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 1]</span></span><span class=\"content\">on the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Command to Rebuild the Temple"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "In the second year of Darius the king, in the sixth month, on the first day of the month, the word of the Lord came by the hand of Haggai the prophet to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Thus says the Lord of hosts: These people say the time has not yet come to rebuild the house of the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Then the word of the Lord came by the hand of Haggai the prophet,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "“Is it a time for you yourselves to dwell in your paneled houses, while this house lies in ruins?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Now, therefore, thus says the Lord of hosts: Consider your ways."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "You have sown much, and harvested little. You eat, but you never have enough; you drink, but you never have your fill. You clothe yourselves, but no one is warm. And he who earns wages does so to put them into a bag with holes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "“Thus says the Lord of hosts: Consider your ways."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "You looked for much, and behold, it came to little. And when you brought it home, I blew it away. Why? declares the Lord of hosts. Because of my house that lies in ruins, while each of you busies himself with his own house."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Therefore the heavens above you have withheld the dew, and the earth has withheld its produce."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "And I have called for a drought on the land and the hills, on the grain, the new wine, the oil, on what the ground brings forth, on man and beast, and on all their labors.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The People Obey the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him. And the people feared the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Then Haggai, the messenger of the Lord, spoke to the people with the Lord’s message, “I am with you, declares the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and worked on the house of the Lord of hosts, their God,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "on the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Haggai 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.1"
+        ],
+        "human": "Zechariah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Haggai 1",
+        "toc": true
+      },
+      "chapter_text": "In the seventh month, on the twenty-first day of the month, the word of the LORD came by the hand of Haggai the prophet: “Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to all the remnant of the people, and say, ‘Who is left among you who saw this house in its former glory? How do you see it now? Is it not as nothing in your eyes? Yet now be strong, O Zerubbabel, declares the LORD. Be strong, O Joshua, son of Jehozadak, the high priest. Be strong, all you people of the land, declares the LORD. Work, for I am with you, declares the LORD of hosts, according to the covenant that I made with you when you came out of Egypt. My Spirit remains in your midst. Fear not. For thus says the LORD of hosts: Yet once more, in a little while, I will shake the heavens and the earth and the sea and the dry land. And I will shake all nations, so that the treasures of all nations shall come in, and I will fill this house with glory, says the LORD of hosts. The silver is mine, and the gold is mine, declares the LORD of hosts. The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts.’”\n\nOn the twenty-fourth day of the ninth month, in the second year of Darius, the word of the LORD came by Haggai the prophet, “Thus says the LORD of hosts: Ask the priests about the law: ‘If someone carries holy meat in the fold of his garment and touches with his fold bread or stew or wine or oil or any kind of food, does it become holy?’” The priests answered and said, “No.” Then Haggai said, “If someone who is unclean by contact with a dead body touches any of these, does it become unclean?” The priests answered and said, “It does become unclean.” Then Haggai answered and said, “So is it with this people, and with this nation before me, declares the LORD, and so with every work of their hands. And what they offer there is unclean. Now then, consider from this day onward. Before stone was placed upon stone in the temple of the LORD, how did you fare? When one came to a heap of twenty measures, there were but ten. When one came to the wine vat to draw fifty measures, there were but twenty. I struck you and all the products of your toil with blight and with mildew and with hail, yet you did not turn to me, declares the LORD. Consider from this day onward, from the twenty-fourth day of the ninth month. Since the day that the foundation of the LORD’s temple was laid, consider: Is the seed yet in the barn? Indeed, the vine, the fig tree, the pomegranate, and the olive tree have yielded nothing. But from this day on I will bless you.”\n\nThe word of the LORD came a second time to Haggai on the twenty-fourth day of the month, “Speak to Zerubbabel, governor of Judah, saying, I am about to shake the heavens and the earth, and to overthrow the throne of kingdoms. I am about to destroy the strength of the kingdoms of the nations, and overthrow the chariots and their riders. And the horses and their riders shall go down, every one by the sword of his brother. On that day, declares the LORD of hosts, I will take you, O Zerubbabel my servant, the son of Shealtiel, declares the LORD, and make you like a signet ring, for I have chosen you, declares the LORD of hosts.”",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch2\" data-usfm=\"HAG.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">The Coming Glory of the Temple</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.2.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    [Lev. 23:34, 36]  </span></span><span class=\"content\">In the seventh month, on the twenty-first day of the month, the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came by the hand of Haggai the prophet: </span></span><span class=\"verse v2\" data-usfm=\"HAG.2.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Speak now to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:1</span></span><span class=\"content\">Zerubbabel the son of Shealtiel, governor of Judah, and to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:1</span></span><span class=\"content\">Joshua the son of Jehozadak, the high priest, and to all the remnant of the people, and say, </span></span><span class=\"verse v3\" data-usfm=\"HAG.2.3\"><span class=\"label\">3</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ezra 3:12] </span></span><span class=\"content\">&#8216;Who is left among you who saw this house </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 9] </span></span><span class=\"content\">in its former glory? How do you see it now? </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zech. 4:10]</span></span><span class=\"content\">Is it not as nothing in your eyes? </span></span><span class=\"verse v4\" data-usfm=\"HAG.2.4\"><span class=\"label\">4</span><span class=\"content\">Yet now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Zech. 8:9; [Zech. 4:6, 7] </span></span><span class=\"content\">be strong, O </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 2 above] </span></span><span class=\"content\">Zerubbabel, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Zech. 8:9; [Zech. 4:6, 7] </span></span><span class=\"content\">Be strong, O </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 2 above] </span></span><span class=\"content\">Joshua, son of Jehozadak, the high priest. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Zech. 8:9; [Zech. 4:6, 7] </span></span><span class=\"content\">Be strong, all you people of the land, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:14] </span></span><span class=\"content\">Work, for </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:13</span></span><span class=\"content\">I am with you, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, </span></span><span class=\"verse v5\" data-usfm=\"HAG.2.5\"><span class=\"label\">5</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Ex. 29:45 </span></span><span class=\"content\">according to the covenant that I made with you when you came out of Egypt. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Neh. 9:20 </span></span><span class=\"content\">My Spirit remains in your midst. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Zech. 8:13, 15</span></span><span class=\"content\">Fear not. </span></span><span class=\"verse v6\" data-usfm=\"HAG.2.6\"><span class=\"label\">6</span><span class=\"content\">For thus says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited Heb. 12:26 </span></span><span class=\"content\">Yet once more, in a little while, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 21</span></span><span class=\"content\">I will shake the heavens and the earth and the sea and the dry land. </span></span><span class=\"verse v7\" data-usfm=\"HAG.2.7\"><span class=\"label\">7</span><span class=\"content\">And I will shake all nations, so that the treasures of all nations shall come in, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 60:1]</span></span><span class=\"content\">I will fill this house with glory, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v8\" data-usfm=\"HAG.2.8\"><span class=\"label\">8</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Chr. 29:14, 16]</span></span><span class=\"content\">The silver is mine, and the gold is mine, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"label\">9</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:8] </span></span><span class=\"content\">The latter glory of this house shall be greater than the former, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zech. 6:13; Eph. 2:14]</span></span><span class=\"content\">in this place I will give peace, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts.&#8217;&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Blessings for a Defiled People</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAG.2.10\"><span class=\"label\">10</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    ver. 18, 20   </span></span><span class=\"content\">On the twenty-fourth day of the ninth month, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:1</span></span><span class=\"content\">in the second year of Darius, the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came by Haggai the prophet, </span></span><span class=\"verse v11\" data-usfm=\"HAG.2.11\"><span class=\"label\">11</span><span class=\"content\">&#8220;Thus says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Lev. 10:10, 11</span></span><span class=\"content\">Ask the priests about the law: </span></span><span class=\"verse v12\" data-usfm=\"HAG.2.12\"><span class=\"label\">12</span><span class=\"content\">&#8216;If someone carries </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Jer. 11:15 </span></span><span class=\"content\">holy meat in the fold of his garment and touches with his fold bread or stew or wine or oil or any kind of food, does it become holy?&#8217;&#8221; The priests answered and said, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 14]</span></span><span class=\"content\">&#8220;No.&#8221; </span></span><span class=\"verse v13\" data-usfm=\"HAG.2.13\"><span class=\"label\">13</span><span class=\"content\">Then Haggai said, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Lev. 22:4, 6 </span></span><span class=\"content\">&#8220;If someone who is unclean by contact with a dead body </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Num. 19:22]</span></span><span class=\"content\">touches any of these, does it become unclean?&#8221; The priests answered and said, &#8220;It does become unclean.&#8221; </span></span><span class=\"verse v14\" data-usfm=\"HAG.2.14\"><span class=\"label\">14</span><span class=\"content\">Then Haggai answered and said, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 64:6]</span></span><span class=\"content\">&#8220;So is it with this people, and with this nation before me, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, and so with every work of their hands. And what they offer there is unclean. </span></span><span class=\"verse v15\" data-usfm=\"HAG.2.15\"><span class=\"label\">15</span><span class=\"content\">Now then, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:5]</span></span><span class=\"content\">consider from this day onward.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or </span><span class=\"fq\">backward</span><span class=\"ft\">; also verse 18</span></span></span><span class=\"content\"> Before stone was placed upon stone in the temple of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, </span></span><span class=\"verse v16\" data-usfm=\"HAG.2.16\"><span class=\"label\">16</span><span class=\"content\">how did you fare? </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:6]</span></span><span class=\"content\">When</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"ft\">Probable reading (compare Septuagint); Hebrew </span><span class=\"bdit\">Lord</span><span class=\"fq\">, since they were. When</span></span></span><span class=\"content\"> one came to a heap of twenty measures, there were but ten. When one came to the wine vat to draw fifty measures, there were but twenty. </span></span><span class=\"verse v17\" data-usfm=\"HAG.2.17\"><span class=\"label\">17</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Amos 4:9; [ch. 1:9; Deut. 28:22] </span></span><span class=\"content\">I struck you and all the products of your toil with blight and with mildew and with hail, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Jer. 5:3; Amos 4:6</span></span><span class=\"content\">yet you did not turn to me, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span></span><span class=\"verse v18\" data-usfm=\"HAG.2.18\"><span class=\"label\">18</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 15 above] </span></span><span class=\"content\">Consider from this day onward, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 10 </span></span><span class=\"content\">from the twenty-fourth day of the ninth month. Since </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ezra 3:10; Zech. 8:9</span></span><span class=\"content\">the day that the foundation of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s temple was laid, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 15 above] </span></span><span class=\"content\">consider: </span></span><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"label\">19</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zech. 8:12] </span></span><span class=\"content\">Is the seed yet in the barn? Indeed, the vine, the fig tree, the pomegranate, and the olive tree have yielded nothing. But from this day on </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Joel 2:14</span></span><span class=\"content\">I will bless you.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Zerubbabel Chosen as a Signet</span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAG.2.20\"><span class=\"label\">20</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came a second time to Haggai </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 18 above]</span></span><span class=\"content\">on the twenty-fourth day of the month, </span></span><span class=\"verse v21\" data-usfm=\"HAG.2.21\"><span class=\"label\">21</span><span class=\"content\">&#8220;Speak to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:1; [Zech. 4:6] </span></span><span class=\"content\">Zerubbabel, governor of Judah, saying, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 6</span></span><span class=\"content\">I am about to shake the heavens and the earth, </span></span><span class=\"verse v22\" data-usfm=\"HAG.2.22\"><span class=\"label\">22</span><span class=\"content\">and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Dan. 2:44; Zech. 12:9; [Matt. 24:7] </span></span><span class=\"content\">to overthrow the throne of kingdoms. I am about to destroy the strength of the kingdoms of the nations, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Mic. 5:10] </span></span><span class=\"content\">overthrow the chariots and their riders. And the horses and their riders shall go down, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zech. 14:13]</span></span><span class=\"content\">every one by the sword of his brother. </span></span><span class=\"verse v23\" data-usfm=\"HAG.2.23\"><span class=\"label\">23</span><span class=\"content\">On that day, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, I will take you, O </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 21 above] </span></span><span class=\"content\">Zerubbabel </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 43:10] </span></span><span class=\"content\">my servant, the son of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:1 </span></span><span class=\"content\">Shealtiel, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, and make you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Jer. 22:24</span></span><span class=\"content\">like a</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">the</span></span></span><span class=\"content\"> signet ring, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 43:10] </span></span><span class=\"content\">for I have chosen you, declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts.&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Coming Glory of the Temple"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "In the seventh month, on the twenty-first day of the month, the word of the Lord came by the hand of Haggai the prophet:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to all the remnant of the people, and say,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "‘Who is left among you who saw this house in its former glory? How do you see it now? Is it not as nothing in your eyes?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Yet now be strong, O Zerubbabel, declares the Lord. Be strong, O Joshua, son of Jehozadak, the high priest. Be strong, all you people of the land, declares the Lord. Work, for I am with you, declares the Lord of hosts,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "according to the covenant that I made with you when you came out of Egypt. My Spirit remains in your midst. Fear not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For thus says the Lord of hosts: Yet once more, in a little while, I will shake the heavens and the earth and the sea and the dry land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "And I will shake all nations, so that the treasures of all nations shall come in, and I will fill this house with glory, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The silver is mine, and the gold is mine, declares the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The latter glory of this house shall be greater than the former, says the Lord of hosts. And in this place I will give peace, declares the Lord of hosts.’”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Blessings for a Defiled People"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came by Haggai the prophet,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "“Thus says the Lord of hosts: Ask the priests about the law:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "‘If someone carries holy meat in the fold of his garment and touches with his fold bread or stew or wine or oil or any kind of food, does it become holy?’” The priests answered and said, “No.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Then Haggai said, “If someone who is unclean by contact with a dead body touches any of these, does it become unclean?” The priests answered and said, “It does become unclean.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Then Haggai answered and said, “So is it with this people, and with this nation before me, declares the Lord, and so with every work of their hands. And what they offer there is unclean."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Now then, consider from this day onward. Before stone was placed upon stone in the temple of the Lord,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "how did you fare? When one came to a heap of twenty measures, there were but ten. When one came to the wine vat to draw fifty measures, there were but twenty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "I struck you and all the products of your toil with blight and with mildew and with hail, yet you did not turn to me, declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Consider from this day onward, from the twenty-fourth day of the ninth month. Since the day that the foundation of the Lord’s temple was laid, consider:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Is the seed yet in the barn? Indeed, the vine, the fig tree, the pomegranate, and the olive tree have yielded nothing. But from this day on I will bless you.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Zerubbabel Chosen as a Signet"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "The word of the Lord came a second time to Haggai on the twenty-fourth day of the month,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "“Speak to Zerubbabel, governor of Judah, saying, I am about to shake the heavens and the earth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "and to overthrow the throne of kingdoms. I am about to destroy the strength of the kingdoms of the nations, and overthrow the chariots and their riders. And the horses and their riders shall go down, every one by the sword of his brother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "On that day, declares the Lord of hosts, I will take you, O Zerubbabel my servant, the son of Shealtiel, declares the Lord, and make you like a signet ring, for I have chosen you, declares the Lord of hosts.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

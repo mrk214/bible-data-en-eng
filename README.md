@@ -328,6 +328,77 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/KJV/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/KJV/REV.json) |
 
+### English Standard Version (ESV) - unchecked
+
+| Name                 | ID (usfm) | Link                                                                              |
+| -------------------- | --------- | --------------------------------------------------------------------------------- |
+| Genesis              | `GEN`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/GEN.json) |
+| Exodus               | `EXO`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/EXO.json) |
+| Leviticus            | `LEV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/LEV.json) |
+| Numbers              | `NUM`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/NUM.json) |
+| Deuteronomy          | `DEU`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/DEU.json) |
+| Joshua               | `JOS`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JOS.json) |
+| Judges               | `JDG`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JDG.json) |
+| Ruth                 | `RUT`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/RUT.json) |
+| 1 Samuel             | `1SA`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1SA.json) |
+| 2 Samuel             | `2SA`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2SA.json) |
+| 1 Kings              | `1KI`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1KI.json) |
+| 2 Kings              | `2KI`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2KI.json) |
+| 1 Chronicles         | `1CH`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1CH.json) |
+| 2 Chronicles         | `2CH`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2CH.json) |
+| Ezra                 | `EZR`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/EZR.json) |
+| Nehemiah             | `NEH`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/NEH.json) |
+| Esther               | `EST`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/EST.json) |
+| Job                  | `JOB`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JOB.json) |
+| Psalms               | `PSA`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/PSA.json) |
+| Proverbs             | `PRO`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/PRO.json) |
+| Ecclesiastes         | `ECC`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/ECC.json) |
+| Song of Songs        | `SNG`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/SNG.json) |
+| Isaiah               | `ISA`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/ISA.json) |
+| Jeremiah             | `JER`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JER.json) |
+| Lamentations         | `LAM`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/LAM.json) |
+| Ezekiel              | `EZK`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/EZK.json) |
+| Daniel               | `DAN`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/DAN.json) |
+| Hosea                | `HOS`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/HOS.json) |
+| Joel                 | `JOL`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JOL.json) |
+| Amos                 | `AMO`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/AMO.json) |
+| Obadiah              | `OBA`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/OBA.json) |
+| Jonah                | `JON`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JON.json) |
+| Micah                | `MIC`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/MIC.json) |
+| Nahum                | `NAM`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/NAM.json) |
+| Habakkuk             | `HAB`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/HAB.json) |
+| Zephaniah            | `ZEP`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/ZEP.json) |
+| Haggai               | `HAG`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/HAG.json) |
+| Zechariah            | `ZEC`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/ZEC.json) |
+| Malachi              | `MAL`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/MAL.json) |
+| Matthew              | `MAT`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/MAT.json) |
+| Mark                 | `MRK`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/MRK.json) |
+| Luke                 | `LUK`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/LUK.json) |
+| John                 | `JHN`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JHN.json) |
+| Acts of the Apostles | `ACT`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/ACT.json) |
+| Romans               | `ROM`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/ROM.json) |
+| 1 Corinthians        | `1CO`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1CO.json) |
+| 2 Corinthians        | `2CO`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2CO.json) |
+| Galatians            | `GAL`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/GAL.json) |
+| Ephesians            | `EPH`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/EPH.json) |
+| Philippians          | `PHP`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/PHP.json) |
+| Colossians           | `COL`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/COL.json) |
+| 1 Thessalonians      | `1TH`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1TH.json) |
+| 2 Thessalonians      | `2TH`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2TH.json) |
+| 1 Timothy            | `1TI`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1TI.json) |
+| 2 Timothy            | `2TI`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2TI.json) |
+| Titus                | `TIT`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/TIT.json) |
+| Philemon             | `PHM`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/PHM.json) |
+| Hebrews              | `HEB`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/HEB.json) |
+| James                | `JAS`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JAS.json) |
+| 1 Peter              | `1PE`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1PE.json) |
+| 2 Peter              | `2PE`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2PE.json) |
+| 1 John               | `1JN`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/1JN.json) |
+| 2 John               | `2JN`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/2JN.json) |
+| 3 John               | `3JN`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/3JN.json) |
+| Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JUD.json) |
+| Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/REV.json) |
+
 ### New Living Translation (NLT)
 
 | Name                 | ID (usfm) | Link                                                                              |

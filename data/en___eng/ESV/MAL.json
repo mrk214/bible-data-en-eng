@@ -1,0 +1,648 @@
+{
+  "book_usfm": "MAL",
+  "name": "Malachi",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "MAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malachi 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malachi 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.14"
+        ],
+        "human": "Zechariah 14",
+        "toc": true
+      },
+      "chapter_text": "The oracle of the word of the LORD to Israel by Malachi.\nLORD\n“I have loved you,” says the LORD. But you say, “How have you loved us?” “Is not Esau Jacob’s brother?” declares the LORD. “Yet I have loved Jacob but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.” If Edom says, “We are shattered but we will rebuild the ruins,” the LORD of hosts says, “They may build, but I will tear down, and they will be called ‘the wicked country,’ and ‘the people with whom the LORD is angry forever.’” Your own eyes shall see this, and you shall say, “Great is the LORD beyond the border of Israel!”\n\n“A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the LORD of hosts to you, O priests, who despise my name. But you say, ‘How have we despised your name?’ By offering polluted food upon my altar. But you say, ‘How have we polluted you?’ By saying that the LORD’s table may be despised. When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the LORD of hosts. And now entreat the favor of God, that he may be gracious to us. With such a gift from your hand, will he show favor to any of you? says the LORD of hosts. Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the LORD of hosts, and I will not accept an offering from your hand. For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations, says the LORD of hosts. But you profane it when you say that the Lord’s table is polluted, and its fruit, that is, its food may be despised. But you say, ‘What a weariness this is,’ and you snort at it, says the LORD of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the LORD. Cursed be the cheat who has a male in his flock, and vows it, and yet sacrifices to the Lord what is blemished. For I am a great King, says the LORD of hosts, and my name will be feared among the nations.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch1\" data-usfm=\"MAL.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"label\">1</span><span class=\"content\">The oracle of the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> to Israel by Malachi.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"fq\">Malachi </span><span class=\"ft\">means </span><span class=\"fq\">my messenger</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">The </span><span class=\"nd\"><span class=\"heading\">Lord</span></span><span class=\"heading\">&#8217;s Love for Israel</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MAL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MAL.1.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Deut. 7:8; Jer. 31:3   </span></span><span class=\"content\">&#8220;I have loved you,&#8221; says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:14, 17; 3:7, 8, 13] </span></span><span class=\"content\">But you say, &#8220;How have you loved us?&#8221; &#8220;Is not Esau </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Amos 1:11; Obad. 10] </span></span><span class=\"content\">Jacob&#8217;s brother?&#8221; declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. &#8220;Yet </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited Rom. 9:13</span></span><span class=\"content\">I have loved Jacob </span></span><span class=\"verse v3\" data-usfm=\"MAL.1.3\"><span class=\"label\">3</span><span class=\"content\">but Esau I have hated. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 34:13; Jer. 49:10, 18; Ezek. 35:3, 4; Joel 3:19</span></span><span class=\"content\">I have laid waste his hill country and left his heritage to jackals of the desert.&#8221; </span></span><span class=\"verse v4\" data-usfm=\"MAL.1.4\"><span class=\"label\">4</span><span class=\"content\">If Edom says, &#8220;We are shattered but we will rebuild the ruins,&#8221; the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts says, &#8220;They may build, but I will tear down, and they will be called &#8216;the wicked country,&#8217; and &#8216;the people with whom the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is angry forever.&#8217;&#8221; </span></span><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"label\">5</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ps. 91:8</span></span><span class=\"content\">Your own eyes shall see this, and you shall say, &#8220;Great is the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> beyond the border of Israel!&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">The Priests&#8217; Polluted Offerings</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.1.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    See Ex. 20:12   </span></span><span class=\"content\">&#8220;A son honors his father, and a servant his master. If then I am </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ex. 4:22; Hos. 11:1 </span></span><span class=\"content\">a father, where is my honor? And if I am </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Luke 6:46] </span></span><span class=\"content\">a master, where is my fear? says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts to you, O priests, who despise my name. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 2 above]</span></span><span class=\"content\">But you say, &#8216;How have we despised your name?&#8217; </span></span><span class=\"verse v7\" data-usfm=\"MAL.1.7\"><span class=\"label\">7</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 8; ch. 2:12; 3:3] </span></span><span class=\"content\">By offering polluted food upon my altar. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 2 above] </span></span><span class=\"content\">But you say, &#8216;How have we polluted you?&#8217; By saying that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 12]</span></span><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s table may be despised. </span></span><span class=\"verse v8\" data-usfm=\"MAL.1.8\"><span class=\"label\">8</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 13]; See Lev. 22:22</span></span><span class=\"content\">When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v9\" data-usfm=\"MAL.1.9\"><span class=\"label\">9</span><span class=\"content\">And now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Zech. 7:2 </span></span><span class=\"content\">entreat the favor of God, that he may be gracious to us. With such a gift from your hand, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Deut. 10:17</span></span><span class=\"content\">will he show favor to any of you? says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v10\" data-usfm=\"MAL.1.10\"><span class=\"label\">10</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 1:13] </span></span><span class=\"content\">Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 1:11; Jer. 6:20; Amos 5:21]</span></span><span class=\"content\">and I will not accept an offering from your hand. </span></span><span class=\"verse v11\" data-usfm=\"MAL.1.11\"><span class=\"label\">11</span><span class=\"content\">For from the rising of the sun to its setting my name </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 2:2; 56:7; 60:3; 66:19]</span></span><span class=\"content\">will be</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Or </span><span class=\"fq\">is </span><span class=\"ft\">(three times in verse 11; also verse 14)</span></span></span><span class=\"content\"> great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 2:2; 56:7; 60:3; 66:19]</span></span><span class=\"content\">will be great among the nations, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v12\" data-usfm=\"MAL.1.12\"><span class=\"label\">12</span><span class=\"content\">But you profane it when you say that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 7]</span></span><span class=\"content\">the Lord&#8217;s table is polluted, and its fruit, that is, its food may be despised. </span></span><span class=\"verse v13\" data-usfm=\"MAL.1.13\"><span class=\"label\">13</span><span class=\"content\">But you say, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 43:23; [ch. 3:14; Mic. 6:3] </span></span><span class=\"content\">&#8216;What a weariness this is,&#8217; and you snort at it, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 8; Lev. 22:20]</span></span><span class=\"content\">You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span></span><span class=\"verse v14\" data-usfm=\"MAL.1.14\"><span class=\"label\">14</span><span class=\"content\">Cursed be the cheat who has </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Ex. 12:5 </span></span><span class=\"content\">a male in his flock, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Lev. 22:21] </span></span><span class=\"content\">vows it, and yet sacrifices to the Lord what is blemished. For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Zech. 14:9 </span></span><span class=\"content\">I am a great King, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, and my name </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ps. 47:2; 76:12</span></span><span class=\"content\">will be feared among the nations.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The oracle of the word of the Lord to Israel by Malachi."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Lord’s Love for Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“I have loved you,” says the Lord. But you say, “How have you loved us?” “Is not Esau Jacob’s brother?” declares the Lord. “Yet I have loved Jacob"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "If Edom says, “We are shattered but we will rebuild the ruins,” the Lord of hosts says, “They may build, but I will tear down, and they will be called ‘the wicked country,’ and ‘the people with whom the Lord is angry forever.’”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Your own eyes shall see this, and you shall say, “Great is the Lord beyond the border of Israel!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Priests’ Polluted Offerings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the Lord of hosts to you, O priests, who despise my name. But you say, ‘How have we despised your name?’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "By offering polluted food upon my altar. But you say, ‘How have we polluted you?’ By saying that the Lord’s table may be despised."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And now entreat the favor of God, that he may be gracious to us. With such a gift from your hand, will he show favor to any of you? says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the Lord of hosts, and I will not accept an offering from your hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But you profane it when you say that the Lord’s table is polluted, and its fruit, that is, its food may be despised."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But you say, ‘What a weariness this is,’ and you snort at it, says the Lord of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Cursed be the cheat who has a male in his flock, and vows it, and yet sacrifices to the Lord what is blemished. For I am a great King, says the Lord of hosts, and my name will be feared among the nations."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malachi 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malachi 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.1"
+        ],
+        "human": "Malachi 1",
+        "toc": true
+      },
+      "chapter_text": "LORD\n“And now, O priests, this command is for you. If you will not listen, if you will not take it to heart to give honor to my name, says the LORD of hosts, then I will send the curse upon you and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart. Behold, I will rebuke your offspring, and spread dung on your faces, the dung of your offerings, and you shall be taken away with it. So shall you know that I have sent this command to you, that my covenant with Levi may stand, says the LORD of hosts. My covenant with him was one of life and peace, and I gave them to him. It was a covenant of fear, and he feared me. He stood in awe of my name. True instruction was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he turned many from iniquity. For the lips of a priest should guard knowledge, and people should seek instruction from his mouth, for he is the messenger of the LORD of hosts. But you have turned aside from the way. You have caused many to stumble by your instruction. You have corrupted the covenant of Levi, says the LORD of hosts, and so I make you despised and abased before all the people, inasmuch as you do not keep my ways but show partiality in your instruction.”\n\nHave we not all one Father? Has not one God created us? Why then are we faithless to one another, profaning the covenant of our fathers? Judah has been faithless, and abomination has been committed in Israel and in Jerusalem. For Judah has profaned the sanctuary of the LORD, which he loves, and has married the daughter of a foreign god. May the LORD cut off from the tents of Jacob any descendant of the man who does this, who brings an offering to the LORD of hosts!\nAnd this second thing you do. You cover the LORD’s altar with tears, with weeping and groaning because he no longer regards the offering or accepts it with favor from your hand. But you say, “Why does he not?” Because the LORD was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant. Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth. “For the man who does not love his wife but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless.”\nLORD\nYou have wearied the LORD with your words. But you say, “How have we wearied him?” By saying, “Everyone who does evil is good in the sight of the LORD, and he delights in them.” Or by asking, “Where is the God of justice?”",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch2\" data-usfm=\"MAL.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">The </span><span class=\"nd\"><span class=\"heading\">Lord</span></span><span class=\"heading\"> Rebukes the Priests</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.2.1\"><span class=\"label\">1</span><span class=\"content\">&#8220;And now, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:6 </span></span><span class=\"content\">O priests, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 4</span></span><span class=\"content\">this command is for you. </span></span><span class=\"verse v2\" data-usfm=\"MAL.2.2\"><span class=\"label\">2</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Lev. 26:14; See Deut. 28:15 </span></span><span class=\"content\">If you will not listen, if you will not take it to heart to give honor to my name, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, then I will send </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 3:9] </span></span><span class=\"content\">the curse upon you and I will curse </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ps. 69:22]</span></span><span class=\"content\">your blessings. Indeed, I have already cursed them, because you do not lay it to heart. </span></span><span class=\"verse v3\" data-usfm=\"MAL.2.3\"><span class=\"label\">3</span><span class=\"content\">Behold, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Joel 1:17; Hag. 2:17] </span></span><span class=\"content\">I will rebuke your offspring,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">seed</span></span></span><span class=\"content\"> and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Nah. 3:6 </span></span><span class=\"content\">spread dung on your faces, the </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ex. 29:14]</span></span><span class=\"content\">dung of your offerings, and you shall be taken away with it.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">Or </span><span class=\"fq\">to it</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.2.4\"><span class=\"label\">4</span><span class=\"content\">So shall you know that I have sent </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 1 </span></span><span class=\"content\">this command to you, that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 8; Num. 25:12, 13; Neh. 13:29; [Num. 3:45]</span></span><span class=\"content\">my covenant with Levi may stand, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v5\" data-usfm=\"MAL.2.5\"><span class=\"label\">5</span><span class=\"content\">My covenant with him was one of life and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Isa. 54:10 </span></span><span class=\"content\">peace, and I gave them to him. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Lev. 16:2]</span></span><span class=\"content\">It was a covenant of fear, and he feared me. He stood in awe of my name. </span></span><span class=\"verse v6\" data-usfm=\"MAL.2.6\"><span class=\"label\">6</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Deut. 33:10] </span></span><span class=\"content\">True instruction</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:6 </span><span class=\"ft\">Or </span><span class=\"fq\">law</span><span class=\"ft\">; also verses 7, 8, 9</span></span></span><span class=\"content\"> was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Dan. 12:3; James 5:20]</span></span><span class=\"content\">turned many from iniquity. </span></span><span class=\"verse v7\" data-usfm=\"MAL.2.7\"><span class=\"label\">7</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Deut. 17:9; See Lev. 10:11</span></span><span class=\"content\">the lips of a priest should guard knowledge, and people</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">they</span></span></span><span class=\"content\"> should seek instruction from his mouth, for he is the messenger of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v8\" data-usfm=\"MAL.2.8\"><span class=\"label\">8</span><span class=\"content\">But you have turned aside from the way. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Sam. 2:17; Jer. 18:15; Ezek. 22:26] </span></span><span class=\"content\">You have caused many to stumble by your instruction. You have corrupted </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ver. 4</span></span><span class=\"content\">the covenant of Levi, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, </span></span><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"label\">9</span><span class=\"content\">and so </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Sam. 2:30] </span></span><span class=\"content\">I make you despised and abased before all the people, inasmuch as you do not keep my ways but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Deut. 1:17; 16:19</span></span><span class=\"content\">show partiality in your instruction.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Judah Profaned the Covenant</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"MAL.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MAL.2.10\"><span class=\"label\">10</span><span class=\"content\">Have we not all </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 8:6; Eph. 4:6 </span></span><span class=\"content\">one Father? Has not </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 17:26 </span></span><span class=\"content\">one God created us? Why then are we </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 21:2; 24:16; 33:1]</span></span><span class=\"content\">faithless to one another, profaning the covenant of our fathers? </span></span><span class=\"verse v11\" data-usfm=\"MAL.2.11\"><span class=\"label\">11</span><span class=\"content\">Judah has been </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 10 above] </span></span><span class=\"content\">faithless, and abomination has been committed in Israel and in Jerusalem. For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Ezra 9:2</span></span><span class=\"content\">Judah has profaned the sanctuary of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, which he loves, and has married the daughter of a foreign god. </span></span><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"label\">12</span><span class=\"content\">May the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> cut off from the tents of Jacob any descendant</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">any who wakes and answers</span></span></span><span class=\"content\"> of the man who does this, who </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:7]</span></span><span class=\"content\">brings an offering to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts!</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.2.13\"><span class=\"label\">13</span><span class=\"content\">And this second thing you do. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zech. 7:3]</span></span><span class=\"content\">You cover the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s altar with tears, with weeping and groaning because he no longer regards the offering or accepts it with favor from your hand. </span></span><span class=\"verse v14\" data-usfm=\"MAL.2.14\"><span class=\"label\">14</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:2] </span></span><span class=\"content\">But you say, &#8220;Why does he not?&#8221; Because the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:5 </span></span><span class=\"content\">was witness between you and the wife of your youth, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 11; Isa. 54:6] </span></span><span class=\"content\">to whom </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 10 above]</span></span><span class=\"content\">you have been faithless, though she is your companion and your wife by covenant. </span></span><span class=\"verse v15\" data-usfm=\"MAL.2.15\"><span class=\"label\">15</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Matt. 19:4, 5; See Gen. 2:24 </span></span><span class=\"content\">Did he not make them one, with a portion of the Spirit in their union?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">in it</span></span></span><span class=\"content\"> And what was the one God</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">the one</span></span></span><span class=\"content\"> seeking?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or </span><span class=\"fq\">And not one has done this who has a portion of the Spirit. And what was that one seeking?</span></span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ezra 9:2] </span></span><span class=\"content\">Godly offspring. So guard yourselves</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or </span><span class=\"fq\">So take care</span><span class=\"ft\">; also verse 16</span></span></span><span class=\"content\"> in your spirit, and let none of you be </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 10 above]</span></span><span class=\"content\">faithless to the wife of your youth. </span></span><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"label\">16</span><span class=\"content\">&#8220;For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Matt. 5:32; Mark 10:9, 11; Luke 16:18; 1 Cor. 7:10 </span></span><span class=\"content\">the man who does not love his wife but divorces her,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"ft\">Hebrew </span><span class=\"fq\">who hates and divorces</span></span></span><span class=\"content\"> says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, the God of Israel, covers</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"ft\">Probable meaning (compare Septuagint and Deuteronomy 24:1&#8211;4); or </span><span class=\"fq\">&#8220;The </span><span class=\"ft\"><span class=\"bdit\">Lord</span></span><span class=\"fq\">, the God of Israel, says that he hates divorce, and him who covers</span></span></span><span class=\"content\"> his garment with violence, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. So guard yourselves in your spirit, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 10 above]</span></span><span class=\"content\">do not be faithless.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">The Messenger of the </span><span class=\"nd\"><span class=\"heading\">Lord</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"MAL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MAL.2.17\"><span class=\"label\">17</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Isa. 43:24   </span></span><span class=\"content\">You have wearied the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> with your words. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 14 above] </span></span><span class=\"content\">But you say, &#8220;How have we wearied him?&#8221; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 3:15; Isa. 5:20] </span></span><span class=\"content\">By saying, &#8220;Everyone who does evil is good in the sight of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, and he delights in them.&#8221; Or by asking, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 3:1; 2 Pet. 3:4]</span></span><span class=\"content\">&#8220;Where is the God of justice?&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Lord Rebukes the Priests"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "“And now, O priests, this command is for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "If you will not listen, if you will not take it to heart to give honor to my name, says the Lord of hosts, then I will send the curse upon you and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Behold, I will rebuke your offspring, and spread dung on your faces, the dung of your offerings, and you shall be taken away with it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "So shall you know that I have sent this command to you, that my covenant with Levi may stand, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "My covenant with him was one of life and peace, and I gave them to him. It was a covenant of fear, and he feared me. He stood in awe of my name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "True instruction was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he turned many from iniquity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For the lips of a priest should guard knowledge, and people should seek instruction from his mouth, for he is the messenger of the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But you have turned aside from the way. You have caused many to stumble by your instruction. You have corrupted the covenant of Levi, says the Lord of hosts,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "and so I make you despised and abased before all the people, inasmuch as you do not keep my ways but show partiality in your instruction.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Judah Profaned the Covenant"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Have we not all one Father? Has not one God created us? Why then are we faithless to one another, profaning the covenant of our fathers?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Judah has been faithless, and abomination has been committed in Israel and in Jerusalem. For Judah has profaned the sanctuary of the Lord, which he loves, and has married the daughter of a foreign god."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "May the Lord cut off from the tents of Jacob any descendant of the man who does this, who brings an offering to the Lord of hosts!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And this second thing you do. You cover the Lord’s altar with tears, with weeping and groaning because he no longer regards the offering or accepts it with favor from your hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "But you say, “Why does he not?” Because the Lord was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "“For the man who does not love his wife but divorces her, says the Lord, the God of Israel, covers his garment with violence, says the Lord of hosts. So guard yourselves in your spirit, and do not be faithless.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Messenger of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "You have wearied the Lord with your words. But you say, “How have we wearied him?” By saying, “Everyone who does evil is good in the sight of the Lord, and he delights in them.” Or by asking, “Where is the God of justice?”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malachi 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malachi 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.2"
+        ],
+        "human": "Malachi 2",
+        "toc": true
+      },
+      "chapter_text": "“Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts. But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner’s fire and like fullers’ soap. He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the LORD. Then the offering of Judah and Jerusalem will be pleasing to the LORD as in the days of old and as in former years.\n“Then I will draw near to you for judgment. I will be a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the fatherless, against those who thrust aside the sojourner, and do not fear me, says the LORD of hosts.\n\n“For I the LORD do not change; therefore you, O children of Jacob, are not consumed. From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the LORD of hosts. But you say, ‘How shall we return?’ Will man rob God? Yet you are robbing me. But you say, ‘How have we robbed you?’ In your tithes and contributions. You are cursed with a curse, for you are robbing me, the whole nation of you. Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need. I will rebuke the devourer for you, so that it will not destroy the fruits of your soil, and your vine in the field shall not fail to bear, says the LORD of hosts. Then all nations will call you blessed, for you will be a land of delight, says the LORD of hosts.\n“Your words have been hard against me, says the LORD. But you say, ‘How have we spoken against you?’ You have said, ‘It is vain to serve God. What is the profit of our keeping his charge or of walking as in mourning before the LORD of hosts? And now we call the arrogant blessed. Evildoers not only prosper but they put God to the test and they escape.’”\n\nThen those who feared the LORD spoke with one another. The LORD paid attention and heard them, and a book of remembrance was written before him of those who feared the LORD and esteemed his name. “They shall be mine, says the LORD of hosts, in the day when I make up my treasured possession, and I will spare them as a man spares his son who serves him. Then once more you shall see the distinction between the righteous and the wicked, between one who serves God and one who does not serve him.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch3\" data-usfm=\"MAL.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.3.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    Cited Matt. 11:10; Mark 1:2; Luke 7:27; [ch. 4:5; Luke 1:76]   </span></span><span class=\"content\">&#8220;Behold, I send </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:7 </span></span><span class=\"content\">my messenger, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Isa. 40:3 </span></span><span class=\"content\">he will prepare the way before me. And the Lord </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:17] </span></span><span class=\"content\">whom you seek will suddenly come to his temple; and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 4:5]</span></span><span class=\"content\">the messenger of the covenant in whom you delight, behold, he is coming, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v2\" data-usfm=\"MAL.3.2\"><span class=\"label\">2</span><span class=\"content\">But </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Joel 2:11 </span></span><span class=\"content\">who can endure the day of his coming, and who can stand when he appears? For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 4:4</span></span><span class=\"content\">he is like a refiner&#8217;s fire and like fullers&#8217; soap. </span></span><span class=\"verse v3\" data-usfm=\"MAL.3.3\"><span class=\"label\">3</span><span class=\"content\">He will sit </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 1:25; Zech. 13:9 </span></span><span class=\"content\">as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:7]</span></span><span class=\"content\">offerings in righteousness to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Or </span><span class=\"fq\">and they will belong to the </span><span class=\"ft\"><span class=\"bdit\">Lord</span></span><span class=\"fq\">, bringers of an offering in righteousness</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"label\">4</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ezek. 20:40</span></span><span class=\"content\">Then the offering of Judah and Jerusalem will be pleasing to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> as in the days of old and as in former years.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"label\">5</span><span class=\"content\">&#8220;Then I will draw near to you for judgment. I will be </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:14; Jer. 29:23 </span></span><span class=\"content\">a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Lev. 19:13 </span></span><span class=\"content\">who oppress the hired worker in his wages, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Deut. 24:17</span></span><span class=\"content\">the widow and the fatherless, against those who thrust aside the sojourner, and do not fear me, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts.</span></span></div><div class=\"s1\"><span class=\"heading\">Robbing God</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"MAL.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MAL.3.6\"><span class=\"label\">6</span><span class=\"content\">&#8220;For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ps. 102:27; See Num. 23:19 </span></span><span class=\"content\">I the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> do not change; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Lam. 3:22</span></span><span class=\"content\">therefore you, O children of Jacob, are not consumed. </span></span><span class=\"verse v7\" data-usfm=\"MAL.3.7\"><span class=\"label\">7</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 7:51 </span></span><span class=\"content\">From the days of your fathers you have turned aside from my statutes and have not kept them. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Zech. 1:3 </span></span><span class=\"content\">Return to me, and I will return to you, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:2]</span></span><span class=\"content\">But you say, &#8216;How shall we return?&#8217; </span></span><span class=\"verse v8\" data-usfm=\"MAL.3.8\"><span class=\"label\">8</span><span class=\"content\">Will man rob God? Yet you are robbing me. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 7 above] </span></span><span class=\"content\">But you say, &#8216;How have we robbed you?&#8217; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Neh. 13:10]</span></span><span class=\"content\">In your tithes and contributions. </span></span><span class=\"verse v9\" data-usfm=\"MAL.3.9\"><span class=\"label\">9</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:2]</span></span><span class=\"content\">You are cursed with a curse, for you are robbing me, the whole nation of you. </span></span><span class=\"verse v10\" data-usfm=\"MAL.3.10\"><span class=\"label\">10</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Prov. 3:9, 10] </span></span><span class=\"content\">Bring the full tithe into the storehouse, that there may be food in my house. And thereby </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 9:6-8 </span></span><span class=\"content\">put me to the test, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, if I will not open </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Gen. 7:11</span></span><span class=\"content\">the windows of heaven for you and pour down for you a blessing until there is no more need. </span></span><span class=\"verse v11\" data-usfm=\"MAL.3.11\"><span class=\"label\">11</span><span class=\"content\">I will rebuke </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Joel 1:4]</span></span><span class=\"content\">the devourer</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"ft\">Probably a name for some crop-destroying pest or pests</span></span></span><span class=\"content\"> for you, so that it will not destroy the fruits of your soil, and your vine in the field shall not fail to bear, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"label\">12</span><span class=\"content\">Then </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Zeph. 3:19 </span></span><span class=\"content\">all nations will call you blessed, for you will be </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Isa. 62:4]</span></span><span class=\"content\">a land of delight, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"MAL.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MAL.3.13\"><span class=\"label\">13</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    [ch. 2:17]   </span></span><span class=\"content\">&#8220;Your words have been hard against me, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:2]</span></span><span class=\"content\">But you say, &#8216;How have we spoken against you?&#8217; </span></span><span class=\"verse v14\" data-usfm=\"MAL.3.14\"><span class=\"label\">14</span><span class=\"content\">You have said, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Zeph. 1:12] </span></span><span class=\"content\">&#8216;It is vain to serve God. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Job 21:15]</span></span><span class=\"content\">What is the profit of our keeping his charge or of walking as in mourning before the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts? </span></span><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"label\">15</span><span class=\"content\">And now we call </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 4:1] </span></span><span class=\"content\">the arrogant blessed. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 4:1] </span></span><span class=\"content\">Evildoers not only prosper but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ps. 95:9]</span></span><span class=\"content\">they put God to the test and they escape.&#8217;&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">The Book of Remembrance</span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"MAL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MAL.3.16\"><span class=\"label\">16</span><span class=\"content\">Then those who feared the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Deut. 6:6, 7] </span></span><span class=\"content\">spoke with one another. The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> paid attention and heard them, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Ex. 32:32</span></span><span class=\"content\">a book of remembrance was written before him of those who feared the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> and esteemed his name. </span></span><span class=\"verse v17\" data-usfm=\"MAL.3.17\"><span class=\"label\">17</span><span class=\"content\">&#8220;They shall be mine, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 4:3; Acts 17:31] </span></span><span class=\"content\">in the day when I make up </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ex. 19:5; 1 Pet. 2:9</span></span><span class=\"content\">my treasured possession, and I will spare them as a man spares his son who serves him. </span></span><span class=\"verse v18\" data-usfm=\"MAL.3.18\"><span class=\"label\">18</span><span class=\"content\">Then once more you shall </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 4:1]</span></span><span class=\"content\">see the distinction between the righteous and the wicked, between one who serves God and one who does not serve him.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "“Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner’s fire and like fullers’ soap."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Then the offering of Judah and Jerusalem will be pleasing to the Lord as in the days of old and as in former years."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "“Then I will draw near to you for judgment. I will be a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the fatherless, against those who thrust aside the sojourner, and do not fear me, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Robbing God"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“For I the Lord do not change; therefore you, O children of Jacob, are not consumed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the Lord of hosts. But you say, ‘How shall we return?’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Will man rob God? Yet you are robbing me. But you say, ‘How have we robbed you?’ In your tithes and contributions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "You are cursed with a curse, for you are robbing me, the whole nation of you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the Lord of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I will rebuke the devourer for you, so that it will not destroy the fruits of your soil, and your vine in the field shall not fail to bear, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Then all nations will call you blessed, for you will be a land of delight, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "“Your words have been hard against me, says the Lord. But you say, ‘How have we spoken against you?’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "You have said, ‘It is vain to serve God. What is the profit of our keeping his charge or of walking as in mourning before the Lord of hosts?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And now we call the arrogant blessed. Evildoers not only prosper but they put God to the test and they escape.’”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Book of Remembrance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Then those who feared the Lord spoke with one another. The Lord paid attention and heard them, and a book of remembrance was written before him of those who feared the Lord and esteemed his name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "“They shall be mine, says the Lord of hosts, in the day when I make up my treasured possession, and I will spare them as a man spares his son who serves him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Then once more you shall see the distinction between the righteous and the wicked, between one who serves God and one who does not serve him."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MAL.4"
+        ],
+        "human": "Malachi 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MAT.1"
+        ],
+        "human": "Matthew 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MAL.3"
+        ],
+        "human": "Malachi 3",
+        "toc": true
+      },
+      "chapter_text": "LORD\n“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the LORD of hosts, so that it will leave them neither root nor branch. But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall. And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the LORD of hosts.\n“Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel.\n“Behold, I will send you Elijah the prophet before the great and awesome day of the LORD comes. And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkMAL\">\n      <div class=\"chapter ch4\" data-usfm=\"MAL.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">The Great Day of the </span><span class=\"nd\"><span class=\"heading\">Lord</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MAL.4.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">  </span><span class=\"ft\">Ch 4:1&#8211;6 is ch 3:19&#8211;24 in Hebrew</span><span class=\"ft\">  </span></span></span><span class=\"content\"> &#8220;For behold, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 5; ch. 3:2] </span></span><span class=\"content\">the day is coming, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Thess. 1:7, 8] </span></span><span class=\"content\">burning like an oven, when </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:15 </span></span><span class=\"content\">all the arrogant and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:15 </span></span><span class=\"content\">all evildoers </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 47:14; [Matt. 3:12; Luke 3:17]</span></span><span class=\"content\">will be stubble. The day that is coming </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 47:14; [Matt. 3:12; Luke 3:17]</span></span><span class=\"content\">shall set them ablaze, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts, so that it will leave them neither root nor branch. </span></span><span class=\"verse v2\" data-usfm=\"MAL.4.2\"><span class=\"label\">2</span><span class=\"content\">But for you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:16 </span></span><span class=\"content\">who fear my name, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ps. 84:11; Luke 1:78; John 1:4; 8:12; 9:5; 12:46 </span></span><span class=\"content\">the sun </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Jer. 23:6] </span></span><span class=\"content\">of righteousness shall rise </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 53:5 </span></span><span class=\"content\">with healing in its wings. You shall go out </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Jer. 50:11]</span></span><span class=\"content\">leaping like calves from the stall. </span></span><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"label\">3</span><span class=\"content\">And you shall tread down the wicked, for they will be ashes under the soles of your feet, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 3:17</span></span><span class=\"content\">on the day when I act, says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of hosts.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"MAL.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"label\">4</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    [Deut. 4:9, 10]   </span></span><span class=\"content\">&#8220;Remember </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Ex. 20:3-17; Deut. 4:10</span></span><span class=\"content\">the law of my servant Moses, the statutes and rules</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:4 </span><span class=\"ft\">Or </span><span class=\"fq\">and just decrees</span></span></span><span class=\"content\"> that I commanded him at Horeb for all Israel.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MAL.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MAL.4.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    [ch. 3:1]   </span></span><span class=\"content\">&#8220;Behold, I will send you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Matt. 11:14; Mark 9:11; Luke 1:17] </span></span><span class=\"content\">Elijah the prophet </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Joel 2:31</span></span><span class=\"content\">before the great and awesome day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> comes. </span></span><span class=\"verse v6\" data-usfm=\"MAL.4.6\"><span class=\"label\">6</span><span class=\"content\">And he will </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Luke 1:17] </span></span><span class=\"content\">turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 11:4; [Zech. 5:3]</span></span><span class=\"content\">strike the land with a decree of utter destruction.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:6 </span><span class=\"ft\">The Hebrew term rendered </span><span class=\"fq\">decree of utter destruction </span><span class=\"ft\">refers to things devoted (or set apart) to the Lord (or by the Lord) for destruction</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Great Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "“Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "“Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

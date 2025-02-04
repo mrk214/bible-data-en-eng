@@ -1,0 +1,1529 @@
+{
+  "book_usfm": "GAL",
+  "name": "Galatians",
+  "local_title": "English Standard Version 2016",
+  "local_abbreviation": "ESV",
+  "version_id": 59,
+  "publisher": {
+    "name": "Crossway / Good News Publishers"
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+    "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "GAL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.1"
+        ],
+        "human": "Galatians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.2"
+        ],
+        "human": "Galatians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2CO.13"
+        ],
+        "human": "2 Corinthians 13",
+        "toc": true
+      },
+      "chapter_text": "Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead— and all the brothers who are with me,\nTo the churches of Galatia:\nGrace to you and peace from God our Father and the Lord Jesus Christ, who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father, to whom be the glory forever and ever. Amen.\n\nI am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel— not that there is another one, but there are some who trouble you and want to distort the gospel of Christ. But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed. As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed.\nFor am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ.\n\nFor I would have you know, brothers, that the gospel that was preached by me is not man’s gospel. For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ. For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it. And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers. But when he who had set me apart before I was born, and who called me by his grace, was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone; nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.\nThen after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days. But I saw none of the other apostles except James the Lord’s brother. (In what I am writing to you, before God, I do not lie!) Then I went into the regions of Syria and Cilicia. And I was still unknown in person to the churches of Judea that are in Christ. They only were hearing it said, “He who used to persecute us is now preaching the faith he once tried to destroy.” And they glorified God because of me.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch1\" data-usfm=\"GAL.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greeting</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, an </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 1:1 </span></span><span class=\"content\">apostle&#8212;</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 11, 12 </span></span><span class=\"content\">not from men nor through man, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 9:6; 20:24; 22:10, 15, 21; 26:16; [1 Tim. 1:1; Titus 1:3] </span></span><span class=\"content\">through Jesus Christ and God the Father, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 2:24</span></span><span class=\"content\">who raised him from the dead&#8212; </span></span><span class=\"verse v2\" data-usfm=\"GAL.1.2\"><span class=\"label\">2</span><span class=\"content\">and all </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 4:21 </span></span><span class=\"content\">the brothers</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:2 </span><span class=\"ft\">Or </span><span class=\"fq\">brothers and sisters</span><span class=\"ft\">. In New Testament usage, depending on the context, the plural Greek word </span><span class=\"fq\">adelphoi </span><span class=\"ft\">(translated &#8220;brothers&#8221;) may refer either to </span><span class=\"fq\">brothers </span><span class=\"ft\">or to </span><span class=\"fq\">brothers and sisters</span><span class=\"ft\">; also verse 11</span></span></span><span class=\"content\"> who are with me,</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"GAL.1.2\"><span class=\"content\">To </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 16:6; 1 Cor. 16:1</span></span><span class=\"content\">the churches of Galatia:</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"GAL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"GAL.1.3\"><span class=\"label\">3</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Rom. 1:7; 1 Cor. 1:3   </span></span><span class=\"content\">Grace to you and peace </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 1:2</span></span><span class=\"content\">from God our Father and the Lord Jesus Christ, </span></span><span class=\"verse v4\" data-usfm=\"GAL.1.4\"><span class=\"label\">4</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 20:28; Rom. 4:25; 1 Cor. 15:3 </span></span><span class=\"content\">who gave himself for our sins to deliver us from the present </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 2:2; 1 John 5:19]; See John 15:19 </span></span><span class=\"content\">evil age, according to the will of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 4:20; 1 Thess. 1:3; 3:11, 13</span></span><span class=\"content\">our God and Father, </span></span><span class=\"verse v5\" data-usfm=\"GAL.1.5\"><span class=\"label\">5</span><span class=\"content\">to whom be the glory forever and ever. Amen.</span></span></div><div class=\"s1\"><span class=\"heading\">No Other Gospel</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"GAL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"GAL.1.6\"><span class=\"label\">6</span><span class=\"content\">I am astonished that you are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 4:13; Acts 16:6; 18:23] </span></span><span class=\"content\">so quickly deserting </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 5:8 </span></span><span class=\"content\">him who called you in the grace of Christ and are turning to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Cor. 11:4; [1 Tim. 1:3]</span></span><span class=\"content\">a different gospel&#8212; </span></span><span class=\"verse v7\" data-usfm=\"GAL.1.7\"><span class=\"label\">7</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 4:12; 1 Cor. 3:11] </span></span><span class=\"content\">not that there is another one, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 5:10; Acts 15:24; See 2 Cor. 11:13</span></span><span class=\"content\">there are some who trouble you and want to distort the gospel of Christ. </span></span><span class=\"verse v8\" data-usfm=\"GAL.1.8\"><span class=\"label\">8</span><span class=\"content\">But even if we or </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Cor. 11:14 </span></span><span class=\"content\">an angel from heaven should preach to you a gospel contrary to the one we preached to you, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 9:3</span></span><span class=\"content\">let him be accursed. </span></span><span class=\"verse v9\" data-usfm=\"GAL.1.9\"><span class=\"label\">9</span><span class=\"content\">As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 8 above]</span></span><span class=\"content\">let him be accursed.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"GAL.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"GAL.1.10\"><span class=\"label\">10</span><span class=\"content\">For am I now seeking the approval of man, or of God? Or am I trying </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Thess. 2:4; [Rom. 2:29; 1 Cor. 10:33; Eph. 6:6; Col. 3:22] </span></span><span class=\"content\">to please man? If I were still trying to please man, I would not be a </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 1:1]</span></span><span class=\"content\">servant</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">doulos</span><span class=\"ft\">, see Preface</span></span></span><span class=\"content\"> of Christ.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul Called by God</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"GAL.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.1.11\"><span class=\"label\">11</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 15:1 </span></span><span class=\"content\">I would have you know, brothers, that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 2:16</span></span><span class=\"content\">the gospel that was preached by me is not man&#8217;s gospel.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Greek </span><span class=\"fq\">not according to man</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"GAL.1.12\"><span class=\"label\">12</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 1; 1 Cor. 11:23; 15:3; [Acts 22:14] </span></span><span class=\"content\">For I did not receive it from any man, nor was I taught it, but I received it </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 16; See 1 Cor. 2:10; 2 Cor. 12:1</span></span><span class=\"content\">through a revelation of Jesus Christ. </span></span><span class=\"verse v13\" data-usfm=\"GAL.1.13\"><span class=\"label\">13</span><span class=\"content\">For you have heard of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 26:4] </span></span><span class=\"content\">my former life in Judaism, how </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 8:3</span></span><span class=\"content\">I persecuted the church of God violently and tried to destroy it. </span></span><span class=\"verse v14\" data-usfm=\"GAL.1.14\"><span class=\"label\">14</span><span class=\"content\">And I was advancing in Judaism beyond many of my own age among my people, so extremely </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 3:6; See Acts 21:20 </span></span><span class=\"content\">zealous was I for </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Jer. 9:14; 2 Tim. 1:3]; See Matt. 15:2</span></span><span class=\"content\">the traditions of my fathers. </span></span><span class=\"verse v15\" data-usfm=\"GAL.1.15\"><span class=\"label\">15</span><span class=\"content\">But when he </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 13:2; Rom. 1:1 </span></span><span class=\"content\">who had set me apart </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Isa. 49:1, 5; Jer. 1:5; Luke 1:15 </span></span><span class=\"content\">before I was born,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Greek </span><span class=\"fq\">set me apart from my mother&#8217;s womb</span></span></span><span class=\"content\"> and who </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 6</span></span><span class=\"content\">called me by his grace, </span></span><span class=\"verse v16\" data-usfm=\"GAL.1.16\"><span class=\"label\">16</span><span class=\"content\">was pleased to reveal his Son to</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:16 </span><span class=\"ft\">Greek </span><span class=\"fq\">in</span></span></span><span class=\"content\"> me, in order </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:9; See Acts 9:15</span></span><span class=\"content\">that I might preach him among the Gentiles, I did not immediately consult with anyone;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:16 </span><span class=\"ft\">Greek </span><span class=\"fq\">with flesh and blood</span></span></span><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.1.17\"><span class=\"label\">17</span><span class=\"content\">nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"GAL.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"GAL.1.18\"><span class=\"label\">18</span><span class=\"content\">Then </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 9:22, 23]</span></span><span class=\"content\">after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days. </span></span><span class=\"verse v19\" data-usfm=\"GAL.1.19\"><span class=\"label\">19</span><span class=\"content\">But I saw none of the other apostles except James </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 12:46; Acts 12:17</span></span><span class=\"content\">the Lord&#8217;s brother. </span></span><span class=\"verse v20\" data-usfm=\"GAL.1.20\"><span class=\"label\">20</span><span class=\"content\">(In what I am writing to you, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 1:9; 9:1</span></span><span class=\"content\">before God, I do not lie!) </span></span><span class=\"verse v21\" data-usfm=\"GAL.1.21\"><span class=\"label\">21</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 9:30; 11:25, 26; 13:1]</span></span><span class=\"content\">Then I went into the regions of Syria and Cilicia. </span></span><span class=\"verse v22\" data-usfm=\"GAL.1.22\"><span class=\"label\">22</span><span class=\"content\">And I was still unknown in person to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Thess. 2:14</span></span><span class=\"content\">the churches of Judea that are in Christ. </span></span><span class=\"verse v23\" data-usfm=\"GAL.1.23\"><span class=\"label\">23</span><span class=\"content\">They only were hearing it said, &#8220;He who used to persecute us is now preaching the faith he once tried to destroy.&#8221; </span></span><span class=\"verse v24\" data-usfm=\"GAL.1.24\"><span class=\"label\">24</span><span class=\"content\">And they glorified God because of me.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, an apostle—not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "and all the brothers who are with me,",
+            "To the churches of Galatia:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Grace to you and peace from God our Father and the Lord Jesus Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "who gave himself for our sins to deliver us from the present evil age, according to the will of our God and Father,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "to whom be the glory forever and ever. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "No Other Gospel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "not that there is another one, but there are some who trouble you and want to distort the gospel of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul Called by God"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For I would have you know, brothers, that the gospel that was preached by me is not man’s gospel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For you have heard of my former life in Judaism, how I persecuted the church of God violently and tried to destroy it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And I was advancing in Judaism beyond many of my own age among my people, so extremely zealous was I for the traditions of my fathers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "But when he who had set me apart before I was born, and who called me by his grace,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "was pleased to reveal his Son to me, in order that I might preach him among the Gentiles, I did not immediately consult with anyone;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "But I saw none of the other apostles except James the Lord’s brother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "(In what I am writing to you, before God, I do not lie!)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Then I went into the regions of Syria and Cilicia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "And I was still unknown in person to the churches of Judea that are in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "They only were hearing it said, “He who used to persecute us is now preaching the faith he once tried to destroy.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "And they glorified God because of me."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.2"
+        ],
+        "human": "Galatians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.3"
+        ],
+        "human": "Galatians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.1"
+        ],
+        "human": "Galatians 1",
+        "toc": true
+      },
+      "chapter_text": "Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me. I went up because of a revelation and set before them (though privately before those who seemed influential) the gospel that I proclaim among the Gentiles, in order to make sure I was not running or had not run in vain. But even Titus, who was with me, was not forced to be circumcised, though he was a Greek. Yet because of false brothers secretly brought in—who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery— to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you. And from those who seemed to be influential (what they were makes no difference to me; God shows no partiality)—those, I say, who seemed influential added nothing to me. On the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised (for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles), and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised. Only, they asked us to remember the poor, the very thing I was eager to do.\n\nBut when Cephas came to Antioch, I opposed him to his face, because he stood condemned. For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party. And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy. But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, “If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?”\n\nWe ourselves are Jews by birth and not Gentile sinners; yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.\nBut if, in our endeavor to be justified in Christ, we too were found to be sinners, is Christ then a servant of sin? Certainly not! For if I rebuild what I tore down, I prove myself to be a transgressor. For through the law I died to the law, so that I might live to God. I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me. I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch2\" data-usfm=\"GAL.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Paul Accepted by the Apostles</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.2.1\"><span class=\"label\">1</span><span class=\"content\">Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me. </span></span><span class=\"verse v2\" data-usfm=\"GAL.2.2\"><span class=\"label\">2</span><span class=\"content\">I went up because of a revelation and set before them (though privately before those </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 6, 9 </span></span><span class=\"content\">who seemed influential) the gospel that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 3:16 </span></span><span class=\"content\">I proclaim among the Gentiles, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:11; 1 Thess. 3:5 </span></span><span class=\"content\">in order to make sure I was not running or had not </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 2:16</span></span><span class=\"content\">run in vain. </span></span><span class=\"verse v3\" data-usfm=\"GAL.2.3\"><span class=\"label\">3</span><span class=\"content\">But even Titus, who was with me, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 16:3]</span></span><span class=\"content\">was not forced to be circumcised, though he was a Greek. </span></span><span class=\"verse v4\" data-usfm=\"GAL.2.4\"><span class=\"label\">4</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 15:24; 2 Cor. 11:26; [ch. 5:12] </span></span><span class=\"content\">Yet because of false brothers secretly brought in&#8212;who </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Pet. 2:1; Jude 4] </span></span><span class=\"content\">slipped in to spy out </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 5:1 </span></span><span class=\"content\">our freedom that we have in Christ Jesus, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:3, 9, 24, 25; 2 Cor. 11:20; [Rom. 8:15]</span></span><span class=\"content\">so that they might bring us into slavery&#8212; </span></span><span class=\"verse v5\" data-usfm=\"GAL.2.5\"><span class=\"label\">5</span><span class=\"content\">to them we did not yield in submission even for a moment, so that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 14; [ch. 4:16; 5:7; Titus 1:14; 2 John 1]</span></span><span class=\"content\">the truth of the gospel might be preserved for you. </span></span><span class=\"verse v6\" data-usfm=\"GAL.2.6\"><span class=\"label\">6</span><span class=\"content\">And from those </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 2, 9; [ch. 6:3; Acts 5:36]; See 1 Cor. 3:7 </span></span><span class=\"content\">who seemed to be influential (what they were makes no difference to me; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Deut. 10:17 </span></span><span class=\"content\">God shows no partiality)&#8212;those, I say, who seemed influential </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Cor. 11:5; 12:11]</span></span><span class=\"content\">added nothing to me. </span></span><span class=\"verse v7\" data-usfm=\"GAL.2.7\"><span class=\"label\">7</span><span class=\"content\">On the contrary, when they saw that I had been </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Thess. 2:4; 1 Tim. 1:11; See 1 Cor. 9:17 </span></span><span class=\"content\">entrusted with </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:16; See Acts 9:15</span></span><span class=\"content\">the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised </span></span><span class=\"verse v8\" data-usfm=\"GAL.2.8\"><span class=\"label\">8</span><span class=\"content\">(for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles), </span></span><span class=\"verse v9\" data-usfm=\"GAL.2.9\"><span class=\"label\">9</span><span class=\"content\">and when James and Cephas and John, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[See ver. 6 above] </span></span><span class=\"content\">who seemed to be </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Jer. 1:18; Rev. 3:12 </span></span><span class=\"content\">pillars, perceived the </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 1:5 </span></span><span class=\"content\">grace that was given to me, they </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Pet. 3:15]</span></span><span class=\"content\">gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised. </span></span><span class=\"verse v10\" data-usfm=\"GAL.2.10\"><span class=\"label\">10</span><span class=\"content\">Only, they asked us to remember the poor, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 24:17</span></span><span class=\"content\">the very thing I was eager to do.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul Opposes Peter</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"GAL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.2.11\"><span class=\"label\">11</span><span class=\"content\">But </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Acts 15:1, 35] </span></span><span class=\"content\">when Cephas came to Antioch, I opposed him </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Job 21:31</span></span><span class=\"content\">to his face, because he stood condemned. </span></span><span class=\"verse v12\" data-usfm=\"GAL.2.12\"><span class=\"label\">12</span><span class=\"content\">For before certain men came from James, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 11:3; [ver. 14; Acts 10:28]; See Luke 15:2 </span></span><span class=\"content\">he was eating with the Gentiles; but when they came he drew back and separated himself, fearing </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 11:2</span></span><span class=\"content\">the circumcision party.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">Or </span><span class=\"fq\">fearing those of the circumcision</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"GAL.2.13\"><span class=\"label\">13</span><span class=\"content\">And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy. </span></span><span class=\"verse v14\" data-usfm=\"GAL.2.14\"><span class=\"label\">14</span><span class=\"content\">But when I saw that their </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Heb. 12:13 </span></span><span class=\"content\">conduct was not in step with </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ver. 5 </span></span><span class=\"content\">the truth of the gospel, I said to Cephas </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 5:20 </span></span><span class=\"content\">before them all, &#8220;If you, though a Jew, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ver. 12</span></span><span class=\"content\">live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Justified by Faith</span></div><div class=\"m\"><span class=\"verse v14\" data-usfm=\"GAL.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"GAL.2.15\"><span class=\"label\">15</span><span class=\"content\">We ourselves are Jews by birth and not </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 17; [Eph. 2:3, 12]</span></span><span class=\"content\">Gentile sinners; </span></span><span class=\"verse v16\" data-usfm=\"GAL.2.16\"><span class=\"label\">16</span><span class=\"content\">yet we know that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:11; See Acts 13:39 </span></span><span class=\"content\">a person is not justified</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"ft\">Or </span><span class=\"fq\">counted righteous </span><span class=\"ft\">(three times in verse 16); also verse 17</span></span></span><span class=\"content\"> by works of the law </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 9:30 </span></span><span class=\"content\">but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 3:20; [Ps. 143:2]</span></span><span class=\"content\">because by works of the law no one will be justified.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"GAL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.2.17\"><span class=\"label\">17</span><span class=\"content\">But if, in our endeavor to be justified in Christ, we too were found </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 15</span></span><span class=\"content\">to be sinners, is Christ then a servant of sin? Certainly not! </span></span><span class=\"verse v18\" data-usfm=\"GAL.2.18\"><span class=\"label\">18</span><span class=\"content\">For if I rebuild what I tore down, I prove myself to be a transgressor. </span></span><span class=\"verse v19\" data-usfm=\"GAL.2.19\"><span class=\"label\">19</span><span class=\"content\">For through the law I </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 6:2; 7:4 </span></span><span class=\"content\">died to the law, so that I might </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Luke 20:38; Rom. 6:11; 14:7, 8; 2 Cor. 5:15; 1 Thess. 5:10; Heb. 9:14; 1 Pet. 4:2</span></span><span class=\"content\">live to God. </span></span><span class=\"verse v20\" data-usfm=\"GAL.2.20\"><span class=\"label\">20</span><span class=\"content\">I have been </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 5:24; 6:14; Rom. 6:6 </span></span><span class=\"content\">crucified with Christ. It is no longer I who live, but Christ who lives </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See John 17:23 </span></span><span class=\"content\">in me. And the life I now live in the flesh I live by faith in the Son of God, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 8:37 </span></span><span class=\"content\">who loved me and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 1:4</span></span><span class=\"content\">gave himself for me. </span></span><span class=\"verse v21\" data-usfm=\"GAL.2.21\"><span class=\"label\">21</span><span class=\"content\">I do not nullify the grace of God, for </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 3:21; Heb. 7:11] </span></span><span class=\"content\">if righteousness</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:21 </span><span class=\"ft\">Or </span><span class=\"fq\">justification</span></span></span><span class=\"content\"> were through the law, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 5:4]</span></span><span class=\"content\">then Christ died for no purpose.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul Accepted by the Apostles"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I went up because of a revelation and set before them (though privately before those who seemed influential) the gospel that I proclaim among the Gentiles, in order to make sure I was not running or had not run in vain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "But even Titus, who was with me, was not forced to be circumcised, though he was a Greek."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Yet because of false brothers secretly brought in—who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And from those who seemed to be influential (what they were makes no difference to me; God shows no partiality)—those, I say, who seemed influential added nothing to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "On the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "(for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles),"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Only, they asked us to remember the poor, the very thing I was eager to do."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul Opposes Peter"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "But when Cephas came to Antioch, I opposed him to his face, because he stood condemned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, “If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Justified by Faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "We ourselves are Jews by birth and not Gentile sinners;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "yet we know that a person is not justified by works of the law but through faith in Jesus Christ, so we also have believed in Christ Jesus, in order to be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But if, in our endeavor to be justified in Christ, we too were found to be sinners, is Christ then a servant of sin? Certainly not!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For if I rebuild what I tore down, I prove myself to be a transgressor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "For through the law I died to the law, so that I might live to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.3"
+        ],
+        "human": "Galatians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.4"
+        ],
+        "human": "Galatians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.2"
+        ],
+        "human": "Galatians 2",
+        "toc": true
+      },
+      "chapter_text": "O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified. Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith? Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh? Did you suffer so many things in vain—if indeed it was in vain? Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith— just as Abraham “believed God, and it was counted to him as righteousness”?\nKnow then that it is those of faith who are the sons of Abraham. And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, “In you shall all the nations be blessed.” So then, those who are of faith are blessed along with Abraham, the man of faith.\n\nFor all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.” Now it is evident that no one is justified before God by the law, for “The righteous shall live by faith.” But the law is not of faith, rather “The one who does them shall live by them.” Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who is hanged on a tree”— so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.\n\nTo give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified. Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ. This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void. For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise.\nWhy then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary. Now an intermediary implies more than one, but God is one.\nIs the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law. But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.\nNow before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed. So then, the law was our guardian until Christ came, in order that we might be justified by faith. But now that faith has come, we are no longer under a guardian, for in Christ Jesus you are all sons of God, through faith. For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. And if you are Christ’s, then you are Abraham’s offspring, heirs according to promise.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch3\" data-usfm=\"GAL.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">By Faith, or by Works of the Law?</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.3.1\"><span class=\"label\">1</span><span class=\"content\">O foolish Galatians! Who has bewitched you? </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Num. 21:9] </span></span><span class=\"content\">It was before your eyes that Jesus Christ was publicly </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 1:23]</span></span><span class=\"content\">portrayed as crucified. </span></span><span class=\"verse v2\" data-usfm=\"GAL.3.2\"><span class=\"label\">2</span><span class=\"content\">Let me ask you only this: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 14; Eph. 1:13; Heb. 6:4; See Acts 15:8 </span></span><span class=\"content\">Did you receive the Spirit by works of the law or by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 10:17</span></span><span class=\"content\">hearing with faith? </span></span><span class=\"verse v3\" data-usfm=\"GAL.3.3\"><span class=\"label\">3</span><span class=\"content\">Are you so foolish? </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 1:6; [ch. 4:9]</span></span><span class=\"content\">Having begun by the Spirit, are you now being perfected by</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Or </span><span class=\"fq\">now ending with</span></span></span><span class=\"content\"> the flesh? </span></span><span class=\"verse v4\" data-usfm=\"GAL.3.4\"><span class=\"label\">4</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 15:2; [Heb. 10:35; 2 John 8]</span></span><span class=\"content\">Did you suffer</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:4 </span><span class=\"ft\">Or </span><span class=\"fq\">experience</span></span></span><span class=\"content\"> so many things in vain&#8212;if indeed it was in vain? </span></span><span class=\"verse v5\" data-usfm=\"GAL.3.5\"><span class=\"label\">5</span><span class=\"content\">Does he who supplies the Spirit to you and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 12:10] </span></span><span class=\"content\">works miracles among you do so </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 2</span></span><span class=\"content\">by works of the law, or by hearing with faith&#8212; </span></span><span class=\"verse v6\" data-usfm=\"GAL.3.6\"><span class=\"label\">6</span><span class=\"content\">just as </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Gen. 15:6; [Rom. 4:9, 21, 22]; See Rom. 4:3</span></span><span class=\"content\">Abraham &#8220;believed God, and it was counted to him as righteousness&#8221;?</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"GAL.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"GAL.3.7\"><span class=\"label\">7</span><span class=\"content\">Know then that it is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 9 </span></span><span class=\"content\">those of faith who are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Luke 19:9</span></span><span class=\"content\">the sons of Abraham. </span></span><span class=\"verse v8\" data-usfm=\"GAL.3.8\"><span class=\"label\">8</span><span class=\"content\">And the Scripture, foreseeing that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 3:30 </span></span><span class=\"content\">God would justify</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Or </span><span class=\"fq\">count righteous</span><span class=\"ft\">; also verses 11, 24</span></span></span><span class=\"content\"> the Gentiles by faith, preached the gospel beforehand to Abraham, saying, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Gen. 12:3</span></span><span class=\"content\">&#8220;In you shall all the nations be blessed.&#8221; </span></span><span class=\"verse v9\" data-usfm=\"GAL.3.9\"><span class=\"label\">9</span><span class=\"content\">So then, those who are of faith are blessed along with Abraham, the man of faith.</span></span></div><div class=\"s1\"><span class=\"heading\">The Righteous Shall Live by Faith</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"GAL.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"GAL.3.10\"><span class=\"label\">10</span><span class=\"content\">For all who rely on works of the law are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 5:4]; See Rom. 4:15 </span></span><span class=\"content\">under a curse; for it is written, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Deut. 27:26; [Jer. 11:3; Ezek. 18:4] </span></span><span class=\"content\">&#8220;Cursed be everyone who does not </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Matt. 5:19]</span></span><span class=\"content\">abide by all things written in the Book of the Law, and do them.&#8221; </span></span><span class=\"verse v11\" data-usfm=\"GAL.3.11\"><span class=\"label\">11</span><span class=\"content\">Now it is evident that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:16 </span></span><span class=\"content\">no one is justified before God by the law, for </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 1:17; Heb. 10:38; Cited from Hab. 2:4</span></span><span class=\"content\">&#8220;The righteous shall live by faith.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"ft\">Or </span><span class=\"fq\">The one who by faith is righteous will live</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"GAL.3.12\"><span class=\"label\">12</span><span class=\"content\">But the law is not of faith, rather </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Lev. 18:5; See Rom. 10:5</span></span><span class=\"content\">&#8220;The one who does them shall live by them.&#8221; </span></span><span class=\"verse v13\" data-usfm=\"GAL.3.13\"><span class=\"label\">13</span><span class=\"content\">Christ </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:5; [Rev. 22:3]; See 2 Pet. 2:1 </span></span><span class=\"content\">redeemed us from the curse of the law by becoming a curse for us&#8212;for it is written, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Deut. 21:23 </span></span><span class=\"content\">&#8220;Cursed is everyone who is hanged </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 5:30</span></span><span class=\"content\">on a tree&#8221;&#8212; </span></span><span class=\"verse v14\" data-usfm=\"GAL.3.14\"><span class=\"label\">14</span><span class=\"content\">so that in Christ Jesus the blessing of Abraham might </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 4:9, 16; [ver. 28] </span></span><span class=\"content\">come to the Gentiles, so that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 2 </span></span><span class=\"content\">we might receive </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 2:33; [Isa. 32:15; 44:3; Joel 2:28; John 7:39; Eph. 1:13]</span></span><span class=\"content\">the promised Spirit</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">Greek </span><span class=\"fq\">receive the promise of the Spirit</span></span></span><span class=\"content\"> through faith.</span></span></div><div class=\"s1\"><span class=\"heading\">The Law and the Promise</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"GAL.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"GAL.3.15\"><span class=\"label\">15</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    See Rom. 3:5   </span></span><span class=\"content\">To give a human example, brothers:</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"ft\">Or </span><span class=\"fq\">brothers and sisters</span></span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Heb. 9:17]</span></span><span class=\"content\">even with a man-made covenant, no one annuls it or adds to it once it has been ratified. </span></span><span class=\"verse v16\" data-usfm=\"GAL.3.16\"><span class=\"label\">16</span><span class=\"content\">Now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 4:13, 16; See Luke 1:55 </span></span><span class=\"content\">the promises were made </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gen. 12:7; Acts 13:32 </span></span><span class=\"content\">to Abraham and to his offspring. It does not say, &#8220;And to offsprings,&#8221; referring to many, but referring to one, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 3:25</span></span><span class=\"content\">&#8220;And to your offspring,&#8221; who is Christ. </span></span><span class=\"verse v17\" data-usfm=\"GAL.3.17\"><span class=\"label\">17</span><span class=\"content\">This is what I mean: the law, which came </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ex. 12:40, 41; [Gen. 15:13; Acts 7:6] </span></span><span class=\"content\">430 years afterward, does not annul a covenant previously ratified by God, so as </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 4:14</span></span><span class=\"content\">to make the promise void. </span></span><span class=\"verse v18\" data-usfm=\"GAL.3.18\"><span class=\"label\">18</span><span class=\"content\">For if the inheritance comes by the law, it no longer comes by promise; but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Heb. 6:13, 14]</span></span><span class=\"content\">God gave it to Abraham by a promise.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"GAL.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"GAL.3.19\"><span class=\"label\">19</span><span class=\"content\">Why then the law? </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 4:15] </span></span><span class=\"content\">It was added because of transgressions, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 16 </span></span><span class=\"content\">until the offspring should come to whom the promise had been made, and it was </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 7:53; Heb. 2:2 </span></span><span class=\"content\">put in place through angels </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ex. 20:19, 21, 22; Deut. 5:5, 22, 23, 27, 31; Acts 7:38</span></span><span class=\"content\">by an intermediary. </span></span><span class=\"verse v20\" data-usfm=\"GAL.3.20\"><span class=\"label\">20</span><span class=\"content\">Now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 2:5; Heb. 8:6; 9:15; 12:24; [Heb. 6:17] </span></span><span class=\"content\">an intermediary implies more than one, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 3:30</span></span><span class=\"content\">God is one.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"GAL.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"GAL.3.21\"><span class=\"label\">21</span><span class=\"content\">Is the law then contrary to the promises of God? Certainly not! For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:21</span></span><span class=\"content\">if a law had been given that could give life, then righteousness would indeed be by the law. </span></span><span class=\"verse v22\" data-usfm=\"GAL.3.22\"><span class=\"label\">22</span><span class=\"content\">But the Scripture </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 11:32; See Rom. 3:9 </span></span><span class=\"content\">imprisoned everything under sin, so that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 4:16 </span></span><span class=\"content\">the promise by faith in Jesus Christ might be given </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 10:43</span></span><span class=\"content\">to those who believe.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"GAL.3.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"GAL.3.23\"><span class=\"label\">23</span><span class=\"content\">Now before faith came, we were held captive under the law, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Pet. 1:5]</span></span><span class=\"content\">imprisoned until the coming faith would be revealed. </span></span><span class=\"verse v24\" data-usfm=\"GAL.3.24\"><span class=\"label\">24</span><span class=\"content\">So then, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Matt. 5:17; Rom. 10:4; Col. 2:17; Heb. 9:9, 10] </span></span><span class=\"content\">the law was our </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 4:15 (Gk.) </span></span><span class=\"content\">guardian until Christ came, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 11; See ch. 2:16</span></span><span class=\"content\">in order that we might be justified by faith. </span></span><span class=\"verse v25\" data-usfm=\"GAL.3.25\"><span class=\"label\">25</span><span class=\"content\">But now that faith has come, we are no longer under a guardian, </span></span><span class=\"verse v26\" data-usfm=\"GAL.3.26\"><span class=\"label\">26</span><span class=\"content\">for in Christ Jesus </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:5, 6; [John 1:12]; See Rom. 8:14-16</span></span><span class=\"content\">you are all sons of God, through faith. </span></span><span class=\"verse v27\" data-usfm=\"GAL.3.27\"><span class=\"label\">27</span><span class=\"content\">For as many of you as </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 6:3 </span></span><span class=\"content\">were baptized </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Acts 8:16 </span></span><span class=\"content\">into Christ have </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 13:14</span></span><span class=\"content\">put on Christ. </span></span><span class=\"verse v28\" data-usfm=\"GAL.3.28\"><span class=\"label\">28</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 14; ch. 5:6; 6:15]; See Rom. 3:30; 1 Cor. 12:13 </span></span><span class=\"content\">There is neither Jew nor Greek, there is neither slave</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:28 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">doulos</span><span class=\"ft\">, see Preface</span></span></span><span class=\"content\"> nor free, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 11:11</span></span><span class=\"content\">there is no male and female, for you are all one in Christ Jesus. </span></span><span class=\"verse v29\" data-usfm=\"GAL.3.29\"><span class=\"label\">29</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 9:7; 1 Cor. 3:23 </span></span><span class=\"content\">if you are Christ&#8217;s, then you are Abraham&#8217;s offspring, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:1, 7; Rom. 8:17; Eph. 3:6; [ch. 4:28; 2 Tim. 1:1; Titus 1:2; Heb. 9:15]</span></span><span class=\"content\">heirs according to promise.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "By Faith, or by Works of the Law?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Did you suffer so many things in vain—if indeed it was in vain?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "just as Abraham “believed God, and it was counted to him as righteousness”?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Know then that it is those of faith who are the sons of Abraham."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, “In you shall all the nations be blessed.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "So then, those who are of faith are blessed along with Abraham, the man of faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Righteous Shall Live by Faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Now it is evident that no one is justified before God by the law, for “The righteous shall live by faith.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But the law is not of faith, rather “The one who does them shall live by them.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who is hanged on a tree”—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Law and the Promise"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Now an intermediary implies more than one, but God is one."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Now before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "So then, the law was our guardian until Christ came, in order that we might be justified by faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "But now that faith has come, we are no longer under a guardian,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "for in Christ Jesus you are all sons of God, through faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "For as many of you as were baptized into Christ have put on Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "And if you are Christ’s, then you are Abraham’s offspring, heirs according to promise."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.4"
+        ],
+        "human": "Galatians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.5"
+        ],
+        "human": "Galatians 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.3"
+        ],
+        "human": "Galatians 3",
+        "toc": true
+      },
+      "chapter_text": "I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything, but he is under guardians and managers until the date set by his father. In the same way we also, when we were children, were enslaved to the elementary principles of the world. But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons. And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!” So you are no longer a slave, but a son, and if a son, then an heir through God.\n\nFormerly, when you did not know God, you were enslaved to those that by nature are not gods. But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more? You observe days and months and seasons and years! I am afraid I may have labored over you in vain.\nBrothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong. You know it was because of a bodily ailment that I preached the gospel to you at first, and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus. What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me. Have I then become your enemy by telling you the truth? They make much of you, but for no good purpose. They want to shut you out, that you may make much of them. It is always good to be made much of for a good purpose, and not only when I am present with you, my little children, for whom I am again in the anguish of childbirth until Christ is formed in you! I wish I could be present with you now and change my tone, for I am perplexed about you.\n\nTell me, you who desire to be under the law, do you not listen to the law? For it is written that Abraham had two sons, one by a slave woman and one by a free woman. But the son of the slave was born according to the flesh, while the son of the free woman was born through promise. Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar. Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children. But the Jerusalem above is free, and she is our mother. For it is written,\n\n“Rejoice, O barren one who does not bear;\nbreak forth and cry aloud, you who are not in labor!\nFor the children of the desolate one will be more\nthan those of the one who has a husband.”\n\nNow you, brothers, like Isaac, are children of promise. But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now. But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.” So, brothers, we are not children of the slave but of the free woman.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch4\" data-usfm=\"GAL.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Sons and Heirs</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.4.1\"><span class=\"label\">1</span><span class=\"content\">I mean that the heir, as long as he is a child, is no different from a slave,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:1 </span><span class=\"ft\">For the contextual rendering of the Greek word </span><span class=\"fq\">doulos</span><span class=\"ft\">, see Preface; also verse 7</span></span></span><span class=\"content\"> though he is the owner of everything, </span></span><span class=\"verse v2\" data-usfm=\"GAL.4.2\"><span class=\"label\">2</span><span class=\"content\">but he is under guardians and managers until the date set by his father. </span></span><span class=\"verse v3\" data-usfm=\"GAL.4.3\"><span class=\"label\">3</span><span class=\"content\">In the same way we also, when we were children, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:4</span></span><span class=\"content\">were enslaved to the elementary principles</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:3 </span><span class=\"ft\">Or </span><span class=\"fq\">elemental spirits</span><span class=\"ft\">; also verse 9</span></span></span><span class=\"content\"> of the world. </span></span><span class=\"verse v4\" data-usfm=\"GAL.4.4\"><span class=\"label\">4</span><span class=\"content\">But </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Tim. 2:6]; See Mark 1:15 </span></span><span class=\"content\">when the fullness of time had come, God sent forth his Son, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 2:7; See John 1:14 </span></span><span class=\"content\">born </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Tim. 2:15]; See Gen. 3:15 </span></span><span class=\"content\">of woman, born </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Luke 2:21, 22, 27]</span></span><span class=\"content\">under the law, </span></span><span class=\"verse v5\" data-usfm=\"GAL.4.5\"><span class=\"label\">5</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 3:13 </span></span><span class=\"content\">to redeem those who were under the law, so that we might receive </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:26; See Rom. 8:15</span></span><span class=\"content\">adoption as sons. </span></span><span class=\"verse v6\" data-usfm=\"GAL.4.6\"><span class=\"label\">6</span><span class=\"content\">And because you are sons, God has sent </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 5:5; 2 Cor. 3:17]; See Acts 16:7</span></span><span class=\"content\">the Spirit of his Son into our hearts, crying, &#8220;Abba! Father!&#8221; </span></span><span class=\"verse v7\" data-usfm=\"GAL.4.7\"><span class=\"label\">7</span><span class=\"content\">So you are no longer a slave, but a son, and if a son, then </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 3:29</span></span><span class=\"content\">an heir through God.</span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Concern for the Galatians</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"GAL.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"GAL.4.8\"><span class=\"label\">8</span><span class=\"content\">Formerly, when you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 1:21; 1 Thess. 4:5; 2 Thess. 1:8; 1 John 4:8 </span></span><span class=\"content\">did not know God, you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 2:11, 12; 1 Thess. 1:9] </span></span><span class=\"content\">were enslaved to those that by nature </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Chr. 13:9; Isa. 37:19; Jer. 2:11; 5:7; 16:20; [1 Cor. 8:4]</span></span><span class=\"content\">are not gods. </span></span><span class=\"verse v9\" data-usfm=\"GAL.4.9\"><span class=\"label\">9</span><span class=\"content\">But now that you have come to know God, or rather </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Cor. 8:3 </span></span><span class=\"content\">to be known by God, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 3:3] </span></span><span class=\"content\">how can you turn back again to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 8:3; Heb. 7:18</span></span><span class=\"content\">the weak and worthless elementary principles of the world, whose slaves you want to be once more? </span></span><span class=\"verse v10\" data-usfm=\"GAL.4.10\"><span class=\"label\">10</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 14:5; Col. 2:16</span></span><span class=\"content\">You observe days and months and seasons and years! </span></span><span class=\"verse v11\" data-usfm=\"GAL.4.11\"><span class=\"label\">11</span><span class=\"content\">I am afraid </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:2; 5:2, 4; 1 Thess. 3:5</span></span><span class=\"content\">I may have labored over you in vain.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"GAL.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"GAL.4.12\"><span class=\"label\">12</span><span class=\"content\">Brothers,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:12 </span><span class=\"ft\">Or </span><span class=\"fq\">Brothers and sisters</span><span class=\"ft\">; also verses 28, 31</span></span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Cor. 6:13] </span></span><span class=\"content\">I entreat you, become as I am, for I also have become as you are. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[2 Cor. 2:5]</span></span><span class=\"content\">You did me no wrong. </span></span><span class=\"verse v13\" data-usfm=\"GAL.4.13\"><span class=\"label\">13</span><span class=\"content\">You know it was </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Cor. 2:3 </span></span><span class=\"content\">because of a bodily ailment that I preached the gospel to you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 1:6]</span></span><span class=\"content\">at first, </span></span><span class=\"verse v14\" data-usfm=\"GAL.4.14\"><span class=\"label\">14</span><span class=\"content\">and though my condition was a trial to you, you did not scorn or despise me, but received me </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Sam. 29:9; [Mal. 2:7 (Gk.); 2 Cor. 5:20] </span></span><span class=\"content\">as an angel of God, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Matt. 10:40</span></span><span class=\"content\">as Christ Jesus. </span></span><span class=\"verse v15\" data-usfm=\"GAL.4.15\"><span class=\"label\">15</span><span class=\"content\">What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me. </span></span><span class=\"verse v16\" data-usfm=\"GAL.4.16\"><span class=\"label\">16</span><span class=\"content\">Have I then become your enemy by </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:5</span></span><span class=\"content\">telling you the truth?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:16 </span><span class=\"ft\">Or </span><span class=\"fq\">by dealing truthfully with you</span></span></span><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.4.17\"><span class=\"label\">17</span><span class=\"content\">They make much of you, but for no good purpose. They want to shut you out, that you may make much of them. </span></span><span class=\"verse v18\" data-usfm=\"GAL.4.18\"><span class=\"label\">18</span><span class=\"content\">It is always good to be made much of for a good purpose, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 13]</span></span><span class=\"content\">not only when I am present with you, </span></span><span class=\"verse v19\" data-usfm=\"GAL.4.19\"><span class=\"label\">19</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 4:15; Philem. 10] </span></span><span class=\"content\">my little children, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[James 1:18] </span></span><span class=\"content\">for whom I am again in the anguish of childbirth until Christ </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 8:10</span></span><span class=\"content\">is formed in you! </span></span><span class=\"verse v20\" data-usfm=\"GAL.4.20\"><span class=\"label\">20</span><span class=\"content\">I wish I could be present with you now and change my tone, for I am perplexed about you.</span></span></div><div class=\"s1\"><span class=\"heading\">Example of Hagar and Sarah</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"GAL.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"GAL.4.21\"><span class=\"label\">21</span><span class=\"content\">Tell me, you who desire to be under the law, do you not listen to the law? </span></span><span class=\"verse v22\" data-usfm=\"GAL.4.22\"><span class=\"label\">22</span><span class=\"content\">For it is written that Abraham had two sons, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gen. 16:5 </span></span><span class=\"content\">one by a slave woman and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gen. 21:2</span></span><span class=\"content\">one by a free woman. </span></span><span class=\"verse v23\" data-usfm=\"GAL.4.23\"><span class=\"label\">23</span><span class=\"content\">But </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 29; [Rom. 9:7] </span></span><span class=\"content\">the son of the slave was born according to the flesh, while </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 28; Gen. 17:16-19; 18:10, 14; 21:1, 2; Heb. 11:11</span></span><span class=\"content\">the son of the free woman was born through promise. </span></span><span class=\"verse v24\" data-usfm=\"GAL.4.24\"><span class=\"label\">24</span><span class=\"content\">Now this may be interpreted allegorically: these women are two </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 9:4 </span></span><span class=\"content\">covenants. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Deut. 33:2</span></span><span class=\"content\">One is from Mount Sinai, bearing children for slavery; she is Hagar. </span></span><span class=\"verse v25\" data-usfm=\"GAL.4.25\"><span class=\"label\">25</span><span class=\"content\">Now Hagar is Mount Sinai in Arabia;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:25 </span><span class=\"ft\">Some manuscripts </span><span class=\"fq\">For Sinai is a mountain in Arabia</span></span></span><span class=\"content\"> she corresponds to the present Jerusalem, for she is in slavery with her children. </span></span><span class=\"verse v26\" data-usfm=\"GAL.4.26\"><span class=\"label\">26</span><span class=\"content\">But </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Heb. 12:22; Rev. 3:12; 21:2, 10]</span></span><span class=\"content\">the Jerusalem above is free, and she is our mother. </span></span><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"label\">27</span><span class=\"content\">For it is written,</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    Cited from Isa. 54:1  </span></span><span class=\"content\">&#8220;Rejoice, O barren one who does not bear;</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">break forth and cry aloud, you who are not in labor!</span></span></div><div class=\"q1\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">For the children of the desolate one will be more</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">than those of the one who has a husband.&#8221;</span></span></div><div class=\"b\"></div><div class=\"m\"><span class=\"verse v27\" data-usfm=\"GAL.4.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"GAL.4.28\"><span class=\"label\">28</span><span class=\"content\">Now you,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:28 </span><span class=\"ft\">Some manuscripts </span><span class=\"fq\">we</span></span></span><span class=\"content\"> brothers, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ver. 23 </span></span><span class=\"content\">like Isaac, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 9:8; See ch. 3:29</span></span><span class=\"content\">are children of promise. </span></span><span class=\"verse v29\" data-usfm=\"GAL.4.29\"><span class=\"label\">29</span><span class=\"content\">But just as at that time he who was born according to the flesh </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Gen. 21:9 </span></span><span class=\"content\">persecuted him who was born according to the Spirit, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 5:11</span></span><span class=\"content\">so also it is now. </span></span><span class=\"verse v30\" data-usfm=\"GAL.4.30\"><span class=\"label\">30</span><span class=\"content\">But what does the Scripture say? </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Gen. 21:10; [John 8:35]</span></span><span class=\"content\">&#8220;Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.&#8221; </span></span><span class=\"verse v31\" data-usfm=\"GAL.4.31\"><span class=\"label\">31</span><span class=\"content\">So, brothers, we are not children of the slave but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Pet. 3:6]</span></span><span class=\"content\">of the free woman.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Sons and Heirs"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "but he is under guardians and managers until the date set by his father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "In the same way we also, when we were children, were enslaved to the elementary principles of the world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "to redeem those who were under the law, so that we might receive adoption as sons."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "So you are no longer a slave, but a son, and if a son, then an heir through God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Concern for the Galatians"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Formerly, when you did not know God, you were enslaved to those that by nature are not gods."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "You observe days and months and seasons and years!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I am afraid I may have labored over you in vain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "You know it was because of a bodily ailment that I preached the gospel to you at first,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Have I then become your enemy by telling you the truth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "They make much of you, but for no good purpose. They want to shut you out, that you may make much of them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "It is always good to be made much of for a good purpose, and not only when I am present with you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "I wish I could be present with you now and change my tone, for I am perplexed about you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Example of Hagar and Sarah"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Tell me, you who desire to be under the law, do you not listen to the law?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "For it is written that Abraham had two sons, one by a slave woman and one by a free woman."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "But the son of the slave was born according to the flesh, while the son of the free woman was born through promise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "But the Jerusalem above is free, and she is our mother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "For it is written,",
+            "“Rejoice, O barren one who does not bear;",
+            "break forth and cry aloud, you who are not in labor!",
+            "For the children of the desolate one will be more",
+            "than those of the one who has a husband.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Now you, brothers, like Isaac, are children of promise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "But just as at that time he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not inherit with the son of the free woman.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "So, brothers, we are not children of the slave but of the free woman."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.5"
+        ],
+        "human": "Galatians 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Galatians 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.4"
+        ],
+        "human": "Galatians 4",
+        "toc": true
+      },
+      "chapter_text": "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery.\nLook: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you. I testify again to every man who accepts circumcision that he is obligated to keep the whole law. You are severed from Christ, you who would be justified by the law; you have fallen away from grace. For through the Spirit, by faith, we ourselves eagerly wait for the hope of righteousness. For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love.\nYou were running well. Who hindered you from obeying the truth? This persuasion is not from him who calls you. A little leaven leavens the whole lump. I have confidence in the Lord that you will take no other view, and the one who is troubling you will bear the penalty, whoever he is. But if I, brothers, still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed. I wish those who unsettle you would emasculate themselves!\nFor you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. For the whole law is fulfilled in one word: “You shall love your neighbor as yourself.” But if you bite and devour one another, watch out that you are not consumed by one another.\n\nBut I say, walk by the Spirit, and you will not gratify the desires of the flesh. For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do. But if you are led by the Spirit, you are not under the law. Now the works of the flesh are evident: sexual immorality, impurity, sensuality, idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God. But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law. And those who belong to Christ Jesus have crucified the flesh with its passions and desires.\nIf we live by the Spirit, let us also keep in step with the Spirit. Let us not become conceited, provoking one another, envying one another.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch5\" data-usfm=\"GAL.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">Christ Has Set Us Free</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.5.1\"><span class=\"label\">1</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 13; ch. 2:4; See James 1:25 </span></span><span class=\"content\">freedom Christ has </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See John 8:32 </span></span><span class=\"content\">set us free; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Cor. 16:13 </span></span><span class=\"content\">stand firm therefore, and do not submit again to </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 15:10 </span></span><span class=\"content\">a yoke of </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:4</span></span><span class=\"content\">slavery.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"GAL.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"GAL.5.2\"><span class=\"label\">2</span><span class=\"content\">Look: I, Paul, say to you that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 3, 11; Acts 15:1; 1 Cor. 7:18 </span></span><span class=\"content\">if you accept circumcision, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 4:11</span></span><span class=\"content\">Christ will be of no advantage to you. </span></span><span class=\"verse v3\" data-usfm=\"GAL.5.3\"><span class=\"label\">3</span><span class=\"content\">I testify again to every man who accepts circumcision that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 2:25</span></span><span class=\"content\">he is obligated to keep the whole law. </span></span><span class=\"verse v4\" data-usfm=\"GAL.5.4\"><span class=\"label\">4</span><span class=\"content\">You are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 7:6 (Gk.) </span></span><span class=\"content\">severed from Christ, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:21; 3:10; Rom. 9:31, 32] </span></span><span class=\"content\">you who would be justified</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:4 </span><span class=\"ft\">Or </span><span class=\"fq\">counted righteous</span></span></span><span class=\"content\"> by the law; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Heb. 12:15; 2 Pet. 3:17]</span></span><span class=\"content\">you have fallen away from grace. </span></span><span class=\"verse v5\" data-usfm=\"GAL.5.5\"><span class=\"label\">5</span><span class=\"content\">For through the Spirit, by faith, we ourselves eagerly </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 8:23, 25</span></span><span class=\"content\">wait for the hope of righteousness. </span></span><span class=\"verse v6\" data-usfm=\"GAL.5.6\"><span class=\"label\">6</span><span class=\"content\">For in Christ Jesus </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 6:15; 1 Cor. 7:19; Col. 3:11; See ch. 3:28 </span></span><span class=\"content\">neither circumcision nor uncircumcision counts for anything, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 6:23; 1 Thess. 1:3; James 2:18, 20, 22]</span></span><span class=\"content\">only faith working through love.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"GAL.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"GAL.5.7\"><span class=\"label\">7</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    See 1 Cor. 9:24   </span></span><span class=\"content\">You were running well. Who hindered you from obeying </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See ch. 2:5</span></span><span class=\"content\">the truth? </span></span><span class=\"verse v8\" data-usfm=\"GAL.5.8\"><span class=\"label\">8</span><span class=\"content\">This persuasion is not from </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:6</span></span><span class=\"content\">him who calls you. </span></span><span class=\"verse v9\" data-usfm=\"GAL.5.9\"><span class=\"label\">9</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 5:6; [1 Cor. 15:33; Heb. 12:15]</span></span><span class=\"content\">A little leaven leavens the whole lump. </span></span><span class=\"verse v10\" data-usfm=\"GAL.5.10\"><span class=\"label\">10</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 2:3 </span></span><span class=\"content\">I have confidence in the Lord that you will </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Phil. 3:15] </span></span><span class=\"content\">take no other view, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 1:7; [ver. 12]</span></span><span class=\"content\">the one who is troubling you will bear the penalty, whoever he is. </span></span><span class=\"verse v11\" data-usfm=\"GAL.5.11\"><span class=\"label\">11</span><span class=\"content\">But if I, brothers,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:11 </span><span class=\"ft\">Or </span><span class=\"fq\">brothers and sisters</span><span class=\"ft\">; also verse 13</span></span></span><span class=\"content\"> still preach</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:11 </span><span class=\"ft\">Greek </span><span class=\"fq\">proclaim</span></span></span><span class=\"content\"> circumcision, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 4:29; 6:12 </span></span><span class=\"content\">why am I still being persecuted? In that case </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 1:23; See 1 Pet. 2:8</span></span><span class=\"content\">the offense of the cross has been removed. </span></span><span class=\"verse v12\" data-usfm=\"GAL.5.12\"><span class=\"label\">12</span><span class=\"content\">I wish </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 10]; See ch. 2:4</span></span><span class=\"content\">those who unsettle you would emasculate themselves!</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"GAL.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"GAL.5.13\"><span class=\"label\">13</span><span class=\"content\">For you were called to freedom, brothers. </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Pet. 2:16; Jude 4; [1 Cor. 8:9; 2 Pet. 2:19] </span></span><span class=\"content\">Only do not use your freedom as an opportunity for the flesh, but through love </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 9:19</span></span><span class=\"content\">serve one another. </span></span><span class=\"verse v14\" data-usfm=\"GAL.5.14\"><span class=\"label\">14</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Matt. 7:12; 22:40] </span></span><span class=\"content\">the whole law is fulfilled in one word: </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Cited from Lev. 19:18; [ver. 22; ch. 6:2]; See Matt. 19:19; John 13:34</span></span><span class=\"content\">&#8220;You shall love your neighbor as yourself.&#8221; </span></span><span class=\"verse v15\" data-usfm=\"GAL.5.15\"><span class=\"label\">15</span><span class=\"content\">But if you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Phil. 3:2]</span></span><span class=\"content\">bite and devour one another, watch out that you are not consumed by one another.</span></span></div><div class=\"s1\"><span class=\"heading\">Keep in Step with the Spirit</span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"GAL.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"GAL.5.16\"><span class=\"label\">16</span><span class=\"content\">But I say, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ver. 24, 25; Rom. 8:4; See Rom. 13:14 </span></span><span class=\"content\">walk by the Spirit, and you will not gratify </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 2:3</span></span><span class=\"content\">the desires of the flesh. </span></span><span class=\"verse v17\" data-usfm=\"GAL.5.17\"><span class=\"label\">17</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 7:23; 8:5-7 </span></span><span class=\"content\">the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 7:15, 18, 19</span></span><span class=\"content\">to keep you from doing the things you want to do. </span></span><span class=\"verse v18\" data-usfm=\"GAL.5.18\"><span class=\"label\">18</span><span class=\"content\">But if you are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 8:14 </span></span><span class=\"content\">led by the Spirit, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 7:4</span></span><span class=\"content\">you are not under the law. </span></span><span class=\"verse v19\" data-usfm=\"GAL.5.19\"><span class=\"label\">19</span><span class=\"content\">Now </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 3:3; Eph. 5:3; Col. 3:5; James 3:14, 15; [Matt. 15:18-20]</span></span><span class=\"content\">the works of the flesh are evident: sexual immorality, impurity, sensuality, </span></span><span class=\"verse v20\" data-usfm=\"GAL.5.20\"><span class=\"label\">20</span><span class=\"content\">idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 11:19</span></span><span class=\"content\">divisions, </span></span><span class=\"verse v21\" data-usfm=\"GAL.5.21\"><span class=\"label\">21</span><span class=\"content\">envy,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:21 </span><span class=\"ft\">Some manuscripts add </span><span class=\"fq\">murder</span></span></span><span class=\"content\"> drunkenness, orgies, and things like these. I warn you, as I warned you before, that </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Col. 3:6]; See 1 Cor. 6:9</span></span><span class=\"content\">those who do</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:21 </span><span class=\"ft\">Or </span><span class=\"fq\">make a practice of doing</span></span></span><span class=\"content\"> such things will not inherit the kingdom of God. </span></span><span class=\"verse v22\" data-usfm=\"GAL.5.22\"><span class=\"label\">22</span><span class=\"content\">But </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 7:4; 8:5; Eph. 5:9] </span></span><span class=\"content\">the fruit of the Spirit is </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 5:1-5; Col. 3:12-17 </span></span><span class=\"content\">love, joy, peace, patience, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Cor. 6:6</span></span><span class=\"content\">kindness, goodness, faithfulness, </span></span><span class=\"verse v23\" data-usfm=\"GAL.5.23\"><span class=\"label\">23</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:2 </span></span><span class=\"content\">gentleness, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Acts 24:25 </span></span><span class=\"content\">self-control; </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Tim. 1:9</span></span><span class=\"content\">against such things there is no law. </span></span><span class=\"verse v24\" data-usfm=\"GAL.5.24\"><span class=\"label\">24</span><span class=\"content\">And those who belong to Christ Jesus </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 16]; See Rom. 6:6 </span></span><span class=\"content\">have crucified the flesh with its </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 7:5</span></span><span class=\"content\">passions and desires.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"GAL.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"GAL.5.25\"><span class=\"label\">25</span><span class=\"content\">If we live by the Spirit, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ver. 16]</span></span><span class=\"content\">let us also keep in step with the Spirit. </span></span><span class=\"verse v26\" data-usfm=\"GAL.5.26\"><span class=\"label\">26</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Phil. 2:3</span></span><span class=\"content\">Let us not become conceited, provoking one another, envying one another.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Christ Has Set Us Free"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I testify again to every man who accepts circumcision that he is obligated to keep the whole law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "You are severed from Christ, you who would be justified by the law; you have fallen away from grace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For through the Spirit, by faith, we ourselves eagerly wait for the hope of righteousness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For in Christ Jesus neither circumcision nor uncircumcision counts for anything, but only faith working through love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "You were running well. Who hindered you from obeying the truth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "This persuasion is not from him who calls you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "A little leaven leavens the whole lump."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I have confidence in the Lord that you will take no other view, and the one who is troubling you will bear the penalty, whoever he is."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "But if I, brothers, still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I wish those who unsettle you would emasculate themselves!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For the whole law is fulfilled in one word: “You shall love your neighbor as yourself.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "But if you bite and devour one another, watch out that you are not consumed by one another."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Keep in Step with the Spirit"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "But I say, walk by the Spirit, and you will not gratify the desires of the flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For the desires of the flesh are against the Spirit, and the desires of the Spirit are against the flesh, for these are opposed to each other, to keep you from doing the things you want to do."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "But if you are led by the Spirit, you are not under the law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Now the works of the flesh are evident: sexual immorality, impurity, sensuality,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "envy, drunkenness, orgies, and things like these. I warn you, as I warned you before, that those who do such things will not inherit the kingdom of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "gentleness, self-control; against such things there is no law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "And those who belong to Christ Jesus have crucified the flesh with its passions and desires."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "If we live by the Spirit, let us also keep in step with the Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Let us not become conceited, provoking one another, envying one another."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "GAL.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Galatians 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Ephesians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.5"
+        ],
+        "human": "Galatians 5",
+        "toc": true
+      },
+      "chapter_text": "Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted. Bear one another’s burdens, and so fulfill the law of Christ. For if anyone thinks he is something, when he is nothing, he deceives himself. But let each one test his own work, and then his reason to boast will be in himself alone and not in his neighbor. For each will have to bear his own load.\nLet the one who is taught the word share all good things with the one who teaches. Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life. And let us not grow weary of doing good, for in due season we will reap, if we do not give up. So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith.\n\nSee with what large letters I am writing to you with my own hand. It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of Christ. For even those who are circumcised do not themselves keep the law, but they desire to have you circumcised that they may boast in your flesh. But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world. For neither circumcision counts for anything, nor uncircumcision, but a new creation. And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of God.\nFrom now on let no one cause me trouble, for I bear on my body the marks of Jesus.\nThe grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
+      "chapter_html": "<div class=\"version vid59 iso6393eng\" data-vid=\"59\" data-iso6393=\"eng\">\n   <div class=\"book bkGAL\">\n      <div class=\"chapter ch6\" data-usfm=\"GAL.6\">\n         <div class=\"label\">6</div><div class=\"s1\"><span class=\"heading\">Bear One Another&#8217;s Burdens</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"GAL.6.1\"><span class=\"label\">1</span><span class=\"content\">Brothers,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:1 </span><span class=\"ft\">Or </span><span class=\"fq\">Brothers and sisters</span><span class=\"ft\">; also verse 18</span></span></span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Ps. 141:5; 2 Cor. 2:7; Heb. 12:13; James 5:19] </span></span><span class=\"content\">if anyone is caught in any transgression, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 15:1; 1 Cor. 10:15]; See 1 Cor. 2:15 </span></span><span class=\"content\">you who are spiritual should restore him in </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 4:21; [2 Tim. 2:25]</span></span><span class=\"content\">a spirit of gentleness. Keep watch on yourself, lest you too be tempted. </span></span><span class=\"verse v2\" data-usfm=\"GAL.6.2\"><span class=\"label\">2</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Rom. 15:1; 1 Thess. 5:14 </span></span><span class=\"content\">Bear one another&#8217;s burdens, and </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 5:14] </span></span><span class=\"content\">so fulfill </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 John 4:21; See John 13:34</span></span><span class=\"content\">the law of Christ. </span></span><span class=\"verse v3\" data-usfm=\"GAL.6.3\"><span class=\"label\">3</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[ch. 2:6]; See 1 Cor. 3:7, 18 </span></span><span class=\"content\">if anyone thinks he is something, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Cor. 12:11</span></span><span class=\"content\">when he is nothing, he deceives himself. </span></span><span class=\"verse v4\" data-usfm=\"GAL.6.4\"><span class=\"label\">4</span><span class=\"content\">But let each one </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[1 Cor. 11:28; 2 Cor. 13:5]</span></span><span class=\"content\">test his own work, and then his reason to boast will be in himself alone and not in his neighbor. </span></span><span class=\"verse v5\" data-usfm=\"GAL.6.5\"><span class=\"label\">5</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 14:12]</span></span><span class=\"content\">each will have to bear his own load.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"GAL.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"GAL.6.6\"><span class=\"label\">6</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    [Rom. 15:27; 1 Cor. 9:11]  </span></span><span class=\"content\">Let the one who is taught the word share all good things with the one who teaches. </span></span><span class=\"verse v7\" data-usfm=\"GAL.6.7\"><span class=\"label\">7</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 6:9; 15:33; James 1:16 </span></span><span class=\"content\">Do not be deceived: God is not mocked, for </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 9:6</span></span><span class=\"content\">whatever one sows, that will he also reap. </span></span><span class=\"verse v8\" data-usfm=\"GAL.6.8\"><span class=\"label\">8</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Hos. 8:7]; See Job 4:8 </span></span><span class=\"content\">the one who sows to his own flesh </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 6:21 </span></span><span class=\"content\">will from the flesh reap corruption, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See James 3:18</span></span><span class=\"content\">the one who sows to the Spirit will from the Spirit reap eternal life. </span></span><span class=\"verse v9\" data-usfm=\"GAL.6.9\"><span class=\"label\">9</span><span class=\"content\">And </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Thess. 3:13; [1 Cor. 15:58] </span></span><span class=\"content\">let us not grow weary of doing good, for in due season we will reap, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Heb. 12:3, 5; [Heb. 10:36]; See Matt. 10:22</span></span><span class=\"content\">if we do not give up. </span></span><span class=\"verse v10\" data-usfm=\"GAL.6.10\"><span class=\"label\">10</span><span class=\"content\">So then, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Prov. 3:27; John 9:4; 12:35 </span></span><span class=\"content\">as we have opportunity, let us </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Eph. 4:28; 1 Tim. 6:18; [1 Thess. 5:15] </span></span><span class=\"content\">do good to everyone, and especially to those who are </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Eph. 2:19; 1 Tim. 5:8; Heb. 3:6]</span></span><span class=\"content\">of the household of faith.</span></span></div><div class=\"s1\"><span class=\"heading\">Final Warning and Benediction</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"GAL.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"GAL.6.11\"><span class=\"label\">11</span><span class=\"content\">See with what large letters I am writing to you </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 1 Cor. 16:21</span></span><span class=\"content\">with my own hand. </span></span><span class=\"verse v12\" data-usfm=\"GAL.6.12\"><span class=\"label\">12</span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See 2 Cor. 11:13 </span></span><span class=\"content\">It is those who want to make a good showing in the flesh </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 2:3 </span></span><span class=\"content\">who would force you to be circumcised, and only </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 5:11</span></span><span class=\"content\">in order that they may not be persecuted for the cross of Christ. </span></span><span class=\"verse v13\" data-usfm=\"GAL.6.13\"><span class=\"label\">13</span><span class=\"content\">For even those who are circumcised do not themselves keep the law, but they desire to have you circumcised that they may boast in your flesh. </span></span><span class=\"verse v14\" data-usfm=\"GAL.6.14\"><span class=\"label\">14</span><span class=\"content\">But far be it from me to boast </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">1 Cor. 2:2; [Phil. 3:3, 7, 8] </span></span><span class=\"content\">except in the cross of our Lord Jesus Christ, by which</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:14 </span><span class=\"ft\">Or </span><span class=\"fq\">through whom</span></span></span><span class=\"content\"> the world </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">See Rom. 6:6</span></span><span class=\"content\">has been crucified to me, and I to the world. </span></span><span class=\"verse v15\" data-usfm=\"GAL.6.15\"><span class=\"label\">15</span><span class=\"content\">For </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[Rom. 2:28]; See ch. 5:6 </span></span><span class=\"content\">neither circumcision counts for anything, nor uncircumcision, but </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">[John 3:5, 7]; See Rom. 6:4</span></span><span class=\"content\">a new creation. </span></span><span class=\"verse v16\" data-usfm=\"GAL.6.16\"><span class=\"label\">16</span><span class=\"content\">And as for all who walk by this rule, </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">Ps. 125:5; 128:6 </span></span><span class=\"content\">peace and mercy be upon them, and upon </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">ch. 3:7, 9, 29; Rom. 2:29; 4:12; 9:6-8; Phil. 3:3</span></span><span class=\"content\">the Israel of God.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"GAL.6.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"GAL.6.17\"><span class=\"label\">17</span><span class=\"content\">From now on let no one cause me trouble, for I bear on my body the marks of Jesus.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"GAL.6.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"GAL.6.18\"><span class=\"label\">18</span><span class=\"content\">  </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">    \n        Philem. 25; See Rom. 16:20   </span></span><span class=\"content\">The grace of our Lord Jesus Christ be </span><span class=\"note x\"><span class=\"label\">#</span><span class=\" body\">2 Tim. 4:22</span></span><span class=\"content\">with your spirit, brothers. Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Bear One Another’s Burdens"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Bear one another’s burdens, and so fulfill the law of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For if anyone thinks he is something, when he is nothing, he deceives himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But let each one test his own work, and then his reason to boast will be in himself alone and not in his neighbor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For each will have to bear his own load."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Let the one who is taught the word share all good things with the one who teaches."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "So then, as we have opportunity, let us do good to everyone, and especially to those who are of the household of faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Final Warning and Benediction"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "See with what large letters I am writing to you with my own hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "It is those who want to make a good showing in the flesh who would force you to be circumcised, and only in order that they may not be persecuted for the cross of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For even those who are circumcised do not themselves keep the law, but they desire to have you circumcised that they may boast in your flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "For neither circumcision counts for anything, nor uncircumcision, but a new creation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "From now on let no one cause me trouble, for I bear on my body the marks of Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "The grace of our Lord Jesus Christ be with your spirit, brothers. Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
