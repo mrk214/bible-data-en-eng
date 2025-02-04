@@ -1,0 +1,308 @@
+{
+  "book_usfm": "JUD",
+  "name": "Jude",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JUD.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "JUD.INTRO1"
+        ],
+        "human": "Jude Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Jude 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1",
+        "toc": true
+      },
+      "chapter_text": "Intro\nJesus had several brothers, two of whom were James and Jude. Much less is known about Jude than James (see James), but he was clearly a church leader, since he wrote to believers with authority in this letter that bears his name. It cannot be determined exactly who was meant to receive the letter, although the references to angels, to Israel’s history and to specific writings indicate that Jewish Christians were in view.\nJude addresses the problem of false teachers who have come and are now threatening the faith that was once for all entrusted to God’s holy people. On the basis of supposedly inspired dreams, they reject authority and pollute their own bodies. Even though they claim to be bringing God’s message, they really follow mere natural instincts and do not have the Spirit. The believers must actively resist them and cleanse their community by rejecting both the teaching and the example of these ungodly men.\nIt seems that the apostle Peter received a copy of Jude’s letter and wrote a similar one of his own to show that it faithfully presented the teaching of the apostles of the Lord Jesus Christ (see 2 Peter).",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkJUD\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"JUD.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">Jesus had several brothers, two of whom were James and Jude. Much less is known about Jude than James (see </span><span class=\"content\">James</span><span class=\"content\">), but he was clearly a church leader, since he wrote to believers with authority in this letter that bears his name. It cannot be determined exactly who was meant to receive the letter, although the references to angels, to Israel&#8217;s history and to specific writings indicate that Jewish Christians were in view.</span></div><div class=\"ip\"><span class=\"content\">Jude addresses the problem of false teachers who have come and are now threatening </span><span class=\"qt\"><span class=\"content\">the faith that was once for all entrusted to God&#8217;s holy people.</span></span><span class=\"content\"> On the basis of supposedly inspired dreams, they reject authority and pollute their own bodies. Even though they claim to be bringing God&#8217;s message, they really follow </span><span class=\"qt\"><span class=\"content\">mere natural instincts and do not have the Spirit.</span></span><span class=\"content\"> The believers must actively resist them and cleanse their community by rejecting both the teaching and the example of these ungodly men.</span></div><div class=\"ip\"><span class=\"content\">It seems that the apostle Peter received a copy of Jude&#8217;s letter and wrote a similar one of his own to show that it faithfully presented the teaching of the apostles of the Lord Jesus Christ (see </span><span class=\"content\">2 Peter</span><span class=\"content\">).</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "JUD.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Jude 1"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "REV.INTRO1"
+        ],
+        "human": "Revelation Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "JUD.INTRO1"
+        ],
+        "human": "Jude Intro",
+        "toc": true
+      },
+      "chapter_text": "Jude, a servant of Jesus Christ and a brother of James,\n\nTo those who have been called, who are loved in God the Father and kept for Jesus Christ:\n\nMercy, peace and love be yours in abundance.\n\nDear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God’s holy people. For certain individuals whose condemnation was written about long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.\nThough you already know all this, I want to remind you that the Lord at one time delivered his people out of Egypt, but later destroyed those who did not believe. And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day. In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.\nIn the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings. But even the archangel Michael, when he was disputing with the devil about the body of Moses, did not himself dare to condemn him for slander but said, “The Lord rebuke you!” Yet these people slander whatever they do not understand, and the very things they do understand by instinct—as irrational animals do—will destroy them.\nWoe to them! They have taken the way of Cain; they have rushed for profit into Balaam’s error; they have been destroyed in Korah’s rebellion.\nThese people are blemishes at your love feasts, eating with you without the slightest qualm—shepherds who feed only themselves. They are clouds without rain, blown along by the wind; autumn trees, without fruit and uprooted—twice dead. They are wild waves of the sea, foaming up their shame; wandering stars, for whom blackest darkness has been reserved forever.\nEnoch, the seventh from Adam, prophesied about them: “See, the Lord is coming with thousands upon thousands of his holy ones to judge everyone, and to convict all of them of all the ungodly acts they have committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.” These people are grumblers and faultfinders; they follow their own evil desires; they boast about themselves and flatter others for their own advantage.\n\nBut, dear friends, remember what the apostles of our Lord Jesus Christ foretold. They said to you, “In the last times there will be scoffers who will follow their own ungodly desires.” These are the people who divide you, who follow mere natural instincts and do not have the Spirit.\nBut you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit, keep yourselves in God’s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life.\nBe merciful to those who doubt; save others by snatching them from the fire; to others show mercy, mixed with fear—hating even the clothing stained by corrupted flesh.\n\nTo him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy— to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkJUD\">\n      <div class=\"chapter ch1\" data-usfm=\"JUD.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"label\">1</span><span class=\"content\">Jude, a servant of Jesus Christ and a brother of James,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"content\">To those who have been called, who are loved in God the Father and kept for</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Or </span><span class=\"fqa\">by</span><span class=\"ft\">; or </span><span class=\"fqa\">in</span></span></span><span class=\"content\"> Jesus Christ:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"label\">2</span><span class=\"content\">Mercy, peace and love be yours in abundance.</span></span></div><div class=\"s1\"><span class=\"heading\">The Sin and Doom of Ungodly People</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JUD.1.3\"><span class=\"label\">3</span><span class=\"content\">Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God&#8217;s holy people. </span></span><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"label\">4</span><span class=\"content\">For certain individuals whose condemnation was written about</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">individuals who were marked out for condemnation</span></span></span><span class=\"content\"> long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JUD.1.5\"><span class=\"label\">5</span><span class=\"content\">Though you already know all this, I want to remind you that the Lord</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Some early manuscripts </span><span class=\"fqa\">Jesus</span></span></span><span class=\"content\"> at one time delivered his people out of Egypt, but later destroyed those who did not believe. </span></span><span class=\"verse v6\" data-usfm=\"JUD.1.6\"><span class=\"label\">6</span><span class=\"content\">And the angels who did not keep their positions of authority but abandoned their proper dwelling&#8212;these he has kept in darkness, bound with everlasting chains for judgment on the great Day. </span></span><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"label\">7</span><span class=\"content\">In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JUD.1.8\"><span class=\"label\">8</span><span class=\"content\">In the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings. </span></span><span class=\"verse v9\" data-usfm=\"JUD.1.9\"><span class=\"label\">9</span><span class=\"content\">But even the archangel Michael, when he was disputing with the devil about the body of Moses, did not himself dare to condemn him for slander but said, &#8220;The Lord rebuke you!&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">Jude is alluding to the Jewish Testament of Moses (approximately the first century <span class=\"sc\">a.d.</span>).</span></span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JUD.1.10\"><span class=\"label\">10</span><span class=\"content\">Yet these people slander whatever they do not understand, and the very things they do understand by instinct&#8212;as irrational animals do&#8212;will destroy them.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"JUD.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JUD.1.11\"><span class=\"label\">11</span><span class=\"content\">Woe to them! They have taken the way of Cain; they have rushed for profit into Balaam&#8217;s error; they have been destroyed in Korah&#8217;s rebellion.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JUD.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JUD.1.12\"><span class=\"label\">12</span><span class=\"content\">These people are blemishes at your love feasts, eating with you without the slightest qualm&#8212;shepherds who feed only themselves. They are clouds without rain, blown along by the wind; autumn trees, without fruit and uprooted&#8212;twice dead. </span></span><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"label\">13</span><span class=\"content\">They are wild waves of the sea, foaming up their shame; wandering stars, for whom blackest darkness has been reserved forever.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JUD.1.14\"><span class=\"label\">14</span><span class=\"content\">Enoch, the seventh from Adam, prophesied about them: &#8220;See, the Lord is coming with thousands upon thousands of his holy ones </span></span><span class=\"verse v15\" data-usfm=\"JUD.1.15\"><span class=\"label\">15</span><span class=\"content\">to judge everyone, and to convict all of them of all the ungodly acts they have committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">From the Jewish First Book of Enoch (approximately the first century <span class=\"sc\">b.c.</span>)</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"label\">16</span><span class=\"content\">These people are grumblers and faultfinders; they follow their own evil desires; they boast about themselves and flatter others for their own advantage.</span></span></div><div class=\"s1\"><span class=\"heading\">A Call to Persevere</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JUD.1.17\"><span class=\"label\">17</span><span class=\"content\">But, dear friends, remember what the apostles of our Lord Jesus Christ foretold. </span></span><span class=\"verse v18\" data-usfm=\"JUD.1.18\"><span class=\"label\">18</span><span class=\"content\">They said to you, &#8220;In the last times there will be scoffers who will follow their own ungodly desires.&#8221; </span></span><span class=\"verse v19\" data-usfm=\"JUD.1.19\"><span class=\"label\">19</span><span class=\"content\">These are the people who divide you, who follow mere natural instincts and do not have the Spirit.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"JUD.1.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JUD.1.20\"><span class=\"label\">20</span><span class=\"content\">But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit, </span></span><span class=\"verse v21\" data-usfm=\"JUD.1.21\"><span class=\"label\">21</span><span class=\"content\">keep yourselves in God&#8217;s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"JUD.1.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"JUD.1.22\"><span class=\"label\">22</span><span class=\"content\">Be merciful to those who doubt; </span></span><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"label\">23</span><span class=\"content\">save others by snatching them from the fire; to others show mercy, mixed with fear&#8212;hating even the clothing stained by corrupted flesh.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:23 </span><span class=\"ft\">The Greek manuscripts of these verses vary at several points.</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Doxology</span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"JUD.1.24\"><span class=\"label\">24</span><span class=\"content\">To him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy&#8212; </span></span><span class=\"verse v25\" data-usfm=\"JUD.1.25\"><span class=\"label\">25</span><span class=\"content\">to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Jude, a servant of Jesus Christ and a brother of James,",
+            "To those who have been called, who are loved in God the Father and kept for Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Mercy, peace and love be yours in abundance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Sin and Doom of Ungodly People"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God’s holy people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For certain individuals whose condemnation was written about long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Though you already know all this, I want to remind you that the Lord at one time delivered his people out of Egypt, but later destroyed those who did not believe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "In the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But even the archangel Michael, when he was disputing with the devil about the body of Moses, did not himself dare to condemn him for slander but said, “The Lord rebuke you!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yet these people slander whatever they do not understand, and the very things they do understand by instinct—as irrational animals do—will destroy them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Woe to them! They have taken the way of Cain; they have rushed for profit into Balaam’s error; they have been destroyed in Korah’s rebellion."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "These people are blemishes at your love feasts, eating with you without the slightest qualm—shepherds who feed only themselves. They are clouds without rain, blown along by the wind; autumn trees, without fruit and uprooted—twice dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "They are wild waves of the sea, foaming up their shame; wandering stars, for whom blackest darkness has been reserved forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Enoch, the seventh from Adam, prophesied about them: “See, the Lord is coming with thousands upon thousands of his holy ones"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "to judge everyone, and to convict all of them of all the ungodly acts they have committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "These people are grumblers and faultfinders; they follow their own evil desires; they boast about themselves and flatter others for their own advantage."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "A Call to Persevere"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But, dear friends, remember what the apostles of our Lord Jesus Christ foretold."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "They said to you, “In the last times there will be scoffers who will follow their own ungodly desires.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "These are the people who divide you, who follow mere natural instincts and do not have the Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "keep yourselves in God’s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Be merciful to those who doubt;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "save others by snatching them from the fire; to others show mercy, mixed with fear—hating even the clothing stained by corrupted flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Doxology"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "To him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

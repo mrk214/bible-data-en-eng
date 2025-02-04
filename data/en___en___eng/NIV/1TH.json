@@ -1,0 +1,982 @@
+{
+  "book_usfm": "1TH",
+  "name": "1 Thessalonians",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "1TH.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "1TH.INTRO1"
+        ],
+        "human": "1 Thessalonians Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Thessalonians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "COL.4"
+        ],
+        "human": "Colossians 4",
+        "toc": true
+      },
+      "chapter_text": "Intro\nAround AD 51, Paul, Silas and Timothy brought the message about Jesus the Messiah to the city of Thessalonica. Many people became believers, but there was a riot when Paul and Silas were accused of defying Caesar’s decrees, saying that there is another king, one called Jesus (see Acts 17:1-9). They narrowly escaped with their lives and had to flee.\nA little later Paul became concerned that the believers in Thessalonica might fall away from the faith due to the opposition they were facing. So he sent Timothy to encourage them (as a Greek he could make the trip more safely). When Timothy returned to Achaia with the welcome news that the Thessalonians had remained faithful, Paul wrote to express his joy.\nIn this short letter, Paul first recalls his time in Thessalonica and gives thanks for their continuing faith, despite trials and challenges. He teaches them to avoid sexual immorality, to love one another sincerely, and to work hard to earn their own living.\nPaul then addresses a key pastoral question: What is the Christian hope for those who have died? He explains that believers who die before the royal appearance of the Messiah are not lost, but will surely be raised from the dead when he comes. He reminds the Thessalonians that Jesus will appear suddenly and unexpectedly. They should therefore live in such a way that they would be unashamed to greet him. Throughout the letter Paul’s basic message is, “Keep up the good work!”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"1TH.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">Around AD 51, Paul, Silas and Timothy brought the message about Jesus the Messiah to the city of Thessalonica. Many people became believers, but there was a riot when Paul and Silas were accused of </span><span class=\"qt\"><span class=\"content\">defying Caesar&#8217;s decrees, saying that there is another king, one called Jesus</span></span><span class=\"content\"> (see </span><span class=\"content\">Acts 17:1-9</span><span class=\"content\">). They narrowly escaped with their lives and had to flee.</span></div><div class=\"ip\"><span class=\"content\">A little later Paul became concerned that the believers in Thessalonica might fall away from the faith due to the opposition they were facing. So he sent Timothy to encourage them (as a Greek he could make the trip more safely). When Timothy returned to Achaia with the welcome news that the Thessalonians had remained faithful, Paul wrote to express his joy.</span></div><div class=\"ip\"><span class=\"content\">In this short letter, Paul first recalls his time in Thessalonica and gives thanks for their continuing faith, despite trials and challenges. He teaches them to avoid sexual immorality, to love one another sincerely, and to work hard to earn their own living.</span></div><div class=\"ip\"><span class=\"content\">Paul then addresses a key pastoral question: What is the Christian hope for those who have died? He explains that believers who die before the royal appearance of the Messiah are not lost, but will surely be raised from the dead when he comes. He reminds the Thessalonians that Jesus will appear suddenly and unexpectedly. They should therefore live in such a way that they would be unashamed to greet him. Throughout the letter Paul&#8217;s basic message is, &#8220;Keep up the good work!&#8221;</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "1TH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Thessalonians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.2"
+        ],
+        "human": "1 Thessalonians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "1TH.INTRO1"
+        ],
+        "human": "1 Thessalonians Intro",
+        "toc": true
+      },
+      "chapter_text": "Paul, Silas and Timothy,\n\nTo the church of the Thessalonians in God the Father and the Lord Jesus Christ:\n\nGrace and peace to you.\n\nWe always thank God for all of you and continually mention you in our prayers. We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ.\nFor we know, brothers and sisters loved by God, that he has chosen you, because our gospel came to you not simply with words but also with power, with the Holy Spirit and deep conviction. You know how we lived among you for your sake. You became imitators of us and of the Lord, for you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit. And so you became a model to all the believers in Macedonia and Achaia. The Lord’s message rang out from you not only in Macedonia and Achaia—your faith in God has become known everywhere. Therefore we do not need to say anything about it, for they themselves report what kind of reception you gave us. They tell how you turned to God from idols to serve the living and true God, and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch1\" data-usfm=\"1TH.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, Silas</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Greek </span><span class=\"fqa\">Silvanus</span><span class=\"ft\">, a variant of </span><span class=\"fq\">Silas</span></span></span><span class=\"content\"> and Timothy,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"1TH.1.1\"><span class=\"content\">To the church of the Thessalonians in God the Father and the Lord Jesus Christ:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"1TH.1.1\"><span class=\"content\">Grace and peace to you.</span></span></div><div class=\"s1\"><span class=\"heading\">Thanksgiving for the Thessalonians&#8217; Faith</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"1TH.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"1TH.1.2\"><span class=\"label\">2</span><span class=\"content\">We always thank God for all of you and continually mention you in our prayers. </span></span><span class=\"verse v3\" data-usfm=\"1TH.1.3\"><span class=\"label\">3</span><span class=\"content\">We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1TH.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TH.1.4\"><span class=\"label\">4</span><span class=\"content\">For we know, brothers and sisters</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">The Greek word for </span><span class=\"fq\">brothers and sisters </span><span class=\"ft\">(<span class=\"tl\">adelphoi</span>) refers here to believers, both men and women, as part of God&#8217;s family; also in 2:1, 9, 14, 17; 3:7; 4:1, 10, 13; 5:1, 4, 12, 14, 25, 27.</span></span></span><span class=\"content\"> loved by God, that he has chosen you, </span></span><span class=\"verse v5\" data-usfm=\"1TH.1.5\"><span class=\"label\">5</span><span class=\"content\">because our gospel came to you not simply with words but also with power, with the Holy Spirit and deep conviction. You know how we lived among you for your sake. </span></span><span class=\"verse v6\" data-usfm=\"1TH.1.6\"><span class=\"label\">6</span><span class=\"content\">You became imitators of us and of the Lord, for you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit. </span></span><span class=\"verse v7\" data-usfm=\"1TH.1.7\"><span class=\"label\">7</span><span class=\"content\">And so you became a model to all the believers in Macedonia and Achaia. </span></span><span class=\"verse v8\" data-usfm=\"1TH.1.8\"><span class=\"label\">8</span><span class=\"content\">The Lord&#8217;s message rang out from you not only in Macedonia and Achaia&#8212;your faith in God has become known everywhere. Therefore we do not need to say anything about it, </span></span><span class=\"verse v9\" data-usfm=\"1TH.1.9\"><span class=\"label\">9</span><span class=\"content\">for they themselves report what kind of reception you gave us. They tell how you turned to God from idols to serve the living and true God, </span></span><span class=\"verse v10\" data-usfm=\"1TH.1.10\"><span class=\"label\">10</span><span class=\"content\">and to wait for his Son from heaven, whom he raised from the dead&#8212;Jesus, who rescues us from the coming wrath.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, Silas and Timothy,",
+            "To the church of the Thessalonians in God the Father and the Lord Jesus Christ:",
+            "Grace and peace to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Thanksgiving for the Thessalonians’ Faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "We always thank God for all of you and continually mention you in our prayers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "We remember before our God and Father your work produced by faith, your labor prompted by love, and your endurance inspired by hope in our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For we know, brothers and sisters loved by God, that he has chosen you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "because our gospel came to you not simply with words but also with power, with the Holy Spirit and deep conviction. You know how we lived among you for your sake."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "You became imitators of us and of the Lord, for you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "And so you became a model to all the believers in Macedonia and Achaia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The Lord’s message rang out from you not only in Macedonia and Achaia—your faith in God has become known everywhere. Therefore we do not need to say anything about it,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "for they themselves report what kind of reception you gave us. They tell how you turned to God from idols to serve the living and true God,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.2"
+        ],
+        "human": "1 Thessalonians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.3"
+        ],
+        "human": "1 Thessalonians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.1"
+        ],
+        "human": "1 Thessalonians 1",
+        "toc": true
+      },
+      "chapter_text": "You know, brothers and sisters, that our visit to you was not without results. We had previously suffered and been treated outrageously in Philippi, as you know, but with the help of our God we dared to tell you his gospel in the face of strong opposition. For the appeal we make does not spring from error or impure motives, nor are we trying to trick you. On the contrary, we speak as those approved by God to be entrusted with the gospel. We are not trying to please people but God, who tests our hearts. You know we never used flattery, nor did we put on a mask to cover up greed—God is our witness. We were not looking for praise from people, not from you or anyone else, even though as apostles of Christ we could have asserted our authority. Instead, we were like young children among you.\nJust as a nursing mother cares for her children, so we cared for you. Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well. Surely you remember, brothers and sisters, our toil and hardship; we worked night and day in order not to be a burden to anyone while we preached the gospel of God to you. You are witnesses, and so is God, of how holy, righteous and blameless we were among you who believed. For you know that we dealt with each of you as a father deals with his own children, encouraging, comforting and urging you to live lives worthy of God, who calls you into his kingdom and glory.\nAnd we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as a human word, but as it actually is, the word of God, which is indeed at work in you who believe. For you, brothers and sisters, became imitators of God’s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews who killed the Lord Jesus and the prophets and also drove us out. They displease God and are hostile to everyone in their effort to keep us from speaking to the Gentiles so that they may be saved. In this way they always heap up their sins to the limit. The wrath of God has come upon them at last.\n\nBut, brothers and sisters, when we were orphaned by being separated from you for a short time (in person, not in thought), out of our intense longing we made every effort to see you. For we wanted to come to you—certainly I, Paul, did, again and again—but Satan blocked our way. For what is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus when he comes? Is it not you? Indeed, you are our glory and joy.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch2\" data-usfm=\"1TH.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Ministry in Thessalonica</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.2.1\"><span class=\"label\">1</span><span class=\"content\">You know, brothers and sisters, that our visit to you was not without results. </span></span><span class=\"verse v2\" data-usfm=\"1TH.2.2\"><span class=\"label\">2</span><span class=\"content\">We had previously suffered and been treated outrageously in Philippi, as you know, but with the help of our God we dared to tell you his gospel in the face of strong opposition. </span></span><span class=\"verse v3\" data-usfm=\"1TH.2.3\"><span class=\"label\">3</span><span class=\"content\">For the appeal we make does not spring from error or impure motives, nor are we trying to trick you. </span></span><span class=\"verse v4\" data-usfm=\"1TH.2.4\"><span class=\"label\">4</span><span class=\"content\">On the contrary, we speak as those approved by God to be entrusted with the gospel. We are not trying to please people but God, who tests our hearts. </span></span><span class=\"verse v5\" data-usfm=\"1TH.2.5\"><span class=\"label\">5</span><span class=\"content\">You know we never used flattery, nor did we put on a mask to cover up greed&#8212;God is our witness. </span></span><span class=\"verse v6\" data-usfm=\"1TH.2.6\"><span class=\"label\">6</span><span class=\"content\">We were not looking for praise from people, not from you or anyone else, even though as apostles of Christ we could have asserted our authority. </span></span><span class=\"verse v7\" data-usfm=\"1TH.2.7\"><span class=\"label\">7</span><span class=\"content\">Instead, we were like young children</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Some manuscripts </span><span class=\"fqa\">were gentle</span></span></span><span class=\"content\"> among you.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"1TH.2.7\"><span class=\"content\">Just as a nursing mother cares for her children, </span></span><span class=\"verse v8\" data-usfm=\"1TH.2.8\"><span class=\"label\">8</span><span class=\"content\">so we cared for you. Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well. </span></span><span class=\"verse v9\" data-usfm=\"1TH.2.9\"><span class=\"label\">9</span><span class=\"content\">Surely you remember, brothers and sisters, our toil and hardship; we worked night and day in order not to be a burden to anyone while we preached the gospel of God to you. </span></span><span class=\"verse v10\" data-usfm=\"1TH.2.10\"><span class=\"label\">10</span><span class=\"content\">You are witnesses, and so is God, of how holy, righteous and blameless we were among you who believed. </span></span><span class=\"verse v11\" data-usfm=\"1TH.2.11\"><span class=\"label\">11</span><span class=\"content\">For you know that we dealt with each of you as a father deals with his own children, </span></span><span class=\"verse v12\" data-usfm=\"1TH.2.12\"><span class=\"label\">12</span><span class=\"content\">encouraging, comforting and urging you to live lives worthy of God, who calls you into his kingdom and glory.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1TH.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1TH.2.13\"><span class=\"label\">13</span><span class=\"content\">And we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as a human word, but as it actually is, the word of God, which is indeed at work in you who believe. </span></span><span class=\"verse v14\" data-usfm=\"1TH.2.14\"><span class=\"label\">14</span><span class=\"content\">For you, brothers and sisters, became imitators of God&#8217;s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews </span></span><span class=\"verse v15\" data-usfm=\"1TH.2.15\"><span class=\"label\">15</span><span class=\"content\">who killed the Lord Jesus and the prophets and also drove us out. They displease God and are hostile to everyone </span></span><span class=\"verse v16\" data-usfm=\"1TH.2.16\"><span class=\"label\">16</span><span class=\"content\">in their effort to keep us from speaking to the Gentiles so that they may be saved. In this way they always heap up their sins to the limit. The wrath of God has come upon them at last.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"ft\">Or </span><span class=\"fqa\">them fully</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Longing to See the Thessalonians</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"1TH.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TH.2.17\"><span class=\"label\">17</span><span class=\"content\">But, brothers and sisters, when we were orphaned by being separated from you for a short time (in person, not in thought), out of our intense longing we made every effort to see you. </span></span><span class=\"verse v18\" data-usfm=\"1TH.2.18\"><span class=\"label\">18</span><span class=\"content\">For we wanted to come to you&#8212;certainly I, Paul, did, again and again&#8212;but Satan blocked our way. </span></span><span class=\"verse v19\" data-usfm=\"1TH.2.19\"><span class=\"label\">19</span><span class=\"content\">For what is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus when he comes? Is it not you? </span></span><span class=\"verse v20\" data-usfm=\"1TH.2.20\"><span class=\"label\">20</span><span class=\"content\">Indeed, you are our glory and joy.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Ministry in Thessalonica"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "You know, brothers and sisters, that our visit to you was not without results."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "We had previously suffered and been treated outrageously in Philippi, as you know, but with the help of our God we dared to tell you his gospel in the face of strong opposition."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For the appeal we make does not spring from error or impure motives, nor are we trying to trick you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "On the contrary, we speak as those approved by God to be entrusted with the gospel. We are not trying to please people but God, who tests our hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "You know we never used flattery, nor did we put on a mask to cover up greed—God is our witness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "We were not looking for praise from people, not from you or anyone else, even though as apostles of Christ we could have asserted our authority."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Instead, we were like young children among you.",
+            "Just as a nursing mother cares for her children,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "so we cared for you. Because we loved you so much, we were delighted to share with you not only the gospel of God but our lives as well."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Surely you remember, brothers and sisters, our toil and hardship; we worked night and day in order not to be a burden to anyone while we preached the gospel of God to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "You are witnesses, and so is God, of how holy, righteous and blameless we were among you who believed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For you know that we dealt with each of you as a father deals with his own children,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "encouraging, comforting and urging you to live lives worthy of God, who calls you into his kingdom and glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And we also thank God continually because, when you received the word of God, which you heard from us, you accepted it not as a human word, but as it actually is, the word of God, which is indeed at work in you who believe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For you, brothers and sisters, became imitators of God’s churches in Judea, which are in Christ Jesus: You suffered from your own people the same things those churches suffered from the Jews"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "who killed the Lord Jesus and the prophets and also drove us out. They displease God and are hostile to everyone"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "in their effort to keep us from speaking to the Gentiles so that they may be saved. In this way they always heap up their sins to the limit. The wrath of God has come upon them at last."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Longing to See the Thessalonians"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But, brothers and sisters, when we were orphaned by being separated from you for a short time (in person, not in thought), out of our intense longing we made every effort to see you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For we wanted to come to you—certainly I, Paul, did, again and again—but Satan blocked our way."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "For what is our hope, our joy, or the crown in which we will glory in the presence of our Lord Jesus when he comes? Is it not you?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Indeed, you are our glory and joy."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.3"
+        ],
+        "human": "1 Thessalonians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.4"
+        ],
+        "human": "1 Thessalonians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.2"
+        ],
+        "human": "1 Thessalonians 2",
+        "toc": true
+      },
+      "chapter_text": "So when we could stand it no longer, we thought it best to be left by ourselves in Athens. We sent Timothy, who is our brother and co-worker in God’s service in spreading the gospel of Christ, to strengthen and encourage you in your faith, so that no one would be unsettled by these trials. For you know quite well that we are destined for them. In fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know. For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter had tempted you and that our labors might have been in vain.\n\nBut Timothy has just now come to us from you and has brought good news about your faith and love. He has told us that you always have pleasant memories of us and that you long to see us, just as we also long to see you. Therefore, brothers and sisters, in all our distress and persecution we were encouraged about you because of your faith. For now we really live, since you are standing firm in the Lord. How can we thank God enough for you in return for all the joy we have in the presence of our God because of you? Night and day we pray most earnestly that we may see you again and supply what is lacking in your faith.\nNow may our God and Father himself and our Lord Jesus clear the way for us to come to you. May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you. May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch3\" data-usfm=\"1TH.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.3.1\"><span class=\"label\">1</span><span class=\"content\">So when we could stand it no longer, we thought it best to be left by ourselves in Athens. </span></span><span class=\"verse v2\" data-usfm=\"1TH.3.2\"><span class=\"label\">2</span><span class=\"content\">We sent Timothy, who is our brother and co-worker in God&#8217;s service in spreading the gospel of Christ, to strengthen and encourage you in your faith, </span></span><span class=\"verse v3\" data-usfm=\"1TH.3.3\"><span class=\"label\">3</span><span class=\"content\">so that no one would be unsettled by these trials. For you know quite well that we are destined for them. </span></span><span class=\"verse v4\" data-usfm=\"1TH.3.4\"><span class=\"label\">4</span><span class=\"content\">In fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know. </span></span><span class=\"verse v5\" data-usfm=\"1TH.3.5\"><span class=\"label\">5</span><span class=\"content\">For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter had tempted you and that our labors might have been in vain.</span></span></div><div class=\"s1\"><span class=\"heading\">Timothy&#8217;s Encouraging Report</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"1TH.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TH.3.6\"><span class=\"label\">6</span><span class=\"content\">But Timothy has just now come to us from you and has brought good news about your faith and love. He has told us that you always have pleasant memories of us and that you long to see us, just as we also long to see you. </span></span><span class=\"verse v7\" data-usfm=\"1TH.3.7\"><span class=\"label\">7</span><span class=\"content\">Therefore, brothers and sisters, in all our distress and persecution we were encouraged about you because of your faith. </span></span><span class=\"verse v8\" data-usfm=\"1TH.3.8\"><span class=\"label\">8</span><span class=\"content\">For now we really live, since you are standing firm in the Lord. </span></span><span class=\"verse v9\" data-usfm=\"1TH.3.9\"><span class=\"label\">9</span><span class=\"content\">How can we thank God enough for you in return for all the joy we have in the presence of our God because of you? </span></span><span class=\"verse v10\" data-usfm=\"1TH.3.10\"><span class=\"label\">10</span><span class=\"content\">Night and day we pray most earnestly that we may see you again and supply what is lacking in your faith.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1TH.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TH.3.11\"><span class=\"label\">11</span><span class=\"content\">Now may our God and Father himself and our Lord Jesus clear the way for us to come to you. </span></span><span class=\"verse v12\" data-usfm=\"1TH.3.12\"><span class=\"label\">12</span><span class=\"content\">May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you. </span></span><span class=\"verse v13\" data-usfm=\"1TH.3.13\"><span class=\"label\">13</span><span class=\"content\">May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "So when we could stand it no longer, we thought it best to be left by ourselves in Athens."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "We sent Timothy, who is our brother and co-worker in God’s service in spreading the gospel of Christ, to strengthen and encourage you in your faith,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "so that no one would be unsettled by these trials. For you know quite well that we are destined for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "In fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For this reason, when I could stand it no longer, I sent to find out about your faith. I was afraid that in some way the tempter had tempted you and that our labors might have been in vain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Timothy’s Encouraging Report"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "But Timothy has just now come to us from you and has brought good news about your faith and love. He has told us that you always have pleasant memories of us and that you long to see us, just as we also long to see you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Therefore, brothers and sisters, in all our distress and persecution we were encouraged about you because of your faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For now we really live, since you are standing firm in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "How can we thank God enough for you in return for all the joy we have in the presence of our God because of you?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Night and day we pray most earnestly that we may see you again and supply what is lacking in your faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Now may our God and Father himself and our Lord Jesus clear the way for us to come to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "May the Lord make your love increase and overflow for each other and for everyone else, just as ours does for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "May he strengthen your hearts so that you will be blameless and holy in the presence of our God and Father when our Lord Jesus comes with all his holy ones."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.4"
+        ],
+        "human": "1 Thessalonians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Thessalonians 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.3"
+        ],
+        "human": "1 Thessalonians 3",
+        "toc": true
+      },
+      "chapter_text": "As for other matters, brothers and sisters, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more. For you know what instructions we gave you by the authority of the Lord Jesus.\nIt is God’s will that you should be sanctified: that you should avoid sexual immorality; that each of you should learn to control your own body in a way that is holy and honorable, not in passionate lust like the pagans, who do not know God; and that in this matter no one should wrong or take advantage of a brother or sister. The Lord will punish all those who commit such sins, as we told you and warned you before. For God did not call us to be impure, but to live a holy life. Therefore, anyone who rejects this instruction does not reject a human being but God, the very God who gives you his Holy Spirit.\nNow about your love for one another we do not need to write to you, for you yourselves have been taught by God to love each other. And in fact, you do love all of God’s family throughout Macedonia. Yet we urge you, brothers and sisters, to do so more and more, and to make it your ambition to lead a quiet life: You should mind your own business and work with your hands, just as we told you, so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody.\n\nBrothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope. For we believe that Jesus died and rose again, and so we believe that God will bring with Jesus those who have fallen asleep in him. According to the Lord’s word, we tell you that we who are still alive, who are left until the coming of the Lord, will certainly not precede those who have fallen asleep. For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. Therefore encourage one another with these words.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n    <div class=\"book bk1TH\">\n        <div class=\"chapter ch4\" data-usfm=\"1TH.4\">\n            <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Living to Please God</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.4.1\"><span class=\"label\">1</span><span class=\"content\">As for other matters, brothers and sisters, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more. </span></span><span class=\"verse v2\" data-usfm=\"1TH.4.2\"><span class=\"label\">2</span><span class=\"content\">For you know what instructions we gave you by the authority of the Lord Jesus.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1TH.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TH.4.3\"><span class=\"label\">3</span><span class=\"content\">It is God&#8217;s will that you should be sanctified: that you should avoid sexual immorality; </span></span><span class=\"verse v4\" data-usfm=\"1TH.4.4\"><span class=\"label\">4</span><span class=\"content\">that each of you should learn to control your own body</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">learn to live with your own wife</span><span class=\"ft\">; or </span><span class=\"fqa\">learn to acquire a wife</span></span></span><span class=\"content\"> in a way that is holy and honorable, </span></span><span class=\"verse v5\" data-usfm=\"1TH.4.5\"><span class=\"label\">5</span><span class=\"content\">not in passionate lust like the pagans, who do not know God; </span></span><span class=\"verse v6\" data-usfm=\"1TH.4.6\"><span class=\"label\">6</span><span class=\"content\">and that in this matter no one should wrong or take advantage of a brother or sister.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:6 </span><span class=\"ft\">The Greek word for </span><span class=\"fq\">brother or sister </span><span class=\"ft\">(<span class=\"tl\">adelphos</span>) refers here to a believer, whether man or woman, as part of God&#8217;s family.</span></span></span><span class=\"content\"> The Lord will punish all those who commit such sins, as we told you and warned you before. </span></span><span class=\"verse v7\" data-usfm=\"1TH.4.7\"><span class=\"label\">7</span><span class=\"content\">For God did not call us to be impure, but to live a holy life. </span></span><span class=\"verse v8\" data-usfm=\"1TH.4.8\"><span class=\"label\">8</span><span class=\"content\">Therefore, anyone who rejects this instruction does not reject a human being but God, the very God who gives you his Holy Spirit.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TH.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TH.4.9\"><span class=\"label\">9</span><span class=\"content\">Now about your love for one another we do not need to write to you, for you yourselves have been taught by God to love each other. </span></span><span class=\"verse v10\" data-usfm=\"1TH.4.10\"><span class=\"label\">10</span><span class=\"content\">And in fact, you do love all of God&#8217;s family throughout Macedonia. Yet we urge you, brothers and sisters, to do so more and more, </span></span><span class=\"verse v11\" data-usfm=\"1TH.4.11\"><span class=\"label\">11</span><span class=\"content\">and to make it your ambition to lead a quiet life: You should mind your own business and work with your hands, just as we told you, </span></span><span class=\"verse v12\" data-usfm=\"1TH.4.12\"><span class=\"label\">12</span><span class=\"content\">so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody.</span></span></div><div class=\"s1\"><span class=\"heading\">Believers Who Have Died</span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1TH.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1TH.4.13\"><span class=\"label\">13</span><span class=\"content\">Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope. </span></span><span class=\"verse v14\" data-usfm=\"1TH.4.14\"><span class=\"label\">14</span><span class=\"content\">For we believe that Jesus died and rose again, and so we believe that God will bring with Jesus those who have fallen asleep in him. </span></span><span class=\"verse v15\" data-usfm=\"1TH.4.15\"><span class=\"label\">15</span><span class=\"content\">According to the Lord&#8217;s word, we tell you that we who are still alive, who are left until the coming of the Lord, will certainly not precede those who have fallen asleep. </span></span><span class=\"verse v16\" data-usfm=\"1TH.4.16\"><span class=\"label\">16</span><span class=\"content\">For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. </span></span><span class=\"verse v17\" data-usfm=\"1TH.4.17\"><span class=\"label\">17</span><span class=\"content\">After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. </span></span><span class=\"verse v18\" data-usfm=\"1TH.4.18\"><span class=\"label\">18</span><span class=\"content\">Therefore encourage one another with these words.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Living to Please God"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "As for other matters, brothers and sisters, we instructed you how to live in order to please God, as in fact you are living. Now we ask you and urge you in the Lord Jesus to do this more and more."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "For you know what instructions we gave you by the authority of the Lord Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "It is God’s will that you should be sanctified: that you should avoid sexual immorality;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "that each of you should learn to control your own body in a way that is holy and honorable,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "not in passionate lust like the pagans, who do not know God;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and that in this matter no one should wrong or take advantage of a brother or sister. The Lord will punish all those who commit such sins, as we told you and warned you before."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For God did not call us to be impure, but to live a holy life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Therefore, anyone who rejects this instruction does not reject a human being but God, the very God who gives you his Holy Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Now about your love for one another we do not need to write to you, for you yourselves have been taught by God to love each other."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And in fact, you do love all of God’s family throughout Macedonia. Yet we urge you, brothers and sisters, to do so more and more,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "and to make it your ambition to lead a quiet life: You should mind your own business and work with your hands, just as we told you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "so that your daily life may win the respect of outsiders and so that you will not be dependent on anybody."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Believers Who Have Died"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Brothers and sisters, we do not want you to be uninformed about those who sleep in death, so that you do not grieve like the rest of mankind, who have no hope."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For we believe that Jesus died and rose again, and so we believe that God will bring with Jesus those who have fallen asleep in him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "According to the Lord’s word, we tell you that we who are still alive, who are left until the coming of the Lord, will certainly not precede those who have fallen asleep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Therefore encourage one another with these words."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TH.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Thessalonians 5"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "2TH.INTRO1"
+        ],
+        "human": "2 Thessalonians Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.4"
+        ],
+        "human": "1 Thessalonians 4",
+        "toc": true
+      },
+      "chapter_text": "Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.\nBut you, brothers and sisters, are not in darkness so that this day should surprise you like a thief. You are all children of the light and children of the day. We do not belong to the night or to the darkness. So then, let us not be like others, who are asleep, but let us be awake and sober. For those who sleep, sleep at night, and those who get drunk, get drunk at night. But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet. For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ. He died for us so that, whether we are awake or asleep, we may live together with him. Therefore encourage one another and build each other up, just as in fact you are doing.\n\nNow we ask you, brothers and sisters, to acknowledge those who work hard among you, who care for you in the Lord and who admonish you. Hold them in the highest regard in love because of their work. Live in peace with each other. And we urge you, brothers and sisters, warn those who are idle and disruptive, encourage the disheartened, help the weak, be patient with everyone. Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else.\nRejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.\nDo not quench the Spirit. Do not treat prophecies with contempt but test them all; hold on to what is good, reject every kind of evil.\nMay God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ. The one who calls you is faithful, and he will do it.\n\n\nBrothers and sisters, pray for us. Greet all God’s people with a holy kiss. I charge you before the Lord to have this letter read to all the brothers and sisters.\nThe grace of our Lord Jesus Christ be with you.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk1TH\">\n      <div class=\"chapter ch5\" data-usfm=\"1TH.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">The Day of the Lord</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TH.5.1\"><span class=\"label\">1</span><span class=\"content\">Now, brothers and sisters, about times and dates we do not need to write to you, </span></span><span class=\"verse v2\" data-usfm=\"1TH.5.2\"><span class=\"label\">2</span><span class=\"content\">for you know very well that the day of the Lord will come like a thief in the night. </span></span><span class=\"verse v3\" data-usfm=\"1TH.5.3\"><span class=\"label\">3</span><span class=\"content\">While people are saying, &#8220;Peace and safety,&#8221; destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"1TH.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TH.5.4\"><span class=\"label\">4</span><span class=\"content\">But you, brothers and sisters, are not in darkness so that this day should surprise you like a thief. </span></span><span class=\"verse v5\" data-usfm=\"1TH.5.5\"><span class=\"label\">5</span><span class=\"content\">You are all children of the light and children of the day. We do not belong to the night or to the darkness. </span></span><span class=\"verse v6\" data-usfm=\"1TH.5.6\"><span class=\"label\">6</span><span class=\"content\">So then, let us not be like others, who are asleep, but let us be awake and sober. </span></span><span class=\"verse v7\" data-usfm=\"1TH.5.7\"><span class=\"label\">7</span><span class=\"content\">For those who sleep, sleep at night, and those who get drunk, get drunk at night. </span></span><span class=\"verse v8\" data-usfm=\"1TH.5.8\"><span class=\"label\">8</span><span class=\"content\">But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet. </span></span><span class=\"verse v9\" data-usfm=\"1TH.5.9\"><span class=\"label\">9</span><span class=\"content\">For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ. </span></span><span class=\"verse v10\" data-usfm=\"1TH.5.10\"><span class=\"label\">10</span><span class=\"content\">He died for us so that, whether we are awake or asleep, we may live together with him. </span></span><span class=\"verse v11\" data-usfm=\"1TH.5.11\"><span class=\"label\">11</span><span class=\"content\">Therefore encourage one another and build each other up, just as in fact you are doing.</span></span></div><div class=\"s1\"><span class=\"heading\">Final Instructions</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"1TH.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1TH.5.12\"><span class=\"label\">12</span><span class=\"content\">Now we ask you, brothers and sisters, to acknowledge those who work hard among you, who care for you in the Lord and who admonish you. </span></span><span class=\"verse v13\" data-usfm=\"1TH.5.13\"><span class=\"label\">13</span><span class=\"content\">Hold them in the highest regard in love because of their work. Live in peace with each other. </span></span><span class=\"verse v14\" data-usfm=\"1TH.5.14\"><span class=\"label\">14</span><span class=\"content\">And we urge you, brothers and sisters, warn those who are idle and disruptive, encourage the disheartened, help the weak, be patient with everyone. </span></span><span class=\"verse v15\" data-usfm=\"1TH.5.15\"><span class=\"label\">15</span><span class=\"content\">Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"1TH.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1TH.5.16\"><span class=\"label\">16</span><span class=\"content\">Rejoice always, </span></span><span class=\"verse v17\" data-usfm=\"1TH.5.17\"><span class=\"label\">17</span><span class=\"content\">pray continually, </span></span><span class=\"verse v18\" data-usfm=\"1TH.5.18\"><span class=\"label\">18</span><span class=\"content\">give thanks in all circumstances; for this is God&#8217;s will for you in Christ Jesus.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"1TH.5.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"1TH.5.19\"><span class=\"label\">19</span><span class=\"content\">Do not quench the Spirit. </span></span><span class=\"verse v20\" data-usfm=\"1TH.5.20\"><span class=\"label\">20</span><span class=\"content\">Do not treat prophecies with contempt </span></span><span class=\"verse v21\" data-usfm=\"1TH.5.21\"><span class=\"label\">21</span><span class=\"content\">but test them all; hold on to what is good, </span></span><span class=\"verse v22\" data-usfm=\"1TH.5.22\"><span class=\"label\">22</span><span class=\"content\">reject every kind of evil.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"1TH.5.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"1TH.5.23\"><span class=\"label\">23</span><span class=\"content\">May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ. </span></span><span class=\"verse v24\" data-usfm=\"1TH.5.24\"><span class=\"label\">24</span><span class=\"content\">The one who calls you is faithful, and he will do it.</span></span></div><div class=\"b\"></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"1TH.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"1TH.5.25\"><span class=\"label\">25</span><span class=\"content\">Brothers and sisters, pray for us. </span></span><span class=\"verse v26\" data-usfm=\"1TH.5.26\"><span class=\"label\">26</span><span class=\"content\">Greet all God&#8217;s people with a holy kiss. </span></span><span class=\"verse v27\" data-usfm=\"1TH.5.27\"><span class=\"label\">27</span><span class=\"content\">I charge you before the Lord to have this letter read to all the brothers and sisters.</span></span></div><div class=\"p\"><span class=\"verse v27\" data-usfm=\"1TH.5.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"1TH.5.28\"><span class=\"label\">28</span><span class=\"content\">The grace of our Lord Jesus Christ be with you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Now, brothers and sisters, about times and dates we do not need to write to you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "for you know very well that the day of the Lord will come like a thief in the night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But you, brothers and sisters, are not in darkness so that this day should surprise you like a thief."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "You are all children of the light and children of the day. We do not belong to the night or to the darkness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "So then, let us not be like others, who are asleep, but let us be awake and sober."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For those who sleep, sleep at night, and those who get drunk, get drunk at night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But since we belong to the day, let us be sober, putting on faith and love as a breastplate, and the hope of salvation as a helmet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "He died for us so that, whether we are awake or asleep, we may live together with him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Therefore encourage one another and build each other up, just as in fact you are doing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Final Instructions"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Now we ask you, brothers and sisters, to acknowledge those who work hard among you, who care for you in the Lord and who admonish you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Hold them in the highest regard in love because of their work. Live in peace with each other."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And we urge you, brothers and sisters, warn those who are idle and disruptive, encourage the disheartened, help the weak, be patient with everyone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Rejoice always,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "pray continually,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "give thanks in all circumstances; for this is God’s will for you in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Do not quench the Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Do not treat prophecies with contempt"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "but test them all; hold on to what is good,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "reject every kind of evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "May God himself, the God of peace, sanctify you through and through. May your whole spirit, soul and body be kept blameless at the coming of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "The one who calls you is faithful, and he will do it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Brothers and sisters, pray for us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "Greet all God’s people with a holy kiss."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "I charge you before the Lord to have this letter read to all the brothers and sisters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "The grace of our Lord Jesus Christ be with you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

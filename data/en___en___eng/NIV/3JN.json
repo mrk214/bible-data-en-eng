@@ -1,0 +1,204 @@
+{
+  "book_usfm": "3JN",
+  "name": "3 John",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "3JN.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "3JN.INTRO1"
+        ],
+        "human": "3 John Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 John 1",
+        "toc": true
+      },
+      "chapter_text": "Intro\nThis letter is a note of thanks and encouragement to an individual named Gaius. John had sent a letter to the church of which Gaius was a member, introducing and commending certain individuals, but a leader named Diotrephes refused to accommodate them. He opposed John’s authority to the point of actually expelling anyone who supported the people he had sent. Gaius, however, put these preachers up in his own home, enabling them to carry out their mission. John’s gratitude makes it clear that the church should provide a base of operations for traveling preachers who were walking in the truth. John also promises to come soon to set matters right.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"3JN.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">This letter is a note of thanks and encouragement to an individual named Gaius. John had sent a letter to the church of which Gaius was a member, introducing and commending certain individuals, but a leader named Diotrephes refused to accommodate them. He opposed John&#8217;s authority to the point of actually expelling anyone who supported the people he had sent. Gaius, however, put these preachers up in his own home, enabling them to carry out their mission. John&#8217;s gratitude makes it clear that the church should provide a base of operations for traveling preachers who were walking in the truth. John also promises to come soon to set matters right.</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "3JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "JUD.INTRO1"
+        ],
+        "human": "Jude Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "3JN.INTRO1"
+        ],
+        "human": "3 John Intro",
+        "toc": true
+      },
+      "chapter_text": "The elder,\n\nTo my dear friend Gaius, whom I love in the truth.\n\n\nDear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well. It gave me great joy when some believers came and testified about your faithfulness to the truth, telling how you continue to walk in it. I have no greater joy than to hear that my children are walking in the truth.\nDear friend, you are faithful in what you are doing for the brothers and sisters, even though they are strangers to you. They have told the church about your love. Please send them on their way in a manner that honors God. It was for the sake of the Name that they went out, receiving no help from the pagans. We ought therefore to show hospitality to such people so that we may work together for the truth.\nI wrote to the church, but Diotrephes, who loves to be first, will not welcome us. So when I come, I will call attention to what he is doing, spreading malicious nonsense about us. Not satisfied with that, he even refuses to welcome other believers. He also stops those who want to do so and puts them out of the church.\nDear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God. Demetrius is well spoken of by everyone—and even by the truth itself. We also speak well of him, and you know that our testimony is true.\nI have much to write you, but I do not want to do so with pen and ink. I hope to see you soon, and we will talk face to face.\n\n\nPeace to you. The friends here send their greetings. Greet the friends there by name.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter ch1\" data-usfm=\"3JN.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"label\">1</span><span class=\"content\">The elder,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"content\">To my dear friend Gaius, whom I love in the truth.</span></span></div><div class=\"b\"></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"3JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well. </span></span><span class=\"verse v3\" data-usfm=\"3JN.1.3\"><span class=\"label\">3</span><span class=\"content\">It gave me great joy when some believers came and testified about your faithfulness to the truth, telling how you continue to walk in it. </span></span><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"label\">4</span><span class=\"content\">I have no greater joy than to hear that my children are walking in the truth.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"3JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Dear friend, you are faithful in what you are doing for the brothers and sisters,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">The Greek word for </span><span class=\"fq\">brothers and sisters </span><span class=\"ft\">(<span class=\"tl\">adelphoi</span>) refers here to believers, both men and women, as part of God&#8217;s family.</span></span></span><span class=\"content\"> even though they are strangers to you. </span></span><span class=\"verse v6\" data-usfm=\"3JN.1.6\"><span class=\"label\">6</span><span class=\"content\">They have told the church about your love. Please send them on their way in a manner that honors God. </span></span><span class=\"verse v7\" data-usfm=\"3JN.1.7\"><span class=\"label\">7</span><span class=\"content\">It was for the sake of the Name that they went out, receiving no help from the pagans. </span></span><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"label\">8</span><span class=\"content\">We ought therefore to show hospitality to such people so that we may work together for the truth.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"3JN.1.9\"><span class=\"label\">9</span><span class=\"content\">I wrote to the church, but Diotrephes, who loves to be first, will not welcome us. </span></span><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"label\">10</span><span class=\"content\">So when I come, I will call attention to what he is doing, spreading malicious nonsense about us. Not satisfied with that, he even refuses to welcome other believers. He also stops those who want to do so and puts them out of the church.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"label\">11</span><span class=\"content\">Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God. </span></span><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Demetrius is well spoken of by everyone&#8212;and even by the truth itself. We also speak well of him, and you know that our testimony is true.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"3JN.1.13\"><span class=\"label\">13</span><span class=\"content\">I have much to write you, but I do not want to do so with pen and ink. </span></span><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"label\">14</span><span class=\"content\">I hope to see you soon, and we will talk face to face.</span></span></div><div class=\"b\"></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"3JN.1.15\"><span class=\"label\">15</span><span class=\"content\">Peace to you. The friends here send their greetings. Greet the friends there by name.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The elder,",
+            "To my dear friend Gaius, whom I love in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "It gave me great joy when some believers came and testified about your faithfulness to the truth, telling how you continue to walk in it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I have no greater joy than to hear that my children are walking in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Dear friend, you are faithful in what you are doing for the brothers and sisters, even though they are strangers to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "They have told the church about your love. Please send them on their way in a manner that honors God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "It was for the sake of the Name that they went out, receiving no help from the pagans."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "We ought therefore to show hospitality to such people so that we may work together for the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I wrote to the church, but Diotrephes, who loves to be first, will not welcome us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "So when I come, I will call attention to what he is doing, spreading malicious nonsense about us. Not satisfied with that, he even refuses to welcome other believers. He also stops those who want to do so and puts them out of the church."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Demetrius is well spoken of by everyone—and even by the truth itself. We also speak well of him, and you know that our testimony is true."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I have much to write you, but I do not want to do so with pen and ink."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I hope to see you soon, and we will talk face to face."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Peace to you. The friends here send their greetings. Greet the friends there by name."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

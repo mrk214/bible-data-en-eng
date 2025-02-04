@@ -1,0 +1,665 @@
+{
+  "book_usfm": "2PE",
+  "name": "2 Peter",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2PE.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "2PE.INTRO1"
+        ],
+        "human": "2 Peter Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.5"
+        ],
+        "human": "1 Peter 5",
+        "toc": true
+      },
+      "chapter_text": "Intro\nAround AD 65 the apostle Peter was imprisoned in Rome by the emperor Nero, and he realized that he would soon be executed. Since he was an eyewitness of the ministry of Jesus, he decided to write another letter to the believers he had written to before, confirming what they had been taught about Jesus. False teachers were proposing that, since Jesus hadn’t returned already, his return couldn’t be expected at all. Because they didn’t expect any future judgment, they were living immoral lives. (Peter likely learned about the threat of these teachers from a letter sent by Jude, a brother of Jesus, to warn believers against them. Peter’s letter echoes Jude’s, but in shorter form. See Jude.)\nPeter answers the false teachers by stressing that he personally saw the glory and majesty of Jesus on the sacred mountain (see Mark 9:2-13). Everyone will see this glory when Jesus returns. In powerful imagery Peter describes the false teachers’ destructive effect on the community and the judgment that awaits them. In the final section of his letter, Peter explains that the Messiah’s return has been delayed because God wants everyone to repent. Our proper response is to live good lives filled with hope, since we are looking forward to a new heaven and a new earth, where righteousness dwells.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"2PE.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">Around AD 65 the apostle Peter was imprisoned in Rome by the emperor Nero, and he realized that he would soon be executed. Since he was an eyewitness of the ministry of Jesus, he decided to write another letter to the believers he had written to before, confirming what they had been taught about Jesus. False teachers were proposing that, since Jesus hadn&#8217;t returned already, his return couldn&#8217;t be expected at all. Because they didn&#8217;t expect any future judgment, they were living immoral lives. (Peter likely learned about the threat of these teachers from a letter sent by Jude, a brother of Jesus, to warn believers against them. Peter&#8217;s letter echoes Jude&#8217;s, but in shorter form. See </span><span class=\"content\">Jude</span><span class=\"content\">.)</span></div><div class=\"ip\"><span class=\"content\">Peter answers the false teachers by stressing that he personally saw the glory and majesty of Jesus </span><span class=\"qt\"><span class=\"content\">on the sacred mountain</span></span><span class=\"content\"> (see </span><span class=\"content\">Mark 9:2-13</span><span class=\"content\">). Everyone will see this glory when Jesus returns. In powerful imagery Peter describes the false teachers&#8217; destructive effect on the community and the judgment that awaits them. In the final section of his letter, Peter explains that the Messiah&#8217;s return has been delayed because God wants everyone to repent. Our proper response is to live good lives filled with hope, since </span><span class=\"qt\"><span class=\"content\">we are looking forward to a new heaven and a new earth, where righteousness dwells.</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "2PE.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "2PE.INTRO1"
+        ],
+        "human": "2 Peter Intro",
+        "toc": true
+      },
+      "chapter_text": "Simon Peter, a servant and apostle of Jesus Christ,\n\nTo those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:\n\nGrace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.\n\nHis divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness. Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature, having escaped the corruption in the world caused by evil desires.\nFor this very reason, make every effort to add to your faith goodness; and to goodness, knowledge; and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness; and to godliness, mutual affection; and to mutual affection, love. For if you possess these qualities in increasing measure, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ. But whoever does not have them is nearsighted and blind, forgetting that they have been cleansed from their past sins.\nTherefore, my brothers and sisters, make every effort to confirm your calling and election. For if you do these things, you will never stumble, and you will receive a rich welcome into the eternal kingdom of our Lord and Savior Jesus Christ.\n\nSo I will always remind you of these things, even though you know them and are firmly established in the truth you now have. I think it is right to refresh your memory as long as I live in the tent of this body, because I know that I will soon put it aside, as our Lord Jesus Christ has made clear to me. And I will make every effort to see that after my departure you will always be able to remember these things.\nFor we did not follow cleverly devised stories when we told you about the coming of our Lord Jesus Christ in power, but we were eyewitnesses of his majesty. He received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying, “This is my Son, whom I love; with him I am well pleased.” We ourselves heard this voice that came from heaven when we were with him on the sacred mountain.\nWe also have the prophetic message as something completely reliable, and you will do well to pay attention to it, as to a light shining in a dark place, until the day dawns and the morning star rises in your hearts. Above all, you must understand that no prophecy of Scripture came about by the prophet’s own interpretation of things. For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch1\" data-usfm=\"2PE.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"label\">1</span><span class=\"content\">Simon Peter, a servant and apostle of Jesus Christ,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"content\">To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"label\">2</span><span class=\"content\">Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord.</span></span></div><div class=\"s1\"><span class=\"heading\">Confirming One&#8217;s Calling and Election</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2PE.1.3\"><span class=\"label\">3</span><span class=\"content\">His divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness. </span></span><span class=\"verse v4\" data-usfm=\"2PE.1.4\"><span class=\"label\">4</span><span class=\"content\">Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature, having escaped the corruption in the world caused by evil desires.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"2PE.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2PE.1.5\"><span class=\"label\">5</span><span class=\"content\">For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge; </span></span><span class=\"verse v6\" data-usfm=\"2PE.1.6\"><span class=\"label\">6</span><span class=\"content\">and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness; </span></span><span class=\"verse v7\" data-usfm=\"2PE.1.7\"><span class=\"label\">7</span><span class=\"content\">and to godliness, mutual affection; and to mutual affection, love. </span></span><span class=\"verse v8\" data-usfm=\"2PE.1.8\"><span class=\"label\">8</span><span class=\"content\">For if you possess these qualities in increasing measure, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ. </span></span><span class=\"verse v9\" data-usfm=\"2PE.1.9\"><span class=\"label\">9</span><span class=\"content\">But whoever does not have them is nearsighted and blind, forgetting that they have been cleansed from their past sins.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"2PE.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2PE.1.10\"><span class=\"label\">10</span><span class=\"content\">Therefore, my brothers and sisters,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">The Greek word for </span><span class=\"fq\">brothers and sisters </span><span class=\"ft\">(<span class=\"tl\">adelphoi</span>) refers here to believers, both men and women, as part of God&#8217;s family.</span></span></span><span class=\"content\"> make every effort to confirm your calling and election. For if you do these things, you will never stumble, </span></span><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"label\">11</span><span class=\"content\">and you will receive a rich welcome into the eternal kingdom of our Lord and Savior Jesus Christ.</span></span></div><div class=\"s1\"><span class=\"heading\">Prophecy of Scripture</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2PE.1.12\"><span class=\"label\">12</span><span class=\"content\">So I will always remind you of these things, even though you know them and are firmly established in the truth you now have. </span></span><span class=\"verse v13\" data-usfm=\"2PE.1.13\"><span class=\"label\">13</span><span class=\"content\">I think it is right to refresh your memory as long as I live in the tent of this body, </span></span><span class=\"verse v14\" data-usfm=\"2PE.1.14\"><span class=\"label\">14</span><span class=\"content\">because I know that I will soon put it aside, as our Lord Jesus Christ has made clear to me. </span></span><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"label\">15</span><span class=\"content\">And I will make every effort to see that after my departure you will always be able to remember these things.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2PE.1.16\"><span class=\"label\">16</span><span class=\"content\">For we did not follow cleverly devised stories when we told you about the coming of our Lord Jesus Christ in power, but we were eyewitnesses of his majesty. </span></span><span class=\"verse v17\" data-usfm=\"2PE.1.17\"><span class=\"label\">17</span><span class=\"content\">He received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying, &#8220;This is my Son, whom I love; with him I am well pleased.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Matt. 17:5; Mark 9:7; Luke 9:35</span></span></span><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2PE.1.18\"><span class=\"label\">18</span><span class=\"content\">We ourselves heard this voice that came from heaven when we were with him on the sacred mountain.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"2PE.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2PE.1.19\"><span class=\"label\">19</span><span class=\"content\">We also have the prophetic message as something completely reliable, and you will do well to pay attention to it, as to a light shining in a dark place, until the day dawns and the morning star rises in your hearts. </span></span><span class=\"verse v20\" data-usfm=\"2PE.1.20\"><span class=\"label\">20</span><span class=\"content\">Above all, you must understand that no prophecy of Scripture came about by the prophet&#8217;s own interpretation of things. </span></span><span class=\"verse v21\" data-usfm=\"2PE.1.21\"><span class=\"label\">21</span><span class=\"content\">For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Simon Peter, a servant and apostle of Jesus Christ,",
+            "To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Grace and peace be yours in abundance through the knowledge of God and of Jesus our Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Confirming One’s Calling and Election"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "His divine power has given us everything we need for a godly life through our knowledge of him who called us by his own glory and goodness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Through these he has given us his very great and precious promises, so that through them you may participate in the divine nature, having escaped the corruption in the world caused by evil desires."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For this very reason, make every effort to add to your faith goodness; and to goodness, knowledge;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and to godliness, mutual affection; and to mutual affection, love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For if you possess these qualities in increasing measure, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But whoever does not have them is nearsighted and blind, forgetting that they have been cleansed from their past sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Therefore, my brothers and sisters, make every effort to confirm your calling and election. For if you do these things, you will never stumble,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "and you will receive a rich welcome into the eternal kingdom of our Lord and Savior Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Prophecy of Scripture"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "So I will always remind you of these things, even though you know them and are firmly established in the truth you now have."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I think it is right to refresh your memory as long as I live in the tent of this body,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "because I know that I will soon put it aside, as our Lord Jesus Christ has made clear to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And I will make every effort to see that after my departure you will always be able to remember these things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For we did not follow cleverly devised stories when we told you about the coming of our Lord Jesus Christ in power, but we were eyewitnesses of his majesty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "He received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying, “This is my Son, whom I love; with him I am well pleased.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "We ourselves heard this voice that came from heaven when we were with him on the sacred mountain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "We also have the prophetic message as something completely reliable, and you will do well to pay attention to it, as to a light shining in a dark place, until the day dawns and the morning star rises in your hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Above all, you must understand that no prophecy of Scripture came about by the prophet’s own interpretation of things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Peter 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1",
+        "toc": true
+      },
+      "chapter_text": "But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the sovereign Lord who bought them—bringing swift destruction on themselves. Many will follow their depraved conduct and will bring the way of truth into disrepute. In their greed these teachers will exploit you with fabricated stories. Their condemnation has long been hanging over them, and their destruction has not been sleeping.\nFor if God did not spare angels when they sinned, but sent them to hell, putting them in chains of darkness to be held for judgment; if he did not spare the ancient world when he brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others; if he condemned the cities of Sodom and Gomorrah by burning them to ashes, and made them an example of what is going to happen to the ungodly; and if he rescued Lot, a righteous man, who was distressed by the depraved conduct of the lawless (for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)— if this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment. This is especially true of those who follow the corrupt desire of the flesh and despise authority.\nBold and arrogant, they are not afraid to heap abuse on celestial beings; yet even angels, although they are stronger and more powerful, do not heap abuse on such beings when bringing judgment on them from the Lord. But these people blaspheme in matters they do not understand. They are like unreasoning animals, creatures of instinct, born only to be caught and destroyed, and like animals they too will perish.\nThey will be paid back with harm for the harm they have done. Their idea of pleasure is to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures while they feast with you. With eyes full of adultery, they never stop sinning; they seduce the unstable; they are experts in greed—an accursed brood! They have left the straight way and wandered off to follow the way of Balaam son of Bezer, who loved the wages of wickedness. But he was rebuked for his wrongdoing by a donkey—an animal without speech—who spoke with a human voice and restrained the prophet’s madness.\nThese people are springs without water and mists driven by a storm. Blackest darkness is reserved for them. For they mouth empty, boastful words and, by appealing to the lustful desires of the flesh, they entice people who are just escaping from those who live in error. They promise them freedom, while they themselves are slaves of depravity—for “people are slaves to whatever has mastered them.” If they have escaped the corruption of the world by knowing our Lord and Savior Jesus Christ and are again entangled in it and are overcome, they are worse off at the end than they were at the beginning. It would have been better for them not to have known the way of righteousness, than to have known it and then to turn their backs on the sacred command that was passed on to them. Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed returns to her wallowing in the mud.”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch2\" data-usfm=\"2PE.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">False Teachers and Their Destruction</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.2.1\"><span class=\"label\">1</span><span class=\"content\">But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the sovereign Lord who bought them&#8212;bringing swift destruction on themselves. </span></span><span class=\"verse v2\" data-usfm=\"2PE.2.2\"><span class=\"label\">2</span><span class=\"content\">Many will follow their depraved conduct and will bring the way of truth into disrepute. </span></span><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"label\">3</span><span class=\"content\">In their greed these teachers will exploit you with fabricated stories. Their condemnation has long been hanging over them, and their destruction has not been sleeping.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2PE.2.4\"><span class=\"label\">4</span><span class=\"content\">For if God did not spare angels when they sinned, but sent them to hell,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">Greek </span><span class=\"fqa\">Tartarus</span></span></span><span class=\"content\"> putting them in chains of darkness</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">Some manuscripts </span><span class=\"fqa\">in gloomy dungeons</span></span></span><span class=\"content\"> to be held for judgment; </span></span><span class=\"verse v5\" data-usfm=\"2PE.2.5\"><span class=\"label\">5</span><span class=\"content\">if he did not spare the ancient world when he brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others; </span></span><span class=\"verse v6\" data-usfm=\"2PE.2.6\"><span class=\"label\">6</span><span class=\"content\">if he condemned the cities of Sodom and Gomorrah by burning them to ashes, and made them an example of what is going to happen to the ungodly; </span></span><span class=\"verse v7\" data-usfm=\"2PE.2.7\"><span class=\"label\">7</span><span class=\"content\">and if he rescued Lot, a righteous man, who was distressed by the depraved conduct of the lawless </span></span><span class=\"verse v8\" data-usfm=\"2PE.2.8\"><span class=\"label\">8</span><span class=\"content\">(for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)&#8212; </span></span><span class=\"verse v9\" data-usfm=\"2PE.2.9\"><span class=\"label\">9</span><span class=\"content\">if this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment. </span></span><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"label\">10</span><span class=\"content\">This is especially true of those who follow the corrupt desire of the flesh</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:10 </span><span class=\"ft\">In contexts like this, the Greek word for </span><span class=\"fq\">flesh </span><span class=\"ft\">(<span class=\"tl\">sarx</span>) refers to the sinful state of human beings, often presented as a power in opposition to the Spirit; also in verse 18.</span></span></span><span class=\"content\"> and despise authority.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"content\">Bold and arrogant, they are not afraid to heap abuse on celestial beings; </span></span><span class=\"verse v11\" data-usfm=\"2PE.2.11\"><span class=\"label\">11</span><span class=\"content\">yet even angels, although they are stronger and more powerful, do not heap abuse on such beings when bringing judgment on them from</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Many manuscripts </span><span class=\"fqa\">beings in the presence of</span></span></span><span class=\"content\"> the Lord. </span></span><span class=\"verse v12\" data-usfm=\"2PE.2.12\"><span class=\"label\">12</span><span class=\"content\">But these people blaspheme in matters they do not understand. They are like unreasoning animals, creatures of instinct, born only to be caught and destroyed, and like animals they too will perish.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2PE.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2PE.2.13\"><span class=\"label\">13</span><span class=\"content\">They will be paid back with harm for the harm they have done. Their idea of pleasure is to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures while they feast with you.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Some manuscripts </span><span class=\"fqa\">in their love feasts</span></span></span><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2PE.2.14\"><span class=\"label\">14</span><span class=\"content\">With eyes full of adultery, they never stop sinning; they seduce the unstable; they are experts in greed&#8212;an accursed brood! </span></span><span class=\"verse v15\" data-usfm=\"2PE.2.15\"><span class=\"label\">15</span><span class=\"content\">They have left the straight way and wandered off to follow the way of Balaam son of Bezer,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Greek </span><span class=\"fqa\">Bosor</span></span></span><span class=\"content\"> who loved the wages of wickedness. </span></span><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"label\">16</span><span class=\"content\">But he was rebuked for his wrongdoing by a donkey&#8212;an animal without speech&#8212;who spoke with a human voice and restrained the prophet&#8217;s madness.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.2.17\"><span class=\"label\">17</span><span class=\"content\">These people are springs without water and mists driven by a storm. Blackest darkness is reserved for them. </span></span><span class=\"verse v18\" data-usfm=\"2PE.2.18\"><span class=\"label\">18</span><span class=\"content\">For they mouth empty, boastful words and, by appealing to the lustful desires of the flesh, they entice people who are just escaping from those who live in error. </span></span><span class=\"verse v19\" data-usfm=\"2PE.2.19\"><span class=\"label\">19</span><span class=\"content\">They promise them freedom, while they themselves are slaves of depravity&#8212;for &#8220;people are slaves to whatever has mastered them.&#8221; </span></span><span class=\"verse v20\" data-usfm=\"2PE.2.20\"><span class=\"label\">20</span><span class=\"content\">If they have escaped the corruption of the world by knowing our Lord and Savior Jesus Christ and are again entangled in it and are overcome, they are worse off at the end than they were at the beginning. </span></span><span class=\"verse v21\" data-usfm=\"2PE.2.21\"><span class=\"label\">21</span><span class=\"content\">It would have been better for them not to have known the way of righteousness, than to have known it and then to turn their backs on the sacred command that was passed on to them. </span></span><span class=\"verse v22\" data-usfm=\"2PE.2.22\"><span class=\"label\">22</span><span class=\"content\">Of them the proverbs are true: &#8220;A dog returns to its vomit,&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:22 </span><span class=\"ft\">Prov. 26:11</span></span></span><span class=\"content\"> and, &#8220;A sow that is washed returns to her wallowing in the mud.&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "False Teachers and Their Destruction"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "But there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the sovereign Lord who bought them—bringing swift destruction on themselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Many will follow their depraved conduct and will bring the way of truth into disrepute."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "In their greed these teachers will exploit you with fabricated stories. Their condemnation has long been hanging over them, and their destruction has not been sleeping."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For if God did not spare angels when they sinned, but sent them to hell, putting them in chains of darkness to be held for judgment;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "if he did not spare the ancient world when he brought the flood on its ungodly people, but protected Noah, a preacher of righteousness, and seven others;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "if he condemned the cities of Sodom and Gomorrah by burning them to ashes, and made them an example of what is going to happen to the ungodly;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and if he rescued Lot, a righteous man, who was distressed by the depraved conduct of the lawless"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "(for that righteous man, living among them day after day, was tormented in his righteous soul by the lawless deeds he saw and heard)—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "if this is so, then the Lord knows how to rescue the godly from trials and to hold the unrighteous for punishment on the day of judgment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "This is especially true of those who follow the corrupt desire of the flesh and despise authority.",
+            "Bold and arrogant, they are not afraid to heap abuse on celestial beings;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "yet even angels, although they are stronger and more powerful, do not heap abuse on such beings when bringing judgment on them from the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But these people blaspheme in matters they do not understand. They are like unreasoning animals, creatures of instinct, born only to be caught and destroyed, and like animals they too will perish."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "They will be paid back with harm for the harm they have done. Their idea of pleasure is to carouse in broad daylight. They are blots and blemishes, reveling in their pleasures while they feast with you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "With eyes full of adultery, they never stop sinning; they seduce the unstable; they are experts in greed—an accursed brood!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "They have left the straight way and wandered off to follow the way of Balaam son of Bezer, who loved the wages of wickedness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "But he was rebuked for his wrongdoing by a donkey—an animal without speech—who spoke with a human voice and restrained the prophet’s madness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "These people are springs without water and mists driven by a storm. Blackest darkness is reserved for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For they mouth empty, boastful words and, by appealing to the lustful desires of the flesh, they entice people who are just escaping from those who live in error."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "They promise them freedom, while they themselves are slaves of depravity—for “people are slaves to whatever has mastered them.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "If they have escaped the corruption of the world by knowing our Lord and Savior Jesus Christ and are again entangled in it and are overcome, they are worse off at the end than they were at the beginning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "It would have been better for them not to have known the way of righteousness, than to have known it and then to turn their backs on the sacred command that was passed on to them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed returns to her wallowing in the mud.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Peter 3"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "1JN.INTRO1"
+        ],
+        "human": "1 John Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2",
+        "toc": true
+      },
+      "chapter_text": "Dear friends, this is now my second letter to you. I have written both of them as reminders to stimulate you to wholesome thinking. I want you to recall the words spoken in the past by the holy prophets and the command given by our Lord and Savior through your apostles.\nAbove all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires. They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation.” But they deliberately forget that long ago by God’s word the heavens came into being and the earth was formed out of water and by water. By these waters also the world of that time was deluged and destroyed. By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of the ungodly.\nBut do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day. The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.\nBut the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare.\nSince everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives as you look forward to the day of God and speed its coming. That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat. But in keeping with his promise we are looking forward to a new heaven and a new earth, where righteousness dwells.\nSo then, dear friends, since you are looking forward to this, make every effort to be found spotless, blameless and at peace with him. Bear in mind that our Lord’s patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him. He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction.\nTherefore, dear friends, since you have been forewarned, be on your guard so that you may not be carried away by the error of the lawless and fall from your secure position. But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch3\" data-usfm=\"2PE.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">The Day of the Lord</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.3.1\"><span class=\"label\">1</span><span class=\"content\">Dear friends, this is now my second letter to you. I have written both of them as reminders to stimulate you to wholesome thinking. </span></span><span class=\"verse v2\" data-usfm=\"2PE.3.2\"><span class=\"label\">2</span><span class=\"content\">I want you to recall the words spoken in the past by the holy prophets and the command given by our Lord and Savior through your apostles.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2PE.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2PE.3.3\"><span class=\"label\">3</span><span class=\"content\">Above all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires. </span></span><span class=\"verse v4\" data-usfm=\"2PE.3.4\"><span class=\"label\">4</span><span class=\"content\">They will say, &#8220;Where is this &#8216;coming&#8217; he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation.&#8221; </span></span><span class=\"verse v5\" data-usfm=\"2PE.3.5\"><span class=\"label\">5</span><span class=\"content\">But they deliberately forget that long ago by God&#8217;s word the heavens came into being and the earth was formed out of water and by water. </span></span><span class=\"verse v6\" data-usfm=\"2PE.3.6\"><span class=\"label\">6</span><span class=\"content\">By these waters also the world of that time was deluged and destroyed. </span></span><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"label\">7</span><span class=\"content\">By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of the ungodly.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2PE.3.8\"><span class=\"label\">8</span><span class=\"content\">But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day. </span></span><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"label\">9</span><span class=\"content\">The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2PE.3.10\"><span class=\"label\">10</span><span class=\"content\">But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:10 </span><span class=\"ft\">Some manuscripts </span><span class=\"fqa\">be burned up</span></span></span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2PE.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2PE.3.11\"><span class=\"label\">11</span><span class=\"content\">Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives </span></span><span class=\"verse v12\" data-usfm=\"2PE.3.12\"><span class=\"label\">12</span><span class=\"content\">as you look forward to the day of God and speed its coming.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Or </span><span class=\"fqa\">as you wait eagerly for the day of God to come</span></span></span><span class=\"content\"> That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat. </span></span><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"label\">13</span><span class=\"content\">But in keeping with his promise we are looking forward to a new heaven and a new earth, where righteousness dwells.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2PE.3.14\"><span class=\"label\">14</span><span class=\"content\">So then, dear friends, since you are looking forward to this, make every effort to be found spotless, blameless and at peace with him. </span></span><span class=\"verse v15\" data-usfm=\"2PE.3.15\"><span class=\"label\">15</span><span class=\"content\">Bear in mind that our Lord&#8217;s patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him. </span></span><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"label\">16</span><span class=\"content\">He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.3.17\"><span class=\"label\">17</span><span class=\"content\">Therefore, dear friends, since you have been forewarned, be on your guard so that you may not be carried away by the error of the lawless and fall from your secure position. </span></span><span class=\"verse v18\" data-usfm=\"2PE.3.18\"><span class=\"label\">18</span><span class=\"content\">But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Dear friends, this is now my second letter to you. I have written both of them as reminders to stimulate you to wholesome thinking."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I want you to recall the words spoken in the past by the holy prophets and the command given by our Lord and Savior through your apostles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Above all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "They will say, “Where is this ‘coming’ he promised? Ever since our ancestors died, everything goes on as it has since the beginning of creation.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "But they deliberately forget that long ago by God’s word the heavens came into being and the earth was formed out of water and by water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "By these waters also the world of that time was deluged and destroyed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "By the same word the present heavens and earth are reserved for fire, being kept for the day of judgment and destruction of the ungodly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But do not forget this one thing, dear friends: With the Lord a day is like a thousand years, and a thousand years are like a day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But the day of the Lord will come like a thief. The heavens will disappear with a roar; the elements will be destroyed by fire, and the earth and everything done in it will be laid bare."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Since everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "as you look forward to the day of God and speed its coming. That day will bring about the destruction of the heavens by fire, and the elements will melt in the heat."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But in keeping with his promise we are looking forward to a new heaven and a new earth, where righteousness dwells."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "So then, dear friends, since you are looking forward to this, make every effort to be found spotless, blameless and at peace with him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Bear in mind that our Lord’s patience means salvation, just as our dear brother Paul also wrote you with the wisdom that God gave him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "He writes the same way in all his letters, speaking in them of these matters. His letters contain some things that are hard to understand, which ignorant and unstable people distort, as they do the other Scriptures, to their own destruction."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Therefore, dear friends, since you have been forewarned, be on your guard so that you may not be carried away by the error of the lawless and fall from your secure position."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and forever! Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

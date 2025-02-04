@@ -1,0 +1,1542 @@
+{
+  "book_usfm": "MIC",
+  "name": "Micah",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "MIC.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "MIC.INTRO1"
+        ],
+        "human": "Micah Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Micah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonah 4",
+        "toc": true
+      },
+      "chapter_text": "Intro\nThe prophet Micah speaks to the southern kingdom of Judah during the reigns of Jotham, Ahaz and Hezekiah (late 8 th century BC). He foresees that Samaria and Jerusalem, the capital cities of Israel and Judah, will be destroyed because of their injustice and corrupt religion. The people have abandoned the covenant God made with them, taking up the pagan religious practices of the Canaanites. The rich and powerful are ruthlessly exploiting the poor, ignoring the law of Moses. Micah warns that in punishment for their unfaithfulness and injustice, both kingdoms will be invaded, conquered and exiled. As he predicts, Samaria falls to the Assyrians in 722 BC and Jerusalem falls to the Babylonians in 587/6 BC.\nMicah’s prophecies alternate between warnings of destruction and promises of restoration. Each of Micah’s three groups of oracles begins with a series of judgments, and then concludes with promises of restoration. Micah proclaims that in compassion and covenant faithfulness God will save a remnant of the people and bring them back to their own land. There they will be ruled by a righteous king and become a light to the whole world, pointing all nations to the ways of the LORD. God will help Israel find its place in the biblical drama.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"MIC.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">The prophet Micah speaks to the southern kingdom of Judah during the reigns of Jotham, Ahaz and Hezekiah (late 8</span><span class=\"ord\"><span class=\"content\">th</span></span><span class=\"content\"> century BC). He foresees that Samaria and Jerusalem, the capital cities of Israel and Judah, will be destroyed because of their injustice and corrupt religion. The people have abandoned the covenant God made with them, taking up the pagan religious practices of the Canaanites. The rich and powerful are ruthlessly exploiting the poor, ignoring the law of Moses. Micah warns that in punishment for their unfaithfulness and injustice, both kingdoms will be invaded, conquered and exiled. As he predicts, Samaria falls to the Assyrians in 722 BC and Jerusalem falls to the Babylonians in 587/6 BC.</span></div><div class=\"ip\"><span class=\"content\">Micah&#8217;s prophecies alternate between warnings of destruction and promises of restoration. Each of Micah&#8217;s three groups of oracles begins with a series of judgments, and then concludes with promises of restoration. Micah proclaims that in compassion and covenant faithfulness God will save a remnant of the people and bring them back to their own land. There they will be ruled by a righteous king and become a light to the whole world, pointing all nations to the ways of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. God will help Israel find its place in the biblical drama.</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "MIC.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Micah 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.2"
+        ],
+        "human": "Micah 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "MIC.INTRO1"
+        ],
+        "human": "Micah Intro",
+        "toc": true
+      },
+      "chapter_text": "The word of the LORD that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem.\nHear, you peoples, all of you,\nlisten, earth and all who live in it,\nthat the Sovereign LORD may bear witness against you,\nthe Lord from his holy temple.\n\nLook! The LORD is coming from his dwelling place;\nhe comes down and treads on the heights of the earth.\nThe mountains melt beneath him\nand the valleys split apart,\nlike wax before the fire,\nlike water rushing down a slope.\nAll this is because of Jacob’s transgression,\nbecause of the sins of the people of Israel.\nWhat is Jacob’s transgression?\nIs it not Samaria?\nWhat is Judah’s high place?\nIs it not Jerusalem?\n\n“Therefore I will make Samaria a heap of rubble,\na place for planting vineyards.\nI will pour her stones into the valley\nand lay bare her foundations.\nAll her idols will be broken to pieces;\nall her temple gifts will be burned with fire;\nI will destroy all her images.\nSince she gathered her gifts from the wages of prostitutes,\nas the wages of prostitutes they will again be used.”\n\nBecause of this I will weep and wail;\nI will go about barefoot and naked.\nI will howl like a jackal\nand moan like an owl.\nFor Samaria’s plague is incurable;\nit has spread to Judah.\nIt has reached the very gate of my people,\neven to Jerusalem itself.\nTell it not in Gath;\nweep not at all.\nIn Beth Ophrah\nroll in the dust.\nPass by naked and in shame,\nyou who live in Shaphir.\nThose who live in Zaanan\nwill not come out.\nBeth Ezel is in mourning;\nit no longer protects you.\nThose who live in Maroth writhe in pain,\nwaiting for relief,\nbecause disaster has come from the LORD,\neven to the gate of Jerusalem.\nYou who live in Lachish,\nharness fast horses to the chariot.\nYou are where the sin of Daughter Zion began,\nfor the transgressions of Israel were found in you.\nTherefore you will give parting gifts\nto Moresheth Gath.\nThe town of Akzib will prove deceptive\nto the kings of Israel.\nI will bring a conqueror against you\nwho live in Mareshah.\nThe nobles of Israel\nwill flee to Adullam.\nShave your head in mourning\nfor the children in whom you delight;\nmake yourself as bald as the vulture,\nfor they will go from you into exile.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch1\" data-usfm=\"MIC.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.1.1\"><span class=\"label\">1</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah&#8212;the vision he saw concerning Samaria and Jerusalem.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"label\">2</span><span class=\"content\">Hear, you peoples, all of you,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">listen, earth and all who live in it,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">that the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> may bear witness against you,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">the Lord from his holy temple.</span></span></div><div class=\"s1\"><span class=\"heading\">Judgment Against Samaria and Jerusalem</span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.1.3\"><span class=\"label\">3</span><span class=\"content\">Look! The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is coming from his dwelling place;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.1.3\"><span class=\"content\">he comes down and treads on the heights of the earth.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"label\">4</span><span class=\"content\">The mountains melt beneath him</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">and the valleys split apart,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">like wax before the fire,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">like water rushing down a slope.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"label\">5</span><span class=\"content\">All this is because of Jacob&#8217;s transgression,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">because of the sins of the people of Israel.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">What is Jacob&#8217;s transgression?</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">Is it not Samaria?</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">What is Judah&#8217;s high place?</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">Is it not Jerusalem?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"label\">6</span><span class=\"content\">&#8220;Therefore I will make Samaria a heap of rubble,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">a place for planting vineyards.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">I will pour her stones into the valley</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">and lay bare her foundations.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"label\">7</span><span class=\"content\">All her idols will be broken to pieces;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">all her temple gifts will be burned with fire;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">I will destroy all her images.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">Since she gathered her gifts from the wages of prostitutes,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">as the wages of prostitutes they will again be used.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Weeping and Mourning</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"label\">8</span><span class=\"content\">Because of this I will weep and wail;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">I will go about barefoot and naked.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">I will howl like a jackal</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">and moan like an owl.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"label\">9</span><span class=\"content\">For Samaria&#8217;s plague is incurable;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">it has spread to Judah.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">It has reached the very gate of my people,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">even to Jerusalem itself.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"label\">10</span><span class=\"content\">Tell it not in Gath</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"fq\">Gath </span><span class=\"ft\">sounds like the Hebrew for </span><span class=\"fq\">tell</span><span class=\"fqa\">.</span></span></span><span class=\"content\">;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">weep not at all.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">In Beth Ophrah</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"fq\">Beth Ophrah </span><span class=\"ft\">means </span><span class=\"fqa\">house of dust.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">roll in the dust.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"label\">11</span><span class=\"content\">Pass by naked and in shame,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">you who live in Shaphir.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"fq\">Shaphir </span><span class=\"ft\">means </span><span class=\"fqa\">pleasant.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">Those who live in Zaanan</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"fq\">Zaanan </span><span class=\"ft\">sounds like the Hebrew for </span><span class=\"fq\">come out</span><span class=\"fqa\">.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">will not come out.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">Beth Ezel is in mourning;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">it no longer protects you.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"label\">12</span><span class=\"content\">Those who live in Maroth</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"fq\">Maroth </span><span class=\"ft\">sounds like the Hebrew for </span><span class=\"fqa\">bitter.</span></span></span><span class=\"content\"> writhe in pain,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">waiting for relief,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">because disaster has come from the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">even to the gate of Jerusalem.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"label\">13</span><span class=\"content\">You who live in Lachish,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">harness fast horses to the chariot.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">You are where the sin of Daughter Zion began,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">for the transgressions of Israel were found in you.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"label\">14</span><span class=\"content\">Therefore you will give parting gifts</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">to Moresheth Gath.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">The town of Akzib</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:14 </span><span class=\"fq\">Akzib </span><span class=\"ft\">means </span><span class=\"fqa\">deception.</span></span></span><span class=\"content\"> will prove deceptive</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">to the kings of Israel.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"label\">15</span><span class=\"content\">I will bring a conqueror against you</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">who live in Mareshah.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"fq\">Mareshah </span><span class=\"ft\">sounds like the Hebrew for </span><span class=\"fq\">conqueror</span><span class=\"fqa\">.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">The nobles of Israel</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">will flee to Adullam.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"MIC.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"label\">16</span><span class=\"content\">Shave your head in mourning</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"content\">for the children in whom you delight;</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"content\">make yourself as bald as the vulture,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.1.16\"><span class=\"content\">for they will go from you into exile.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the Lord that came to Micah of Moresheth during the reigns of Jotham, Ahaz and Hezekiah, kings of Judah—the vision he saw concerning Samaria and Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Hear, you peoples, all of you,",
+            "listen, earth and all who live in it,",
+            "that the Sovereign Lord may bear witness against you,",
+            "the Lord from his holy temple."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Judgment Against Samaria and Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Look! The Lord is coming from his dwelling place;",
+            "he comes down and treads on the heights of the earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "The mountains melt beneath him",
+            "and the valleys split apart,",
+            "like wax before the fire,",
+            "like water rushing down a slope."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "All this is because of Jacob’s transgression,",
+            "because of the sins of the people of Israel.",
+            "What is Jacob’s transgression?",
+            "Is it not Samaria?",
+            "What is Judah’s high place?",
+            "Is it not Jerusalem?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“Therefore I will make Samaria a heap of rubble,",
+            "a place for planting vineyards.",
+            "I will pour her stones into the valley",
+            "and lay bare her foundations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "All her idols will be broken to pieces;",
+            "all her temple gifts will be burned with fire;",
+            "I will destroy all her images.",
+            "Since she gathered her gifts from the wages of prostitutes,",
+            "as the wages of prostitutes they will again be used.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Weeping and Mourning"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Because of this I will weep and wail;",
+            "I will go about barefoot and naked.",
+            "I will howl like a jackal",
+            "and moan like an owl."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For Samaria’s plague is incurable;",
+            "it has spread to Judah.",
+            "It has reached the very gate of my people,",
+            "even to Jerusalem itself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Tell it not in Gath;",
+            "weep not at all.",
+            "In Beth Ophrah",
+            "roll in the dust."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Pass by naked and in shame,",
+            "you who live in Shaphir.",
+            "Those who live in Zaanan",
+            "will not come out.",
+            "Beth Ezel is in mourning;",
+            "it no longer protects you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Those who live in Maroth writhe in pain,",
+            "waiting for relief,",
+            "because disaster has come from the Lord,",
+            "even to the gate of Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "You who live in Lachish,",
+            "harness fast horses to the chariot.",
+            "You are where the sin of Daughter Zion began,",
+            "for the transgressions of Israel were found in you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Therefore you will give parting gifts",
+            "to Moresheth Gath.",
+            "The town of Akzib will prove deceptive",
+            "to the kings of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "I will bring a conqueror against you",
+            "who live in Mareshah.",
+            "The nobles of Israel",
+            "will flee to Adullam."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Shave your head in mourning",
+            "for the children in whom you delight;",
+            "make yourself as bald as the vulture,",
+            "for they will go from you into exile."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.2"
+        ],
+        "human": "Micah 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.3"
+        ],
+        "human": "Micah 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Micah 1",
+        "toc": true
+      },
+      "chapter_text": "Woe to those who plan iniquity,\nto those who plot evil on their beds!\nAt morning’s light they carry it out\nbecause it is in their power to do it.\nThey covet fields and seize them,\nand houses, and take them.\nThey defraud people of their homes,\nthey rob them of their inheritance.\nTherefore, the LORD says:\n“I am planning disaster against this people,\nfrom which you cannot save yourselves.\nYou will no longer walk proudly,\nfor it will be a time of calamity.\nIn that day people will ridicule you;\nthey will taunt you with this mournful song:\n‘We are utterly ruined;\nmy people’s possession is divided up.\nHe takes it from me!\nHe assigns our fields to traitors.’ ”\n\nTherefore you will have no one in the assembly of the LORD\nto divide the land by lot.\n\n“Do not prophesy,” their prophets say.\n“Do not prophesy about these things;\ndisgrace will not overtake us.”\nYou descendants of Jacob, should it be said,\n“Does the LORD become impatient?\nDoes he do such things?”\n\n“Do not my words do good\nto the one whose ways are upright?\nLately my people have risen up\nlike an enemy.\nYou strip off the rich robe\nfrom those who pass by without a care,\nlike men returning from battle.\nYou drive the women of my people\nfrom their pleasant homes.\nYou take away my blessing\nfrom their children forever.\nGet up, go away!\nFor this is not your resting place,\nbecause it is defiled,\nit is ruined, beyond all remedy.\nIf a liar and deceiver comes and says,\n‘I will prophesy for you plenty of wine and beer,’\nthat would be just the prophet for this people!\n\n“I will surely gather all of you, Jacob;\nI will surely bring together the remnant of Israel.\nI will bring them together like sheep in a pen,\nlike a flock in its pasture;\nthe place will throng with people.\nThe One who breaks open the way will go up before them;\nthey will break through the gate and go out.\nTheir King will pass through before them,\nthe LORD at their head.”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch2\" data-usfm=\"MIC.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Human Plans and God&#8217;s Plans</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"label\">1</span><span class=\"content\">Woe to those who plan iniquity,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">to those who plot evil on their beds!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">At morning&#8217;s light they carry it out</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">because it is in their power to do it.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"label\">2</span><span class=\"content\">They covet fields and seize them,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">and houses, and take them.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">They defraud people of their homes,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">they rob them of their inheritance.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"MIC.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"label\">3</span><span class=\"content\">Therefore, the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">&#8220;I am planning disaster against this people,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">from which you cannot save yourselves.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">You will no longer walk proudly,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">for it will be a time of calamity.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"label\">4</span><span class=\"content\">In that day people will ridicule you;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">they will taunt you with this mournful song:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">&#8216;We are utterly ruined;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">my people&#8217;s possession is divided up.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">He takes it from me!</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">He assigns our fields to traitors.&#8217;&#8198;&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.2.5\"><span class=\"label\">5</span><span class=\"content\">Therefore you will have no one in the assembly of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.2.5\"><span class=\"content\">to divide the land by lot.</span></span></div><div class=\"s1\"><span class=\"heading\">False Prophets</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"label\">6</span><span class=\"content\">&#8220;Do not prophesy,&#8221; their prophets say.</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"content\">&#8220;Do not prophesy about these things;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"content\">disgrace will not overtake us.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"label\">7</span><span class=\"content\">You descendants of Jacob, should it be said,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">&#8220;Does the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> become</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or </span><span class=\"fqa\">Is the Spirit of the <span class=\"nd\">Lord</span></span></span></span><span class=\"content\"> impatient?</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">Does he do such things?&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">&#8220;Do not my words do good</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">to the one whose ways are upright?</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"label\">8</span><span class=\"content\">Lately my people have risen up</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">like an enemy.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">You strip off the rich robe</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">from those who pass by without a care,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">like men returning from battle.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"label\">9</span><span class=\"content\">You drive the women of my people</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">from their pleasant homes.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">You take away my blessing</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">from their children forever.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"label\">10</span><span class=\"content\">Get up, go away!</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">For this is not your resting place,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">because it is defiled,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">it is ruined, beyond all remedy.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"label\">11</span><span class=\"content\">If a liar and deceiver comes and says,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">&#8216;I will prophesy for you plenty of wine and beer,&#8217;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">that would be just the prophet for this people!</span></span></div><div class=\"s1\"><span class=\"heading\">Deliverance Promised</span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;I will surely gather all of you, Jacob;</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">I will surely bring together the remnant of Israel.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">I will bring them together like sheep in a pen,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">like a flock in its pasture;</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">the place will throng with people.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"label\">13</span><span class=\"content\">The One who breaks open the way will go up before them;</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"content\">they will break through the gate and go out.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"content\">Their King will pass through before them,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.2.13\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> at their head.&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Human Plans and God’s Plans"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Woe to those who plan iniquity,",
+            "to those who plot evil on their beds!",
+            "At morning’s light they carry it out",
+            "because it is in their power to do it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "They covet fields and seize them,",
+            "and houses, and take them.",
+            "They defraud people of their homes,",
+            "they rob them of their inheritance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Therefore, the Lord says:",
+            "“I am planning disaster against this people,",
+            "from which you cannot save yourselves.",
+            "You will no longer walk proudly,",
+            "for it will be a time of calamity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "In that day people will ridicule you;",
+            "they will taunt you with this mournful song:",
+            "‘We are utterly ruined;",
+            "my people’s possession is divided up.",
+            "He takes it from me!",
+            "He assigns our fields to traitors.’ ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Therefore you will have no one in the assembly of the Lord",
+            "to divide the land by lot."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "False Prophets"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“Do not prophesy,” their prophets say.",
+            "“Do not prophesy about these things;",
+            "disgrace will not overtake us.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "You descendants of Jacob, should it be said,",
+            "“Does the Lord become impatient?",
+            "Does he do such things?”",
+            "“Do not my words do good",
+            "to the one whose ways are upright?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Lately my people have risen up",
+            "like an enemy.",
+            "You strip off the rich robe",
+            "from those who pass by without a care,",
+            "like men returning from battle."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "You drive the women of my people",
+            "from their pleasant homes.",
+            "You take away my blessing",
+            "from their children forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Get up, go away!",
+            "For this is not your resting place,",
+            "because it is defiled,",
+            "it is ruined, beyond all remedy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "If a liar and deceiver comes and says,",
+            "‘I will prophesy for you plenty of wine and beer,’",
+            "that would be just the prophet for this people!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Deliverance Promised"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“I will surely gather all of you, Jacob;",
+            "I will surely bring together the remnant of Israel.",
+            "I will bring them together like sheep in a pen,",
+            "like a flock in its pasture;",
+            "the place will throng with people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The One who breaks open the way will go up before them;",
+            "they will break through the gate and go out.",
+            "Their King will pass through before them,",
+            "the Lord at their head.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.3"
+        ],
+        "human": "Micah 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.4"
+        ],
+        "human": "Micah 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.2"
+        ],
+        "human": "Micah 2",
+        "toc": true
+      },
+      "chapter_text": "Then I said,\n“Listen, you leaders of Jacob,\nyou rulers of Israel.\nShould you not embrace justice,\nyou who hate good and love evil;\nwho tear the skin from my people\nand the flesh from their bones;\nwho eat my people’s flesh,\nstrip off their skin\nand break their bones in pieces;\nwho chop them up like meat for the pan,\nlike flesh for the pot?”\n\nThen they will cry out to the LORD,\nbut he will not answer them.\nAt that time he will hide his face from them\nbecause of the evil they have done.\nThis is what the LORD says:\n“As for the prophets\nwho lead my people astray,\nthey proclaim ‘peace’\nif they have something to eat,\nbut prepare to wage war against anyone\nwho refuses to feed them.\nTherefore night will come over you, without visions,\nand darkness, without divination.\nThe sun will set for the prophets,\nand the day will go dark for them.\nThe seers will be ashamed\nand the diviners disgraced.\nThey will all cover their faces\nbecause there is no answer from God.”\nBut as for me, I am filled with power,\nwith the Spirit of the LORD,\nand with justice and might,\nto declare to Jacob his transgression,\nto Israel his sin.\n\nHear this, you leaders of Jacob,\nyou rulers of Israel,\nwho despise justice\nand distort all that is right;\nwho build Zion with bloodshed,\nand Jerusalem with wickedness.\nHer leaders judge for a bribe,\nher priests teach for a price,\nand her prophets tell fortunes for money.\nYet they look for the LORD’s support and say,\n“Is not the LORD among us?\nNo disaster will come upon us.”\nTherefore because of you,\nZion will be plowed like a field,\nJerusalem will become a heap of rubble,\nthe temple hill a mound overgrown with thickets.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch3\" data-usfm=\"MIC.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Leaders and Prophets Rebuked</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"label\">1</span><span class=\"content\">Then I said,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">&#8220;Listen, you leaders of Jacob,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">you rulers of Israel.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">Should you not embrace justice,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"label\">2</span><span class=\"content\">you who hate good and love evil;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"content\">who tear the skin from my people</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"content\">and the flesh from their bones;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"label\">3</span><span class=\"content\">who eat my people&#8217;s flesh,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">strip off their skin</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">and break their bones in pieces;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">who chop them up like meat for the pan,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">like flesh for the pot?&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"label\">4</span><span class=\"content\">Then they will cry out to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">but he will not answer them.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">At that time he will hide his face from them</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">because of the evil they have done.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"MIC.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"label\">5</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">&#8220;As for the prophets</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">who lead my people astray,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">they proclaim &#8216;peace&#8217;</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">if they have something to eat,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">but prepare to wage war against anyone</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">who refuses to feed them.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"label\">6</span><span class=\"content\">Therefore night will come over you, without visions,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">and darkness, without divination.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">The sun will set for the prophets,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">and the day will go dark for them.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"label\">7</span><span class=\"content\">The seers will be ashamed</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">and the diviners disgraced.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">They will all cover their faces</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">because there is no answer from God.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"label\">8</span><span class=\"content\">But as for me, I am filled with power,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">with the Spirit of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">and with justice and might,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">to declare to Jacob his transgression,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">to Israel his sin.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"label\">9</span><span class=\"content\">Hear this, you leaders of Jacob,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">you rulers of Israel,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">who despise justice</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">and distort all that is right;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.3.10\"><span class=\"label\">10</span><span class=\"content\">who build Zion with bloodshed,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.3.10\"><span class=\"content\">and Jerusalem with wickedness.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"label\">11</span><span class=\"content\">Her leaders judge for a bribe,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">her priests teach for a price,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">and her prophets tell fortunes for money.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">Yet they look for the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s support and say,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">&#8220;Is not the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> among us?</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">No disaster will come upon us.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"label\">12</span><span class=\"content\">Therefore because of you,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"content\">Zion will be plowed like a field,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"content\">Jerusalem will become a heap of rubble,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.3.12\"><span class=\"content\">the temple hill a mound overgrown with thickets.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Leaders and Prophets Rebuked"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Then I said,",
+            "“Listen, you leaders of Jacob,",
+            "you rulers of Israel.",
+            "Should you not embrace justice,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "you who hate good and love evil;",
+            "who tear the skin from my people",
+            "and the flesh from their bones;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "who eat my people’s flesh,",
+            "strip off their skin",
+            "and break their bones in pieces;",
+            "who chop them up like meat for the pan,",
+            "like flesh for the pot?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Then they will cry out to the Lord,",
+            "but he will not answer them.",
+            "At that time he will hide his face from them",
+            "because of the evil they have done."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "This is what the Lord says:",
+            "“As for the prophets",
+            "who lead my people astray,",
+            "they proclaim ‘peace’",
+            "if they have something to eat,",
+            "but prepare to wage war against anyone",
+            "who refuses to feed them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Therefore night will come over you, without visions,",
+            "and darkness, without divination.",
+            "The sun will set for the prophets,",
+            "and the day will go dark for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "The seers will be ashamed",
+            "and the diviners disgraced.",
+            "They will all cover their faces",
+            "because there is no answer from God.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But as for me, I am filled with power,",
+            "with the Spirit of the Lord,",
+            "and with justice and might,",
+            "to declare to Jacob his transgression,",
+            "to Israel his sin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Hear this, you leaders of Jacob,",
+            "you rulers of Israel,",
+            "who despise justice",
+            "and distort all that is right;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "who build Zion with bloodshed,",
+            "and Jerusalem with wickedness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Her leaders judge for a bribe,",
+            "her priests teach for a price,",
+            "and her prophets tell fortunes for money.",
+            "Yet they look for the Lord’s support and say,",
+            "“Is not the Lord among us?",
+            "No disaster will come upon us.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Therefore because of you,",
+            "Zion will be plowed like a field,",
+            "Jerusalem will become a heap of rubble,",
+            "the temple hill a mound overgrown with thickets."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.4"
+        ],
+        "human": "Micah 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.5"
+        ],
+        "human": "Micah 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.3"
+        ],
+        "human": "Micah 3",
+        "toc": true
+      },
+      "chapter_text": "LORD\nIn the last days\nthe mountain of the LORD’s temple will be established\nas the highest of the mountains;\nit will be exalted above the hills,\nand peoples will stream to it.\nMany nations will come and say,\n“Come, let us go up to the mountain of the LORD,\nto the temple of the God of Jacob.\nHe will teach us his ways,\nso that we may walk in his paths.”\nThe law will go out from Zion,\nthe word of the LORD from Jerusalem.\nHe will judge between many peoples\nand will settle disputes for strong nations far and wide.\nThey will beat their swords into plowshares\nand their spears into pruning hooks.\nNation will not take up sword against nation,\nnor will they train for war anymore.\nEveryone will sit under their own vine\nand under their own fig tree,\nand no one will make them afraid,\nfor the LORD Almighty has spoken.\nAll the nations may walk\nin the name of their gods,\nbut we will walk in the name of the LORD\nour God for ever and ever.\nLORD\n“In that day,” declares the LORD,\n“I will gather the lame;\nI will assemble the exiles\nand those I have brought to grief.\nI will make the lame my remnant,\nthose driven away a strong nation.\nThe LORD will rule over them in Mount Zion\nfrom that day and forever.\nAs for you, watchtower of the flock,\nstronghold of Daughter Zion,\nthe former dominion will be restored to you;\nkingship will come to Daughter Jerusalem.”\n\nWhy do you now cry aloud—\nhave you no king?\nHas your ruler perished,\nthat pain seizes you like that of a woman in labor?\nWrithe in agony, Daughter Zion,\nlike a woman in labor,\nfor now you must leave the city\nto camp in the open field.\nYou will go to Babylon;\nthere you will be rescued.\nThere the LORD will redeem you\nout of the hand of your enemies.\n\nBut now many nations\nare gathered against you.\nThey say, “Let her be defiled,\nlet our eyes gloat over Zion!”\nBut they do not know\nthe thoughts of the LORD;\nthey do not understand his plan,\nthat he has gathered them like sheaves to the threshing floor.\n“Rise and thresh, Daughter Zion,\nfor I will give you horns of iron;\nI will give you hooves of bronze,\nand you will break to pieces many nations.”\nYou will devote their ill-gotten gains to the LORD,\ntheir wealth to the Lord of all the earth.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch4\" data-usfm=\"MIC.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">The Mountain of the </span><span class=\"nd\"><span class=\"heading\">Lord</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"label\">1</span><span class=\"content\">In the last days</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">the mountain of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s temple will be established</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">as the highest of the mountains;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">it will be exalted above the hills,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">and peoples will stream to it.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"MIC.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"label\">2</span><span class=\"content\">Many nations will come and say,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">&#8220;Come, let us go up to the mountain of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">to the temple of the God of Jacob.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">He will teach us his ways,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">so that we may walk in his paths.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">The law will go out from Zion,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> from Jerusalem.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"label\">3</span><span class=\"content\">He will judge between many peoples</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">and will settle disputes for strong nations far and wide.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">They will beat their swords into plowshares</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">and their spears into pruning hooks.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">Nation will not take up sword against nation,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">nor will they train for war anymore.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"label\">4</span><span class=\"content\">Everyone will sit under their own vine</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">and under their own fig tree,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">and no one will make them afraid,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">for the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> Almighty has spoken.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"label\">5</span><span class=\"content\">All the nations may walk</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">in the name of their gods,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">but we will walk in the name of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">our God for ever and ever.</span></span></div><div class=\"s1\"><span class=\"heading\">The </span><span class=\"nd\"><span class=\"heading\">Lord</span></span><span class=\"heading\">&#8217;s Plan</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"label\">6</span><span class=\"content\">&#8220;In that day,&#8221; declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">&#8220;I will gather the lame;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">I will assemble the exiles</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">and those I have brought to grief.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"label\">7</span><span class=\"content\">I will make the lame my remnant,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">those driven away a strong nation.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will rule over them in Mount Zion</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">from that day and forever.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"label\">8</span><span class=\"content\">As for you, watchtower of the flock,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">stronghold</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">hill</span></span></span><span class=\"content\"> of Daughter Zion,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">the former dominion will be restored to you;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">kingship will come to Daughter Jerusalem.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"label\">9</span><span class=\"content\">Why do you now cry aloud&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">have you no king</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">King</span></span></span><span class=\"content\">?</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">Has your ruler</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">Ruler</span></span></span><span class=\"content\"> perished,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">that pain seizes you like that of a woman in labor?</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"label\">10</span><span class=\"content\">Writhe in agony, Daughter Zion,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">like a woman in labor,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">for now you must leave the city</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">to camp in the open field.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">You will go to Babylon;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">there you will be rescued.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">There the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will redeem you</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">out of the hand of your enemies.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"label\">11</span><span class=\"content\">But now many nations</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">are gathered against you.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">They say, &#8220;Let her be defiled,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">let our eyes gloat over Zion!&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"label\">12</span><span class=\"content\">But they do not know</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">the thoughts of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">they do not understand his plan,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">that he has gathered them like sheaves to the threshing floor.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"label\">13</span><span class=\"content\">&#8220;Rise and thresh, Daughter Zion,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">for I will give you horns of iron;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">I will give you hooves of bronze,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">and you will break to pieces many nations.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">You will devote their ill-gotten gains to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.4.13\"><span class=\"content\">their wealth to the Lord of all the earth.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Mountain of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "In the last days",
+            "the mountain of the Lord’s temple will be established",
+            "as the highest of the mountains;",
+            "it will be exalted above the hills,",
+            "and peoples will stream to it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Many nations will come and say,",
+            "“Come, let us go up to the mountain of the Lord,",
+            "to the temple of the God of Jacob.",
+            "He will teach us his ways,",
+            "so that we may walk in his paths.”",
+            "The law will go out from Zion,",
+            "the word of the Lord from Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "He will judge between many peoples",
+            "and will settle disputes for strong nations far and wide.",
+            "They will beat their swords into plowshares",
+            "and their spears into pruning hooks.",
+            "Nation will not take up sword against nation,",
+            "nor will they train for war anymore."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Everyone will sit under their own vine",
+            "and under their own fig tree,",
+            "and no one will make them afraid,",
+            "for the Lord Almighty has spoken."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "All the nations may walk",
+            "in the name of their gods,",
+            "but we will walk in the name of the Lord",
+            "our God for ever and ever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Lord’s Plan"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“In that day,” declares the Lord,",
+            "“I will gather the lame;",
+            "I will assemble the exiles",
+            "and those I have brought to grief."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I will make the lame my remnant,",
+            "those driven away a strong nation.",
+            "The Lord will rule over them in Mount Zion",
+            "from that day and forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "As for you, watchtower of the flock,",
+            "stronghold of Daughter Zion,",
+            "the former dominion will be restored to you;",
+            "kingship will come to Daughter Jerusalem.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Why do you now cry aloud—",
+            "have you no king?",
+            "Has your ruler perished,",
+            "that pain seizes you like that of a woman in labor?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Writhe in agony, Daughter Zion,",
+            "like a woman in labor,",
+            "for now you must leave the city",
+            "to camp in the open field.",
+            "You will go to Babylon;",
+            "there you will be rescued.",
+            "There the Lord will redeem you",
+            "out of the hand of your enemies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "But now many nations",
+            "are gathered against you.",
+            "They say, “Let her be defiled,",
+            "let our eyes gloat over Zion!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But they do not know",
+            "the thoughts of the Lord;",
+            "they do not understand his plan,",
+            "that he has gathered them like sheaves to the threshing floor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "“Rise and thresh, Daughter Zion,",
+            "for I will give you horns of iron;",
+            "I will give you hooves of bronze,",
+            "and you will break to pieces many nations.”",
+            "You will devote their ill-gotten gains to the Lord,",
+            "their wealth to the Lord of all the earth."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.5"
+        ],
+        "human": "Micah 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.6"
+        ],
+        "human": "Micah 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.4"
+        ],
+        "human": "Micah 4",
+        "toc": true
+      },
+      "chapter_text": "Marshal your troops now, city of troops,\nfor a siege is laid against us.\nThey will strike Israel’s ruler\non the cheek with a rod.\n\n“But you, Bethlehem Ephrathah,\nthough you are small among the clans of Judah,\nout of you will come for me\none who will be ruler over Israel,\nwhose origins are from of old,\nfrom ancient times.”\n\nTherefore Israel will be abandoned\nuntil the time when she who is in labor bears a son,\nand the rest of his brothers return\nto join the Israelites.\n\nHe will stand and shepherd his flock\nin the strength of the LORD,\nin the majesty of the name of the LORD his God.\nAnd they will live securely, for then his greatness\nwill reach to the ends of the earth.\n\nAnd he will be our peace\nwhen the Assyrians invade our land\nand march through our fortresses.\nWe will raise against them seven shepherds,\neven eight commanders,\nwho will rule the land of Assyria with the sword,\nthe land of Nimrod with drawn sword.\nHe will deliver us from the Assyrians\nwhen they invade our land\nand march across our borders.\n\nThe remnant of Jacob will be\nin the midst of many peoples\nlike dew from the LORD,\nlike showers on the grass,\nwhich do not wait for anyone\nor depend on man.\nThe remnant of Jacob will be among the nations,\nin the midst of many peoples,\nlike a lion among the beasts of the forest,\nlike a young lion among flocks of sheep,\nwhich mauls and mangles as it goes,\nand no one can rescue.\nYour hand will be lifted up in triumph over your enemies,\nand all your foes will be destroyed.\n“In that day,” declares the LORD,\n“I will destroy your horses from among you\nand demolish your chariots.\nI will destroy the cities of your land\nand tear down all your strongholds.\nI will destroy your witchcraft\nand you will no longer cast spells.\nI will destroy your idols\nand your sacred stones from among you;\nyou will no longer bow down\nto the work of your hands.\nI will uproot from among you your Asherah poles\nwhen I demolish your cities.\nI will take vengeance in anger and wrath\non the nations that have not obeyed me.”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch5\" data-usfm=\"MIC.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">A Promised Ruler From Bethlehem</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:0 </span><span class=\"ft\">  </span><span class=\"ft\">In Hebrew texts 5:1 is numbered 4:14, and 5:2-15 is numbered 5:1-14.</span><span class=\"ft\">  </span></span></span><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"label\">1</span><span class=\"content\">Marshal your troops now, city of troops,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">for a siege is laid against us.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">They will strike Israel&#8217;s ruler</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">on the cheek with a rod.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;But you, Bethlehem Ephrathah,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">though you are small among the clans</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:2 </span><span class=\"ft\">Or </span><span class=\"fqa\">rulers</span></span></span><span class=\"content\"> of Judah,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">out of you will come for me</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">one who will be ruler over Israel,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">whose origins are from of old,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">from ancient times.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"label\">3</span><span class=\"content\">Therefore Israel will be abandoned</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">until the time when she who is in labor bears a son,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">and the rest of his brothers return</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">to join the Israelites.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"label\">4</span><span class=\"content\">He will stand and shepherd his flock</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">in the strength of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">in the majesty of the name of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> his God.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">And they will live securely, for then his greatness</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">will reach to the ends of the earth.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"label\">5</span><span class=\"content\">And he will be our peace</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">when the Assyrians invade our land</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">and march through our fortresses.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">We will raise against them seven shepherds,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">even eight commanders,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"label\">6</span><span class=\"content\">who will rule</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:6 </span><span class=\"ft\">Or </span><span class=\"fqa\">crush</span></span></span><span class=\"content\"> the land of Assyria with the sword,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">the land of Nimrod with drawn sword.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:6 </span><span class=\"ft\">Or </span><span class=\"fqa\">Nimrod in its gates</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">He will deliver us from the Assyrians</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">when they invade our land</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">and march across our borders.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"label\">7</span><span class=\"content\">The remnant of Jacob will be</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">in the midst of many peoples</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">like dew from the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">like showers on the grass,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">which do not wait for anyone</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">or depend on man.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"label\">8</span><span class=\"content\">The remnant of Jacob will be among the nations,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">in the midst of many peoples,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">like a lion among the beasts of the forest,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">like a young lion among flocks of sheep,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">which mauls and mangles as it goes,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">and no one can rescue.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.5.9\"><span class=\"label\">9</span><span class=\"content\">Your hand will be lifted up in triumph over your enemies,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.5.9\"><span class=\"content\">and all your foes will be destroyed.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"MIC.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"label\">10</span><span class=\"content\">&#8220;In that day,&#8221; declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"content\">&#8220;I will destroy your horses from among you</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"content\">and demolish your chariots.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.5.11\"><span class=\"label\">11</span><span class=\"content\">I will destroy the cities of your land</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.5.11\"><span class=\"content\">and tear down all your strongholds.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.5.12\"><span class=\"label\">12</span><span class=\"content\">I will destroy your witchcraft</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.5.12\"><span class=\"content\">and you will no longer cast spells.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"label\">13</span><span class=\"content\">I will destroy your idols</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">and your sacred stones from among you;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">you will no longer bow down</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">to the work of your hands.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.5.14\"><span class=\"label\">14</span><span class=\"content\">I will uproot from among you your Asherah poles</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:14 </span><span class=\"ft\">That is, wooden symbols of the goddess Asherah</span></span></span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.5.14\"><span class=\"content\">when I demolish your cities.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.5.15\"><span class=\"label\">15</span><span class=\"content\">I will take vengeance in anger and wrath</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"MIC.5.15\"><span class=\"content\">on the nations that have not obeyed me.&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "A Promised Ruler From Bethlehem"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Marshal your troops now, city of troops,",
+            "for a siege is laid against us.",
+            "They will strike Israel’s ruler",
+            "on the cheek with a rod."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“But you, Bethlehem Ephrathah,",
+            "though you are small among the clans of Judah,",
+            "out of you will come for me",
+            "one who will be ruler over Israel,",
+            "whose origins are from of old,",
+            "from ancient times.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Therefore Israel will be abandoned",
+            "until the time when she who is in labor bears a son,",
+            "and the rest of his brothers return",
+            "to join the Israelites."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "He will stand and shepherd his flock",
+            "in the strength of the Lord,",
+            "in the majesty of the name of the Lord his God.",
+            "And they will live securely, for then his greatness",
+            "will reach to the ends of the earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "And he will be our peace",
+            "when the Assyrians invade our land",
+            "and march through our fortresses.",
+            "We will raise against them seven shepherds,",
+            "even eight commanders,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "who will rule the land of Assyria with the sword,",
+            "the land of Nimrod with drawn sword.",
+            "He will deliver us from the Assyrians",
+            "when they invade our land",
+            "and march across our borders."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "The remnant of Jacob will be",
+            "in the midst of many peoples",
+            "like dew from the Lord,",
+            "like showers on the grass,",
+            "which do not wait for anyone",
+            "or depend on man."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The remnant of Jacob will be among the nations,",
+            "in the midst of many peoples,",
+            "like a lion among the beasts of the forest,",
+            "like a young lion among flocks of sheep,",
+            "which mauls and mangles as it goes,",
+            "and no one can rescue."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Your hand will be lifted up in triumph over your enemies,",
+            "and all your foes will be destroyed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "“In that day,” declares the Lord,",
+            "“I will destroy your horses from among you",
+            "and demolish your chariots."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I will destroy the cities of your land",
+            "and tear down all your strongholds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I will destroy your witchcraft",
+            "and you will no longer cast spells."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I will destroy your idols",
+            "and your sacred stones from among you;",
+            "you will no longer bow down",
+            "to the work of your hands."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I will uproot from among you your Asherah poles",
+            "when I demolish your cities."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "I will take vengeance in anger and wrath",
+            "on the nations that have not obeyed me.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.6"
+        ],
+        "human": "Micah 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Micah 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.5"
+        ],
+        "human": "Micah 5",
+        "toc": true
+      },
+      "chapter_text": "LORD\nListen to what the LORD says:\n“Stand up, plead my case before the mountains;\nlet the hills hear what you have to say.\n\n“Hear, you mountains, the LORD’s accusation;\nlisten, you everlasting foundations of the earth.\nFor the LORD has a case against his people;\nhe is lodging a charge against Israel.\n\n“My people, what have I done to you?\nHow have I burdened you? Answer me.\nI brought you up out of Egypt\nand redeemed you from the land of slavery.\nI sent Moses to lead you,\nalso Aaron and Miriam.\nMy people, remember\nwhat Balak king of Moab plotted\nand what Balaam son of Beor answered.\nRemember your journey from Shittim to Gilgal,\nthat you may know the righteous acts of the LORD.”\n\nWith what shall I come before the LORD\nand bow down before the exalted God?\nShall I come before him with burnt offerings,\nwith calves a year old?\nWill the LORD be pleased with thousands of rams,\nwith ten thousand rivers of olive oil?\nShall I offer my firstborn for my transgression,\nthe fruit of my body for the sin of my soul?\nHe has shown you, O mortal, what is good.\nAnd what does the LORD require of you?\nTo act justly and to love mercy\nand to walk humbly with your God.\n\nListen! The LORD is calling to the city—\nand to fear your name is wisdom—\n“Heed the rod and the One who appointed it.\nAm I still to forget your ill-gotten treasures, you wicked house,\nand the short ephah, which is accursed?\nShall I acquit someone with dishonest scales,\nwith a bag of false weights?\nYour rich people are violent;\nyour inhabitants are liars\nand their tongues speak deceitfully.\nTherefore, I have begun to destroy you,\nto ruin you because of your sins.\nYou will eat but not be satisfied;\nyour stomach will still be empty.\nYou will store up but save nothing,\nbecause what you save I will give to the sword.\nYou will plant but not harvest;\nyou will press olives but not use the oil,\nyou will crush grapes but not drink the wine.\nYou have observed the statutes of Omri\nand all the practices of Ahab’s house;\nyou have followed their traditions.\nTherefore I will give you over to ruin\nand your people to derision;\nyou will bear the scorn of the nations.”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch6\" data-usfm=\"MIC.6\">\n         <div class=\"label\">6</div><div class=\"s1\"><span class=\"heading\">The </span><span class=\"nd\"><span class=\"heading\">Lord</span></span><span class=\"heading\">&#8217;s Case Against Israel</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"label\">1</span><span class=\"content\">Listen to what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"content\">&#8220;Stand up, plead my case before the mountains;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"content\">let the hills hear what you have to say.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.6.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Hear, you mountains, the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s accusation;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">listen, you everlasting foundations of the earth.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">For the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has a case against his people;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">he is lodging a charge against Israel.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.6.3\"><span class=\"label\">3</span><span class=\"content\">&#8220;My people, what have I done to you?</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.6.3\"><span class=\"content\">How have I burdened you? Answer me.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"label\">4</span><span class=\"content\">I brought you up out of Egypt</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">and redeemed you from the land of slavery.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">I sent Moses to lead you,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">also Aaron and Miriam.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"label\">5</span><span class=\"content\">My people, remember</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">what Balak king of Moab plotted</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">and what Balaam son of Beor answered.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">Remember your journey from Shittim to Gilgal,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">that you may know the righteous acts of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"label\">6</span><span class=\"content\">With what shall I come before the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">and bow down before the exalted God?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">Shall I come before him with burnt offerings,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">with calves a year old?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"label\">7</span><span class=\"content\">Will the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> be pleased with thousands of rams,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">with ten thousand rivers of olive oil?</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">Shall I offer my firstborn for my transgression,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">the fruit of my body for the sin of my soul?</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.6.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"label\">8</span><span class=\"content\">He has shown you, O mortal, what is good.</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">And what does the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> require of you?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">To act justly and to love mercy</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">and to walk humbly</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">prudently</span></span></span><span class=\"content\"> with your God.</span></span></div><div class=\"s1\"><span class=\"heading\">Israel&#8217;s Guilt and Punishment</span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"label\">9</span><span class=\"content\">Listen! The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is calling to the city&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"content\">and to fear your name is wisdom&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"content\">&#8220;Heed the rod and the One who appointed it.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:9 </span><span class=\"ft\">The meaning of the Hebrew for this line is uncertain.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"label\">10</span><span class=\"content\">Am I still to forget your ill-gotten treasures, you wicked house,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"content\">and the short ephah,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:10 </span><span class=\"ft\">An ephah was a dry measure.</span></span></span><span class=\"content\"> which is accursed?</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.6.11\"><span class=\"label\">11</span><span class=\"content\">Shall I acquit someone with dishonest scales,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.6.11\"><span class=\"content\">with a bag of false weights?</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"label\">12</span><span class=\"content\">Your rich people are violent;</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"content\">your inhabitants are liars</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"content\">and their tongues speak deceitfully.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.6.13\"><span class=\"label\">13</span><span class=\"content\">Therefore, I have begun to destroy you,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.6.13\"><span class=\"content\">to ruin</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:13 </span><span class=\"ft\">Or </span><span class=\"fqa\">Therefore, I will make you ill and destroy you; / I will ruin</span></span></span><span class=\"content\"> you because of your sins.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.6.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"label\">14</span><span class=\"content\">You will eat but not be satisfied;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">your stomach will still be empty.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:14 </span><span class=\"ft\">The meaning of the Hebrew for this word is uncertain.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">You will store up but save nothing,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">because what you save</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:14 </span><span class=\"ft\">Or </span><span class=\"fqa\">You will press toward birth but not give birth, / and what you bring to birth</span></span></span><span class=\"content\"> I will give to the sword.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.6.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"label\">15</span><span class=\"content\">You will plant but not harvest;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"content\">you will press olives but not use the oil,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"content\">you will crush grapes but not drink the wine.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"MIC.6.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"label\">16</span><span class=\"content\">You have observed the statutes of Omri</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">and all the practices of Ahab&#8217;s house;</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">you have followed their traditions.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">Therefore I will give you over to ruin</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">and your people to derision;</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.6.16\"><span class=\"content\">you will bear the scorn of the nations.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:16 </span><span class=\"ft\">Septuagint; Hebrew </span><span class=\"fqa\">scorn due my people</span></span></span><span class=\"content\">&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Lord’s Case Against Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Listen to what the Lord says:",
+            "“Stand up, plead my case before the mountains;",
+            "let the hills hear what you have to say."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Hear, you mountains, the Lord’s accusation;",
+            "listen, you everlasting foundations of the earth.",
+            "For the Lord has a case against his people;",
+            "he is lodging a charge against Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "“My people, what have I done to you?",
+            "How have I burdened you? Answer me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I brought you up out of Egypt",
+            "and redeemed you from the land of slavery.",
+            "I sent Moses to lead you,",
+            "also Aaron and Miriam."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "My people, remember",
+            "what Balak king of Moab plotted",
+            "and what Balaam son of Beor answered.",
+            "Remember your journey from Shittim to Gilgal,",
+            "that you may know the righteous acts of the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "With what shall I come before the Lord",
+            "and bow down before the exalted God?",
+            "Shall I come before him with burnt offerings,",
+            "with calves a year old?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Will the Lord be pleased with thousands of rams,",
+            "with ten thousand rivers of olive oil?",
+            "Shall I offer my firstborn for my transgression,",
+            "the fruit of my body for the sin of my soul?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "He has shown you, O mortal, what is good.",
+            "And what does the Lord require of you?",
+            "To act justly and to love mercy",
+            "and to walk humbly with your God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Israel’s Guilt and Punishment"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Listen! The Lord is calling to the city—",
+            "and to fear your name is wisdom—",
+            "“Heed the rod and the One who appointed it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Am I still to forget your ill-gotten treasures, you wicked house,",
+            "and the short ephah, which is accursed?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Shall I acquit someone with dishonest scales,",
+            "with a bag of false weights?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Your rich people are violent;",
+            "your inhabitants are liars",
+            "and their tongues speak deceitfully."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Therefore, I have begun to destroy you,",
+            "to ruin you because of your sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "You will eat but not be satisfied;",
+            "your stomach will still be empty.",
+            "You will store up but save nothing,",
+            "because what you save I will give to the sword."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "You will plant but not harvest;",
+            "you will press olives but not use the oil,",
+            "you will crush grapes but not drink the wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "You have observed the statutes of Omri",
+            "and all the practices of Ahab’s house;",
+            "you have followed their traditions.",
+            "Therefore I will give you over to ruin",
+            "and your people to derision;",
+            "you will bear the scorn of the nations.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "MIC.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Micah 7"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "NAM.INTRO1"
+        ],
+        "human": "Nahum Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.6"
+        ],
+        "human": "Micah 6",
+        "toc": true
+      },
+      "chapter_text": "What misery is mine!\nI am like one who gathers summer fruit\nat the gleaning of the vineyard;\nthere is no cluster of grapes to eat,\nnone of the early figs that I crave.\nThe faithful have been swept from the land;\nnot one upright person remains.\nEveryone lies in wait to shed blood;\nthey hunt each other with nets.\nBoth hands are skilled in doing evil;\nthe ruler demands gifts,\nthe judge accepts bribes,\nthe powerful dictate what they desire—\nthey all conspire together.\nThe best of them is like a brier,\nthe most upright worse than a thorn hedge.\nThe day God visits you has come,\nthe day your watchmen sound the alarm.\nNow is the time of your confusion.\nDo not trust a neighbor;\nput no confidence in a friend.\nEven with the woman who lies in your embrace\nguard the words of your lips.\nFor a son dishonors his father,\na daughter rises up against her mother,\na daughter-in-law against her mother-in-law—\na man’s enemies are the members of his own household.\n\nBut as for me, I watch in hope for the LORD,\nI wait for God my Savior;\nmy God will hear me.\n\nDo not gloat over me, my enemy!\nThough I have fallen, I will rise.\nThough I sit in darkness,\nthe LORD will be my light.\nBecause I have sinned against him,\nI will bear the LORD’s wrath,\nuntil he pleads my case\nand upholds my cause.\nHe will bring me out into the light;\nI will see his righteousness.\nThen my enemy will see it\nand will be covered with shame,\nshe who said to me,\n“Where is the LORD your God?”\nMy eyes will see her downfall;\neven now she will be trampled underfoot\nlike mire in the streets.\n\nThe day for building your walls will come,\nthe day for extending your boundaries.\nIn that day people will come to you\nfrom Assyria and the cities of Egypt,\neven from Egypt to the Euphrates\nand from sea to sea\nand from mountain to mountain.\nThe earth will become desolate because of its inhabitants,\nas the result of their deeds.\n\nShepherd your people with your staff,\nthe flock of your inheritance,\nwhich lives by itself in a forest,\nin fertile pasturelands.\nLet them feed in Bashan and Gilead\nas in days long ago.\n\n“As in the days when you came out of Egypt,\nI will show them my wonders.”\n\nNations will see and be ashamed,\ndeprived of all their power.\nThey will put their hands over their mouths\nand their ears will become deaf.\nThey will lick dust like a snake,\nlike creatures that crawl on the ground.\nThey will come trembling out of their dens;\nthey will turn in fear to the LORD our God\nand will be afraid of you.\nWho is a God like you,\nwho pardons sin and forgives the transgression\nof the remnant of his inheritance?\nYou do not stay angry forever\nbut delight to show mercy.\nYou will again have compassion on us;\nyou will tread our sins underfoot\nand hurl all our iniquities into the depths of the sea.\nYou will be faithful to Jacob,\nand show love to Abraham,\nas you pledged on oath to our ancestors\nin days long ago.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkMIC\">\n      <div class=\"chapter ch7\" data-usfm=\"MIC.7\">\n         <div class=\"label\">7</div><div class=\"s1\"><span class=\"heading\">Israel&#8217;s Misery</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"label\">1</span><span class=\"content\">What misery is mine!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">I am like one who gathers summer fruit</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">at the gleaning of the vineyard;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">there is no cluster of grapes to eat,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">none of the early figs that I crave.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"MIC.7.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"label\">2</span><span class=\"content\">The faithful have been swept from the land;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">not one upright person remains.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">Everyone lies in wait to shed blood;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">they hunt each other with nets.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"MIC.7.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"label\">3</span><span class=\"content\">Both hands are skilled in doing evil;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">the ruler demands gifts,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">the judge accepts bribes,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">the powerful dictate what they desire&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">they all conspire together.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"MIC.7.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"label\">4</span><span class=\"content\">The best of them is like a brier,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">the most upright worse than a thorn hedge.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">The day God visits you has come,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">the day your watchmen sound the alarm.</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">Now is the time of your confusion.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"MIC.7.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"label\">5</span><span class=\"content\">Do not trust a neighbor;</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">put no confidence in a friend.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">Even with the woman who lies in your embrace</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">guard the words of your lips.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"MIC.7.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"label\">6</span><span class=\"content\">For a son dishonors his father,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">a daughter rises up against her mother,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">a daughter-in-law against her mother-in-law&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">a man&#8217;s enemies are the members of his own household.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"MIC.7.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"label\">7</span><span class=\"content\">But as for me, I watch in hope for the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"content\">I wait for God my Savior;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"content\">my God will hear me.</span></span></div><div class=\"s1\"><span class=\"heading\">Israel Will Rise</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"MIC.7.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"label\">8</span><span class=\"content\">Do not gloat over me, my enemy!</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">Though I have fallen, I will rise.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">Though I sit in darkness,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will be my light.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"MIC.7.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"label\">9</span><span class=\"content\">Because I have sinned against him,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">I will bear the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s wrath,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">until he pleads my case</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">and upholds my cause.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">He will bring me out into the light;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">I will see his righteousness.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"MIC.7.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"label\">10</span><span class=\"content\">Then my enemy will see it</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">and will be covered with shame,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">she who said to me,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">&#8220;Where is the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> your God?&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">My eyes will see her downfall;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">even now she will be trampled underfoot</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">like mire in the streets.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"MIC.7.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"MIC.7.11\"><span class=\"label\">11</span><span class=\"content\">The day for building your walls will come,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"MIC.7.11\"><span class=\"content\">the day for extending your boundaries.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"MIC.7.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"label\">12</span><span class=\"content\">In that day people will come to you</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">from Assyria and the cities of Egypt,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">even from Egypt to the Euphrates</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">and from sea to sea</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">and from mountain to mountain.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"MIC.7.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"MIC.7.13\"><span class=\"label\">13</span><span class=\"content\">The earth will become desolate because of its inhabitants,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"MIC.7.13\"><span class=\"content\">as the result of their deeds.</span></span></div><div class=\"s1\"><span class=\"heading\">Prayer and Praise</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"MIC.7.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"label\">14</span><span class=\"content\">Shepherd your people with your staff,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">the flock of your inheritance,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">which lives by itself in a forest,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">in fertile pasturelands.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">7:14 </span><span class=\"ft\">Or </span><span class=\"fqa\">in the middle of Carmel</span></span></span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">Let them feed in Bashan and Gilead</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">as in days long ago.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"MIC.7.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"MIC.7.15\"><span class=\"label\">15</span><span class=\"content\">&#8220;As in the days when you came out of Egypt,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"MIC.7.15\"><span class=\"content\">I will show them my wonders.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"MIC.7.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"label\">16</span><span class=\"content\">Nations will see and be ashamed,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">deprived of all their power.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">They will put their hands over their mouths</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">and their ears will become deaf.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"MIC.7.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"label\">17</span><span class=\"content\">They will lick dust like a snake,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">like creatures that crawl on the ground.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">They will come trembling out of their dens;</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">they will turn in fear to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> our God</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">and will be afraid of you.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"MIC.7.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"label\">18</span><span class=\"content\">Who is a God like you,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">who pardons sin and forgives the transgression</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">of the remnant of his inheritance?</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">You do not stay angry forever</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">but delight to show mercy.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"MIC.7.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"label\">19</span><span class=\"content\">You will again have compassion on us;</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">you will tread our sins underfoot</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">and hurl all our iniquities into the depths of the sea.</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"MIC.7.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"label\">20</span><span class=\"content\">You will be faithful to Jacob,</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"content\">and show love to Abraham,</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"content\">as you pledged on oath to our ancestors</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"MIC.7.20\"><span class=\"content\">in days long ago.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Israel’s Misery"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "What misery is mine!",
+            "I am like one who gathers summer fruit",
+            "at the gleaning of the vineyard;",
+            "there is no cluster of grapes to eat,",
+            "none of the early figs that I crave."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The faithful have been swept from the land;",
+            "not one upright person remains.",
+            "Everyone lies in wait to shed blood;",
+            "they hunt each other with nets."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Both hands are skilled in doing evil;",
+            "the ruler demands gifts,",
+            "the judge accepts bribes,",
+            "the powerful dictate what they desire—",
+            "they all conspire together."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "The best of them is like a brier,",
+            "the most upright worse than a thorn hedge.",
+            "The day God visits you has come,",
+            "the day your watchmen sound the alarm.",
+            "Now is the time of your confusion."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Do not trust a neighbor;",
+            "put no confidence in a friend.",
+            "Even with the woman who lies in your embrace",
+            "guard the words of your lips."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For a son dishonors his father,",
+            "a daughter rises up against her mother,",
+            "a daughter-in-law against her mother-in-law—",
+            "a man’s enemies are the members of his own household."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But as for me, I watch in hope for the Lord,",
+            "I wait for God my Savior;",
+            "my God will hear me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Israel Will Rise"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Do not gloat over me, my enemy!",
+            "Though I have fallen, I will rise.",
+            "Though I sit in darkness,",
+            "the Lord will be my light."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Because I have sinned against him,",
+            "I will bear the Lord’s wrath,",
+            "until he pleads my case",
+            "and upholds my cause.",
+            "He will bring me out into the light;",
+            "I will see his righteousness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Then my enemy will see it",
+            "and will be covered with shame,",
+            "she who said to me,",
+            "“Where is the Lord your God?”",
+            "My eyes will see her downfall;",
+            "even now she will be trampled underfoot",
+            "like mire in the streets."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The day for building your walls will come,",
+            "the day for extending your boundaries."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "In that day people will come to you",
+            "from Assyria and the cities of Egypt,",
+            "even from Egypt to the Euphrates",
+            "and from sea to sea",
+            "and from mountain to mountain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The earth will become desolate because of its inhabitants,",
+            "as the result of their deeds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Prayer and Praise"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Shepherd your people with your staff,",
+            "the flock of your inheritance,",
+            "which lives by itself in a forest,",
+            "in fertile pasturelands.",
+            "Let them feed in Bashan and Gilead",
+            "as in days long ago."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "“As in the days when you came out of Egypt,",
+            "I will show them my wonders.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Nations will see and be ashamed,",
+            "deprived of all their power.",
+            "They will put their hands over their mouths",
+            "and their ears will become deaf."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "They will lick dust like a snake,",
+            "like creatures that crawl on the ground.",
+            "They will come trembling out of their dens;",
+            "they will turn in fear to the Lord our God",
+            "and will be afraid of you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Who is a God like you,",
+            "who pardons sin and forgives the transgression",
+            "of the remnant of his inheritance?",
+            "You do not stay angry forever",
+            "but delight to show mercy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "You will again have compassion on us;",
+            "you will tread our sins underfoot",
+            "and hurl all our iniquities into the depths of the sea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "You will be faithful to Jacob,",
+            "and show love to Abraham,",
+            "as you pledged on oath to our ancestors",
+            "in days long ago."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

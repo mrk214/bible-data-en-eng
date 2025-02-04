@@ -1,0 +1,553 @@
+{
+  "book_usfm": "TIT",
+  "name": "Titus",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "TIT.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "TIT.INTRO1"
+        ],
+        "human": "Titus Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Titus 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timothy 4",
+        "toc": true
+      },
+      "chapter_text": "Intro\nAfter the apostle Paul was released from prison in Rome, he discovered that renegade leaders were preying on the people of the church he had founded in Ephesus. He therefore left his long-time co-worker Timothy in that city with a letter authorizing him to replace these leaders and restore order. A similar situation on the island of Crete required Paul to commission another long-time co-worker, Titus, to act as his representative there.\nPaul’s letter is addressed to Titus, but it is meant for the larger church as well. He confers his own authority on Titus and instructs him to appoint godly leaders. Paul’s description of the false teaching matches that in Ephesus: a combination of selective Jewish observances (such as being circumcised and abstaining from certain foods) and the pursuit of controversial speculations. However, the teaching didn’t help people live purer lives. Paul tells the community that the grace of God has appeared that offers salvation to all people. It is the true message about Jesus that helps God’s people live a new kind of life. Paul reveals his plan to spend the winter in Nicopolis, a city on the west coast of Macedonia. It would provide an excellent jumping-off point for bringing the gospel to the western part of the empire. He trusts that Titus will help restore order in Crete so he can accompany Paul on this new venture.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"TIT.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">After the apostle Paul was released from prison in Rome, he discovered that renegade leaders were preying on the people of the church he had founded in Ephesus. He therefore left his long-time co-worker Timothy in that city with a letter authorizing him to replace these leaders and restore order. A similar situation on the island of Crete required Paul to commission another long-time co-worker, Titus, to act as his representative there.</span></div><div class=\"ip\"><span class=\"content\">Paul&#8217;s letter is addressed to Titus, but it is meant for the larger church as well. He confers his own authority on Titus and instructs him to appoint godly leaders. Paul&#8217;s description of the false teaching matches that in Ephesus: a combination of selective Jewish observances (such as being circumcised and abstaining from certain foods) and the pursuit of controversial speculations. However, the teaching didn&#8217;t help people live purer lives. Paul tells the community that </span><span class=\"qt\"><span class=\"content\">the grace of God has appeared that offers salvation to all people.</span></span><span class=\"content\"> It is the true message about Jesus that helps God&#8217;s people live a new kind of life. Paul reveals his plan to spend the winter in Nicopolis, a city on the west coast of Macedonia. It would provide an excellent jumping-off point for bringing the gospel to the western part of the empire. He trusts that Titus will help restore order in Crete so he can accompany Paul on this new venture.</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "TIT.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Titus 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Titus 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "TIT.INTRO1"
+        ],
+        "human": "Titus Intro",
+        "toc": true
+      },
+      "chapter_text": "Paul, a servant of God and an apostle of Jesus Christ to further the faith of God’s elect and their knowledge of the truth that leads to godliness— in the hope of eternal life, which God, who does not lie, promised before the beginning of time, and which now at his appointed season he has brought to light through the preaching entrusted to me by the command of God our Savior,\n\nTo Titus, my true son in our common faith:\n\nGrace and peace from God the Father and Christ Jesus our Savior.\n\nThe reason I left you in Crete was that you might put in order what was left unfinished and appoint elders in every town, as I directed you. An elder must be blameless, faithful to his wife, a man whose children believe and are not open to the charge of being wild and disobedient. Since an overseer manages God’s household, he must be blameless—not overbearing, not quick-tempered, not given to drunkenness, not violent, not pursuing dishonest gain. Rather, he must be hospitable, one who loves what is good, who is self-controlled, upright, holy and disciplined. He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it.\n\nFor there are many rebellious people, full of meaningless talk and deception, especially those of the circumcision group. They must be silenced, because they are disrupting whole households by teaching things they ought not to teach—and that for the sake of dishonest gain. One of Crete’s own prophets has said it: “Cretans are always liars, evil brutes, lazy gluttons.” This saying is true. Therefore rebuke them sharply, so that they will be sound in the faith and will pay no attention to Jewish myths or to the merely human commands of those who reject the truth. To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted. They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch1\" data-usfm=\"TIT.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, a servant of God and an apostle of Jesus Christ to further the faith of God&#8217;s elect and their knowledge of the truth that leads to godliness&#8212; </span></span><span class=\"verse v2\" data-usfm=\"TIT.1.2\"><span class=\"label\">2</span><span class=\"content\">in the hope of eternal life, which God, who does not lie, promised before the beginning of time, </span></span><span class=\"verse v3\" data-usfm=\"TIT.1.3\"><span class=\"label\">3</span><span class=\"content\">and which now at his appointed season he has brought to light through the preaching entrusted to me by the command of God our Savior,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"TIT.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"label\">4</span><span class=\"content\">To Titus, my true son in our common faith:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"content\">Grace and peace from God the Father and Christ Jesus our Savior.</span></span></div><div class=\"s1\"><span class=\"heading\">Appointing Elders Who Love What Is Good</span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"TIT.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"TIT.1.5\"><span class=\"label\">5</span><span class=\"content\">The reason I left you in Crete was that you might put in order what was left unfinished and appoint</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Or </span><span class=\"fqa\">ordain</span></span></span><span class=\"content\"> elders in every town, as I directed you. </span></span><span class=\"verse v6\" data-usfm=\"TIT.1.6\"><span class=\"label\">6</span><span class=\"content\">An elder must be blameless, faithful to his wife, a man whose children believe</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Or </span><span class=\"fqa\">children are trustworthy</span></span></span><span class=\"content\"> and are not open to the charge of being wild and disobedient. </span></span><span class=\"verse v7\" data-usfm=\"TIT.1.7\"><span class=\"label\">7</span><span class=\"content\">Since an overseer manages God&#8217;s household, he must be blameless&#8212;not overbearing, not quick-tempered, not given to drunkenness, not violent, not pursuing dishonest gain. </span></span><span class=\"verse v8\" data-usfm=\"TIT.1.8\"><span class=\"label\">8</span><span class=\"content\">Rather, he must be hospitable, one who loves what is good, who is self-controlled, upright, holy and disciplined. </span></span><span class=\"verse v9\" data-usfm=\"TIT.1.9\"><span class=\"label\">9</span><span class=\"content\">He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it.</span></span></div><div class=\"s1\"><span class=\"heading\">Rebuking Those Who Fail to Do Good</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"TIT.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"TIT.1.10\"><span class=\"label\">10</span><span class=\"content\">For there are many rebellious people, full of meaningless talk and deception, especially those of the circumcision group. </span></span><span class=\"verse v11\" data-usfm=\"TIT.1.11\"><span class=\"label\">11</span><span class=\"content\">They must be silenced, because they are disrupting whole households by teaching things they ought not to teach&#8212;and that for the sake of dishonest gain. </span></span><span class=\"verse v12\" data-usfm=\"TIT.1.12\"><span class=\"label\">12</span><span class=\"content\">One of Crete&#8217;s own prophets has said it: &#8220;Cretans are always liars, evil brutes, lazy gluttons.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">From the Cretan philosopher Epimenides</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"TIT.1.13\"><span class=\"label\">13</span><span class=\"content\">This saying is true. Therefore rebuke them sharply, so that they will be sound in the faith </span></span><span class=\"verse v14\" data-usfm=\"TIT.1.14\"><span class=\"label\">14</span><span class=\"content\">and will pay no attention to Jewish myths or to the merely human commands of those who reject the truth. </span></span><span class=\"verse v15\" data-usfm=\"TIT.1.15\"><span class=\"label\">15</span><span class=\"content\">To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted. </span></span><span class=\"verse v16\" data-usfm=\"TIT.1.16\"><span class=\"label\">16</span><span class=\"content\">They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, a servant of God and an apostle of Jesus Christ to further the faith of God’s elect and their knowledge of the truth that leads to godliness—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "in the hope of eternal life, which God, who does not lie, promised before the beginning of time,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "and which now at his appointed season he has brought to light through the preaching entrusted to me by the command of God our Savior,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "To Titus, my true son in our common faith:",
+            "Grace and peace from God the Father and Christ Jesus our Savior."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Appointing Elders Who Love What Is Good"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The reason I left you in Crete was that you might put in order what was left unfinished and appoint elders in every town, as I directed you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "An elder must be blameless, faithful to his wife, a man whose children believe and are not open to the charge of being wild and disobedient."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Since an overseer manages God’s household, he must be blameless—not overbearing, not quick-tempered, not given to drunkenness, not violent, not pursuing dishonest gain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Rather, he must be hospitable, one who loves what is good, who is self-controlled, upright, holy and disciplined."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Rebuking Those Who Fail to Do Good"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For there are many rebellious people, full of meaningless talk and deception, especially those of the circumcision group."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "They must be silenced, because they are disrupting whole households by teaching things they ought not to teach—and that for the sake of dishonest gain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "One of Crete’s own prophets has said it: “Cretans are always liars, evil brutes, lazy gluttons.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "This saying is true. Therefore rebuke them sharply, so that they will be sound in the faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "and will pay no attention to Jewish myths or to the merely human commands of those who reject the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure. In fact, both their minds and consciences are corrupted."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "They claim to know God, but by their actions they deny him. They are detestable, disobedient and unfit for doing anything good."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Titus 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Titus 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Titus 1",
+        "toc": true
+      },
+      "chapter_text": "You, however, must teach what is appropriate to sound doctrine. Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance.\nLikewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good. Then they can urge the younger women to love their husbands and children, to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.\nSimilarly, encourage the young men to be self-controlled. In everything set them an example by doing what is good. In your teaching show integrity, seriousness and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.\nTeach slaves to be subject to their masters in everything, to try to please them, not to talk back to them, and not to steal from them, but to show that they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive.\nFor the grace of God has appeared that offers salvation to all people. It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age, while we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ, who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.\nThese, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkTIT\">\n      <div class=\"chapter ch2\" data-usfm=\"TIT.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Doing Good for the Sake of the Gospel</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.2.1\"><span class=\"label\">1</span><span class=\"content\">You, however, must teach what is appropriate to sound doctrine. </span></span><span class=\"verse v2\" data-usfm=\"TIT.2.2\"><span class=\"label\">2</span><span class=\"content\">Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"TIT.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"TIT.2.3\"><span class=\"label\">3</span><span class=\"content\">Likewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good. </span></span><span class=\"verse v4\" data-usfm=\"TIT.2.4\"><span class=\"label\">4</span><span class=\"content\">Then they can urge the younger women to love their husbands and children, </span></span><span class=\"verse v5\" data-usfm=\"TIT.2.5\"><span class=\"label\">5</span><span class=\"content\">to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"TIT.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"TIT.2.6\"><span class=\"label\">6</span><span class=\"content\">Similarly, encourage the young men to be self-controlled. </span></span><span class=\"verse v7\" data-usfm=\"TIT.2.7\"><span class=\"label\">7</span><span class=\"content\">In everything set them an example by doing what is good. In your teaching show integrity, seriousness </span></span><span class=\"verse v8\" data-usfm=\"TIT.2.8\"><span class=\"label\">8</span><span class=\"content\">and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"TIT.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"TIT.2.9\"><span class=\"label\">9</span><span class=\"content\">Teach slaves to be subject to their masters in everything, to try to please them, not to talk back to them, </span></span><span class=\"verse v10\" data-usfm=\"TIT.2.10\"><span class=\"label\">10</span><span class=\"content\">and not to steal from them, but to show that they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"TIT.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"TIT.2.11\"><span class=\"label\">11</span><span class=\"content\">For the grace of God has appeared that offers salvation to all people. </span></span><span class=\"verse v12\" data-usfm=\"TIT.2.12\"><span class=\"label\">12</span><span class=\"content\">It teaches us to say &#8220;No&#8221; to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age, </span></span><span class=\"verse v13\" data-usfm=\"TIT.2.13\"><span class=\"label\">13</span><span class=\"content\">while we wait for the blessed hope&#8212;the appearing of the glory of our great God and Savior, Jesus Christ, </span></span><span class=\"verse v14\" data-usfm=\"TIT.2.14\"><span class=\"label\">14</span><span class=\"content\">who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"TIT.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.2.15\"><span class=\"label\">15</span><span class=\"content\">These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Doing Good for the Sake of the Gospel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "You, however, must teach what is appropriate to sound doctrine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Likewise, teach the older women to be reverent in the way they live, not to be slanderers or addicted to much wine, but to teach what is good."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Then they can urge the younger women to love their husbands and children,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "to be self-controlled and pure, to be busy at home, to be kind, and to be subject to their husbands, so that no one will malign the word of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Similarly, encourage the young men to be self-controlled."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "In everything set them an example by doing what is good. In your teaching show integrity, seriousness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Teach slaves to be subject to their masters in everything, to try to please them, not to talk back to them,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and not to steal from them, but to show that they can be fully trusted, so that in every way they will make the teaching about God our Savior attractive."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For the grace of God has appeared that offers salvation to all people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "It teaches us to say “No” to ungodliness and worldly passions, and to live self-controlled, upright and godly lives in this present age,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "while we wait for the blessed hope—the appearing of the glory of our great God and Savior, Jesus Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "who gave himself for us to redeem us from all wickedness and to purify for himself a people that are his very own, eager to do what is good."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "These, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "TIT.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Titus 3"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "PHM.INTRO1"
+        ],
+        "human": "Philemon Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.2"
+        ],
+        "human": "Titus 2",
+        "toc": true
+      },
+      "chapter_text": "Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, to slander no one, to be peaceable and considerate, and always to be gentle toward everyone.\nAt one time we too were foolish, disobedient, deceived and enslaved by all kinds of passions and pleasures. We lived in malice and envy, being hated and hating one another. But when the kindness and love of God our Savior appeared, he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit, whom he poured out on us generously through Jesus Christ our Savior, so that, having been justified by his grace, we might become heirs having the hope of eternal life. This is a trustworthy saying. And I want you to stress these things, so that those who have trusted in God may be careful to devote themselves to doing what is good. These things are excellent and profitable for everyone.\nBut avoid foolish controversies and genealogies and arguments and quarrels about the law, because these are unprofitable and useless. Warn a divisive person once, and then warn them a second time. After that, have nothing to do with them. You may be sure that such people are warped and sinful; they are self-condemned.\n\nAs soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there. Do everything you can to help Zenas the lawyer and Apollos on their way and see that they have everything they need. Our people must learn to devote themselves to doing what is good, in order to provide for urgent needs and not live unproductive lives.\nEveryone with me sends you greetings. Greet those who love us in the faith.\nGrace be with you all.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n    <div class=\"book bkTIT\">\n        <div class=\"chapter ch3\" data-usfm=\"TIT.3\">\n            <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Saved in Order to Do Good</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"TIT.3.1\"><span class=\"label\">1</span><span class=\"content\">Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good, </span></span><span class=\"verse v2\" data-usfm=\"TIT.3.2\"><span class=\"label\">2</span><span class=\"content\">to slander no one, to be peaceable and considerate, and always to be gentle toward everyone.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"TIT.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"TIT.3.3\"><span class=\"label\">3</span><span class=\"content\">At one time we too were foolish, disobedient, deceived and enslaved by all kinds of passions and pleasures. We lived in malice and envy, being hated and hating one another. </span></span><span class=\"verse v4\" data-usfm=\"TIT.3.4\"><span class=\"label\">4</span><span class=\"content\">But when the kindness and love of God our Savior appeared, </span></span><span class=\"verse v5\" data-usfm=\"TIT.3.5\"><span class=\"label\">5</span><span class=\"content\">he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit, </span></span><span class=\"verse v6\" data-usfm=\"TIT.3.6\"><span class=\"label\">6</span><span class=\"content\">whom he poured out on us generously through Jesus Christ our Savior, </span></span><span class=\"verse v7\" data-usfm=\"TIT.3.7\"><span class=\"label\">7</span><span class=\"content\">so that, having been justified by his grace, we might become heirs having the hope of eternal life. </span></span><span class=\"verse v8\" data-usfm=\"TIT.3.8\"><span class=\"label\">8</span><span class=\"content\">This is a trustworthy saying. And I want you to stress these things, so that those who have trusted in God may be careful to devote themselves to doing what is good. These things are excellent and profitable for everyone.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"TIT.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"TIT.3.9\"><span class=\"label\">9</span><span class=\"content\">But avoid foolish controversies and genealogies and arguments and quarrels about the law, because these are unprofitable and useless. </span></span><span class=\"verse v10\" data-usfm=\"TIT.3.10\"><span class=\"label\">10</span><span class=\"content\">Warn a divisive person once, and then warn them a second time. After that, have nothing to do with them. </span></span><span class=\"verse v11\" data-usfm=\"TIT.3.11\"><span class=\"label\">11</span><span class=\"content\">You may be sure that such people are warped and sinful; they are self-condemned.</span></span></div><div class=\"s1\"><span class=\"heading\">Final Remarks</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"TIT.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"TIT.3.12\"><span class=\"label\">12</span><span class=\"content\">As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there. </span></span><span class=\"verse v13\" data-usfm=\"TIT.3.13\"><span class=\"label\">13</span><span class=\"content\">Do everything you can to help Zenas the lawyer and Apollos on their way and see that they have everything they need. </span></span><span class=\"verse v14\" data-usfm=\"TIT.3.14\"><span class=\"label\">14</span><span class=\"content\">Our people must learn to devote themselves to doing what is good, in order to provide for urgent needs and not live unproductive lives.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"TIT.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"TIT.3.15\"><span class=\"label\">15</span><span class=\"content\">Everyone with me sends you greetings. Greet those who love us in the faith.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"TIT.3.15\"><span class=\"content\">Grace be with you all.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Saved in Order to Do Good"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Remind the people to be subject to rulers and authorities, to be obedient, to be ready to do whatever is good,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "to slander no one, to be peaceable and considerate, and always to be gentle toward everyone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "At one time we too were foolish, disobedient, deceived and enslaved by all kinds of passions and pleasures. We lived in malice and envy, being hated and hating one another."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But when the kindness and love of God our Savior appeared,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "he saved us, not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewal by the Holy Spirit,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "whom he poured out on us generously through Jesus Christ our Savior,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "so that, having been justified by his grace, we might become heirs having the hope of eternal life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "This is a trustworthy saying. And I want you to stress these things, so that those who have trusted in God may be careful to devote themselves to doing what is good. These things are excellent and profitable for everyone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But avoid foolish controversies and genealogies and arguments and quarrels about the law, because these are unprofitable and useless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Warn a divisive person once, and then warn them a second time. After that, have nothing to do with them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "You may be sure that such people are warped and sinful; they are self-condemned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Final Remarks"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "As soon as I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, because I have decided to winter there."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Do everything you can to help Zenas the lawyer and Apollos on their way and see that they have everything they need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Our people must learn to devote themselves to doing what is good, in order to provide for urgent needs and not live unproductive lives."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Everyone with me sends you greetings. Greet those who love us in the faith.",
+            "Grace be with you all."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

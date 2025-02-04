@@ -1,0 +1,1967 @@
+{
+  "book_usfm": "AMO",
+  "name": "Amos",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "AMO.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "AMO.INTRO1"
+        ],
+        "human": "Amos Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "chapter_text": "Intro\nThe northern kingdom of Israel reached its greatest heights in the first half of the 8 th century BC (2 Kings 14:23-25), during the forty-one-year reign of the powerful Jeroboam II. Confident in their nation’s victories, their worship, and their heritage, the people adopted the motto, “God is with us!” They were anticipating the day of the LORD , when God would strike down all their enemies and establish Israel as the undisputed ruler of the region.\nInto this atmosphere of overconfident nationalism steps Amos, a shepherd from the southern kingdom of Judah. He stands in the great royal temple at Bethel and announces that God is stirring up a nation to conquer Israel. The day of the LORD , he insisted, will be darkness, not light. God isn’t impressed with Israel’s wealth, military might, or self-indulgent way of life. He is looking for justice, while the rich and powerful are taking advantage of the poor. God is calling Israel to repentance as the only way to avoid destruction.\nThe message causes an uproar. Amaziah, the high priest at Bethel, accuses Amos of treason. Amos is banished from the kingdom, but his oracles are recorded, creating one of the earliest collections we have from any Hebrew prophet. The book consists of roughly three dozen separate oracles, plus the story of his expulsion. Most of the book is loosely assembled, but it conveys one strong and consistent message: Let justice roll on like a river, righteousness like a never-failing stream!",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n    <div class=\"book bkAMO\">\n        <div class=\"chapter chINTRO1\" data-usfm=\"AMO.INTRO1\">\n            <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">The northern kingdom of Israel reached its greatest heights in the first half of the 8</span><span class=\"ord\"><span class=\"content\">th</span></span><span class=\"content\"> century BC (</span><span class=\"content\">2 Kings 14:23-25</span><span class=\"content\">), during the forty-one-year reign of the powerful Jeroboam II. Confident in their nation&#8217;s victories, their worship, and their heritage, the people adopted the motto, &#8220;God is with us!&#8221; They were anticipating the </span><span class=\"qt\"><span class=\"content\">day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span><span class=\"content\"> when God would strike down all their enemies and establish Israel as the undisputed ruler of the region.</span></div><div class=\"ip\"><span class=\"content\">Into this atmosphere of overconfident nationalism steps Amos, a shepherd from the southern kingdom of Judah. He stands in the great royal temple at Bethel and announces that God is stirring up a nation to conquer Israel. </span><span class=\"qt\"><span class=\"content\">The day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span><span class=\"content\"> he insisted, </span><span class=\"qt\"><span class=\"content\">will be darkness, not light.</span></span><span class=\"content\"> God isn&#8217;t impressed with Israel&#8217;s wealth, military might, or self-indulgent way of life. He is looking for justice, while the rich and powerful are taking advantage of the poor. God is calling Israel to repentance as the only way to avoid destruction.</span></div><div class=\"ip\"><span class=\"content\">The message causes an uproar. Amaziah, the high priest at Bethel, accuses Amos of treason. Amos is banished from the kingdom, but his oracles are recorded, creating one of the earliest collections we have from any Hebrew prophet. The book consists of roughly three dozen separate oracles, plus the story of his expulsion. Most of the book is loosely assembled, but it conveys one strong and consistent message: </span><span class=\"qt\"><span class=\"content\">Let justice roll on like a river, righteousness like a never-failing stream!</span></span></div><div class=\"ie\"></div>\n        </div>\n    </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "AMO.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amos 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "AMO.INTRO1"
+        ],
+        "human": "Amos Intro",
+        "toc": true
+      },
+      "chapter_text": "The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.\nHe said:\n“The LORD roars from Zion\nand thunders from Jerusalem;\nthe pastures of the shepherds dry up,\nand the top of Carmel withers.”\n\nThis is what the LORD says:\n“For three sins of Damascus,\neven for four, I will not relent.\nBecause she threshed Gilead\nwith sledges having iron teeth,\nI will send fire on the house of Hazael\nthat will consume the fortresses of Ben-Hadad.\nI will break down the gate of Damascus;\nI will destroy the king who is in the Valley of Aven\nand the one who holds the scepter in Beth Eden.\nThe people of Aram will go into exile to Kir,”\nsays the LORD.\nThis is what the LORD says:\n“For three sins of Gaza,\neven for four, I will not relent.\nBecause she took captive whole communities\nand sold them to Edom,\nI will send fire on the walls of Gaza\nthat will consume her fortresses.\nI will destroy the king of Ashdod\nand the one who holds the scepter in Ashkelon.\nI will turn my hand against Ekron,\ntill the last of the Philistines are dead,”\nsays the Sovereign LORD.\nThis is what the LORD says:\n“For three sins of Tyre,\neven for four, I will not relent.\nBecause she sold whole communities of captives to Edom,\ndisregarding a treaty of brotherhood,\nI will send fire on the walls of Tyre\nthat will consume her fortresses.”\nThis is what the LORD says:\n“For three sins of Edom,\neven for four, I will not relent.\nBecause he pursued his brother with a sword\nand slaughtered the women of the land,\nbecause his anger raged continually\nand his fury flamed unchecked,\nI will send fire on Teman\nthat will consume the fortresses of Bozrah.”\nThis is what the LORD says:\n“For three sins of Ammon,\neven for four, I will not relent.\nBecause he ripped open the pregnant women of Gilead\nin order to extend his borders,\nI will set fire to the walls of Rabbah\nthat will consume her fortresses\namid war cries on the day of battle,\namid violent winds on a stormy day.\nHer king will go into exile,\nhe and his officials together,”\nsays the LORD.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n    <div class=\"book bkAMO\">\n        <div class=\"chapter ch1\" data-usfm=\"AMO.1\">\n            <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.1.1\"><span class=\"label\">1</span><span class=\"content\">The words of Amos, one of the shepherds of Tekoa&#8212;the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">Joash, </span><span class=\"ft\">a variant of </span><span class=\"fq\">Jehoash</span></span></span><span class=\"content\"> was king of Israel.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"AMO.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.1.2\"><span class=\"label\">2</span><span class=\"content\">He said:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.1.2\"><span class=\"content\">&#8220;The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> roars from Zion</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.1.2\"><span class=\"content\">and thunders from Jerusalem;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.1.2\"><span class=\"content\">the pastures of the shepherds dry up,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.1.2\"><span class=\"content\">and the top of Carmel withers.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Judgment on Israel&#8217;s Neighbors</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"AMO.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.1.3\"><span class=\"label\">3</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.1.3\"><span class=\"content\">&#8220;For three sins of Damascus,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.1.3\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.1.3\"><span class=\"content\">Because she threshed Gilead</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.1.3\"><span class=\"content\">with sledges having iron teeth,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.1.4\"><span class=\"label\">4</span><span class=\"content\">I will send fire on the house of Hazael</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.1.4\"><span class=\"content\">that will consume the fortresses of Ben-Hadad.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.1.5\"><span class=\"label\">5</span><span class=\"content\">I will break down the gate of Damascus;</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.1.5\"><span class=\"content\">I will destroy the king who is in</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Or </span><span class=\"fqa\">the inhabitants of</span></span></span><span class=\"content\"> the Valley of Aven</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"fq\">Aven </span><span class=\"ft\">means </span><span class=\"fqa\">wickedness.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.1.5\"><span class=\"content\">and the one who holds the scepter in Beth Eden.</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.1.5\"><span class=\"content\">The people of Aram will go into exile to Kir,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v5\" data-usfm=\"AMO.1.5\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"AMO.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.1.6\"><span class=\"label\">6</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.1.6\"><span class=\"content\">&#8220;For three sins of Gaza,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.1.6\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.1.6\"><span class=\"content\">Because she took captive whole communities</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.1.6\"><span class=\"content\">and sold them to Edom,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.1.7\"><span class=\"label\">7</span><span class=\"content\">I will send fire on the walls of Gaza</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.1.7\"><span class=\"content\">that will consume her fortresses.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.1.8\"><span class=\"label\">8</span><span class=\"content\">I will destroy the king</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">inhabitants</span></span></span><span class=\"content\"> of Ashdod</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.1.8\"><span class=\"content\">and the one who holds the scepter in Ashkelon.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.1.8\"><span class=\"content\">I will turn my hand against Ekron,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.1.8\"><span class=\"content\">till the last of the Philistines are dead,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v8\" data-usfm=\"AMO.1.8\"><span class=\"content\">says the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"AMO.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.1.9\"><span class=\"label\">9</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.1.9\"><span class=\"content\">&#8220;For three sins of Tyre,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.1.9\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.1.9\"><span class=\"content\">Because she sold whole communities of captives to Edom,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.1.9\"><span class=\"content\">disregarding a treaty of brotherhood,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.1.10\"><span class=\"label\">10</span><span class=\"content\">I will send fire on the walls of Tyre</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.1.10\"><span class=\"content\">that will consume her fortresses.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"AMO.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"label\">11</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">&#8220;For three sins of Edom,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">Because he pursued his brother with a sword</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">and slaughtered the women of the land,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">because his anger raged continually</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">and his fury flamed unchecked,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.1.12\"><span class=\"label\">12</span><span class=\"content\">I will send fire on Teman</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.1.12\"><span class=\"content\">that will consume the fortresses of Bozrah.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"AMO.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.1.13\"><span class=\"label\">13</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.1.13\"><span class=\"content\">&#8220;For three sins of Ammon,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.1.13\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.1.13\"><span class=\"content\">Because he ripped open the pregnant women of Gilead</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.1.13\"><span class=\"content\">in order to extend his borders,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.1.14\"><span class=\"label\">14</span><span class=\"content\">I will set fire to the walls of Rabbah</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.1.14\"><span class=\"content\">that will consume her fortresses</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.1.14\"><span class=\"content\">amid war cries on the day of battle,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.1.14\"><span class=\"content\">amid violent winds on a stormy day.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"AMO.1.15\"><span class=\"label\">15</span><span class=\"content\">Her king</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Or </span><span class=\"fqa\">/ Molek</span></span></span><span class=\"content\"> will go into exile,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.1.15\"><span class=\"content\">he and his officials together,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v15\" data-usfm=\"AMO.1.15\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "He said:",
+            "“The Lord roars from Zion",
+            "and thunders from Jerusalem;",
+            "the pastures of the shepherds dry up,",
+            "and the top of Carmel withers.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Judgment on Israel’s Neighbors"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Damascus,",
+            "even for four, I will not relent.",
+            "Because she threshed Gilead",
+            "with sledges having iron teeth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I will send fire on the house of Hazael",
+            "that will consume the fortresses of Ben-Hadad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I will break down the gate of Damascus;",
+            "I will destroy the king who is in the Valley of Aven",
+            "and the one who holds the scepter in Beth Eden.",
+            "The people of Aram will go into exile to Kir,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Gaza,",
+            "even for four, I will not relent.",
+            "Because she took captive whole communities",
+            "and sold them to Edom,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I will send fire on the walls of Gaza",
+            "that will consume her fortresses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I will destroy the king of Ashdod",
+            "and the one who holds the scepter in Ashkelon.",
+            "I will turn my hand against Ekron,",
+            "till the last of the Philistines are dead,”",
+            "says the Sovereign Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Tyre,",
+            "even for four, I will not relent.",
+            "Because she sold whole communities of captives to Edom,",
+            "disregarding a treaty of brotherhood,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I will send fire on the walls of Tyre",
+            "that will consume her fortresses.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Edom,",
+            "even for four, I will not relent.",
+            "Because he pursued his brother with a sword",
+            "and slaughtered the women of the land,",
+            "because his anger raged continually",
+            "and his fury flamed unchecked,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I will send fire on Teman",
+            "that will consume the fortresses of Bozrah.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Ammon,",
+            "even for four, I will not relent.",
+            "Because he ripped open the pregnant women of Gilead",
+            "in order to extend his borders,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I will set fire to the walls of Rabbah",
+            "that will consume her fortresses",
+            "amid war cries on the day of battle,",
+            "amid violent winds on a stormy day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Her king will go into exile,",
+            "he and his officials together,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amos 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amos 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1",
+        "toc": true
+      },
+      "chapter_text": "This is what the LORD says:\n“For three sins of Moab,\neven for four, I will not relent.\nBecause he burned to ashes\nthe bones of Edom’s king,\nI will send fire on Moab\nthat will consume the fortresses of Kerioth.\nMoab will go down in great tumult\namid war cries and the blast of the trumpet.\nI will destroy her ruler\nand kill all her officials with him,”\nsays the LORD.\nThis is what the LORD says:\n“For three sins of Judah,\neven for four, I will not relent.\nBecause they have rejected the law of the LORD\nand have not kept his decrees,\nbecause they have been led astray by false gods,\nthe gods their ancestors followed,\nI will send fire on Judah\nthat will consume the fortresses of Jerusalem.”\n\nThis is what the LORD says:\n“For three sins of Israel,\neven for four, I will not relent.\nThey sell the innocent for silver,\nand the needy for a pair of sandals.\nThey trample on the heads of the poor\nas on the dust of the ground\nand deny justice to the oppressed.\nFather and son use the same girl\nand so profane my holy name.\nThey lie down beside every altar\non garments taken in pledge.\nIn the house of their god\nthey drink wine taken as fines.\n\n“Yet I destroyed the Amorites before them,\nthough they were tall as the cedars\nand strong as the oaks.\nI destroyed their fruit above\nand their roots below.\nI brought you up out of Egypt\nand led you forty years in the wilderness\nto give you the land of the Amorites.\n\n“I also raised up prophets from among your children\nand Nazirites from among your youths.\nIs this not true, people of Israel?”\ndeclares the LORD.\n“But you made the Nazirites drink wine\nand commanded the prophets not to prophesy.\n\n“Now then, I will crush you\nas a cart crushes when loaded with grain.\nThe swift will not escape,\nthe strong will not muster their strength,\nand the warrior will not save his life.\nThe archer will not stand his ground,\nthe fleet-footed soldier will not get away,\nand the horseman will not save his life.\nEven the bravest warriors\nwill flee naked on that day,”\ndeclares the LORD.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch2\" data-usfm=\"AMO.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.2.1\"><span class=\"label\">1</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.2.1\"><span class=\"content\">&#8220;For three sins of Moab,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.2.1\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.2.1\"><span class=\"content\">Because he burned to ashes</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.2.1\"><span class=\"content\">the bones of Edom&#8217;s king,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.2.2\"><span class=\"label\">2</span><span class=\"content\">I will send fire on Moab</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.2.2\"><span class=\"content\">that will consume the fortresses of Kerioth.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">Or </span><span class=\"fqa\">of her cities</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.2.2\"><span class=\"content\">Moab will go down in great tumult</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.2.2\"><span class=\"content\">amid war cries and the blast of the trumpet.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.2.3\"><span class=\"label\">3</span><span class=\"content\">I will destroy her ruler</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.2.3\"><span class=\"content\">and kill all her officials with him,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v3\" data-usfm=\"AMO.2.3\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"AMO.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"label\">4</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">&#8220;For three sins of Judah,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">Because they have rejected the law of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">and have not kept his decrees,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">because they have been led astray by false gods,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">by lies</span></span></span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">the gods</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">lies</span></span></span><span class=\"content\"> their ancestors followed,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.2.5\"><span class=\"label\">5</span><span class=\"content\">I will send fire on Judah</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.2.5\"><span class=\"content\">that will consume the fortresses of Jerusalem.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Judgment on Israel</span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"AMO.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.2.6\"><span class=\"label\">6</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.2.6\"><span class=\"content\">&#8220;For three sins of Israel,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.2.6\"><span class=\"content\">even for four, I will not relent.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.2.6\"><span class=\"content\">They sell the innocent for silver,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.2.6\"><span class=\"content\">and the needy for a pair of sandals.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.2.7\"><span class=\"label\">7</span><span class=\"content\">They trample on the heads of the poor</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.2.7\"><span class=\"content\">as on the dust of the ground</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.2.7\"><span class=\"content\">and deny justice to the oppressed.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.2.7\"><span class=\"content\">Father and son use the same girl</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.2.7\"><span class=\"content\">and so profane my holy name.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.2.8\"><span class=\"label\">8</span><span class=\"content\">They lie down beside every altar</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.2.8\"><span class=\"content\">on garments taken in pledge.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.2.8\"><span class=\"content\">In the house of their god</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.2.8\"><span class=\"content\">they drink wine taken as fines.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.2.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;Yet I destroyed the Amorites before them,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.2.9\"><span class=\"content\">though they were tall as the cedars</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.2.9\"><span class=\"content\">and strong as the oaks.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.2.9\"><span class=\"content\">I destroyed their fruit above</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.2.9\"><span class=\"content\">and their roots below.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.2.10\"><span class=\"label\">10</span><span class=\"content\">I brought you up out of Egypt</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.2.10\"><span class=\"content\">and led you forty years in the wilderness</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.2.10\"><span class=\"content\">to give you the land of the Amorites.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.2.11\"><span class=\"label\">11</span><span class=\"content\">&#8220;I also raised up prophets from among your children</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.2.11\"><span class=\"content\">and Nazirites from among your youths.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.2.11\"><span class=\"content\">Is this not true, people of Israel?&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v11\" data-usfm=\"AMO.2.11\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.2.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;But you made the Nazirites drink wine</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.2.12\"><span class=\"content\">and commanded the prophets not to prophesy.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.2.13\"><span class=\"label\">13</span><span class=\"content\">&#8220;Now then, I will crush you</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.2.13\"><span class=\"content\">as a cart crushes when loaded with grain.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.2.14\"><span class=\"label\">14</span><span class=\"content\">The swift will not escape,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.2.14\"><span class=\"content\">the strong will not muster their strength,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.2.14\"><span class=\"content\">and the warrior will not save his life.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"AMO.2.15\"><span class=\"label\">15</span><span class=\"content\">The archer will not stand his ground,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.2.15\"><span class=\"content\">the fleet-footed soldier will not get away,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.2.15\"><span class=\"content\">and the horseman will not save his life.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"AMO.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"AMO.2.16\"><span class=\"label\">16</span><span class=\"content\">Even the bravest warriors</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"AMO.2.16\"><span class=\"content\">will flee naked on that day,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v16\" data-usfm=\"AMO.2.16\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Moab,",
+            "even for four, I will not relent.",
+            "Because he burned to ashes",
+            "the bones of Edom’s king,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I will send fire on Moab",
+            "that will consume the fortresses of Kerioth.",
+            "Moab will go down in great tumult",
+            "amid war cries and the blast of the trumpet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I will destroy her ruler",
+            "and kill all her officials with him,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Judah,",
+            "even for four, I will not relent.",
+            "Because they have rejected the law of the Lord",
+            "and have not kept his decrees,",
+            "because they have been led astray by false gods,",
+            "the gods their ancestors followed,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I will send fire on Judah",
+            "that will consume the fortresses of Jerusalem.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Judgment on Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "This is what the Lord says:",
+            "“For three sins of Israel,",
+            "even for four, I will not relent.",
+            "They sell the innocent for silver,",
+            "and the needy for a pair of sandals."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They trample on the heads of the poor",
+            "as on the dust of the ground",
+            "and deny justice to the oppressed.",
+            "Father and son use the same girl",
+            "and so profane my holy name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "They lie down beside every altar",
+            "on garments taken in pledge.",
+            "In the house of their god",
+            "they drink wine taken as fines."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“Yet I destroyed the Amorites before them,",
+            "though they were tall as the cedars",
+            "and strong as the oaks.",
+            "I destroyed their fruit above",
+            "and their roots below."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I brought you up out of Egypt",
+            "and led you forty years in the wilderness",
+            "to give you the land of the Amorites."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "“I also raised up prophets from among your children",
+            "and Nazirites from among your youths.",
+            "Is this not true, people of Israel?”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“But you made the Nazirites drink wine",
+            "and commanded the prophets not to prophesy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "“Now then, I will crush you",
+            "as a cart crushes when loaded with grain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "The swift will not escape,",
+            "the strong will not muster their strength,",
+            "and the warrior will not save his life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The archer will not stand his ground,",
+            "the fleet-footed soldier will not get away,",
+            "and the horseman will not save his life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Even the bravest warriors",
+            "will flee naked on that day,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amos 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amos 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.2"
+        ],
+        "human": "Amos 2",
+        "toc": true
+      },
+      "chapter_text": "Hear this word, people of Israel, the word the LORD has spoken against you—against the whole family I brought up out of Egypt:\n“You only have I chosen\nof all the families of the earth;\ntherefore I will punish you\nfor all your sins.”\n\nDo two walk together\nunless they have agreed to do so?\nDoes a lion roar in the thicket\nwhen it has no prey?\nDoes it growl in its den\nwhen it has caught nothing?\nDoes a bird swoop down to a trap on the ground\nwhen no bait is there?\nDoes a trap spring up from the ground\nif it has not caught anything?\nWhen a trumpet sounds in a city,\ndo not the people tremble?\nWhen disaster comes to a city,\nhas not the LORD caused it?\n\nSurely the Sovereign LORD does nothing\nwithout revealing his plan\nto his servants the prophets.\n\nThe lion has roared—\nwho will not fear?\nThe Sovereign LORD has spoken—\nwho can but prophesy?\n\nProclaim to the fortresses of Ashdod\nand to the fortresses of Egypt:\n“Assemble yourselves on the mountains of Samaria;\nsee the great unrest within her\nand the oppression among her people.”\n\n“They do not know how to do right,” declares the LORD,\n“who store up in their fortresses\nwhat they have plundered and looted.”\nTherefore this is what the Sovereign LORD says:\n“An enemy will overrun your land,\npull down your strongholds\nand plunder your fortresses.”\nThis is what the LORD says:\n“As a shepherd rescues from the lion’s mouth\nonly two leg bones or a piece of an ear,\nso will the Israelites living in Samaria be rescued,\nwith only the head of a bed\nand a piece of fabric from a couch.”\n“Hear this and testify against the descendants of Jacob,” declares the Lord, the LORD God Almighty.\n“On the day I punish Israel for her sins,\nI will destroy the altars of Bethel;\nthe horns of the altar will be cut off\nand fall to the ground.\nI will tear down the winter house\nalong with the summer house;\nthe houses adorned with ivory will be destroyed\nand the mansions will be demolished,”\ndeclares the LORD.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch3\" data-usfm=\"AMO.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Witnesses Summoned Against Israel</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.3.1\"><span class=\"label\">1</span><span class=\"content\">Hear this word, people of Israel, the word the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has spoken against you&#8212;against the whole family I brought up out of Egypt:</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.3.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;You only have I chosen</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.3.2\"><span class=\"content\">of all the families of the earth;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.3.2\"><span class=\"content\">therefore I will punish you</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.3.2\"><span class=\"content\">for all your sins.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.3.3\"><span class=\"label\">3</span><span class=\"content\">Do two walk together</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.3.3\"><span class=\"content\">unless they have agreed to do so?</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.3.4\"><span class=\"label\">4</span><span class=\"content\">Does a lion roar in the thicket</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.3.4\"><span class=\"content\">when it has no prey?</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.3.4\"><span class=\"content\">Does it growl in its den</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.3.4\"><span class=\"content\">when it has caught nothing?</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.3.5\"><span class=\"label\">5</span><span class=\"content\">Does a bird swoop down to a trap on the ground</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.3.5\"><span class=\"content\">when no bait is there?</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.3.5\"><span class=\"content\">Does a trap spring up from the ground</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.3.5\"><span class=\"content\">if it has not caught anything?</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.3.6\"><span class=\"label\">6</span><span class=\"content\">When a trumpet sounds in a city,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.3.6\"><span class=\"content\">do not the people tremble?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.3.6\"><span class=\"content\">When disaster comes to a city,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.3.6\"><span class=\"content\">has not the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> caused it?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.3.7\"><span class=\"label\">7</span><span class=\"content\">Surely the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> does nothing</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.3.7\"><span class=\"content\">without revealing his plan</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.3.7\"><span class=\"content\">to his servants the prophets.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.3.8\"><span class=\"label\">8</span><span class=\"content\">The lion has roared&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.3.8\"><span class=\"content\">who will not fear?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.3.8\"><span class=\"content\">The Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has spoken&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.3.8\"><span class=\"content\">who can but prophesy?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.3.9\"><span class=\"label\">9</span><span class=\"content\">Proclaim to the fortresses of Ashdod</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.3.9\"><span class=\"content\">and to the fortresses of Egypt:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.3.9\"><span class=\"content\">&#8220;Assemble yourselves on the mountains of Samaria;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.3.9\"><span class=\"content\">see the great unrest within her</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.3.9\"><span class=\"content\">and the oppression among her people.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.3.10\"><span class=\"label\">10</span><span class=\"content\">&#8220;They do not know how to do right,&#8221; declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.3.10\"><span class=\"content\">&#8220;who store up in their fortresses</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.3.10\"><span class=\"content\">what they have plundered and looted.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"AMO.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.3.11\"><span class=\"label\">11</span><span class=\"content\">Therefore this is what the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.3.11\"><span class=\"content\">&#8220;An enemy will overrun your land,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.3.11\"><span class=\"content\">pull down your strongholds</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.3.11\"><span class=\"content\">and plunder your fortresses.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"AMO.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"label\">12</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"content\">&#8220;As a shepherd rescues from the lion&#8217;s mouth</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"content\">only two leg bones or a piece of an ear,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"content\">so will the Israelites living in Samaria be rescued,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"content\">with only the head of a bed</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"content\">and a piece of fabric</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">The meaning of the Hebrew for this phrase is uncertain.</span></span></span><span class=\"content\"> from a couch.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Or </span><span class=\"fqa\">Israelites be rescued, / those who sit in Samaria / on the edge of their beds / and in Damascus on their couches.</span></span></span><span class=\"content\">&#8221;</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"AMO.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.3.13\"><span class=\"label\">13</span><span class=\"content\">&#8220;Hear this and testify against the descendants of Jacob,&#8221; declares the Lord, the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.3.14\"><span class=\"label\">14</span><span class=\"content\">&#8220;On the day I punish Israel for her sins,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.3.14\"><span class=\"content\">I will destroy the altars of Bethel;</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.3.14\"><span class=\"content\">the horns of the altar will be cut off</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.3.14\"><span class=\"content\">and fall to the ground.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"AMO.3.15\"><span class=\"label\">15</span><span class=\"content\">I will tear down the winter house</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.3.15\"><span class=\"content\">along with the summer house;</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"AMO.3.15\"><span class=\"content\">the houses adorned with ivory will be destroyed</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.3.15\"><span class=\"content\">and the mansions will be demolished,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v15\" data-usfm=\"AMO.3.15\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Witnesses Summoned Against Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hear this word, people of Israel, the word the Lord has spoken against you—against the whole family I brought up out of Egypt:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“You only have I chosen",
+            "of all the families of the earth;",
+            "therefore I will punish you",
+            "for all your sins.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Do two walk together",
+            "unless they have agreed to do so?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Does a lion roar in the thicket",
+            "when it has no prey?",
+            "Does it growl in its den",
+            "when it has caught nothing?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Does a bird swoop down to a trap on the ground",
+            "when no bait is there?",
+            "Does a trap spring up from the ground",
+            "if it has not caught anything?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "When a trumpet sounds in a city,",
+            "do not the people tremble?",
+            "When disaster comes to a city,",
+            "has not the Lord caused it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Surely the Sovereign Lord does nothing",
+            "without revealing his plan",
+            "to his servants the prophets."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The lion has roared—",
+            "who will not fear?",
+            "The Sovereign Lord has spoken—",
+            "who can but prophesy?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Proclaim to the fortresses of Ashdod",
+            "and to the fortresses of Egypt:",
+            "“Assemble yourselves on the mountains of Samaria;",
+            "see the great unrest within her",
+            "and the oppression among her people.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "“They do not know how to do right,” declares the Lord,",
+            "“who store up in their fortresses",
+            "what they have plundered and looted.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Therefore this is what the Sovereign Lord says:",
+            "“An enemy will overrun your land,",
+            "pull down your strongholds",
+            "and plunder your fortresses.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "This is what the Lord says:",
+            "“As a shepherd rescues from the lion’s mouth",
+            "only two leg bones or a piece of an ear,",
+            "so will the Israelites living in Samaria be rescued,",
+            "with only the head of a bed",
+            "and a piece of fabric from a couch.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "“Hear this and testify against the descendants of Jacob,” declares the Lord, the Lord God Almighty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "“On the day I punish Israel for her sins,",
+            "I will destroy the altars of Bethel;",
+            "the horns of the altar will be cut off",
+            "and fall to the ground."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "I will tear down the winter house",
+            "along with the summer house;",
+            "the houses adorned with ivory will be destroyed",
+            "and the mansions will be demolished,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amos 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amos 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.3"
+        ],
+        "human": "Amos 3",
+        "toc": true
+      },
+      "chapter_text": "Hear this word, you cows of Bashan on Mount Samaria,\nyou women who oppress the poor and crush the needy\nand say to your husbands, “Bring us some drinks!”\nThe Sovereign LORD has sworn by his holiness:\n“The time will surely come\nwhen you will be taken away with hooks,\nthe last of you with fishhooks.\nYou will each go straight out\nthrough breaches in the wall,\nand you will be cast out toward Harmon,”\ndeclares the LORD.\n“Go to Bethel and sin;\ngo to Gilgal and sin yet more.\nBring your sacrifices every morning,\nyour tithes every three years.\nBurn leavened bread as a thank offering\nand brag about your freewill offerings—\nboast about them, you Israelites,\nfor this is what you love to do,”\ndeclares the Sovereign LORD.\n\n“I gave you empty stomachs in every city\nand lack of bread in every town,\nyet you have not returned to me,”\ndeclares the LORD.\n\n“I also withheld rain from you\nwhen the harvest was still three months away.\nI sent rain on one town,\nbut withheld it from another.\nOne field had rain;\nanother had none and dried up.\nPeople staggered from town to town for water\nbut did not get enough to drink,\nyet you have not returned to me,”\ndeclares the LORD.\n\n“Many times I struck your gardens and vineyards,\ndestroying them with blight and mildew.\nLocusts devoured your fig and olive trees,\nyet you have not returned to me,”\ndeclares the LORD.\n\n“I sent plagues among you\nas I did to Egypt.\nI killed your young men with the sword,\nalong with your captured horses.\nI filled your nostrils with the stench of your camps,\nyet you have not returned to me,”\ndeclares the LORD.\n\n“I overthrew some of you\nas I overthrew Sodom and Gomorrah.\nYou were like a burning stick snatched from the fire,\nyet you have not returned to me,”\ndeclares the LORD.\n\n“Therefore this is what I will do to you, Israel,\nand because I will do this to you, Israel,\nprepare to meet your God.”\n\nHe who forms the mountains,\nwho creates the wind,\nand who reveals his thoughts to mankind,\nwho turns dawn to darkness,\nand treads on the heights of the earth—\nthe LORD God Almighty is his name.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch4\" data-usfm=\"AMO.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Israel Has Not Returned to God</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.4.1\"><span class=\"label\">1</span><span class=\"content\">Hear this word, you cows of Bashan on Mount Samaria,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.4.1\"><span class=\"content\">you women who oppress the poor and crush the needy</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.4.1\"><span class=\"content\">and say to your husbands, &#8220;Bring us some drinks!&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.4.2\"><span class=\"label\">2</span><span class=\"content\">The Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has sworn by his holiness:</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.4.2\"><span class=\"content\">&#8220;The time will surely come</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.4.2\"><span class=\"content\">when you will be taken away with hooks,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.4.2\"><span class=\"content\">the last of you with fishhooks.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">Or </span><span class=\"fqa\">away in baskets, / the last of you in fish baskets</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.4.3\"><span class=\"label\">3</span><span class=\"content\">You will each go straight out</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.4.3\"><span class=\"content\">through breaches in the wall,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.4.3\"><span class=\"content\">and you will be cast out toward Harmon,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:3 </span><span class=\"ft\">Masoretic Text; with a different word division of the Hebrew (see Septuagint) </span><span class=\"fqa\">out, you mountain of oppression</span></span></span><span class=\"content\">&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v3\" data-usfm=\"AMO.4.3\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.4.4\"><span class=\"label\">4</span><span class=\"content\">&#8220;Go to Bethel and sin;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.4.4\"><span class=\"content\">go to Gilgal and sin yet more.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.4.4\"><span class=\"content\">Bring your sacrifices every morning,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.4.4\"><span class=\"content\">your tithes every three years.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">days</span></span></span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.4.5\"><span class=\"label\">5</span><span class=\"content\">Burn leavened bread as a thank offering</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.4.5\"><span class=\"content\">and brag about your freewill offerings&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.4.5\"><span class=\"content\">boast about them, you Israelites,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.4.5\"><span class=\"content\">for this is what you love to do,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v5\" data-usfm=\"AMO.4.5\"><span class=\"content\">declares the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.4.6\"><span class=\"label\">6</span><span class=\"content\">&#8220;I gave you empty stomachs in every city</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.4.6\"><span class=\"content\">and lack of bread in every town,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.4.6\"><span class=\"content\">yet you have not returned to me,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v6\" data-usfm=\"AMO.4.6\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"label\">7</span><span class=\"content\">&#8220;I also withheld rain from you</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"content\">when the harvest was still three months away.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"content\">I sent rain on one town,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"content\">but withheld it from another.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"content\">One field had rain;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"content\">another had none and dried up.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.4.8\"><span class=\"label\">8</span><span class=\"content\">People staggered from town to town for water</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.4.8\"><span class=\"content\">but did not get enough to drink,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.4.8\"><span class=\"content\">yet you have not returned to me,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v8\" data-usfm=\"AMO.4.8\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.4.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;Many times I struck your gardens and vineyards,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.4.9\"><span class=\"content\">destroying them with blight and mildew.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.4.9\"><span class=\"content\">Locusts devoured your fig and olive trees,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.4.9\"><span class=\"content\">yet you have not returned to me,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v9\" data-usfm=\"AMO.4.9\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"label\">10</span><span class=\"content\">&#8220;I sent plagues among you</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">as I did to Egypt.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">I killed your young men with the sword,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">along with your captured horses.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">I filled your nostrils with the stench of your camps,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">yet you have not returned to me,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.4.11\"><span class=\"label\">11</span><span class=\"content\">&#8220;I overthrew some of you</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.4.11\"><span class=\"content\">as I overthrew Sodom and Gomorrah.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.4.11\"><span class=\"content\">You were like a burning stick snatched from the fire,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.4.11\"><span class=\"content\">yet you have not returned to me,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v11\" data-usfm=\"AMO.4.11\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.4.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;Therefore this is what I will do to you, Israel,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.4.12\"><span class=\"content\">and because I will do this to you, Israel,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.4.12\"><span class=\"content\">prepare to meet your God.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.4.13\"><span class=\"label\">13</span><span class=\"content\">He who forms the mountains,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.4.13\"><span class=\"content\">who creates the wind,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.4.13\"><span class=\"content\">and who reveals his thoughts to mankind,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.4.13\"><span class=\"content\">who turns dawn to darkness,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.4.13\"><span class=\"content\">and treads on the heights of the earth&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.4.13\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty is his name.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Israel Has Not Returned to God"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hear this word, you cows of Bashan on Mount Samaria,",
+            "you women who oppress the poor and crush the needy",
+            "and say to your husbands, “Bring us some drinks!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The Sovereign Lord has sworn by his holiness:",
+            "“The time will surely come",
+            "when you will be taken away with hooks,",
+            "the last of you with fishhooks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "You will each go straight out",
+            "through breaches in the wall,",
+            "and you will be cast out toward Harmon,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "“Go to Bethel and sin;",
+            "go to Gilgal and sin yet more.",
+            "Bring your sacrifices every morning,",
+            "your tithes every three years."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Burn leavened bread as a thank offering",
+            "and brag about your freewill offerings—",
+            "boast about them, you Israelites,",
+            "for this is what you love to do,”",
+            "declares the Sovereign Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“I gave you empty stomachs in every city",
+            "and lack of bread in every town,",
+            "yet you have not returned to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "“I also withheld rain from you",
+            "when the harvest was still three months away.",
+            "I sent rain on one town,",
+            "but withheld it from another.",
+            "One field had rain;",
+            "another had none and dried up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "People staggered from town to town for water",
+            "but did not get enough to drink,",
+            "yet you have not returned to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“Many times I struck your gardens and vineyards,",
+            "destroying them with blight and mildew.",
+            "Locusts devoured your fig and olive trees,",
+            "yet you have not returned to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "“I sent plagues among you",
+            "as I did to Egypt.",
+            "I killed your young men with the sword,",
+            "along with your captured horses.",
+            "I filled your nostrils with the stench of your camps,",
+            "yet you have not returned to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "“I overthrew some of you",
+            "as I overthrew Sodom and Gomorrah.",
+            "You were like a burning stick snatched from the fire,",
+            "yet you have not returned to me,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“Therefore this is what I will do to you, Israel,",
+            "and because I will do this to you, Israel,",
+            "prepare to meet your God.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "He who forms the mountains,",
+            "who creates the wind,",
+            "and who reveals his thoughts to mankind,",
+            "who turns dawn to darkness,",
+            "and treads on the heights of the earth—",
+            "the Lord God Almighty is his name."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amos 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amos 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.4"
+        ],
+        "human": "Amos 4",
+        "toc": true
+      },
+      "chapter_text": "Hear this word, Israel, this lament I take up concerning you:\n“Fallen is Virgin Israel,\nnever to rise again,\ndeserted in her own land,\nwith no one to lift her up.”\nThis is what the Sovereign LORD says to Israel:\n“Your city that marches out a thousand strong\nwill have only a hundred left;\nyour town that marches out a hundred strong\nwill have only ten left.”\nThis is what the LORD says to Israel:\n“Seek me and live;\ndo not seek Bethel,\ndo not go to Gilgal,\ndo not journey to Beersheba.\nFor Gilgal will surely go into exile,\nand Bethel will be reduced to nothing.”\nSeek the LORD and live,\nor he will sweep through the tribes of Joseph like a fire;\nit will devour them,\nand Bethel will have no one to quench it.\n\nThere are those who turn justice into bitterness\nand cast righteousness to the ground.\n\nHe who made the Pleiades and Orion,\nwho turns midnight into dawn\nand darkens day into night,\nwho calls for the waters of the sea\nand pours them out over the face of the land—\nthe LORD is his name.\nWith a blinding flash he destroys the stronghold\nand brings the fortified city to ruin.\n\nThere are those who hate the one who upholds justice in court\nand detest the one who tells the truth.\n\nYou levy a straw tax on the poor\nand impose a tax on their grain.\nTherefore, though you have built stone mansions,\nyou will not live in them;\nthough you have planted lush vineyards,\nyou will not drink their wine.\nFor I know how many are your offenses\nand how great your sins.\n\nThere are those who oppress the innocent and take bribes\nand deprive the poor of justice in the courts.\nTherefore the prudent keep quiet in such times,\nfor the times are evil.\n\nSeek good, not evil,\nthat you may live.\nThen the LORD God Almighty will be with you,\njust as you say he is.\nHate evil, love good;\nmaintain justice in the courts.\nPerhaps the LORD God Almighty will have mercy\non the remnant of Joseph.\nTherefore this is what the Lord, the LORD God Almighty, says:\n“There will be wailing in all the streets\nand cries of anguish in every public square.\nThe farmers will be summoned to weep\nand the mourners to wail.\nThere will be wailing in all the vineyards,\nfor I will pass through your midst,”\nsays the LORD.\nLORD\nWoe to you who long\nfor the day of the LORD!\nWhy do you long for the day of the LORD?\nThat day will be darkness, not light.\nIt will be as though a man fled from a lion\nonly to meet a bear,\nas though he entered his house\nand rested his hand on the wall\nonly to have a snake bite him.\nWill not the day of the LORD be darkness, not light—\npitch-dark, without a ray of brightness?\n\n“I hate, I despise your religious festivals;\nyour assemblies are a stench to me.\nEven though you bring me burnt offerings and grain offerings,\nI will not accept them.\nThough you bring choice fellowship offerings,\nI will have no regard for them.\nAway with the noise of your songs!\nI will not listen to the music of your harps.\nBut let justice roll on like a river,\nrighteousness like a never-failing stream!\n\n“Did you bring me sacrifices and offerings\nforty years in the wilderness, people of Israel?\nYou have lifted up the shrine of your king,\nthe pedestal of your idols,\nthe star of your god—\nwhich you made for yourselves.\nTherefore I will send you into exile beyond Damascus,”\nsays the LORD, whose name is God Almighty.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch5\" data-usfm=\"AMO.5\">\n         <div class=\"label\">5</div><div class=\"s1\"><span class=\"heading\">A Lament and Call to Repentance</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.5.1\"><span class=\"label\">1</span><span class=\"content\">Hear this word, Israel, this lament I take up concerning you:</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.5.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Fallen is Virgin Israel,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.5.2\"><span class=\"content\">never to rise again,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.5.2\"><span class=\"content\">deserted in her own land,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.5.2\"><span class=\"content\">with no one to lift her up.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"AMO.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.5.3\"><span class=\"label\">3</span><span class=\"content\">This is what the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says to Israel:</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.5.3\"><span class=\"content\">&#8220;Your city that marches out a thousand strong</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.5.3\"><span class=\"content\">will have only a hundred left;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.5.3\"><span class=\"content\">your town that marches out a hundred strong</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.5.3\"><span class=\"content\">will have only ten left.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"AMO.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.5.4\"><span class=\"label\">4</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says to Israel:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.5.4\"><span class=\"content\">&#8220;Seek me and live;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.5.5\"><span class=\"label\">5</span><span class=\"content\">do not seek Bethel,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.5.5\"><span class=\"content\">do not go to Gilgal,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.5.5\"><span class=\"content\">do not journey to Beersheba.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.5.5\"><span class=\"content\">For Gilgal will surely go into exile,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.5.5\"><span class=\"content\">and Bethel will be reduced to nothing.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:5 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">aven, </span><span class=\"ft\">a reference to Beth Aven (a derogatory name for Bethel); see Hosea 4:15.</span></span></span><span class=\"content\">&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.5.6\"><span class=\"label\">6</span><span class=\"content\">Seek the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> and live,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.5.6\"><span class=\"content\">or he will sweep through the tribes of Joseph like a fire;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.5.6\"><span class=\"content\">it will devour them,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.5.6\"><span class=\"content\">and Bethel will have no one to quench it.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.5.7\"><span class=\"label\">7</span><span class=\"content\">There are those who turn justice into bitterness</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.5.7\"><span class=\"content\">and cast righteousness to the ground.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"label\">8</span><span class=\"content\">He who made the Pleiades and Orion,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"content\">who turns midnight into dawn</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"content\">and darkens day into night,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"content\">who calls for the waters of the sea</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"content\">and pours them out over the face of the land&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is his name.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.5.9\"><span class=\"label\">9</span><span class=\"content\">With a blinding flash he destroys the stronghold</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.5.9\"><span class=\"content\">and brings the fortified city to ruin.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.5.10\"><span class=\"label\">10</span><span class=\"content\">There are those who hate the one who upholds justice in court</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.5.10\"><span class=\"content\">and detest the one who tells the truth.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"label\">11</span><span class=\"content\">You levy a straw tax on the poor</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"content\">and impose a tax on their grain.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"content\">Therefore, though you have built stone mansions,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"content\">you will not live in them;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"content\">though you have planted lush vineyards,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"content\">you will not drink their wine.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.5.12\"><span class=\"label\">12</span><span class=\"content\">For I know how many are your offenses</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.5.12\"><span class=\"content\">and how great your sins.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.5.12\"><span class=\"content\">There are those who oppress the innocent and take bribes</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.5.12\"><span class=\"content\">and deprive the poor of justice in the courts.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.5.13\"><span class=\"label\">13</span><span class=\"content\">Therefore the prudent keep quiet in such times,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.5.13\"><span class=\"content\">for the times are evil.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.5.14\"><span class=\"label\">14</span><span class=\"content\">Seek good, not evil,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.5.14\"><span class=\"content\">that you may live.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.5.14\"><span class=\"content\">Then the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty will be with you,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.5.14\"><span class=\"content\">just as you say he is.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"AMO.5.15\"><span class=\"label\">15</span><span class=\"content\">Hate evil, love good;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.5.15\"><span class=\"content\">maintain justice in the courts.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"AMO.5.15\"><span class=\"content\">Perhaps the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty will have mercy</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.5.15\"><span class=\"content\">on the remnant of Joseph.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"AMO.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"AMO.5.16\"><span class=\"label\">16</span><span class=\"content\">Therefore this is what the Lord, the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty, says:</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"AMO.5.16\"><span class=\"content\">&#8220;There will be wailing in all the streets</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"AMO.5.16\"><span class=\"content\">and cries of anguish in every public square.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"AMO.5.16\"><span class=\"content\">The farmers will be summoned to weep</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"AMO.5.16\"><span class=\"content\">and the mourners to wail.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"AMO.5.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"AMO.5.17\"><span class=\"label\">17</span><span class=\"content\">There will be wailing in all the vineyards,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"AMO.5.17\"><span class=\"content\">for I will pass through your midst,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v17\" data-usfm=\"AMO.5.17\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"s1\"><span class=\"heading\">The Day of the </span><span class=\"nd\"><span class=\"heading\">Lord</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"AMO.5.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"AMO.5.18\"><span class=\"label\">18</span><span class=\"content\">Woe to you who long</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"AMO.5.18\"><span class=\"content\">for the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">!</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"AMO.5.18\"><span class=\"content\">Why do you long for the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">?</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"AMO.5.18\"><span class=\"content\">That day will be darkness, not light.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"AMO.5.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"AMO.5.19\"><span class=\"label\">19</span><span class=\"content\">It will be as though a man fled from a lion</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"AMO.5.19\"><span class=\"content\">only to meet a bear,</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"AMO.5.19\"><span class=\"content\">as though he entered his house</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"AMO.5.19\"><span class=\"content\">and rested his hand on the wall</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"AMO.5.19\"><span class=\"content\">only to have a snake bite him.</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"AMO.5.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"AMO.5.20\"><span class=\"label\">20</span><span class=\"content\">Will not the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> be darkness, not light&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"AMO.5.20\"><span class=\"content\">pitch-dark, without a ray of brightness?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"AMO.5.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"AMO.5.21\"><span class=\"label\">21</span><span class=\"content\">&#8220;I hate, I despise your religious festivals;</span></span></div><div class=\"q2\"><span class=\"verse v21\" data-usfm=\"AMO.5.21\"><span class=\"content\">your assemblies are a stench to me.</span></span></div><div class=\"q1\"><span class=\"verse v21\" data-usfm=\"AMO.5.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"AMO.5.22\"><span class=\"label\">22</span><span class=\"content\">Even though you bring me burnt offerings and grain offerings,</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"AMO.5.22\"><span class=\"content\">I will not accept them.</span></span></div><div class=\"q1\"><span class=\"verse v22\" data-usfm=\"AMO.5.22\"><span class=\"content\">Though you bring choice fellowship offerings,</span></span></div><div class=\"q2\"><span class=\"verse v22\" data-usfm=\"AMO.5.22\"><span class=\"content\">I will have no regard for them.</span></span></div><div class=\"q1\"><span class=\"verse v22\" data-usfm=\"AMO.5.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"AMO.5.23\"><span class=\"label\">23</span><span class=\"content\">Away with the noise of your songs!</span></span></div><div class=\"q2\"><span class=\"verse v23\" data-usfm=\"AMO.5.23\"><span class=\"content\">I will not listen to the music of your harps.</span></span></div><div class=\"q1\"><span class=\"verse v23\" data-usfm=\"AMO.5.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"AMO.5.24\"><span class=\"label\">24</span><span class=\"content\">But let justice roll on like a river,</span></span></div><div class=\"q2\"><span class=\"verse v24\" data-usfm=\"AMO.5.24\"><span class=\"content\">righteousness like a never-failing stream!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"AMO.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"AMO.5.25\"><span class=\"label\">25</span><span class=\"content\">&#8220;Did you bring me sacrifices and offerings</span></span></div><div class=\"q2\"><span class=\"verse v25\" data-usfm=\"AMO.5.25\"><span class=\"content\">forty years in the wilderness, people of Israel?</span></span></div><div class=\"q1\"><span class=\"verse v25\" data-usfm=\"AMO.5.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"AMO.5.26\"><span class=\"label\">26</span><span class=\"content\">You have lifted up the shrine of your king,</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"AMO.5.26\"><span class=\"content\">the pedestal of your idols,</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"AMO.5.26\"><span class=\"content\">the star of your god</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:26 </span><span class=\"ft\">Or </span><span class=\"fqa\">lifted up Sakkuth your king / and Kaiwan your idols, / your star-gods</span><span class=\"ft\">; Septuagint </span><span class=\"fqa\">lifted up the shrine of Molek / and the star of your god Rephan, / their idols</span></span></span><span class=\"content\">&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v26\" data-usfm=\"AMO.5.26\"><span class=\"content\">which you made for yourselves.</span></span></div><div class=\"q1\"><span class=\"verse v26\" data-usfm=\"AMO.5.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"AMO.5.27\"><span class=\"label\">27</span><span class=\"content\">Therefore I will send you into exile beyond Damascus,&#8221;</span></span></div><div class=\"q2\"><span class=\"verse v27\" data-usfm=\"AMO.5.27\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, whose name is God Almighty.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "A Lament and Call to Repentance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hear this word, Israel, this lament I take up concerning you:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Fallen is Virgin Israel,",
+            "never to rise again,",
+            "deserted in her own land,",
+            "with no one to lift her up.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "This is what the Sovereign Lord says to Israel:",
+            "“Your city that marches out a thousand strong",
+            "will have only a hundred left;",
+            "your town that marches out a hundred strong",
+            "will have only ten left.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "This is what the Lord says to Israel:",
+            "“Seek me and live;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "do not seek Bethel,",
+            "do not go to Gilgal,",
+            "do not journey to Beersheba.",
+            "For Gilgal will surely go into exile,",
+            "and Bethel will be reduced to nothing.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Seek the Lord and live,",
+            "or he will sweep through the tribes of Joseph like a fire;",
+            "it will devour them,",
+            "and Bethel will have no one to quench it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "There are those who turn justice into bitterness",
+            "and cast righteousness to the ground."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "He who made the Pleiades and Orion,",
+            "who turns midnight into dawn",
+            "and darkens day into night,",
+            "who calls for the waters of the sea",
+            "and pours them out over the face of the land—",
+            "the Lord is his name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "With a blinding flash he destroys the stronghold",
+            "and brings the fortified city to ruin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "There are those who hate the one who upholds justice in court",
+            "and detest the one who tells the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "You levy a straw tax on the poor",
+            "and impose a tax on their grain.",
+            "Therefore, though you have built stone mansions,",
+            "you will not live in them;",
+            "though you have planted lush vineyards,",
+            "you will not drink their wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For I know how many are your offenses",
+            "and how great your sins.",
+            "There are those who oppress the innocent and take bribes",
+            "and deprive the poor of justice in the courts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Therefore the prudent keep quiet in such times,",
+            "for the times are evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Seek good, not evil,",
+            "that you may live.",
+            "Then the Lord God Almighty will be with you,",
+            "just as you say he is."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Hate evil, love good;",
+            "maintain justice in the courts.",
+            "Perhaps the Lord God Almighty will have mercy",
+            "on the remnant of Joseph."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Therefore this is what the Lord, the Lord God Almighty, says:",
+            "“There will be wailing in all the streets",
+            "and cries of anguish in every public square.",
+            "The farmers will be summoned to weep",
+            "and the mourners to wail."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "There will be wailing in all the vineyards,",
+            "for I will pass through your midst,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Woe to you who long",
+            "for the day of the Lord!",
+            "Why do you long for the day of the Lord?",
+            "That day will be darkness, not light."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "It will be as though a man fled from a lion",
+            "only to meet a bear,",
+            "as though he entered his house",
+            "and rested his hand on the wall",
+            "only to have a snake bite him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Will not the day of the Lord be darkness, not light—",
+            "pitch-dark, without a ray of brightness?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "“I hate, I despise your religious festivals;",
+            "your assemblies are a stench to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Even though you bring me burnt offerings and grain offerings,",
+            "I will not accept them.",
+            "Though you bring choice fellowship offerings,",
+            "I will have no regard for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Away with the noise of your songs!",
+            "I will not listen to the music of your harps."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "But let justice roll on like a river,",
+            "righteousness like a never-failing stream!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "“Did you bring me sacrifices and offerings",
+            "forty years in the wilderness, people of Israel?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "You have lifted up the shrine of your king,",
+            "the pedestal of your idols,",
+            "the star of your god—",
+            "which you made for yourselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Therefore I will send you into exile beyond Damascus,”",
+            "says the Lord, whose name is God Almighty."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amos 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amos 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.5"
+        ],
+        "human": "Amos 5",
+        "toc": true
+      },
+      "chapter_text": "Woe to you who are complacent in Zion,\nand to you who feel secure on Mount Samaria,\nyou notable men of the foremost nation,\nto whom the people of Israel come!\nGo to Kalneh and look at it;\ngo from there to great Hamath,\nand then go down to Gath in Philistia.\nAre they better off than your two kingdoms?\nIs their land larger than yours?\nYou put off the day of disaster\nand bring near a reign of terror.\nYou lie on beds adorned with ivory\nand lounge on your couches.\nYou dine on choice lambs\nand fattened calves.\nYou strum away on your harps like David\nand improvise on musical instruments.\nYou drink wine by the bowlful\nand use the finest lotions,\nbut you do not grieve over the ruin of Joseph.\nTherefore you will be among the first to go into exile;\nyour feasting and lounging will end.\nLORD\nThe Sovereign LORD has sworn by himself—the LORD God Almighty declares:\n“I abhor the pride of Jacob\nand detest his fortresses;\nI will deliver up the city\nand everything in it.”\nIf ten people are left in one house, they too will die. And if the relative who comes to carry the bodies out of the house to burn them asks anyone who might be hiding there, “Is anyone else with you?” and he says, “No,” then he will go on to say, “Hush! We must not mention the name of the LORD.”\nFor the LORD has given the command,\nand he will smash the great house into pieces\nand the small house into bits.\n\nDo horses run on the rocky crags?\nDoes one plow the sea with oxen?\nBut you have turned justice into poison\nand the fruit of righteousness into bitterness—\nyou who rejoice in the conquest of Lo Debar\nand say, “Did we not take Karnaim by our own strength?”\n\nFor the LORD God Almighty declares,\n“I will stir up a nation against you, Israel,\nthat will oppress you all the way\nfrom Lebo Hamath to the valley of the Arabah.”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch6\" data-usfm=\"AMO.6\">\n         <div class=\"label\">6</div><div class=\"s1\"><span class=\"heading\">Woe to the Complacent</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.6.1\"><span class=\"label\">1</span><span class=\"content\">Woe to you who are complacent in Zion,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.6.1\"><span class=\"content\">and to you who feel secure on Mount Samaria,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.6.1\"><span class=\"content\">you notable men of the foremost nation,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.6.1\"><span class=\"content\">to whom the people of Israel come!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.6.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.6.2\"><span class=\"label\">2</span><span class=\"content\">Go to Kalneh and look at it;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.6.2\"><span class=\"content\">go from there to great Hamath,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.6.2\"><span class=\"content\">and then go down to Gath in Philistia.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.6.2\"><span class=\"content\">Are they better off than your two kingdoms?</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.6.2\"><span class=\"content\">Is their land larger than yours?</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.6.3\"><span class=\"label\">3</span><span class=\"content\">You put off the day of disaster</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.6.3\"><span class=\"content\">and bring near a reign of terror.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.6.4\"><span class=\"label\">4</span><span class=\"content\">You lie on beds adorned with ivory</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.6.4\"><span class=\"content\">and lounge on your couches.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.6.4\"><span class=\"content\">You dine on choice lambs</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.6.4\"><span class=\"content\">and fattened calves.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.6.5\"><span class=\"label\">5</span><span class=\"content\">You strum away on your harps like David</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.6.5\"><span class=\"content\">and improvise on musical instruments.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.6.6\"><span class=\"label\">6</span><span class=\"content\">You drink wine by the bowlful</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.6.6\"><span class=\"content\">and use the finest lotions,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.6.6\"><span class=\"content\">but you do not grieve over the ruin of Joseph.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.6.7\"><span class=\"label\">7</span><span class=\"content\">Therefore you will be among the first to go into exile;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.6.7\"><span class=\"content\">your feasting and lounging will end.</span></span></div><div class=\"s1\"><span class=\"heading\">The </span><span class=\"nd\"><span class=\"heading\">Lord</span></span><span class=\"heading\"> Abhors the Pride of Israel</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"AMO.6.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.6.8\"><span class=\"label\">8</span><span class=\"content\">The Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has sworn by himself&#8212;the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty declares:</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.6.8\"><span class=\"content\">&#8220;I abhor the pride of Jacob</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.6.8\"><span class=\"content\">and detest his fortresses;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.6.8\"><span class=\"content\">I will deliver up the city</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.6.8\"><span class=\"content\">and everything in it.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"AMO.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.6.9\"><span class=\"label\">9</span><span class=\"content\">If ten people are left in one house, they too will die. </span></span><span class=\"verse v10\" data-usfm=\"AMO.6.10\"><span class=\"label\">10</span><span class=\"content\">And if the relative who comes to carry the bodies out of the house to burn them</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:10 </span><span class=\"ft\">Or </span><span class=\"fqa\">to make a funeral fire in honor of the dead</span></span></span><span class=\"content\"> asks anyone who might be hiding there, &#8220;Is anyone else with you?&#8221; and he says, &#8220;No,&#8221; then he will go on to say, &#8220;Hush! We must not mention the name of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.6.11\"><span class=\"label\">11</span><span class=\"content\">For the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has given the command,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.6.11\"><span class=\"content\">and he will smash the great house into pieces</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.6.11\"><span class=\"content\">and the small house into bits.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.6.12\"><span class=\"label\">12</span><span class=\"content\">Do horses run on the rocky crags?</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.6.12\"><span class=\"content\">Does one plow the sea</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:12 </span><span class=\"ft\">With a different word division of the Hebrew; Masoretic Text </span><span class=\"fqa\">plow there</span></span></span><span class=\"content\"> with oxen?</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.6.12\"><span class=\"content\">But you have turned justice into poison</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.6.12\"><span class=\"content\">and the fruit of righteousness into bitterness&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.6.13\"><span class=\"label\">13</span><span class=\"content\">you who rejoice in the conquest of Lo Debar</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:13 </span><span class=\"fq\">Lo Debar </span><span class=\"ft\">means </span><span class=\"fqa\">nothing.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.6.13\"><span class=\"content\">and say, &#8220;Did we not take Karnaim</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:13 </span><span class=\"fq\">Karnaim </span><span class=\"ft\">means </span><span class=\"fqa\">horns</span><span class=\"ft\">; </span><span class=\"fqa\">horn </span><span class=\"ft\">here symbolizes strength.</span></span></span><span class=\"content\"> by our own strength?&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.6.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.6.14\"><span class=\"label\">14</span><span class=\"content\">For the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God Almighty declares,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.6.14\"><span class=\"content\">&#8220;I will stir up a nation against you, Israel,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.6.14\"><span class=\"content\">that will oppress you all the way</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.6.14\"><span class=\"content\">from Lebo Hamath to the valley of the Arabah.&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Woe to the Complacent"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Woe to you who are complacent in Zion,",
+            "and to you who feel secure on Mount Samaria,",
+            "you notable men of the foremost nation,",
+            "to whom the people of Israel come!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Go to Kalneh and look at it;",
+            "go from there to great Hamath,",
+            "and then go down to Gath in Philistia.",
+            "Are they better off than your two kingdoms?",
+            "Is their land larger than yours?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "You put off the day of disaster",
+            "and bring near a reign of terror."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "You lie on beds adorned with ivory",
+            "and lounge on your couches.",
+            "You dine on choice lambs",
+            "and fattened calves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "You strum away on your harps like David",
+            "and improvise on musical instruments."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "You drink wine by the bowlful",
+            "and use the finest lotions,",
+            "but you do not grieve over the ruin of Joseph."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Therefore you will be among the first to go into exile;",
+            "your feasting and lounging will end."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Lord Abhors the Pride of Israel"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The Sovereign Lord has sworn by himself—the Lord God Almighty declares:",
+            "“I abhor the pride of Jacob",
+            "and detest his fortresses;",
+            "I will deliver up the city",
+            "and everything in it.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "If ten people are left in one house, they too will die."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And if the relative who comes to carry the bodies out of the house to burn them asks anyone who might be hiding there, “Is anyone else with you?” and he says, “No,” then he will go on to say, “Hush! We must not mention the name of the Lord.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For the Lord has given the command,",
+            "and he will smash the great house into pieces",
+            "and the small house into bits."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Do horses run on the rocky crags?",
+            "Does one plow the sea with oxen?",
+            "But you have turned justice into poison",
+            "and the fruit of righteousness into bitterness—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "you who rejoice in the conquest of Lo Debar",
+            "and say, “Did we not take Karnaim by our own strength?”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For the Lord God Almighty declares,",
+            "“I will stir up a nation against you, Israel,",
+            "that will oppress you all the way",
+            "from Lebo Hamath to the valley of the Arabah.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amos 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amos 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.6"
+        ],
+        "human": "Amos 6",
+        "toc": true
+      },
+      "chapter_text": "This is what the Sovereign LORD showed me: He was preparing swarms of locusts after the king’s share had been harvested and just as the late crops were coming up. When they had stripped the land clean, I cried out, “Sovereign LORD, forgive! How can Jacob survive? He is so small!”\nSo the LORD relented.\n“This will not happen,” the LORD said.\nThis is what the Sovereign LORD showed me: The Sovereign LORD was calling for judgment by fire; it dried up the great deep and devoured the land. Then I cried out, “Sovereign LORD, I beg you, stop! How can Jacob survive? He is so small!”\nSo the LORD relented.\n“This will not happen either,” the Sovereign LORD said.\n\nThis is what he showed me: The Lord was standing by a wall that had been built true to plumb, with a plumb line in his hand. And the LORD asked me, “What do you see, Amos?”\n“A plumb line,” I replied.\nThen the Lord said, “Look, I am setting a plumb line among my people Israel; I will spare them no longer.\n“The high places of Isaac will be destroyed\nand the sanctuaries of Israel will be ruined;\nwith my sword I will rise against the house of Jeroboam.”\n\nThen Amaziah the priest of Bethel sent a message to Jeroboam king of Israel: “Amos is raising a conspiracy against you in the very heart of Israel. The land cannot bear all his words. For this is what Amos is saying:\n“ ‘Jeroboam will die by the sword,\nand Israel will surely go into exile,\naway from their native land.’ ”\nThen Amaziah said to Amos, “Get out, you seer! Go back to the land of Judah. Earn your bread there and do your prophesying there. Don’t prophesy anymore at Bethel, because this is the king’s sanctuary and the temple of the kingdom.”\nAmos answered Amaziah, “I was neither a prophet nor the son of a prophet, but I was a shepherd, and I also took care of sycamore-fig trees. But the LORD took me from tending the flock and said to me, ‘Go, prophesy to my people Israel.’ Now then, hear the word of the LORD. You say,\n“ ‘Do not prophesy against Israel,\nand stop preaching against the descendants of Isaac.’\n“Therefore this is what the LORD says:\n“ ‘Your wife will become a prostitute in the city,\nand your sons and daughters will fall by the sword.\nYour land will be measured and divided up,\nand you yourself will die in a pagan country.\nAnd Israel will surely go into exile,\naway from their native land.’ ”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch7\" data-usfm=\"AMO.7\">\n         <div class=\"label\">7</div><div class=\"s1\"><span class=\"heading\">Locusts, Fire and a Plumb Line</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.7.1\"><span class=\"label\">1</span><span class=\"content\">This is what the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> showed me: He was preparing swarms of locusts after the king&#8217;s share had been harvested and just as the late crops were coming up. </span></span><span class=\"verse v2\" data-usfm=\"AMO.7.2\"><span class=\"label\">2</span><span class=\"content\">When they had stripped the land clean, I cried out, &#8220;Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, forgive! How can Jacob survive? He is so small!&#8221;</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"AMO.7.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.7.3\"><span class=\"label\">3</span><span class=\"content\">So the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> relented.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"AMO.7.3\"><span class=\"content\">&#8220;This will not happen,&#8221; the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> said.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"AMO.7.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.7.4\"><span class=\"label\">4</span><span class=\"content\">This is what the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> showed me: The Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> was calling for judgment by fire; it dried up the great deep and devoured the land. </span></span><span class=\"verse v5\" data-usfm=\"AMO.7.5\"><span class=\"label\">5</span><span class=\"content\">Then I cried out, &#8220;Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, I beg you, stop! How can Jacob survive? He is so small!&#8221;</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"AMO.7.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.7.6\"><span class=\"label\">6</span><span class=\"content\">So the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> relented.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"AMO.7.6\"><span class=\"content\">&#8220;This will not happen either,&#8221; the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> said.</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"AMO.7.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.7.7\"><span class=\"label\">7</span><span class=\"content\">This is what he showed me: The Lord was standing by a wall that had been built true to plumb,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">7:7 </span><span class=\"ft\">The meaning of the Hebrew for this phrase is uncertain.</span></span></span><span class=\"content\"> with a plumb line</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">7:7 </span><span class=\"ft\">The meaning of the Hebrew for this phrase is uncertain; also in verse 8.</span></span></span><span class=\"content\"> in his hand. </span></span><span class=\"verse v8\" data-usfm=\"AMO.7.8\"><span class=\"label\">8</span><span class=\"content\">And the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> asked me, &#8220;What do you see, Amos?&#8221;</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"AMO.7.8\"><span class=\"content\">&#8220;A plumb line,&#8221; I replied.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"AMO.7.8\"><span class=\"content\">Then the Lord said, &#8220;Look, I am setting a plumb line among my people Israel; I will spare them no longer.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.7.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.7.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;The high places of Isaac will be destroyed</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.7.9\"><span class=\"content\">and the sanctuaries of Israel will be ruined;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.7.9\"><span class=\"content\">with my sword I will rise against the house of Jeroboam.&#8221;</span></span></div><div class=\"s1\"><span class=\"heading\">Amos and Amaziah</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"AMO.7.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.7.10\"><span class=\"label\">10</span><span class=\"content\">Then Amaziah the priest of Bethel sent a message to Jeroboam king of Israel: &#8220;Amos is raising a conspiracy against you in the very heart of Israel. The land cannot bear all his words. </span></span><span class=\"verse v11\" data-usfm=\"AMO.7.11\"><span class=\"label\">11</span><span class=\"content\">For this is what Amos is saying:</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.7.11\"><span class=\"content\">&#8220;&#8198;&#8216;Jeroboam will die by the sword,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.7.11\"><span class=\"content\">and Israel will surely go into exile,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.7.11\"><span class=\"content\">away from their native land.&#8217;&#8198;&#8221;</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"AMO.7.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.7.12\"><span class=\"label\">12</span><span class=\"content\">Then Amaziah said to Amos, &#8220;Get out, you seer! Go back to the land of Judah. Earn your bread there and do your prophesying there. </span></span><span class=\"verse v13\" data-usfm=\"AMO.7.13\"><span class=\"label\">13</span><span class=\"content\">Don&#8217;t prophesy anymore at Bethel, because this is the king&#8217;s sanctuary and the temple of the kingdom.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"AMO.7.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.7.14\"><span class=\"label\">14</span><span class=\"content\">Amos answered Amaziah, &#8220;I was neither a prophet nor the son of a prophet, but I was a shepherd, and I also took care of sycamore-fig trees. </span></span><span class=\"verse v15\" data-usfm=\"AMO.7.15\"><span class=\"label\">15</span><span class=\"content\">But the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> took me from tending the flock and said to me, &#8216;Go, prophesy to my people Israel.&#8217; </span></span><span class=\"verse v16\" data-usfm=\"AMO.7.16\"><span class=\"label\">16</span><span class=\"content\">Now then, hear the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">. You say,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"AMO.7.16\"><span class=\"content\">&#8220;&#8198;&#8216;Do not prophesy against Israel,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"AMO.7.16\"><span class=\"content\">and stop preaching against the descendants of Isaac.&#8217;</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"AMO.7.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"label\">17</span><span class=\"content\">&#8220;Therefore this is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"content\">&#8220;&#8198;&#8216;Your wife will become a prostitute in the city,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"content\">and your sons and daughters will fall by the sword.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"content\">Your land will be measured and divided up,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"content\">and you yourself will die in a pagan</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">7:17 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">an unclean</span></span></span><span class=\"content\"> country.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"content\">And Israel will surely go into exile,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"AMO.7.17\"><span class=\"content\">away from their native land.&#8217;&#8198;&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Locusts, Fire and a Plumb Line"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "This is what the Sovereign Lord showed me: He was preparing swarms of locusts after the king’s share had been harvested and just as the late crops were coming up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "When they had stripped the land clean, I cried out, “Sovereign Lord, forgive! How can Jacob survive? He is so small!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "So the Lord relented.",
+            "“This will not happen,” the Lord said."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "This is what the Sovereign Lord showed me: The Sovereign Lord was calling for judgment by fire; it dried up the great deep and devoured the land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Then I cried out, “Sovereign Lord, I beg you, stop! How can Jacob survive? He is so small!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "So the Lord relented.",
+            "“This will not happen either,” the Sovereign Lord said."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "This is what he showed me: The Lord was standing by a wall that had been built true to plumb, with a plumb line in his hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "And the Lord asked me, “What do you see, Amos?”",
+            "“A plumb line,” I replied.",
+            "Then the Lord said, “Look, I am setting a plumb line among my people Israel; I will spare them no longer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“The high places of Isaac will be destroyed",
+            "and the sanctuaries of Israel will be ruined;",
+            "with my sword I will rise against the house of Jeroboam.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Amos and Amaziah"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Then Amaziah the priest of Bethel sent a message to Jeroboam king of Israel: “Amos is raising a conspiracy against you in the very heart of Israel. The land cannot bear all his words."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For this is what Amos is saying:",
+            "“ ‘Jeroboam will die by the sword,",
+            "and Israel will surely go into exile,",
+            "away from their native land.’ ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Then Amaziah said to Amos, “Get out, you seer! Go back to the land of Judah. Earn your bread there and do your prophesying there."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Don’t prophesy anymore at Bethel, because this is the king’s sanctuary and the temple of the kingdom.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Amos answered Amaziah, “I was neither a prophet nor the son of a prophet, but I was a shepherd, and I also took care of sycamore-fig trees."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "But the Lord took me from tending the flock and said to me, ‘Go, prophesy to my people Israel.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Now then, hear the word of the Lord. You say,",
+            "“ ‘Do not prophesy against Israel,",
+            "and stop preaching against the descendants of Isaac.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "“Therefore this is what the Lord says:",
+            "“ ‘Your wife will become a prostitute in the city,",
+            "and your sons and daughters will fall by the sword.",
+            "Your land will be measured and divided up,",
+            "and you yourself will die in a pagan country.",
+            "And Israel will surely go into exile,",
+            "away from their native land.’ ”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amos 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amos 9",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.7"
+        ],
+        "human": "Amos 7",
+        "toc": true
+      },
+      "chapter_text": "This is what the Sovereign LORD showed me: a basket of ripe fruit. “What do you see, Amos?” he asked.\n“A basket of ripe fruit,” I answered.\nThen the LORD said to me, “The time is ripe for my people Israel; I will spare them no longer.\n“In that day,” declares the Sovereign LORD, “the songs in the temple will turn to wailing. Many, many bodies—flung everywhere! Silence!”\nHear this, you who trample the needy\nand do away with the poor of the land,\nsaying,\n“When will the New Moon be over\nthat we may sell grain,\nand the Sabbath be ended\nthat we may market wheat?”—\nskimping on the measure,\nboosting the price\nand cheating with dishonest scales,\nbuying the poor with silver\nand the needy for a pair of sandals,\nselling even the sweepings with the wheat.\nThe LORD has sworn by himself, the Pride of Jacob: “I will never forget anything they have done.\n“Will not the land tremble for this,\nand all who live in it mourn?\nThe whole land will rise like the Nile;\nit will be stirred up and then sink\nlike the river of Egypt.\n“In that day,” declares the Sovereign LORD,\n“I will make the sun go down at noon\nand darken the earth in broad daylight.\nI will turn your religious festivals into mourning\nand all your singing into weeping.\nI will make all of you wear sackcloth\nand shave your heads.\nI will make that time like mourning for an only son\nand the end of it like a bitter day.\n\n“The days are coming,” declares the Sovereign LORD,\n“when I will send a famine through the land—\nnot a famine of food or a thirst for water,\nbut a famine of hearing the words of the LORD.\nPeople will stagger from sea to sea\nand wander from north to east,\nsearching for the word of the LORD,\nbut they will not find it.\n“In that day\n“the lovely young women and strong young men\nwill faint because of thirst.\nThose who swear by the sin of Samaria—\nwho say, ‘As surely as your god lives, Dan,’\nor, ‘As surely as the god of Beersheba lives’—\nthey will fall, never to rise again.”",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n    <div class=\"book bkAMO\">\n        <div class=\"chapter ch8\" data-usfm=\"AMO.8\">\n            <div class=\"label\">8</div><div class=\"s1\"><span class=\"heading\">A Basket of Ripe Fruit</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.8.1\"><span class=\"label\">1</span><span class=\"content\">This is what the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> showed me: a basket of ripe fruit. </span></span><span class=\"verse v2\" data-usfm=\"AMO.8.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;What do you see, Amos?&#8221; he asked.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"AMO.8.2\"><span class=\"content\">&#8220;A basket of ripe fruit,&#8221; I answered.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"AMO.8.2\"><span class=\"content\">Then the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> said to me, &#8220;The time is ripe for my people Israel; I will spare them no longer.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"AMO.8.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.8.3\"><span class=\"label\">3</span><span class=\"content\">&#8220;In that day,&#8221; declares the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, &#8220;the songs in the temple will turn to wailing.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">8:3 </span><span class=\"ft\">Or </span><span class=\"fqa\">&#8220;the temple singers will wail</span></span></span><span class=\"content\"> Many, many bodies&#8212;flung everywhere! Silence!&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.8.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.8.4\"><span class=\"label\">4</span><span class=\"content\">Hear this, you who trample the needy</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.8.4\"><span class=\"content\">and do away with the poor of the land,</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"AMO.8.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"label\">5</span><span class=\"content\">saying,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">&#8220;When will the New Moon be over</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">that we may sell grain,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">and the Sabbath be ended</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">that we may market wheat?&#8221;&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">skimping on the measure,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">boosting the price</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">and cheating with dishonest scales,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.8.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.8.6\"><span class=\"label\">6</span><span class=\"content\">buying the poor with silver</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.8.6\"><span class=\"content\">and the needy for a pair of sandals,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.8.6\"><span class=\"content\">selling even the sweepings with the wheat.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"AMO.8.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.8.7\"><span class=\"label\">7</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has sworn by himself, the Pride of Jacob: &#8220;I will never forget anything they have done.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.8.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.8.8\"><span class=\"label\">8</span><span class=\"content\">&#8220;Will not the land tremble for this,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.8.8\"><span class=\"content\">and all who live in it mourn?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.8.8\"><span class=\"content\">The whole land will rise like the Nile;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.8.8\"><span class=\"content\">it will be stirred up and then sink</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.8.8\"><span class=\"content\">like the river of Egypt.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"AMO.8.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.8.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;In that day,&#8221; declares the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.8.9\"><span class=\"content\">&#8220;I will make the sun go down at noon</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.8.9\"><span class=\"content\">and darken the earth in broad daylight.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.8.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"label\">10</span><span class=\"content\">I will turn your religious festivals into mourning</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"content\">and all your singing into weeping.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"content\">I will make all of you wear sackcloth</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"content\">and shave your heads.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"content\">I will make that time like mourning for an only son</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"content\">and the end of it like a bitter day.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.8.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.8.11\"><span class=\"label\">11</span><span class=\"content\">&#8220;The days are coming,&#8221; declares the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.8.11\"><span class=\"content\">&#8220;when I will send a famine through the land&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.8.11\"><span class=\"content\">not a famine of food or a thirst for water,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.8.11\"><span class=\"content\">but a famine of hearing the words of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.8.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.8.12\"><span class=\"label\">12</span><span class=\"content\">People will stagger from sea to sea</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.8.12\"><span class=\"content\">and wander from north to east,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"AMO.8.12\"><span class=\"content\">searching for the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.8.12\"><span class=\"content\">but they will not find it.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"AMO.8.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.8.13\"><span class=\"label\">13</span><span class=\"content\">&#8220;In that day</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.8.13\"><span class=\"content\">&#8220;the lovely young women and strong young men</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.8.13\"><span class=\"content\">will faint because of thirst.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.8.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.8.14\"><span class=\"label\">14</span><span class=\"content\">Those who swear by the sin of Samaria&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.8.14\"><span class=\"content\">who say, &#8216;As surely as your god lives, Dan,&#8217;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.8.14\"><span class=\"content\">or, &#8216;As surely as the god</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">8:14 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">the way</span></span></span><span class=\"content\"> of Beersheba lives&#8217;&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.8.14\"><span class=\"content\">they will fall, never to rise again.&#8221;</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "A Basket of Ripe Fruit"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "This is what the Sovereign Lord showed me: a basket of ripe fruit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“What do you see, Amos?” he asked.",
+            "“A basket of ripe fruit,” I answered.",
+            "Then the Lord said to me, “The time is ripe for my people Israel; I will spare them no longer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "“In that day,” declares the Sovereign Lord, “the songs in the temple will turn to wailing. Many, many bodies—flung everywhere! Silence!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Hear this, you who trample the needy",
+            "and do away with the poor of the land,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "saying,",
+            "“When will the New Moon be over",
+            "that we may sell grain,",
+            "and the Sabbath be ended",
+            "that we may market wheat?”—",
+            "skimping on the measure,",
+            "boosting the price",
+            "and cheating with dishonest scales,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "buying the poor with silver",
+            "and the needy for a pair of sandals,",
+            "selling even the sweepings with the wheat."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "The Lord has sworn by himself, the Pride of Jacob: “I will never forget anything they have done."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "“Will not the land tremble for this,",
+            "and all who live in it mourn?",
+            "The whole land will rise like the Nile;",
+            "it will be stirred up and then sink",
+            "like the river of Egypt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“In that day,” declares the Sovereign Lord,",
+            "“I will make the sun go down at noon",
+            "and darken the earth in broad daylight."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I will turn your religious festivals into mourning",
+            "and all your singing into weeping.",
+            "I will make all of you wear sackcloth",
+            "and shave your heads.",
+            "I will make that time like mourning for an only son",
+            "and the end of it like a bitter day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "“The days are coming,” declares the Sovereign Lord,",
+            "“when I will send a famine through the land—",
+            "not a famine of food or a thirst for water,",
+            "but a famine of hearing the words of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "People will stagger from sea to sea",
+            "and wander from north to east,",
+            "searching for the word of the Lord,",
+            "but they will not find it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "“In that day",
+            "“the lovely young women and strong young men",
+            "will faint because of thirst."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Those who swear by the sin of Samaria—",
+            "who say, ‘As surely as your god lives, Dan,’",
+            "or, ‘As surely as the god of Beersheba lives’—",
+            "they will fall, never to rise again.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "AMO.9",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "AMO.9"
+        ],
+        "human": "Amos 9"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "OBA.INTRO1"
+        ],
+        "human": "Obadiah Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "AMO.8"
+        ],
+        "human": "Amos 8",
+        "toc": true
+      },
+      "chapter_text": "I saw the Lord standing by the altar, and he said:\n“Strike the tops of the pillars\nso that the thresholds shake.\nBring them down on the heads of all the people;\nthose who are left I will kill with the sword.\nNot one will get away,\nnone will escape.\nThough they dig down to the depths below,\nfrom there my hand will take them.\nThough they climb up to the heavens above,\nfrom there I will bring them down.\nThough they hide themselves on the top of Carmel,\nthere I will hunt them down and seize them.\nThough they hide from my eyes at the bottom of the sea,\nthere I will command the serpent to bite them.\nThough they are driven into exile by their enemies,\nthere I will command the sword to slay them.\n\n“I will keep my eye on them\nfor harm and not for good.”\n\nThe Lord, the LORD Almighty—\nhe touches the earth and it melts,\nand all who live in it mourn;\nthe whole land rises like the Nile,\nthen sinks like the river of Egypt;\nhe builds his lofty palace in the heavens\nand sets its foundation on the earth;\nhe calls for the waters of the sea\nand pours them out over the face of the land—\nthe LORD is his name.\n\n“Are not you Israelites\nthe same to me as the Cushites?”\ndeclares the LORD.\n“Did I not bring Israel up from Egypt,\nthe Philistines from Caphtor\nand the Arameans from Kir?\n\n“Surely the eyes of the Sovereign LORD\nare on the sinful kingdom.\nI will destroy it\nfrom the face of the earth.\nYet I will not totally destroy\nthe descendants of Jacob,”\ndeclares the LORD.\n“For I will give the command,\nand I will shake the people of Israel\namong all the nations\nas grain is shaken in a sieve,\nand not a pebble will reach the ground.\nAll the sinners among my people\nwill die by the sword,\nall those who say,\n‘Disaster will not overtake or meet us.’\n\n“In that day\n“I will restore David’s fallen shelter—\nI will repair its broken walls\nand restore its ruins—\nand will rebuild it as it used to be,\nso that they may possess the remnant of Edom\nand all the nations that bear my name,”\ndeclares the LORD, who will do these things.\n“The days are coming,” declares the LORD,\n“when the reaper will be overtaken by the plowman\nand the planter by the one treading grapes.\nNew wine will drip from the mountains\nand flow from all the hills,\nand I will bring my people Israel back from exile.\n\n“They will rebuild the ruined cities and live in them.\nThey will plant vineyards and drink their wine;\nthey will make gardens and eat their fruit.\nI will plant Israel in their own land,\nnever again to be uprooted\nfrom the land I have given them,”\n\nsays the LORD your God.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkAMO\">\n      <div class=\"chapter ch9\" data-usfm=\"AMO.9\">\n         <div class=\"label\">9</div><div class=\"s1\"><span class=\"heading\">Israel to Be Destroyed</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"label\">1</span><span class=\"content\">I saw the Lord standing by the altar, and he said:</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">&#8220;Strike the tops of the pillars</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">so that the thresholds shake.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">Bring them down on the heads of all the people;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">those who are left I will kill with the sword.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">Not one will get away,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">none will escape.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"AMO.9.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"AMO.9.2\"><span class=\"label\">2</span><span class=\"content\">Though they dig down to the depths below,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.9.2\"><span class=\"content\">from there my hand will take them.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.9.2\"><span class=\"content\">Though they climb up to the heavens above,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"AMO.9.2\"><span class=\"content\">from there I will bring them down.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"AMO.9.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"AMO.9.3\"><span class=\"label\">3</span><span class=\"content\">Though they hide themselves on the top of Carmel,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.9.3\"><span class=\"content\">there I will hunt them down and seize them.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.9.3\"><span class=\"content\">Though they hide from my eyes at the bottom of the sea,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"AMO.9.3\"><span class=\"content\">there I will command the serpent to bite them.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"AMO.9.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"AMO.9.4\"><span class=\"label\">4</span><span class=\"content\">Though they are driven into exile by their enemies,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.9.4\"><span class=\"content\">there I will command the sword to slay them.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.9.4\"><span class=\"content\">&#8220;I will keep my eye on them</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"AMO.9.4\"><span class=\"content\">for harm and not for good.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"AMO.9.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"AMO.9.5\"><span class=\"label\">5</span><span class=\"content\">The Lord, the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> Almighty&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.9.5\"><span class=\"content\">he touches the earth and it melts,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.9.5\"><span class=\"content\">and all who live in it mourn;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.9.5\"><span class=\"content\">the whole land rises like the Nile,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"AMO.9.5\"><span class=\"content\">then sinks like the river of Egypt;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"AMO.9.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"AMO.9.6\"><span class=\"label\">6</span><span class=\"content\">he builds his lofty palace</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">9:6 </span><span class=\"ft\">The meaning of the Hebrew for this phrase is uncertain.</span></span></span><span class=\"content\"> in the heavens</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.9.6\"><span class=\"content\">and sets its foundation</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">9:6 </span><span class=\"ft\">The meaning of the Hebrew for this word is uncertain.</span></span></span><span class=\"content\"> on the earth;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.9.6\"><span class=\"content\">he calls for the waters of the sea</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.9.6\"><span class=\"content\">and pours them out over the face of the land&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"AMO.9.6\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is his name.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"AMO.9.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"label\">7</span><span class=\"content\">&#8220;Are not you Israelites</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"content\">the same to me as the Cushites</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">9:7 </span><span class=\"ft\">That is, people from the upper Nile region</span></span></span><span class=\"content\">?&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"content\">&#8220;Did I not bring Israel up from Egypt,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"content\">the Philistines from Caphtor</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">9:7 </span><span class=\"ft\">That is, Crete</span></span></span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"content\">and the Arameans from Kir?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"AMO.9.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"label\">8</span><span class=\"content\">&#8220;Surely the eyes of the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">are on the sinful kingdom.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">I will destroy it</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">from the face of the earth.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">Yet I will not totally destroy</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">the descendants of Jacob,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"AMO.9.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"AMO.9.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;For I will give the command,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.9.9\"><span class=\"content\">and I will shake the people of Israel</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.9.9\"><span class=\"content\">among all the nations</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.9.9\"><span class=\"content\">as grain is shaken in a sieve,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"AMO.9.9\"><span class=\"content\">and not a pebble will reach the ground.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"AMO.9.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"AMO.9.10\"><span class=\"label\">10</span><span class=\"content\">All the sinners among my people</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.9.10\"><span class=\"content\">will die by the sword,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"AMO.9.10\"><span class=\"content\">all those who say,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"AMO.9.10\"><span class=\"content\">&#8216;Disaster will not overtake or meet us.&#8217;</span></span></div><div class=\"s1\"><span class=\"heading\">Israel&#8217;s Restoration</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"AMO.9.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"AMO.9.11\"><span class=\"label\">11</span><span class=\"content\">&#8220;In that day</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.9.11\"><span class=\"content\">&#8220;I will restore David&#8217;s fallen shelter&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.9.11\"><span class=\"content\">I will repair its broken walls</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.9.11\"><span class=\"content\">and restore its ruins&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"AMO.9.11\"><span class=\"content\">and will rebuild it as it used to be,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"AMO.9.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"AMO.9.12\"><span class=\"label\">12</span><span class=\"content\">so that they may possess the remnant of Edom</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"AMO.9.12\"><span class=\"content\">and all the nations that bear my name,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">9:12 </span><span class=\"ft\">Hebrew; Septuagint </span><span class=\"fqa\">so that the remnant of people / and all the nations that bear my name may seek me</span></span></span><span class=\"content\">&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v12\" data-usfm=\"AMO.9.12\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, who will do these things.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"AMO.9.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"AMO.9.13\"><span class=\"label\">13</span><span class=\"content\">&#8220;The days are coming,&#8221; declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.9.13\"><span class=\"content\">&#8220;when the reaper will be overtaken by the plowman</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.9.13\"><span class=\"content\">and the planter by the one treading grapes.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"AMO.9.13\"><span class=\"content\">New wine will drip from the mountains</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.9.13\"><span class=\"content\">and flow from all the hills,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"AMO.9.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"AMO.9.14\"><span class=\"label\">14</span><span class=\"content\">and I will bring my people Israel back from exile.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">9:14 </span><span class=\"ft\">Or </span><span class=\"fqa\">will restore the fortunes of my people Israel</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.9.14\"><span class=\"content\">&#8220;They will rebuild the ruined cities and live in them.</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.9.14\"><span class=\"content\">They will plant vineyards and drink their wine;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"AMO.9.14\"><span class=\"content\">they will make gardens and eat their fruit.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"AMO.9.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"AMO.9.15\"><span class=\"label\">15</span><span class=\"content\">I will plant Israel in their own land,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.9.15\"><span class=\"content\">never again to be uprooted</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"AMO.9.15\"><span class=\"content\">from the land I have given them,&#8221;</span></span></div><div class=\"b\"></div><div class=\"q4\"><span class=\"verse v15\" data-usfm=\"AMO.9.15\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> your God.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Israel to Be Destroyed"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I saw the Lord standing by the altar, and he said:",
+            "“Strike the tops of the pillars",
+            "so that the thresholds shake.",
+            "Bring them down on the heads of all the people;",
+            "those who are left I will kill with the sword.",
+            "Not one will get away,",
+            "none will escape."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Though they dig down to the depths below,",
+            "from there my hand will take them.",
+            "Though they climb up to the heavens above,",
+            "from there I will bring them down."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Though they hide themselves on the top of Carmel,",
+            "there I will hunt them down and seize them.",
+            "Though they hide from my eyes at the bottom of the sea,",
+            "there I will command the serpent to bite them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Though they are driven into exile by their enemies,",
+            "there I will command the sword to slay them.",
+            "“I will keep my eye on them",
+            "for harm and not for good.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The Lord, the Lord Almighty—",
+            "he touches the earth and it melts,",
+            "and all who live in it mourn;",
+            "the whole land rises like the Nile,",
+            "then sinks like the river of Egypt;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "he builds his lofty palace in the heavens",
+            "and sets its foundation on the earth;",
+            "he calls for the waters of the sea",
+            "and pours them out over the face of the land—",
+            "the Lord is his name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "“Are not you Israelites",
+            "the same to me as the Cushites?”",
+            "declares the Lord.",
+            "“Did I not bring Israel up from Egypt,",
+            "the Philistines from Caphtor",
+            "and the Arameans from Kir?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "“Surely the eyes of the Sovereign Lord",
+            "are on the sinful kingdom.",
+            "I will destroy it",
+            "from the face of the earth.",
+            "Yet I will not totally destroy",
+            "the descendants of Jacob,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“For I will give the command,",
+            "and I will shake the people of Israel",
+            "among all the nations",
+            "as grain is shaken in a sieve,",
+            "and not a pebble will reach the ground."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "All the sinners among my people",
+            "will die by the sword,",
+            "all those who say,",
+            "‘Disaster will not overtake or meet us.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Israel’s Restoration"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "“In that day",
+            "“I will restore David’s fallen shelter—",
+            "I will repair its broken walls",
+            "and restore its ruins—",
+            "and will rebuild it as it used to be,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "so that they may possess the remnant of Edom",
+            "and all the nations that bear my name,”",
+            "declares the Lord, who will do these things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "“The days are coming,” declares the Lord,",
+            "“when the reaper will be overtaken by the plowman",
+            "and the planter by the one treading grapes.",
+            "New wine will drip from the mountains",
+            "and flow from all the hills,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "and I will bring my people Israel back from exile.",
+            "“They will rebuild the ruined cities and live in them.",
+            "They will plant vineyards and drink their wine;",
+            "they will make gardens and eat their fruit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "I will plant Israel in their own land,",
+            "never again to be uprooted",
+            "from the land I have given them,”",
+            "says the Lord your God."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

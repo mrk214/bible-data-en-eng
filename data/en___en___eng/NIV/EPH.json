@@ -1,0 +1,1568 @@
+{
+  "book_usfm": "EPH",
+  "name": "Ephesians",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "EPH.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "EPH.INTRO1"
+        ],
+        "human": "Ephesians Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Ephesians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "GAL.6"
+        ],
+        "human": "Galatians 6",
+        "toc": true
+      },
+      "chapter_text": "Intro\nTraditionally named Ephesians, this letter may not actually have been written to the believers in Ephesus. Some of the best early copies of the letter don’t include the phrase in Ephesus in the greeting. While Paul spent two years in Ephesus, this letter appears to address people Paul has never met.\nPaul here presents a two-fold pattern, first explaining the new identity believers have in Christ and then bringing out the implications for their new way of life. God has brought everything together under the rule of the Messiah, exalting Jesus above all things. Paul echoes a phrase from Psalm 8— God placed all things under his feet —to show that Jesus is the truly human one. Jesus fulfills the original human calling to rule over the creation properly. Jews and Gentiles have been brought together into one body, with Jesus at the head. God is now creating one new humanity from all over the world through the reconciling work of the Messiah.\nThis means Jesus-followers must give up their former way of life and practice purity in daily living and integrity in their relationships. The reciprocal responsibilities of those in and under authority are used as key examples of the new kinds of relationships God is expecting. Paul cautions his readers that they are entering a spiritual battle. They must arm themselves with all the resources God has provided, until the Messiah brings unity to all things in heaven and on earth.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"EPH.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">Traditionally named Ephesians, this letter may not actually have been written to the believers in Ephesus. Some of the best early copies of the letter don&#8217;t include the phrase </span><span class=\"qt\"><span class=\"content\">in Ephesus</span></span><span class=\"content\"> in the greeting. While Paul spent two years in Ephesus, this letter appears to address people Paul has never met.</span></div><div class=\"ip\"><span class=\"content\">Paul here presents a two-fold pattern, first explaining the new identity believers have in Christ and then bringing out the implications for their new way of life. God has brought everything together under the rule of the Messiah, exalting Jesus above all things. Paul echoes a phrase from </span><span class=\"content\">Psalm 8</span><span class=\"content\">&#8212;</span><span class=\"qt\"><span class=\"content\">God placed all things under his feet</span></span><span class=\"content\">&#8212;to show that Jesus is the truly human one. Jesus fulfills the original human calling to rule over the creation properly. Jews and Gentiles have been brought together into one body, with Jesus at the head. God is now creating </span><span class=\"qt\"><span class=\"content\">one new humanity</span></span><span class=\"content\"> from all over the world through the reconciling work of the Messiah.</span></div><div class=\"ip\"><span class=\"content\">This means Jesus-followers must give up their former way of life and practice purity in daily living and integrity in their relationships. The reciprocal responsibilities of those in and under authority are used as key examples of the new kinds of relationships God is expecting. Paul cautions his readers that they are entering a spiritual battle. They must arm themselves with all the resources God has provided, until the Messiah brings </span><span class=\"qt\"><span class=\"content\">unity to all things in heaven and on earth.</span></span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "EPH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Ephesians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Ephesians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "EPH.INTRO1"
+        ],
+        "human": "Ephesians Intro",
+        "toc": true
+      },
+      "chapter_text": "Paul, an apostle of Christ Jesus by the will of God,\n\nTo God’s holy people in Ephesus, the faithful in Christ Jesus:\n\nGrace and peace to you from God our Father and the Lord Jesus Christ.\n\nPraise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ. For he chose us in him before the creation of the world to be holy and blameless in his sight. In love he predestined us for adoption to sonship through Jesus Christ, in accordance with his pleasure and will— to the praise of his glorious grace, which he has freely given us in the One he loves. In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace that he lavished on us. With all wisdom and understanding, he made known to us the mystery of his will according to his good pleasure, which he purposed in Christ, to be put into effect when the times reach their fulfillment—to bring unity to all things in heaven and on earth under Christ.\nIn him we were also chosen, having been predestined according to the plan of him who works out everything in conformity with the purpose of his will, in order that we, who were the first to put our hope in Christ, might be for the praise of his glory. And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession—to the praise of his glory.\n\nFor this reason, ever since I heard about your faith in the Lord Jesus and your love for all God’s people, I have not stopped giving thanks for you, remembering you in my prayers. I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and revelation, so that you may know him better. I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people, and his incomparably great power for us who believe. That power is the same as the mighty strength he exerted when he raised Christ from the dead and seated him at his right hand in the heavenly realms, far above all rule and authority, power and dominion, and every name that is invoked, not only in the present age but also in the one to come. And God placed all things under his feet and appointed him to be head over everything for the church, which is his body, the fullness of him who fills everything in every way.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch1\" data-usfm=\"EPH.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, an apostle of Christ Jesus by the will of God,</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"content\">To God&#8217;s holy people in Ephesus,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Some early manuscripts do not have </span><span class=\"fq\">in Ephesus</span><span class=\"ft\">.</span></span></span><span class=\"content\"> the faithful in Christ Jesus:</span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"EPH.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"EPH.1.2\"><span class=\"label\">2</span><span class=\"content\">Grace and peace to you from God our Father and the Lord Jesus Christ.</span></span></div><div class=\"s1\"><span class=\"heading\">Praise for Spiritual Blessings in Christ</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"EPH.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"EPH.1.3\"><span class=\"label\">3</span><span class=\"content\">Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ. </span></span><span class=\"verse v4\" data-usfm=\"EPH.1.4\"><span class=\"label\">4</span><span class=\"content\">For he chose us in him before the creation of the world to be holy and blameless in his sight. In love </span></span><span class=\"verse v5\" data-usfm=\"EPH.1.5\"><span class=\"label\">5</span><span class=\"content\">he</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4,5 </span><span class=\"ft\">Or </span><span class=\"fqa\">sight in love. </span><span class=\"fv\">5 </span><span class=\"fqa\">He</span></span></span><span class=\"content\"> predestined us for adoption to sonship</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">The Greek word for </span><span class=\"fq\">adoption to sonship </span><span class=\"ft\">is a legal term referring to the full legal standing of an adopted male heir in Roman culture.</span></span></span><span class=\"content\"> through Jesus Christ, in accordance with his pleasure and will&#8212; </span></span><span class=\"verse v6\" data-usfm=\"EPH.1.6\"><span class=\"label\">6</span><span class=\"content\">to the praise of his glorious grace, which he has freely given us in the One he loves. </span></span><span class=\"verse v7\" data-usfm=\"EPH.1.7\"><span class=\"label\">7</span><span class=\"content\">In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God&#8217;s grace </span></span><span class=\"verse v8\" data-usfm=\"EPH.1.8\"><span class=\"label\">8</span><span class=\"content\">that he lavished on us. With all wisdom and understanding, </span></span><span class=\"verse v9\" data-usfm=\"EPH.1.9\"><span class=\"label\">9</span><span class=\"content\">he</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8,9 </span><span class=\"ft\">Or </span><span class=\"fqa\">us with all wisdom and understanding. </span><span class=\"fv\">9 </span><span class=\"fqa\">And he</span></span></span><span class=\"content\"> made known to us the mystery of his will according to his good pleasure, which he purposed in Christ, </span></span><span class=\"verse v10\" data-usfm=\"EPH.1.10\"><span class=\"label\">10</span><span class=\"content\">to be put into effect when the times reach their fulfillment&#8212;to bring unity to all things in heaven and on earth under Christ.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"EPH.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"EPH.1.11\"><span class=\"label\">11</span><span class=\"content\">In him we were also chosen,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">were made heirs</span></span></span><span class=\"content\"> having been predestined according to the plan of him who works out everything in conformity with the purpose of his will, </span></span><span class=\"verse v12\" data-usfm=\"EPH.1.12\"><span class=\"label\">12</span><span class=\"content\">in order that we, who were the first to put our hope in Christ, might be for the praise of his glory. </span></span><span class=\"verse v13\" data-usfm=\"EPH.1.13\"><span class=\"label\">13</span><span class=\"content\">And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit, </span></span><span class=\"verse v14\" data-usfm=\"EPH.1.14\"><span class=\"label\">14</span><span class=\"content\">who is a deposit guaranteeing our inheritance until the redemption of those who are God&#8217;s possession&#8212;to the praise of his glory.</span></span></div><div class=\"s1\"><span class=\"heading\">Thanksgiving and Prayer</span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"EPH.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"EPH.1.15\"><span class=\"label\">15</span><span class=\"content\">For this reason, ever since I heard about your faith in the Lord Jesus and your love for all God&#8217;s people, </span></span><span class=\"verse v16\" data-usfm=\"EPH.1.16\"><span class=\"label\">16</span><span class=\"content\">I have not stopped giving thanks for you, remembering you in my prayers. </span></span><span class=\"verse v17\" data-usfm=\"EPH.1.17\"><span class=\"label\">17</span><span class=\"content\">I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Or </span><span class=\"fqa\">a spirit</span></span></span><span class=\"content\"> of wisdom and revelation, so that you may know him better. </span></span><span class=\"verse v18\" data-usfm=\"EPH.1.18\"><span class=\"label\">18</span><span class=\"content\">I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people, </span></span><span class=\"verse v19\" data-usfm=\"EPH.1.19\"><span class=\"label\">19</span><span class=\"content\">and his incomparably great power for us who believe. That power is the same as the mighty strength </span></span><span class=\"verse v20\" data-usfm=\"EPH.1.20\"><span class=\"label\">20</span><span class=\"content\">he exerted when he raised Christ from the dead and seated him at his right hand in the heavenly realms, </span></span><span class=\"verse v21\" data-usfm=\"EPH.1.21\"><span class=\"label\">21</span><span class=\"content\">far above all rule and authority, power and dominion, and every name that is invoked, not only in the present age but also in the one to come. </span></span><span class=\"verse v22\" data-usfm=\"EPH.1.22\"><span class=\"label\">22</span><span class=\"content\">And God placed all things under his feet and appointed him to be head over everything for the church, </span></span><span class=\"verse v23\" data-usfm=\"EPH.1.23\"><span class=\"label\">23</span><span class=\"content\">which is his body, the fullness of him who fills everything in every way.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, an apostle of Christ Jesus by the will of God,",
+            "To God’s holy people in Ephesus, the faithful in Christ Jesus:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Grace and peace to you from God our Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Praise for Spiritual Blessings in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For he chose us in him before the creation of the world to be holy and blameless in his sight. In love"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "he predestined us for adoption to sonship through Jesus Christ, in accordance with his pleasure and will—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "to the praise of his glorious grace, which he has freely given us in the One he loves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "that he lavished on us. With all wisdom and understanding,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "he made known to us the mystery of his will according to his good pleasure, which he purposed in Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "to be put into effect when the times reach their fulfillment—to bring unity to all things in heaven and on earth under Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "In him we were also chosen, having been predestined according to the plan of him who works out everything in conformity with the purpose of his will,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "in order that we, who were the first to put our hope in Christ, might be for the praise of his glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And you also were included in Christ when you heard the message of truth, the gospel of your salvation. When you believed, you were marked in him with a seal, the promised Holy Spirit,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "who is a deposit guaranteeing our inheritance until the redemption of those who are God’s possession—to the praise of his glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Thanksgiving and Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "For this reason, ever since I heard about your faith in the Lord Jesus and your love for all God’s people,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "I have not stopped giving thanks for you, remembering you in my prayers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "I keep asking that the God of our Lord Jesus Christ, the glorious Father, may give you the Spirit of wisdom and revelation, so that you may know him better."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you, the riches of his glorious inheritance in his holy people,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "and his incomparably great power for us who believe. That power is the same as the mighty strength"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "he exerted when he raised Christ from the dead and seated him at his right hand in the heavenly realms,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "far above all rule and authority, power and dominion, and every name that is invoked, not only in the present age but also in the one to come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "And God placed all things under his feet and appointed him to be head over everything for the church,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "which is his body, the fullness of him who fills everything in every way."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Ephesians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Ephesians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.1"
+        ],
+        "human": "Ephesians 1",
+        "toc": true
+      },
+      "chapter_text": "As for you, you were dead in your transgressions and sins, in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient. All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath. But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved. And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus. For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— not by works, so that no one can boast. For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.\n\nTherefore, remember that formerly you who are Gentiles by birth and called “uncircumcised” by those who call themselves “the circumcision” (which is done in the body by human hands)— remember that at that time you were separate from Christ, excluded from citizenship in Israel and foreigners to the covenants of the promise, without hope and without God in the world. But now in Christ Jesus you who once were far away have been brought near by the blood of Christ.\nFor he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility, by setting aside in his flesh the law with its commands and regulations. His purpose was to create in himself one new humanity out of the two, thus making peace, and in one body to reconcile both of them to God through the cross, by which he put to death their hostility. He came and preached peace to you who were far away and peace to those who were near. For through him we both have access to the Father by one Spirit.\nConsequently, you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household, built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone. In him the whole building is joined together and rises to become a holy temple in the Lord. And in him you too are being built together to become a dwelling in which God lives by his Spirit.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch2\" data-usfm=\"EPH.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Made Alive in Christ</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.2.1\"><span class=\"label\">1</span><span class=\"content\">As for you, you were dead in your transgressions and sins, </span></span><span class=\"verse v2\" data-usfm=\"EPH.2.2\"><span class=\"label\">2</span><span class=\"content\">in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient. </span></span><span class=\"verse v3\" data-usfm=\"EPH.2.3\"><span class=\"label\">3</span><span class=\"content\">All of us also lived among them at one time, gratifying the cravings of our flesh</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">In contexts like this, the Greek word for </span><span class=\"fq\">flesh </span><span class=\"ft\">(<span class=\"tl\">sarx</span>) refers to the sinful state of human beings, often presented as a power in opposition to the Spirit.</span></span></span><span class=\"content\"> and following its desires and thoughts. Like the rest, we were by nature deserving of wrath. </span></span><span class=\"verse v4\" data-usfm=\"EPH.2.4\"><span class=\"label\">4</span><span class=\"content\">But because of his great love for us, God, who is rich in mercy, </span></span><span class=\"verse v5\" data-usfm=\"EPH.2.5\"><span class=\"label\">5</span><span class=\"content\">made us alive with Christ even when we were dead in transgressions&#8212;it is by grace you have been saved. </span></span><span class=\"verse v6\" data-usfm=\"EPH.2.6\"><span class=\"label\">6</span><span class=\"content\">And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, </span></span><span class=\"verse v7\" data-usfm=\"EPH.2.7\"><span class=\"label\">7</span><span class=\"content\">in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus. </span></span><span class=\"verse v8\" data-usfm=\"EPH.2.8\"><span class=\"label\">8</span><span class=\"content\">For it is by grace you have been saved, through faith&#8212;and this is not from yourselves, it is the gift of God&#8212; </span></span><span class=\"verse v9\" data-usfm=\"EPH.2.9\"><span class=\"label\">9</span><span class=\"content\">not by works, so that no one can boast. </span></span><span class=\"verse v10\" data-usfm=\"EPH.2.10\"><span class=\"label\">10</span><span class=\"content\">For we are God&#8217;s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.</span></span></div><div class=\"s1\"><span class=\"heading\">Jew and Gentile Reconciled Through Christ</span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"EPH.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"EPH.2.11\"><span class=\"label\">11</span><span class=\"content\">Therefore, remember that formerly you who are Gentiles by birth and called &#8220;uncircumcised&#8221; by those who call themselves &#8220;the circumcision&#8221; (which is done in the body by human hands)&#8212; </span></span><span class=\"verse v12\" data-usfm=\"EPH.2.12\"><span class=\"label\">12</span><span class=\"content\">remember that at that time you were separate from Christ, excluded from citizenship in Israel and foreigners to the covenants of the promise, without hope and without God in the world. </span></span><span class=\"verse v13\" data-usfm=\"EPH.2.13\"><span class=\"label\">13</span><span class=\"content\">But now in Christ Jesus you who once were far away have been brought near by the blood of Christ.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.2.14\"><span class=\"label\">14</span><span class=\"content\">For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility, </span></span><span class=\"verse v15\" data-usfm=\"EPH.2.15\"><span class=\"label\">15</span><span class=\"content\">by setting aside in his flesh the law with its commands and regulations. His purpose was to create in himself one new humanity out of the two, thus making peace, </span></span><span class=\"verse v16\" data-usfm=\"EPH.2.16\"><span class=\"label\">16</span><span class=\"content\">and in one body to reconcile both of them to God through the cross, by which he put to death their hostility. </span></span><span class=\"verse v17\" data-usfm=\"EPH.2.17\"><span class=\"label\">17</span><span class=\"content\">He came and preached peace to you who were far away and peace to those who were near. </span></span><span class=\"verse v18\" data-usfm=\"EPH.2.18\"><span class=\"label\">18</span><span class=\"content\">For through him we both have access to the Father by one Spirit.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"EPH.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"EPH.2.19\"><span class=\"label\">19</span><span class=\"content\">Consequently, you are no longer foreigners and strangers, but fellow citizens with God&#8217;s people and also members of his household, </span></span><span class=\"verse v20\" data-usfm=\"EPH.2.20\"><span class=\"label\">20</span><span class=\"content\">built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone. </span></span><span class=\"verse v21\" data-usfm=\"EPH.2.21\"><span class=\"label\">21</span><span class=\"content\">In him the whole building is joined together and rises to become a holy temple in the Lord. </span></span><span class=\"verse v22\" data-usfm=\"EPH.2.22\"><span class=\"label\">22</span><span class=\"content\">And in him you too are being built together to become a dwelling in which God lives by his Spirit.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Made Alive in Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "As for you, you were dead in your transgressions and sins,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "in which you used to live when you followed the ways of this world and of the ruler of the kingdom of the air, the spirit who is now at work in those who are disobedient."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "All of us also lived among them at one time, gratifying the cravings of our flesh and following its desires and thoughts. Like the rest, we were by nature deserving of wrath."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But because of his great love for us, God, who is rich in mercy,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "not by works, so that no one can boast."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jew and Gentile Reconciled Through Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Therefore, remember that formerly you who are Gentiles by birth and called “uncircumcised” by those who call themselves “the circumcision” (which is done in the body by human hands)—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "remember that at that time you were separate from Christ, excluded from citizenship in Israel and foreigners to the covenants of the promise, without hope and without God in the world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But now in Christ Jesus you who once were far away have been brought near by the blood of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For he himself is our peace, who has made the two groups one and has destroyed the barrier, the dividing wall of hostility,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "by setting aside in his flesh the law with its commands and regulations. His purpose was to create in himself one new humanity out of the two, thus making peace,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "and in one body to reconcile both of them to God through the cross, by which he put to death their hostility."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "He came and preached peace to you who were far away and peace to those who were near."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For through him we both have access to the Father by one Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Consequently, you are no longer foreigners and strangers, but fellow citizens with God’s people and also members of his household,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "In him the whole building is joined together and rises to become a holy temple in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "And in him you too are being built together to become a dwelling in which God lives by his Spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Ephesians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Ephesians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.2"
+        ],
+        "human": "Ephesians 2",
+        "toc": true
+      },
+      "chapter_text": "For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—\nSurely you have heard about the administration of God’s grace that was given to me for you, that is, the mystery made known to me by revelation, as I have already written briefly. In reading this, then, you will be able to understand my insight into the mystery of Christ, which was not made known to people in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets. This mystery is that through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus.\nI became a servant of this gospel by the gift of God’s grace given me through the working of his power. Although I am less than the least of all the Lord’s people, this grace was given me: to preach to the Gentiles the boundless riches of Christ, and to make plain to everyone the administration of this mystery, which for ages past was kept hidden in God, who created all things. His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms, according to his eternal purpose that he accomplished in Christ Jesus our Lord. In him and through faith in him we may approach God with freedom and confidence. I ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory.\n\nFor this reason I kneel before the Father, from whom every family in heaven and on earth derives its name. I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being, so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love, may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ, and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God.\nNow to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch3\" data-usfm=\"EPH.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">God&#8217;s Marvelous Plan for the Gentiles</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.3.1\"><span class=\"label\">1</span><span class=\"content\">For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles&#8212;</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"EPH.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"EPH.3.2\"><span class=\"label\">2</span><span class=\"content\">Surely you have heard about the administration of God&#8217;s grace that was given to me for you, </span></span><span class=\"verse v3\" data-usfm=\"EPH.3.3\"><span class=\"label\">3</span><span class=\"content\">that is, the mystery made known to me by revelation, as I have already written briefly. </span></span><span class=\"verse v4\" data-usfm=\"EPH.3.4\"><span class=\"label\">4</span><span class=\"content\">In reading this, then, you will be able to understand my insight into the mystery of Christ, </span></span><span class=\"verse v5\" data-usfm=\"EPH.3.5\"><span class=\"label\">5</span><span class=\"content\">which was not made known to people in other generations as it has now been revealed by the Spirit to God&#8217;s holy apostles and prophets. </span></span><span class=\"verse v6\" data-usfm=\"EPH.3.6\"><span class=\"label\">6</span><span class=\"content\">This mystery is that through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"EPH.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"EPH.3.7\"><span class=\"label\">7</span><span class=\"content\">I became a servant of this gospel by the gift of God&#8217;s grace given me through the working of his power. </span></span><span class=\"verse v8\" data-usfm=\"EPH.3.8\"><span class=\"label\">8</span><span class=\"content\">Although I am less than the least of all the Lord&#8217;s people, this grace was given me: to preach to the Gentiles the boundless riches of Christ, </span></span><span class=\"verse v9\" data-usfm=\"EPH.3.9\"><span class=\"label\">9</span><span class=\"content\">and to make plain to everyone the administration of this mystery, which for ages past was kept hidden in God, who created all things. </span></span><span class=\"verse v10\" data-usfm=\"EPH.3.10\"><span class=\"label\">10</span><span class=\"content\">His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms, </span></span><span class=\"verse v11\" data-usfm=\"EPH.3.11\"><span class=\"label\">11</span><span class=\"content\">according to his eternal purpose that he accomplished in Christ Jesus our Lord. </span></span><span class=\"verse v12\" data-usfm=\"EPH.3.12\"><span class=\"label\">12</span><span class=\"content\">In him and through faith in him we may approach God with freedom and confidence. </span></span><span class=\"verse v13\" data-usfm=\"EPH.3.13\"><span class=\"label\">13</span><span class=\"content\">I ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory.</span></span></div><div class=\"s1\"><span class=\"heading\">A Prayer for the Ephesians</span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.3.14\"><span class=\"label\">14</span><span class=\"content\">For this reason I kneel before the Father, </span></span><span class=\"verse v15\" data-usfm=\"EPH.3.15\"><span class=\"label\">15</span><span class=\"content\">from whom every family</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"ft\">The Greek for </span><span class=\"fq\">family </span><span class=\"ft\">(patria) is derived from the Greek for father (<span class=\"tl\">pater</span>).</span></span></span><span class=\"content\"> in heaven and on earth derives its name. </span></span><span class=\"verse v16\" data-usfm=\"EPH.3.16\"><span class=\"label\">16</span><span class=\"content\">I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being, </span></span><span class=\"verse v17\" data-usfm=\"EPH.3.17\"><span class=\"label\">17</span><span class=\"content\">so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love, </span></span><span class=\"verse v18\" data-usfm=\"EPH.3.18\"><span class=\"label\">18</span><span class=\"content\">may have power, together with all the Lord&#8217;s holy people, to grasp how wide and long and high and deep is the love of Christ, </span></span><span class=\"verse v19\" data-usfm=\"EPH.3.19\"><span class=\"label\">19</span><span class=\"content\">and to know this love that surpasses knowledge&#8212;that you may be filled to the measure of all the fullness of God.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"EPH.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"EPH.3.20\"><span class=\"label\">20</span><span class=\"content\">Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us, </span></span><span class=\"verse v21\" data-usfm=\"EPH.3.21\"><span class=\"label\">21</span><span class=\"content\">to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "God’s Marvelous Plan for the Gentiles"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Surely you have heard about the administration of God’s grace that was given to me for you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "that is, the mystery made known to me by revelation, as I have already written briefly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "In reading this, then, you will be able to understand my insight into the mystery of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "which was not made known to people in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "This mystery is that through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I became a servant of this gospel by the gift of God’s grace given me through the working of his power."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Although I am less than the least of all the Lord’s people, this grace was given me: to preach to the Gentiles the boundless riches of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "and to make plain to everyone the administration of this mystery, which for ages past was kept hidden in God, who created all things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "according to his eternal purpose that he accomplished in Christ Jesus our Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "In him and through faith in him we may approach God with freedom and confidence."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "A Prayer for the Ephesians"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For this reason I kneel before the Father,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "from whom every family in heaven and on earth derives its name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Ephesians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Ephesians 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.3"
+        ],
+        "human": "Ephesians 3",
+        "toc": true
+      },
+      "chapter_text": "As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received. Be completely humble and gentle; be patient, bearing with one another in love. Make every effort to keep the unity of the Spirit through the bond of peace. There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all.\nBut to each one of us grace has been given as Christ apportioned it. This is why it says:\n“When he ascended on high,\nhe took many captives\nand gave gifts to his people.”\n(What does “he ascended” mean except that he also descended to the lower, earthly regions? He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.) So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, to equip his people for works of service, so that the body of Christ may be built up until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.\nThen we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ. From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.\n\nSo I tell you this, and insist on it in the Lord, that you must no longer live as the Gentiles do, in the futility of their thinking. They are darkened in their understanding and separated from the life of God because of the ignorance that is in them due to the hardening of their hearts. Having lost all sensitivity, they have given themselves over to sensuality so as to indulge in every kind of impurity, and they are full of greed.\nThat, however, is not the way of life you learned when you heard about Christ and were taught in him in accordance with the truth that is in Jesus. You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; to be made new in the attitude of your minds; and to put on the new self, created to be like God in true righteousness and holiness.\nTherefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body. “In your anger do not sin”: Do not let the sun go down while you are still angry, and do not give the devil a foothold. Anyone who has been stealing must steal no longer, but must work, doing something useful with their own hands, that they may have something to share with those in need.\nDo not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen. And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption. Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice. Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch4\" data-usfm=\"EPH.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Unity and Maturity in the Body of Christ</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.4.1\"><span class=\"label\">1</span><span class=\"content\">As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received. </span></span><span class=\"verse v2\" data-usfm=\"EPH.4.2\"><span class=\"label\">2</span><span class=\"content\">Be completely humble and gentle; be patient, bearing with one another in love. </span></span><span class=\"verse v3\" data-usfm=\"EPH.4.3\"><span class=\"label\">3</span><span class=\"content\">Make every effort to keep the unity of the Spirit through the bond of peace. </span></span><span class=\"verse v4\" data-usfm=\"EPH.4.4\"><span class=\"label\">4</span><span class=\"content\">There is one body and one Spirit, just as you were called to one hope when you were called; </span></span><span class=\"verse v5\" data-usfm=\"EPH.4.5\"><span class=\"label\">5</span><span class=\"content\">one Lord, one faith, one baptism; </span></span><span class=\"verse v6\" data-usfm=\"EPH.4.6\"><span class=\"label\">6</span><span class=\"content\">one God and Father of all, who is over all and through all and in all.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"EPH.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"EPH.4.7\"><span class=\"label\">7</span><span class=\"content\">But to each one of us grace has been given as Christ apportioned it. </span></span><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"label\">8</span><span class=\"content\">This is why it</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">God</span></span></span><span class=\"content\"> says:</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">&#8220;When he ascended on high,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">he took many captives</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">and gave gifts to his people.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:8 </span><span class=\"ft\">Psalm 68:18</span></span></span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"EPH.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"EPH.4.9\"><span class=\"label\">9</span><span class=\"content\">(What does &#8220;he ascended&#8221; mean except that he also descended to the lower, earthly regions</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">the depths of the earth</span></span></span><span class=\"content\">? </span></span><span class=\"verse v10\" data-usfm=\"EPH.4.10\"><span class=\"label\">10</span><span class=\"content\">He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.) </span></span><span class=\"verse v11\" data-usfm=\"EPH.4.11\"><span class=\"label\">11</span><span class=\"content\">So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, </span></span><span class=\"verse v12\" data-usfm=\"EPH.4.12\"><span class=\"label\">12</span><span class=\"content\">to equip his people for works of service, so that the body of Christ may be built up </span></span><span class=\"verse v13\" data-usfm=\"EPH.4.13\"><span class=\"label\">13</span><span class=\"content\">until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"EPH.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"EPH.4.14\"><span class=\"label\">14</span><span class=\"content\">Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. </span></span><span class=\"verse v15\" data-usfm=\"EPH.4.15\"><span class=\"label\">15</span><span class=\"content\">Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ. </span></span><span class=\"verse v16\" data-usfm=\"EPH.4.16\"><span class=\"label\">16</span><span class=\"content\">From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.</span></span></div><div class=\"s1\"><span class=\"heading\">Instructions for Christian Living</span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"EPH.4.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"EPH.4.17\"><span class=\"label\">17</span><span class=\"content\">So I tell you this, and insist on it in the Lord, that you must no longer live as the Gentiles do, in the futility of their thinking. </span></span><span class=\"verse v18\" data-usfm=\"EPH.4.18\"><span class=\"label\">18</span><span class=\"content\">They are darkened in their understanding and separated from the life of God because of the ignorance that is in them due to the hardening of their hearts. </span></span><span class=\"verse v19\" data-usfm=\"EPH.4.19\"><span class=\"label\">19</span><span class=\"content\">Having lost all sensitivity, they have given themselves over to sensuality so as to indulge in every kind of impurity, and they are full of greed.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"EPH.4.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"EPH.4.20\"><span class=\"label\">20</span><span class=\"content\">That, however, is not the way of life you learned </span></span><span class=\"verse v21\" data-usfm=\"EPH.4.21\"><span class=\"label\">21</span><span class=\"content\">when you heard about Christ and were taught in him in accordance with the truth that is in Jesus. </span></span><span class=\"verse v22\" data-usfm=\"EPH.4.22\"><span class=\"label\">22</span><span class=\"content\">You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires; </span></span><span class=\"verse v23\" data-usfm=\"EPH.4.23\"><span class=\"label\">23</span><span class=\"content\">to be made new in the attitude of your minds; </span></span><span class=\"verse v24\" data-usfm=\"EPH.4.24\"><span class=\"label\">24</span><span class=\"content\">and to put on the new self, created to be like God in true righteousness and holiness.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"EPH.4.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"EPH.4.25\"><span class=\"label\">25</span><span class=\"content\">Therefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body. </span></span><span class=\"verse v26\" data-usfm=\"EPH.4.26\"><span class=\"label\">26</span><span class=\"content\">&#8220;In your anger do not sin&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:26 </span><span class=\"ft\">Psalm 4:4 (see Septuagint)</span></span></span><span class=\"content\">: Do not let the sun go down while you are still angry, </span></span><span class=\"verse v27\" data-usfm=\"EPH.4.27\"><span class=\"label\">27</span><span class=\"content\">and do not give the devil a foothold. </span></span><span class=\"verse v28\" data-usfm=\"EPH.4.28\"><span class=\"label\">28</span><span class=\"content\">Anyone who has been stealing must steal no longer, but must work, doing something useful with their own hands, that they may have something to share with those in need.</span></span></div><div class=\"p\"><span class=\"verse v28\" data-usfm=\"EPH.4.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"EPH.4.29\"><span class=\"label\">29</span><span class=\"content\">Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen. </span></span><span class=\"verse v30\" data-usfm=\"EPH.4.30\"><span class=\"label\">30</span><span class=\"content\">And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption. </span></span><span class=\"verse v31\" data-usfm=\"EPH.4.31\"><span class=\"label\">31</span><span class=\"content\">Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice. </span></span><span class=\"verse v32\" data-usfm=\"EPH.4.32\"><span class=\"label\">32</span><span class=\"content\">Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Unity and Maturity in the Body of Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "As a prisoner for the Lord, then, I urge you to live a life worthy of the calling you have received."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Be completely humble and gentle; be patient, bearing with one another in love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Make every effort to keep the unity of the Spirit through the bond of peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "There is one body and one Spirit, just as you were called to one hope when you were called;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "one Lord, one faith, one baptism;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "one God and Father of all, who is over all and through all and in all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But to each one of us grace has been given as Christ apportioned it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "This is why it says:",
+            "“When he ascended on high,",
+            "he took many captives",
+            "and gave gifts to his people.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "(What does “he ascended” mean except that he also descended to the lower, earthly regions?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "He who descended is the very one who ascended higher than all the heavens, in order to fill the whole universe.)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "to equip his people for works of service, so that the body of Christ may be built up"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instructions for Christian Living"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "So I tell you this, and insist on it in the Lord, that you must no longer live as the Gentiles do, in the futility of their thinking."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "They are darkened in their understanding and separated from the life of God because of the ignorance that is in them due to the hardening of their hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Having lost all sensitivity, they have given themselves over to sensuality so as to indulge in every kind of impurity, and they are full of greed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "That, however, is not the way of life you learned"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "when you heard about Christ and were taught in him in accordance with the truth that is in Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "to be made new in the attitude of your minds;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "and to put on the new self, created to be like God in true righteousness and holiness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Therefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "“In your anger do not sin”: Do not let the sun go down while you are still angry,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "and do not give the devil a foothold."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Anyone who has been stealing must steal no longer, but must work, doing something useful with their own hands, that they may have something to share with those in need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "Get rid of all bitterness, rage and anger, brawling and slander, along with every form of malice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Ephesians 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Ephesians 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.4"
+        ],
+        "human": "Ephesians 4",
+        "toc": true
+      },
+      "chapter_text": "Follow God’s example, therefore, as dearly loved children and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God.\nBut among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people. Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving. For of this you can be sure: No immoral, impure or greedy person—such a person is an idolater—has any inheritance in the kingdom of Christ and of God. Let no one deceive you with empty words, for because of such things God’s wrath comes on those who are disobedient. Therefore do not be partners with them.\nFor you were once darkness, but now you are light in the Lord. Live as children of light (for the fruit of the light consists in all goodness, righteousness and truth) and find out what pleases the Lord. Have nothing to do with the fruitless deeds of darkness, but rather expose them. It is shameful even to mention what the disobedient do in secret. But everything exposed by the light becomes visible—and everything that is illuminated becomes a light. This is why it is said:\n“Wake up, sleeper,\nrise from the dead,\nand Christ will shine on you.”\nBe very careful, then, how you live—not as unwise but as wise, making the most of every opportunity, because the days are evil. Therefore do not be foolish, but understand what the Lord’s will is. Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit, speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord, always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.\n\nSubmit to one another out of reverence for Christ.\nWives, submit yourselves to your own husbands as you do to the Lord. For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. Now as the church submits to Christ, so also wives should submit to their husbands in everything.\nHusbands, love your wives, just as Christ loved the church and gave himself up for her to make her holy, cleansing her by the washing with water through the word, and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church— for we are members of his body. “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.” This is a profound mystery—but I am talking about Christ and the church. However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch5\" data-usfm=\"EPH.5\">\n         <div class=\"label\">5</div><div class=\"nb\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.5.1\"><span class=\"label\">1</span><span class=\"content\">Follow God&#8217;s example, therefore, as dearly loved children </span></span><span class=\"verse v2\" data-usfm=\"EPH.5.2\"><span class=\"label\">2</span><span class=\"content\">and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"EPH.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"EPH.5.3\"><span class=\"label\">3</span><span class=\"content\">But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God&#8217;s holy people. </span></span><span class=\"verse v4\" data-usfm=\"EPH.5.4\"><span class=\"label\">4</span><span class=\"content\">Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving. </span></span><span class=\"verse v5\" data-usfm=\"EPH.5.5\"><span class=\"label\">5</span><span class=\"content\">For of this you can be sure: No immoral, impure or greedy person&#8212;such a person is an idolater&#8212;has any inheritance in the kingdom of Christ and of God.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:5 </span><span class=\"ft\">Or </span><span class=\"fqa\">kingdom of the Messiah and God</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"EPH.5.6\"><span class=\"label\">6</span><span class=\"content\">Let no one deceive you with empty words, for because of such things God&#8217;s wrath comes on those who are disobedient. </span></span><span class=\"verse v7\" data-usfm=\"EPH.5.7\"><span class=\"label\">7</span><span class=\"content\">Therefore do not be partners with them.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"EPH.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"EPH.5.8\"><span class=\"label\">8</span><span class=\"content\">For you were once darkness, but now you are light in the Lord. Live as children of light </span></span><span class=\"verse v9\" data-usfm=\"EPH.5.9\"><span class=\"label\">9</span><span class=\"content\">(for the fruit of the light consists in all goodness, righteousness and truth) </span></span><span class=\"verse v10\" data-usfm=\"EPH.5.10\"><span class=\"label\">10</span><span class=\"content\">and find out what pleases the Lord. </span></span><span class=\"verse v11\" data-usfm=\"EPH.5.11\"><span class=\"label\">11</span><span class=\"content\">Have nothing to do with the fruitless deeds of darkness, but rather expose them. </span></span><span class=\"verse v12\" data-usfm=\"EPH.5.12\"><span class=\"label\">12</span><span class=\"content\">It is shameful even to mention what the disobedient do in secret. </span></span><span class=\"verse v13\" data-usfm=\"EPH.5.13\"><span class=\"label\">13</span><span class=\"content\">But everything exposed by the light becomes visible&#8212;and everything that is illuminated becomes a light. </span></span><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"label\">14</span><span class=\"content\">This is why it is said:</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">&#8220;Wake up, sleeper,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">rise from the dead,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">and Christ will shine on you.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"EPH.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"EPH.5.15\"><span class=\"label\">15</span><span class=\"content\">Be very careful, then, how you live&#8212;not as unwise but as wise, </span></span><span class=\"verse v16\" data-usfm=\"EPH.5.16\"><span class=\"label\">16</span><span class=\"content\">making the most of every opportunity, because the days are evil. </span></span><span class=\"verse v17\" data-usfm=\"EPH.5.17\"><span class=\"label\">17</span><span class=\"content\">Therefore do not be foolish, but understand what the Lord&#8217;s will is. </span></span><span class=\"verse v18\" data-usfm=\"EPH.5.18\"><span class=\"label\">18</span><span class=\"content\">Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit, </span></span><span class=\"verse v19\" data-usfm=\"EPH.5.19\"><span class=\"label\">19</span><span class=\"content\">speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord, </span></span><span class=\"verse v20\" data-usfm=\"EPH.5.20\"><span class=\"label\">20</span><span class=\"content\">always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.</span></span></div><div class=\"s1\"><span class=\"heading\">Instructions for Christian Households</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"EPH.5.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"EPH.5.21\"><span class=\"label\">21</span><span class=\"content\">Submit to one another out of reverence for Christ.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"EPH.5.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"EPH.5.22\"><span class=\"label\">22</span><span class=\"content\">Wives, submit yourselves to your own husbands as you do to the Lord. </span></span><span class=\"verse v23\" data-usfm=\"EPH.5.23\"><span class=\"label\">23</span><span class=\"content\">For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior. </span></span><span class=\"verse v24\" data-usfm=\"EPH.5.24\"><span class=\"label\">24</span><span class=\"content\">Now as the church submits to Christ, so also wives should submit to their husbands in everything.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"EPH.5.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"EPH.5.25\"><span class=\"label\">25</span><span class=\"content\">Husbands, love your wives, just as Christ loved the church and gave himself up for her </span></span><span class=\"verse v26\" data-usfm=\"EPH.5.26\"><span class=\"label\">26</span><span class=\"content\">to make her holy, cleansing</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:26 </span><span class=\"ft\">Or </span><span class=\"fqa\">having cleansed</span></span></span><span class=\"content\"> her by the washing with water through the word, </span></span><span class=\"verse v27\" data-usfm=\"EPH.5.27\"><span class=\"label\">27</span><span class=\"content\">and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless. </span></span><span class=\"verse v28\" data-usfm=\"EPH.5.28\"><span class=\"label\">28</span><span class=\"content\">In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself. </span></span><span class=\"verse v29\" data-usfm=\"EPH.5.29\"><span class=\"label\">29</span><span class=\"content\">After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church&#8212; </span></span><span class=\"verse v30\" data-usfm=\"EPH.5.30\"><span class=\"label\">30</span><span class=\"content\">for we are members of his body. </span></span><span class=\"verse v31\" data-usfm=\"EPH.5.31\"><span class=\"label\">31</span><span class=\"content\">&#8220;For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:31 </span><span class=\"ft\">Gen. 2:24</span></span></span><span class=\"content\">  </span></span><span class=\"verse v32\" data-usfm=\"EPH.5.32\"><span class=\"label\">32</span><span class=\"content\">This is a profound mystery&#8212;but I am talking about Christ and the church. </span></span><span class=\"verse v33\" data-usfm=\"EPH.5.33\"><span class=\"label\">33</span><span class=\"content\">However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Follow God’s example, therefore, as dearly loved children"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "and walk in the way of love, just as Christ loved us and gave himself up for us as a fragrant offering and sacrifice to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God’s holy people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For of this you can be sure: No immoral, impure or greedy person—such a person is an idolater—has any inheritance in the kingdom of Christ and of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Let no one deceive you with empty words, for because of such things God’s wrath comes on those who are disobedient."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Therefore do not be partners with them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For you were once darkness, but now you are light in the Lord. Live as children of light"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "(for the fruit of the light consists in all goodness, righteousness and truth)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and find out what pleases the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Have nothing to do with the fruitless deeds of darkness, but rather expose them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "It is shameful even to mention what the disobedient do in secret."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But everything exposed by the light becomes visible—and everything that is illuminated becomes a light."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "This is why it is said:",
+            "“Wake up, sleeper,",
+            "rise from the dead,",
+            "and Christ will shine on you.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Be very careful, then, how you live—not as unwise but as wise,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "making the most of every opportunity, because the days are evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Therefore do not be foolish, but understand what the Lord’s will is."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "speaking to one another with psalms, hymns, and songs from the Spirit. Sing and make music from your heart to the Lord,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instructions for Christian Households"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Submit to one another out of reverence for Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Wives, submit yourselves to your own husbands as you do to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "For the husband is the head of the wife as Christ is the head of the church, his body, of which he is the Savior."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Now as the church submits to Christ, so also wives should submit to their husbands in everything."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Husbands, love your wives, just as Christ loved the church and gave himself up for her"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "to make her holy, cleansing her by the washing with water through the word,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "and to present her to himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "After all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "for we are members of his body."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "This is a profound mystery—but I am talking about Christ and the church."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 33,
+          "lines": [
+            "However, each one of you also must love his wife as he loves himself, and the wife must respect her husband."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "EPH.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Ephesians 6"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "PHP.INTRO1"
+        ],
+        "human": "Philippians Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.5"
+        ],
+        "human": "Ephesians 5",
+        "toc": true
+      },
+      "chapter_text": "Children, obey your parents in the Lord, for this is right. “Honor your father and mother”—which is the first commandment with a promise— “so that it may go well with you and that you may enjoy long life on the earth.”\nFathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord.\nSlaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ. Obey them not only to win their favor when their eye is on you, but as slaves of Christ, doing the will of God from your heart. Serve wholeheartedly, as if you were serving the Lord, not people, because you know that the Lord will reward each one for whatever good they do, whether they are slave or free.\nAnd masters, treat your slaves in the same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him.\n\nFinally, be strong in the Lord and in his mighty power. Put on the full armor of God, so that you can take your stand against the devil’s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, and with your feet fitted with the readiness that comes from the gospel of peace. In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. Take the helmet of salvation and the sword of the Spirit, which is the word of God.\nAnd pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people. Pray also for me, that whenever I speak, words may be given me so that I will fearlessly make known the mystery of the gospel, for which I am an ambassador in chains. Pray that I may declare it fearlessly, as I should.\n\nTychicus, the dear brother and faithful servant in the Lord, will tell you everything, so that you also may know how I am and what I am doing. I am sending him to you for this very purpose, that you may know how we are, and that he may encourage you.\nPeace to the brothers and sisters, and love with faith from God the Father and the Lord Jesus Christ. Grace to all who love our Lord Jesus Christ with an undying love.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkEPH\">\n      <div class=\"chapter ch6\" data-usfm=\"EPH.6\">\n         <div class=\"label\">6</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"EPH.6.1\"><span class=\"label\">1</span><span class=\"content\">Children, obey your parents in the Lord, for this is right. </span></span><span class=\"verse v2\" data-usfm=\"EPH.6.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Honor your father and mother&#8221;&#8212;which is the first commandment with a promise&#8212; </span></span><span class=\"verse v3\" data-usfm=\"EPH.6.3\"><span class=\"label\">3</span><span class=\"content\">&#8220;so that it may go well with you and that you may enjoy long life on the earth.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:3 </span><span class=\"ft\">Deut. 5:16</span></span></span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"EPH.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"EPH.6.4\"><span class=\"label\">4</span><span class=\"content\">Fathers,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">Parents</span></span></span><span class=\"content\"> do not exasperate your children; instead, bring them up in the training and instruction of the Lord.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"EPH.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"EPH.6.5\"><span class=\"label\">5</span><span class=\"content\">Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ. </span></span><span class=\"verse v6\" data-usfm=\"EPH.6.6\"><span class=\"label\">6</span><span class=\"content\">Obey them not only to win their favor when their eye is on you, but as slaves of Christ, doing the will of God from your heart. </span></span><span class=\"verse v7\" data-usfm=\"EPH.6.7\"><span class=\"label\">7</span><span class=\"content\">Serve wholeheartedly, as if you were serving the Lord, not people, </span></span><span class=\"verse v8\" data-usfm=\"EPH.6.8\"><span class=\"label\">8</span><span class=\"content\">because you know that the Lord will reward each one for whatever good they do, whether they are slave or free.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"EPH.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"EPH.6.9\"><span class=\"label\">9</span><span class=\"content\">And masters, treat your slaves in the same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him.</span></span></div><div class=\"s1\"><span class=\"heading\">The Armor of God</span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"EPH.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"EPH.6.10\"><span class=\"label\">10</span><span class=\"content\">Finally, be strong in the Lord and in his mighty power. </span></span><span class=\"verse v11\" data-usfm=\"EPH.6.11\"><span class=\"label\">11</span><span class=\"content\">Put on the full armor of God, so that you can take your stand against the devil&#8217;s schemes. </span></span><span class=\"verse v12\" data-usfm=\"EPH.6.12\"><span class=\"label\">12</span><span class=\"content\">For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms. </span></span><span class=\"verse v13\" data-usfm=\"EPH.6.13\"><span class=\"label\">13</span><span class=\"content\">Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand. </span></span><span class=\"verse v14\" data-usfm=\"EPH.6.14\"><span class=\"label\">14</span><span class=\"content\">Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place, </span></span><span class=\"verse v15\" data-usfm=\"EPH.6.15\"><span class=\"label\">15</span><span class=\"content\">and with your feet fitted with the readiness that comes from the gospel of peace. </span></span><span class=\"verse v16\" data-usfm=\"EPH.6.16\"><span class=\"label\">16</span><span class=\"content\">In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one. </span></span><span class=\"verse v17\" data-usfm=\"EPH.6.17\"><span class=\"label\">17</span><span class=\"content\">Take the helmet of salvation and the sword of the Spirit, which is the word of God.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"EPH.6.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"EPH.6.18\"><span class=\"label\">18</span><span class=\"content\">And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord&#8217;s people. </span></span><span class=\"verse v19\" data-usfm=\"EPH.6.19\"><span class=\"label\">19</span><span class=\"content\">Pray also for me, that whenever I speak, words may be given me so that I will fearlessly make known the mystery of the gospel, </span></span><span class=\"verse v20\" data-usfm=\"EPH.6.20\"><span class=\"label\">20</span><span class=\"content\">for which I am an ambassador in chains. Pray that I may declare it fearlessly, as I should.</span></span></div><div class=\"s1\"><span class=\"heading\">Final Greetings</span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"EPH.6.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"EPH.6.21\"><span class=\"label\">21</span><span class=\"content\">Tychicus, the dear brother and faithful servant in the Lord, will tell you everything, so that you also may know how I am and what I am doing. </span></span><span class=\"verse v22\" data-usfm=\"EPH.6.22\"><span class=\"label\">22</span><span class=\"content\">I am sending him to you for this very purpose, that you may know how we are, and that he may encourage you.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"EPH.6.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"EPH.6.23\"><span class=\"label\">23</span><span class=\"content\">Peace to the brothers and sisters,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:23 </span><span class=\"ft\">The Greek word for </span><span class=\"fq\">brothers and sisters </span><span class=\"ft\">(<span class=\"tl\">adelphoi</span>) refers here to believers, both men and women, as part of God&#8217;s family.</span></span></span><span class=\"content\"> and love with faith from God the Father and the Lord Jesus Christ. </span></span><span class=\"verse v24\" data-usfm=\"EPH.6.24\"><span class=\"label\">24</span><span class=\"content\">Grace to all who love our Lord Jesus Christ with an undying love.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:24 </span><span class=\"ft\">Or </span><span class=\"fqa\">Grace and immortality to all who love our Lord Jesus Christ.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Children, obey your parents in the Lord, for this is right."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Honor your father and mother”—which is the first commandment with a promise—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "“so that it may go well with you and that you may enjoy long life on the earth.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Fathers, do not exasperate your children; instead, bring them up in the training and instruction of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Obey them not only to win their favor when their eye is on you, but as slaves of Christ, doing the will of God from your heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Serve wholeheartedly, as if you were serving the Lord, not people,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "because you know that the Lord will reward each one for whatever good they do, whether they are slave or free."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And masters, treat your slaves in the same way. Do not threaten them, since you know that he who is both their Master and yours is in heaven, and there is no favoritism with him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Armor of God"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Finally, be strong in the Lord and in his mighty power."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Put on the full armor of God, so that you can take your stand against the devil’s schemes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this dark world and against the spiritual forces of evil in the heavenly realms."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Therefore put on the full armor of God, so that when the day of evil comes, you may be able to stand your ground, and after you have done everything, to stand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness in place,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "and with your feet fitted with the readiness that comes from the gospel of peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Take the helmet of salvation and the sword of the Spirit, which is the word of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "And pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the Lord’s people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Pray also for me, that whenever I speak, words may be given me so that I will fearlessly make known the mystery of the gospel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "for which I am an ambassador in chains. Pray that I may declare it fearlessly, as I should."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Final Greetings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Tychicus, the dear brother and faithful servant in the Lord, will tell you everything, so that you also may know how I am and what I am doing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "I am sending him to you for this very purpose, that you may know how we are, and that he may encourage you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Peace to the brothers and sisters, and love with faith from God the Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Grace to all who love our Lord Jesus Christ with an undying love."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

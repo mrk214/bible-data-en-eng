@@ -1,0 +1,841 @@
+{
+  "book_usfm": "ZEP",
+  "name": "Zephaniah",
+  "local_title": "New International Version",
+  "local_abbreviation": "NIV",
+  "version_id": 111,
+  "publisher": {
+    "name": "Biblica, Inc."
+  },
+  "copyright": {
+    "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+    "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "ZEP.INTRO1",
+      "is_chapter": false,
+      "current": {
+        "usfm": [
+          "ZEP.INTRO1"
+        ],
+        "human": "Zephaniah Intro"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3",
+        "toc": true
+      },
+      "chapter_text": "Intro\nThe reign of King Manasseh of Judah was the time of greatest corruption, injustice and paganism in Judah’s history. But Manasseh’s grandson King Josiah reasserted the nation’s faith and obedience to God and its independence from foreign empires. One reason for this seems to be that a member of his court stood up and warned that Judah’s breaking of the covenant had led it to the brink of destruction. The person who offered this warning was the prophet Zephaniah.\nThe book’s prologue identifies Zephaniah as the great-great-grandson of Hezekiah. No other prophet’s ancestry is traced back four generations, so this seems intended to associate Zephaniah with the great reforming king of Judah. It is likely that Zephaniah was of royal blood, since he was familiar with particular districts in Jerusalem and with specific activities in the capital.\nThis collection of prophecies has three main parts. First is a description of the day of the LORD that is coming against Judah and Jerusalem. Next is a call for national repentance, along with oracles of destruction against the Philistines, Moabites, Cushites (Ethiopians), Assyrians and Jerusalem itself. In the final section, Zephaniah promises that God will restore a humble remnant when he returns as a Mighty Warrior among his people.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter chINTRO1\" data-usfm=\"ZEP.INTRO1\">\n         <div class=\"imt\"><span class=\"content\">Intro</span></div><div class=\"im\"><span class=\"content\">The reign of King Manasseh of Judah was the time of greatest corruption, injustice and paganism in Judah&#8217;s history. But Manasseh&#8217;s grandson King Josiah reasserted the nation&#8217;s faith and obedience to God and its independence from foreign empires. One reason for this seems to be that a member of his court stood up and warned that Judah&#8217;s breaking of the covenant had led it to the brink of destruction. The person who offered this warning was the prophet Zephaniah.</span></div><div class=\"ip\"><span class=\"content\">The book&#8217;s prologue identifies Zephaniah as the great-great-grandson of Hezekiah. No other prophet&#8217;s ancestry is traced back four generations, so this seems intended to associate Zephaniah with the great reforming king of Judah. It is likely that Zephaniah was of royal blood, since he was familiar with particular districts in Jerusalem and with specific activities in the capital.</span></div><div class=\"ip\"><span class=\"content\">This collection of prophecies has three main parts. First is a description of </span><span class=\"qt\"><span class=\"content\">the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span><span class=\"content\"> that is coming against Judah and Jerusalem. Next is a call for national repentance, along with oracles of destruction against the Philistines, Moabites, Cushites (Ethiopians), Assyrians and Jerusalem itself. In the final section, Zephaniah promises that God will restore a humble remnant when he returns as a Mighty Warrior among his people.</span></div><div class=\"ie\"></div>\n      </div>\n   </div>\n</div>",
+      "items": []
+    },
+    {
+      "chapter_usfm": "ZEP.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Zephaniah 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": false,
+        "usfm": [
+          "ZEP.INTRO1"
+        ],
+        "human": "Zephaniah Intro",
+        "toc": true
+      },
+      "chapter_text": "The word of the LORD that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:\nLORD\n“I will sweep away everything\nfrom the face of the earth,”\ndeclares the LORD.\n“I will sweep away both man and beast;\nI will sweep away the birds in the sky\nand the fish in the sea—\nand the idols that cause the wicked to stumble.”\n\n“When I destroy all mankind\non the face of the earth,”\ndeclares the LORD,\n“I will stretch out my hand against Judah\nand against all who live in Jerusalem.\nI will destroy every remnant of Baal worship in this place,\nthe very names of the idolatrous priests—\nthose who bow down on the roofs\nto worship the starry host,\nthose who bow down and swear by the LORD\nand who also swear by Molek,\nthose who turn back from following the LORD\nand neither seek the LORD nor inquire of him.”\n\nBe silent before the Sovereign LORD,\nfor the day of the LORD is near.\nThe LORD has prepared a sacrifice;\nhe has consecrated those he has invited.\n\n“On the day of the LORD’s sacrifice\nI will punish the officials\nand the king’s sons\nand all those clad\nin foreign clothes.\nOn that day I will punish\nall who avoid stepping on the threshold,\nwho fill the temple of their gods\nwith violence and deceit.\n\n“On that day,”\ndeclares the LORD,\n“a cry will go up from the Fish Gate,\nwailing from the New Quarter,\nand a loud crash from the hills.\nWail, you who live in the market district;\nall your merchants will be wiped out,\nall who trade with silver will be destroyed.\nAt that time I will search Jerusalem with lamps\nand punish those who are complacent,\nwho are like wine left on its dregs,\nwho think, ‘The LORD will do nothing,\neither good or bad.’\nTheir wealth will be plundered,\ntheir houses demolished.\nThough they build houses,\nthey will not live in them;\nthough they plant vineyards,\nthey will not drink the wine.”\n\nThe great day of the LORD is near—\nnear and coming quickly.\nThe cry on the day of the LORD is bitter;\nthe Mighty Warrior shouts his battle cry.\nThat day will be a day of wrath—\na day of distress and anguish,\na day of trouble and ruin,\na day of darkness and gloom,\na day of clouds and blackness—\na day of trumpet and battle cry\nagainst the fortified cities\nand against the corner towers.\n\n“I will bring such distress on all people\nthat they will grope about like those who are blind,\nbecause they have sinned against the LORD.\nTheir blood will be poured out like dust\nand their entrails like dung.\nNeither their silver nor their gold\nwill be able to save them\non the day of the LORD’s wrath.”\n\nIn the fire of his jealousy\nthe whole earth will be consumed,\nfor he will make a sudden end\nof all who live on the earth.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch1\" data-usfm=\"ZEP.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.1.1\"><span class=\"label\">1</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:</span></span></div><div class=\"s1\"><span class=\"heading\">Judgment on the Whole Earth in the Day of the </span><span class=\"nd\"><span class=\"heading\">Lord</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ZEP.1.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;I will sweep away everything</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"ZEP.1.2\"><span class=\"content\">from the face of the earth,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v2\" data-usfm=\"ZEP.1.2\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"label\">3</span><span class=\"content\">&#8220;I will sweep away both man and beast;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">I will sweep away the birds in the sky</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">and the fish in the sea&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">and the idols that cause the wicked to stumble.&#8221;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"ft\">The meaning of the Hebrew for this line is uncertain.</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">&#8220;When I destroy all mankind</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">on the face of the earth,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"label\">4</span><span class=\"content\">&#8220;I will stretch out my hand against Judah</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">and against all who live in Jerusalem.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">I will destroy every remnant of Baal worship in this place,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">the very names of the idolatrous priests&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"label\">5</span><span class=\"content\">those who bow down on the roofs</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">to worship the starry host,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">those who bow down and swear by the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">and who also swear by Molek,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">Malkam</span></span></span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"label\">6</span><span class=\"content\">those who turn back from following the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"content\">and neither seek the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> nor inquire of him.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"label\">7</span><span class=\"content\">Be silent before the Sovereign </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">for the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is near.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has prepared a sacrifice;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">he has consecrated those he has invited.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"label\">8</span><span class=\"content\">&#8220;On the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s sacrifice</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">I will punish the officials</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">and the king&#8217;s sons</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">and all those clad</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">in foreign clothes.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"label\">9</span><span class=\"content\">On that day I will punish</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">all who avoid stepping on the threshold,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">See 1 Samuel 5:5.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">who fill the temple of their gods</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">with violence and deceit.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"label\">10</span><span class=\"content\">&#8220;On that day,&#8221;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">&#8220;a cry will go up from the Fish Gate,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">wailing from the New Quarter,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">and a loud crash from the hills.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"label\">11</span><span class=\"content\">Wail, you who live in the market district</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">the Mortar</span></span></span><span class=\"content\">;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">all your merchants will be wiped out,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">all who trade with</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">in</span></span></span><span class=\"content\"> silver will be destroyed.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"label\">12</span><span class=\"content\">At that time I will search Jerusalem with lamps</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">and punish those who are complacent,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">who are like wine left on its dregs,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">who think, &#8216;The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will do nothing,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">either good or bad.&#8217;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"label\">13</span><span class=\"content\">Their wealth will be plundered,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">their houses demolished.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">Though they build houses,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">they will not live in them;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">though they plant vineyards,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">they will not drink the wine.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"label\">14</span><span class=\"content\">The great day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is near&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">near and coming quickly.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">The cry on the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is bitter;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">the Mighty Warrior shouts his battle cry.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"label\">15</span><span class=\"content\">That day will be a day of wrath&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">a day of distress and anguish,</span></span></div><div class=\"q3\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">a day of trouble and ruin,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">a day of darkness and gloom,</span></span></div><div class=\"q3\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">a day of clouds and blackness&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"label\">16</span><span class=\"content\">a day of trumpet and battle cry</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">against the fortified cities</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">and against the corner towers.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"label\">17</span><span class=\"content\">&#8220;I will bring such distress on all people</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">that they will grope about like those who are blind,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">because they have sinned against the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">Their blood will be poured out like dust</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">and their entrails like dung.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"label\">18</span><span class=\"content\">Neither their silver nor their gold</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">will be able to save them</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">on the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s wrath.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">In the fire of his jealousy</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">the whole earth will be consumed,</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">for he will make a sudden end</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"content\">of all who live on the earth.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the Lord that came to Zephaniah son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, during the reign of Josiah son of Amon king of Judah:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Judgment on the Whole Earth in the Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“I will sweep away everything",
+            "from the face of the earth,”",
+            "declares the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "“I will sweep away both man and beast;",
+            "I will sweep away the birds in the sky",
+            "and the fish in the sea—",
+            "and the idols that cause the wicked to stumble.”",
+            "“When I destroy all mankind",
+            "on the face of the earth,”",
+            "declares the Lord,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "“I will stretch out my hand against Judah",
+            "and against all who live in Jerusalem.",
+            "I will destroy every remnant of Baal worship in this place,",
+            "the very names of the idolatrous priests—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "those who bow down on the roofs",
+            "to worship the starry host,",
+            "those who bow down and swear by the Lord",
+            "and who also swear by Molek,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "those who turn back from following the Lord",
+            "and neither seek the Lord nor inquire of him.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Be silent before the Sovereign Lord,",
+            "for the day of the Lord is near.",
+            "The Lord has prepared a sacrifice;",
+            "he has consecrated those he has invited."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "“On the day of the Lord’s sacrifice",
+            "I will punish the officials",
+            "and the king’s sons",
+            "and all those clad",
+            "in foreign clothes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "On that day I will punish",
+            "all who avoid stepping on the threshold,",
+            "who fill the temple of their gods",
+            "with violence and deceit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "“On that day,”",
+            "declares the Lord,",
+            "“a cry will go up from the Fish Gate,",
+            "wailing from the New Quarter,",
+            "and a loud crash from the hills."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Wail, you who live in the market district;",
+            "all your merchants will be wiped out,",
+            "all who trade with silver will be destroyed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "At that time I will search Jerusalem with lamps",
+            "and punish those who are complacent,",
+            "who are like wine left on its dregs,",
+            "who think, ‘The Lord will do nothing,",
+            "either good or bad.’"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Their wealth will be plundered,",
+            "their houses demolished.",
+            "Though they build houses,",
+            "they will not live in them;",
+            "though they plant vineyards,",
+            "they will not drink the wine.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "The great day of the Lord is near—",
+            "near and coming quickly.",
+            "The cry on the day of the Lord is bitter;",
+            "the Mighty Warrior shouts his battle cry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "That day will be a day of wrath—",
+            "a day of distress and anguish,",
+            "a day of trouble and ruin,",
+            "a day of darkness and gloom,",
+            "a day of clouds and blackness—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "a day of trumpet and battle cry",
+            "against the fortified cities",
+            "and against the corner towers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "“I will bring such distress on all people",
+            "that they will grope about like those who are blind,",
+            "because they have sinned against the Lord.",
+            "Their blood will be poured out like dust",
+            "and their entrails like dung."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Neither their silver nor their gold",
+            "will be able to save them",
+            "on the day of the Lord’s wrath.”",
+            "In the fire of his jealousy",
+            "the whole earth will be consumed,",
+            "for he will make a sudden end",
+            "of all who live on the earth."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Zephaniah 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Zephaniah 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1",
+        "toc": true
+      },
+      "chapter_text": "Gather together, gather yourselves together,\nyou shameful nation,\nbefore the decree takes effect\nand that day passes like windblown chaff,\nbefore the LORD’s fierce anger\ncomes upon you,\nbefore the day of the LORD’s wrath\ncomes upon you.\nSeek the LORD, all you humble of the land,\nyou who do what he commands.\nSeek righteousness, seek humility;\nperhaps you will be sheltered\non the day of the LORD’s anger.\n\nGaza will be abandoned\nand Ashkelon left in ruins.\nAt midday Ashdod will be emptied\nand Ekron uprooted.\nWoe to you who live by the sea,\nyou Kerethite people;\nthe word of the LORD is against you,\nCanaan, land of the Philistines.\nHe says, “I will destroy you,\nand none will be left.”\nThe land by the sea will become pastures\nhaving wells for shepherds\nand pens for flocks.\nThat land will belong\nto the remnant of the people of Judah;\nthere they will find pasture.\nIn the evening they will lie down\nin the houses of Ashkelon.\nThe LORD their God will care for them;\nhe will restore their fortunes.\n\n“I have heard the insults of Moab\nand the taunts of the Ammonites,\nwho insulted my people\nand made threats against their land.\nTherefore, as surely as I live,”\ndeclares the LORD Almighty,\nthe God of Israel,\n“surely Moab will become like Sodom,\nthe Ammonites like Gomorrah—\na place of weeds and salt pits,\na wasteland forever.\nThe remnant of my people will plunder them;\nthe survivors of my nation will inherit their land.”\n\nThis is what they will get in return for their pride,\nfor insulting and mocking\nthe people of the LORD Almighty.\nThe LORD will be awesome to them\nwhen he destroys all the gods of the earth.\nDistant nations will bow down to him,\nall of them in their own lands.\n\n“You Cushites, too,\nwill be slain by my sword.”\n\nHe will stretch out his hand against the north\nand destroy Assyria,\nleaving Nineveh utterly desolate\nand dry as the desert.\nFlocks and herds will lie down there,\ncreatures of every kind.\nThe desert owl and the screech owl\nwill roost on her columns.\nTheir hooting will echo through the windows,\nrubble will fill the doorways,\nthe beams of cedar will be exposed.\nThis is the city of revelry\nthat lived in safety.\nShe said to herself,\n“I am the one! And there is none besides me.”\nWhat a ruin she has become,\na lair for wild beasts!\nAll who pass by her scoff\nand shake their fists.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch2\" data-usfm=\"ZEP.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Judah and Jerusalem Judged Along With the Nations</span></div><div class=\"s2\"><span class=\"heading\">Judah Summoned to Repent</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"label\">1</span><span class=\"content\">Gather together, gather yourselves together,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"content\">you shameful nation,</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"label\">2</span><span class=\"content\">before the decree takes effect</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">and that day passes like windblown chaff,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">before the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s fierce anger</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">comes upon you,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">before the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s wrath</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">comes upon you.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"label\">3</span><span class=\"content\">Seek the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, all you humble of the land,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">you who do what he commands.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">Seek righteousness, seek humility;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">perhaps you will be sheltered</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">on the day of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s anger.</span></span></div><div class=\"s2\"><span class=\"heading\">Philistia</span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"label\">4</span><span class=\"content\">Gaza will be abandoned</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">and Ashkelon left in ruins.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">At midday Ashdod will be emptied</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">and Ekron uprooted.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"label\">5</span><span class=\"content\">Woe to you who live by the sea,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">you Kerethite people;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">the word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is against you,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">Canaan, land of the Philistines.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">He says, &#8220;I will destroy you,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">and none will be left.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"label\">6</span><span class=\"content\">The land by the sea will become pastures</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"content\">having wells for shepherds</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"content\">and pens for flocks.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"label\">7</span><span class=\"content\">That land will belong</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">to the remnant of the people of Judah;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">there they will find pasture.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">In the evening they will lie down</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">in the houses of Ashkelon.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> their God will care for them;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">he will restore their fortunes.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or </span><span class=\"fqa\">will bring back their captives</span></span></span></span></div><div class=\"s2\"><span class=\"heading\">Moab and Ammon</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.2.8\"><span class=\"label\">8</span><span class=\"content\">&#8220;I have heard the insults of Moab</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.2.8\"><span class=\"content\">and the taunts of the Ammonites,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.2.8\"><span class=\"content\">who insulted my people</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.2.8\"><span class=\"content\">and made threats against their land.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"label\">9</span><span class=\"content\">Therefore, as surely as I live,&#8221;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> Almighty,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">the God of Israel,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">&#8220;surely Moab will become like Sodom,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">the Ammonites like Gomorrah&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">a place of weeds and salt pits,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">a wasteland forever.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">The remnant of my people will plunder them;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">the survivors of my nation will inherit their land.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ZEP.2.10\"><span class=\"label\">10</span><span class=\"content\">This is what they will get in return for their pride,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.2.10\"><span class=\"content\">for insulting and mocking</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.2.10\"><span class=\"content\">the people of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> Almighty.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"label\">11</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will be awesome to them</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"content\">when he destroys all the gods of the earth.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"content\">Distant nations will bow down to him,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"content\">all of them in their own lands.</span></span></div><div class=\"s2\"><span class=\"heading\">Cush</span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;You Cushites,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">That is, people from the upper Nile region</span></span></span><span class=\"content\"> too,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"content\">will be slain by my sword.&#8221;</span></span></div><div class=\"s2\"><span class=\"heading\">Assyria</span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"label\">13</span><span class=\"content\">He will stretch out his hand against the north</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">and destroy Assyria,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">leaving Nineveh utterly desolate</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">and dry as the desert.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"label\">14</span><span class=\"content\">Flocks and herds will lie down there,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">creatures of every kind.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">The desert owl and the screech owl</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">will roost on her columns.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">Their hooting will echo through the windows,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">rubble will fill the doorways,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">the beams of cedar will be exposed.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"label\">15</span><span class=\"content\">This is the city of revelry</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">that lived in safety.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">She said to herself,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">&#8220;I am the one! And there is none besides me.&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">What a ruin she has become,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">a lair for wild beasts!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">All who pass by her scoff</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"content\">and shake their fists.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Judah and Jerusalem Judged Along With the Nations"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Judah Summoned to Repent"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Gather together, gather yourselves together,",
+            "you shameful nation,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "before the decree takes effect",
+            "and that day passes like windblown chaff,",
+            "before the Lord’s fierce anger",
+            "comes upon you,",
+            "before the day of the Lord’s wrath",
+            "comes upon you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Seek the Lord, all you humble of the land,",
+            "you who do what he commands.",
+            "Seek righteousness, seek humility;",
+            "perhaps you will be sheltered",
+            "on the day of the Lord’s anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Philistia"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Gaza will be abandoned",
+            "and Ashkelon left in ruins.",
+            "At midday Ashdod will be emptied",
+            "and Ekron uprooted."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Woe to you who live by the sea,",
+            "you Kerethite people;",
+            "the word of the Lord is against you,",
+            "Canaan, land of the Philistines.",
+            "He says, “I will destroy you,",
+            "and none will be left.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "The land by the sea will become pastures",
+            "having wells for shepherds",
+            "and pens for flocks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "That land will belong",
+            "to the remnant of the people of Judah;",
+            "there they will find pasture.",
+            "In the evening they will lie down",
+            "in the houses of Ashkelon.",
+            "The Lord their God will care for them;",
+            "he will restore their fortunes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Moab and Ammon"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "“I have heard the insults of Moab",
+            "and the taunts of the Ammonites,",
+            "who insulted my people",
+            "and made threats against their land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Therefore, as surely as I live,”",
+            "declares the Lord Almighty,",
+            "the God of Israel,",
+            "“surely Moab will become like Sodom,",
+            "the Ammonites like Gomorrah—",
+            "a place of weeds and salt pits,",
+            "a wasteland forever.",
+            "The remnant of my people will plunder them;",
+            "the survivors of my nation will inherit their land.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "This is what they will get in return for their pride,",
+            "for insulting and mocking",
+            "the people of the Lord Almighty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The Lord will be awesome to them",
+            "when he destroys all the gods of the earth.",
+            "Distant nations will bow down to him,",
+            "all of them in their own lands."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Cush"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“You Cushites, too,",
+            "will be slain by my sword.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Assyria"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "He will stretch out his hand against the north",
+            "and destroy Assyria,",
+            "leaving Nineveh utterly desolate",
+            "and dry as the desert."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Flocks and herds will lie down there,",
+            "creatures of every kind.",
+            "The desert owl and the screech owl",
+            "will roost on her columns.",
+            "Their hooting will echo through the windows,",
+            "rubble will fill the doorways,",
+            "the beams of cedar will be exposed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "This is the city of revelry",
+            "that lived in safety.",
+            "She said to herself,",
+            "“I am the one! And there is none besides me.”",
+            "What a ruin she has become,",
+            "a lair for wild beasts!",
+            "All who pass by her scoff",
+            "and shake their fists."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Zephaniah 3"
+      },
+      "next": {
+        "canonical": false,
+        "usfm": [
+          "HAG.INTRO1"
+        ],
+        "human": "Haggai Intro",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Zephaniah 2",
+        "toc": true
+      },
+      "chapter_text": "Woe to the city of oppressors,\nrebellious and defiled!\nShe obeys no one,\nshe accepts no correction.\nShe does not trust in the LORD,\nshe does not draw near to her God.\nHer officials within her\nare roaring lions;\nher rulers are evening wolves,\nwho leave nothing for the morning.\nHer prophets are unprincipled;\nthey are treacherous people.\nHer priests profane the sanctuary\nand do violence to the law.\nThe LORD within her is righteous;\nhe does no wrong.\nMorning by morning he dispenses his justice,\nand every new day he does not fail,\nyet the unrighteous know no shame.\n\n“I have destroyed nations;\ntheir strongholds are demolished.\nI have left their streets deserted,\nwith no one passing through.\nTheir cities are laid waste;\nthey are deserted and empty.\nOf Jerusalem I thought,\n‘Surely you will fear me\nand accept correction!’\nThen her place of refuge would not be destroyed,\nnor all my punishments come upon her.\nBut they were still eager\nto act corruptly in all they did.\nTherefore wait for me,”\ndeclares the LORD,\n“for the day I will stand up to testify.\nI have decided to assemble the nations,\nto gather the kingdoms\nand to pour out my wrath on them—\nall my fierce anger.\nThe whole world will be consumed\nby the fire of my jealous anger.\n\n“Then I will purify the lips of the peoples,\nthat all of them may call on the name of the LORD\nand serve him shoulder to shoulder.\nFrom beyond the rivers of Cush\nmy worshipers, my scattered people,\nwill bring me offerings.\nOn that day you, Jerusalem, will not be put to shame\nfor all the wrongs you have done to me,\nbecause I will remove from you\nyour arrogant boasters.\nNever again will you be haughty\non my holy hill.\nBut I will leave within you\nthe meek and humble.\nThe remnant of Israel\nwill trust in the name of the LORD.\nThey will do no wrong;\nthey will tell no lies.\nA deceitful tongue\nwill not be found in their mouths.\nThey will eat and lie down\nand no one will make them afraid.”\n\nSing, Daughter Zion;\nshout aloud, Israel!\nBe glad and rejoice with all your heart,\nDaughter Jerusalem!\nThe LORD has taken away your punishment,\nhe has turned back your enemy.\nThe LORD, the King of Israel, is with you;\nnever again will you fear any harm.\nOn that day\nthey will say to Jerusalem,\n“Do not fear, Zion;\ndo not let your hands hang limp.\nThe LORD your God is with you,\nthe Mighty Warrior who saves.\nHe will take great delight in you;\nin his love he will no longer rebuke you,\nbut will rejoice over you with singing.”\n\n“I will remove from you\nall who mourn over the loss of your appointed festivals,\nwhich is a burden and reproach for you.\nAt that time I will deal\nwith all who oppressed you.\nI will rescue the lame;\nI will gather the exiles.\nI will give them praise and honor\nin every land where they have suffered shame.\nAt that time I will gather you;\nat that time I will bring you home.\nI will give you honor and praise\namong all the peoples of the earth\nwhen I restore your fortunes\nbefore your very eyes,”\nsays the LORD.",
+      "chapter_html": "<div class=\"version vid111 iso6393eng\" data-vid=\"111\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch3\" data-usfm=\"ZEP.3\">\n         <div class=\"label\">3</div><div class=\"s2\"><span class=\"heading\">Jerusalem</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"label\">1</span><span class=\"content\">Woe to the city of oppressors,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"content\">rebellious and defiled!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"label\">2</span><span class=\"content\">She obeys no one,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">she accepts no correction.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">She does not trust in the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">she does not draw near to her God.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"label\">3</span><span class=\"content\">Her officials within her</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">are roaring lions;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">her rulers are evening wolves,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">who leave nothing for the morning.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"label\">4</span><span class=\"content\">Her prophets are unprincipled;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">they are treacherous people.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">Her priests profane the sanctuary</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">and do violence to the law.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"label\">5</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> within her is righteous;</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">he does no wrong.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">Morning by morning he dispenses his justice,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">and every new day he does not fail,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">yet the unrighteous know no shame.</span></span></div><div class=\"s2\"><span class=\"heading\">Jerusalem Remains Unrepentant</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"label\">6</span><span class=\"content\">&#8220;I have destroyed nations;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">their strongholds are demolished.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">I have left their streets deserted,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">with no one passing through.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">Their cities are laid waste;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">they are deserted and empty.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"label\">7</span><span class=\"content\">Of Jerusalem I thought,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">&#8216;Surely you will fear me</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">and accept correction!&#8217;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">Then her place of refuge</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:7 </span><span class=\"ft\">Or </span><span class=\"fqa\">her sanctuary</span></span></span><span class=\"content\"> would not be destroyed,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">nor all my punishments come upon</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:7 </span><span class=\"ft\">Or </span><span class=\"fqa\">all those I appointed over</span></span></span><span class=\"content\"> her.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">But they were still eager</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">to act corruptly in all they did.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"label\">8</span><span class=\"content\">Therefore wait for me,&#8221;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">declares the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">&#8220;for the day I will stand up to testify.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Septuagint and Syriac; Hebrew </span><span class=\"fqa\">will rise up to plunder</span></span></span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">I have decided to assemble the nations,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">to gather the kingdoms</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">and to pour out my wrath on them&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">all my fierce anger.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">The whole world will be consumed</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">by the fire of my jealous anger.</span></span></div><div class=\"s1\"><span class=\"heading\">Restoration of Israel&#8217;s Remnant</span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;Then I will purify the lips of the peoples,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">that all of them may call on the name of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">and serve him shoulder to shoulder.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"label\">10</span><span class=\"content\">From beyond the rivers of Cush</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:10 </span><span class=\"ft\">That is, the upper Nile region</span></span></span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">my worshipers, my scattered people,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">will bring me offerings.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"label\">11</span><span class=\"content\">On that day you, Jerusalem, will not be put to shame</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">for all the wrongs you have done to me,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">because I will remove from you</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">your arrogant boasters.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">Never again will you be haughty</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">on my holy hill.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"label\">12</span><span class=\"content\">But I will leave within you</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">the meek and humble.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">The remnant of Israel</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">will trust in the name of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"label\">13</span><span class=\"content\">They will do no wrong;</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">they will tell no lies.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">A deceitful tongue</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">will not be found in their mouths.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">They will eat and lie down</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">and no one will make them afraid.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"label\">14</span><span class=\"content\">Sing, Daughter Zion;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">shout aloud, Israel!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">Be glad and rejoice with all your heart,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">Daughter Jerusalem!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"label\">15</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has taken away your punishment,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">he has turned back your enemy.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, the King of Israel, is with you;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">never again will you fear any harm.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"label\">16</span><span class=\"content\">On that day</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">they will say to Jerusalem,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">&#8220;Do not fear, Zion;</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">do not let your hands hang limp.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"label\">17</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> your God is with you,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">the Mighty Warrior who saves.</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">He will take great delight in you;</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">in his love he will no longer rebuke you,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">but will rejoice over you with singing.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"label\">18</span><span class=\"content\">&#8220;I will remove from you</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">all who mourn over the loss of your appointed festivals,</span></span></div><div class=\"q2\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">which is a burden and reproach for you.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"label\">19</span><span class=\"content\">At that time I will deal</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"content\">with all who oppressed you.</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"content\">I will rescue the lame;</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"content\">I will gather the exiles.</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"content\">I will give them praise and honor</span></span></div><div class=\"q2\"><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"content\">in every land where they have suffered shame.</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"label\">20</span><span class=\"content\">At that time I will gather you;</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"content\">at that time I will bring you home.</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"content\">I will give you honor and praise</span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"content\">among all the peoples of the earth</span></span></div><div class=\"q1\"><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"content\">when I restore your fortunes</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:20 </span><span class=\"ft\">Or </span><span class=\"fqa\">I bring back your captives</span></span></span></span></div><div class=\"q2\"><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"content\">before your very eyes,&#8221;</span></span></div><div class=\"q4\"><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"content\">says the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Woe to the city of oppressors,",
+            "rebellious and defiled!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "She obeys no one,",
+            "she accepts no correction.",
+            "She does not trust in the Lord,",
+            "she does not draw near to her God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Her officials within her",
+            "are roaring lions;",
+            "her rulers are evening wolves,",
+            "who leave nothing for the morning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Her prophets are unprincipled;",
+            "they are treacherous people.",
+            "Her priests profane the sanctuary",
+            "and do violence to the law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The Lord within her is righteous;",
+            "he does no wrong.",
+            "Morning by morning he dispenses his justice,",
+            "and every new day he does not fail,",
+            "yet the unrighteous know no shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Jerusalem Remains Unrepentant"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "“I have destroyed nations;",
+            "their strongholds are demolished.",
+            "I have left their streets deserted,",
+            "with no one passing through.",
+            "Their cities are laid waste;",
+            "they are deserted and empty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Of Jerusalem I thought,",
+            "‘Surely you will fear me",
+            "and accept correction!’",
+            "Then her place of refuge would not be destroyed,",
+            "nor all my punishments come upon her.",
+            "But they were still eager",
+            "to act corruptly in all they did."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Therefore wait for me,”",
+            "declares the Lord,",
+            "“for the day I will stand up to testify.",
+            "I have decided to assemble the nations,",
+            "to gather the kingdoms",
+            "and to pour out my wrath on them—",
+            "all my fierce anger.",
+            "The whole world will be consumed",
+            "by the fire of my jealous anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Restoration of Israel’s Remnant"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“Then I will purify the lips of the peoples,",
+            "that all of them may call on the name of the Lord",
+            "and serve him shoulder to shoulder."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "From beyond the rivers of Cush",
+            "my worshipers, my scattered people,",
+            "will bring me offerings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "On that day you, Jerusalem, will not be put to shame",
+            "for all the wrongs you have done to me,",
+            "because I will remove from you",
+            "your arrogant boasters.",
+            "Never again will you be haughty",
+            "on my holy hill."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But I will leave within you",
+            "the meek and humble.",
+            "The remnant of Israel",
+            "will trust in the name of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "They will do no wrong;",
+            "they will tell no lies.",
+            "A deceitful tongue",
+            "will not be found in their mouths.",
+            "They will eat and lie down",
+            "and no one will make them afraid.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Sing, Daughter Zion;",
+            "shout aloud, Israel!",
+            "Be glad and rejoice with all your heart,",
+            "Daughter Jerusalem!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The Lord has taken away your punishment,",
+            "he has turned back your enemy.",
+            "The Lord, the King of Israel, is with you;",
+            "never again will you fear any harm."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "On that day",
+            "they will say to Jerusalem,",
+            "“Do not fear, Zion;",
+            "do not let your hands hang limp."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The Lord your God is with you,",
+            "the Mighty Warrior who saves.",
+            "He will take great delight in you;",
+            "in his love he will no longer rebuke you,",
+            "but will rejoice over you with singing.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "“I will remove from you",
+            "all who mourn over the loss of your appointed festivals,",
+            "which is a burden and reproach for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "At that time I will deal",
+            "with all who oppressed you.",
+            "I will rescue the lame;",
+            "I will gather the exiles.",
+            "I will give them praise and honor",
+            "in every land where they have suffered shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "At that time I will gather you;",
+            "at that time I will bring you home.",
+            "I will give you honor and praise",
+            "among all the peoples of the earth",
+            "when I restore your fortunes",
+            "before your very eyes,”",
+            "says the Lord."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
