@@ -1,0 +1,158 @@
+{
+  "book_usfm": "2JN",
+  "name": "2 John",
+  "local_title": "New American Standard Bible - NASB",
+  "local_abbreviation": "NASB2020",
+  "version_id": 2692,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+    "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 John 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1JN.5"
+        ],
+        "human": "1 John 5",
+        "toc": true
+      },
+      "chapter_text": "The elder to the chosen lady and her children, whom I love in truth; and not only I, but also all who know the truth, because of the truth which remains in us and will be with us forever: Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ, the Son of the Father, in truth and love.\nI was overjoyed to find some of your children walking in truth, just as we have received a commandment to do from the Father. Now I ask you, lady, not as though I were writing to you a new commandment, but the one which we have had from the beginning, that we love one another. And this is love, that we walk according to His commandments. This is the commandment, just as you have heard from the beginning, that you are to walk in it.\nFor many deceivers have gone out into the world, those who do not acknowledge Jesus Christ as coming in the flesh. This is the deceiver and the antichrist. Watch yourselves, that you do not lose what we have accomplished, but that you may receive a full reward. Anyone who goes too far and does not remain in the teaching of Christ, does not have God; the one who remains in the teaching has both the Father and the Son. If anyone comes to you and does not bring this teaching, do not receive him into your house, and do not give him a greeting; for the one who gives him a greeting participates in his evil deeds.\nThough I have many things to write to you, I do not want to do so with paper and ink; but I hope to come to you and speak face to face, so that your joy may be made complete.\nThe children of your chosen sister greet you.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2JN\">\n      <div class=\"chapter ch1\" data-usfm=\"2JN.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Walk According to His Commandments</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2JN.1.1\"><span class=\"label\">1</span><span class=\"content\">The elder to the chosen lady and her children, whom I love in truth; and not only I, but also all who know the truth, </span></span><span class=\"verse v2\" data-usfm=\"2JN.1.2\"><span class=\"label\">2</span><span class=\"content\">because of the truth which remains in us and will be with us forever: </span></span><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"label\">3</span><span class=\"content\">Grace, mercy, </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> peace will be with us, from God the Father and from Jesus Christ, the Son of the Father, in truth and love.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2JN.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2JN.1.4\"><span class=\"label\">4</span><span class=\"content\">I was overjoyed to find </span><span class=\"it\"><span class=\"content\">some</span></span><span class=\"content\"> of your children walking in truth, just as we have received a commandment </span><span class=\"it\"><span class=\"content\">to do</span></span><span class=\"content\"> from the Father. </span></span><span class=\"verse v5\" data-usfm=\"2JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Now I ask you, lady, not as though </span><span class=\"it\"><span class=\"content\">I were</span></span><span class=\"content\"> writing to you a new commandment, but the one which we have had from the beginning, that we love one another. </span></span><span class=\"verse v6\" data-usfm=\"2JN.1.6\"><span class=\"label\">6</span><span class=\"content\">And this is love, that we walk according to His commandments. This is the commandment, just as you have heard from the beginning, that you are to walk in it.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"2JN.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2JN.1.7\"><span class=\"label\">7</span><span class=\"content\">For many deceivers have gone out into the world, those who do not acknowledge Jesus Christ </span><span class=\"it\"><span class=\"content\">as</span></span><span class=\"content\"> coming in the flesh. This is the deceiver and the antichrist. </span></span><span class=\"verse v8\" data-usfm=\"2JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Watch yourselves, that you do not lose what we have accomplished, but </span><span class=\"it\"><span class=\"content\">that</span></span><span class=\"content\"> you may receive a full reward. </span></span><span class=\"verse v9\" data-usfm=\"2JN.1.9\"><span class=\"label\">9</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">Lit <span class=\"it\">Everyone</span></span></span></span><span class=\"content\">Anyone who </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:9 </span><span class=\"ft\">Lit <span class=\"it\">goes on ahead</span></span></span></span><span class=\"content\">goes too far and does not remain in the teaching of Christ, does not have God; the one who remains in the teaching has both the Father and the Son. </span></span><span class=\"verse v10\" data-usfm=\"2JN.1.10\"><span class=\"label\">10</span><span class=\"content\">If anyone comes to you and does not bring this teaching, do not receive him into </span><span class=\"it\"><span class=\"content\">your</span></span><span class=\"content\"> house, and do not </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">Lit <span class=\"it\">say to him</span></span></span></span><span class=\"content\">give him a greeting; </span></span><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"label\">11</span><span class=\"content\">for the one who </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Lit <span class=\"it\">says to him</span></span></span></span><span class=\"content\">gives him a greeting </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">I.e., shares responsibility for them</span></span></span><span class=\"content\">participates in his evil deeds.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2JN.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Though I have many things to write to you, I do not want to </span><span class=\"it\"><span class=\"content\">do so</span></span><span class=\"content\"> with paper and ink; but I hope to come to you and speak </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Lit <span class=\"it\">mouth to mouth</span></span></span></span><span class=\"content\">face to face, so that </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">One early ms <span class=\"it\">our</span></span></span></span><span class=\"content\">your joy may be made complete.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2JN.1.13\"><span class=\"label\">13</span><span class=\"content\">The children of your chosen sister greet you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The elder to the chosen lady and her children, whom I love in truth; and not only I, but also all who know the truth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "because of the truth which remains in us and will be with us forever:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Grace, mercy, and peace will be with us, from God the Father and from Jesus Christ, the Son of the Father, in truth and love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I was overjoyed to find some of your children walking in truth, just as we have received a commandment to do from the Father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Now I ask you, lady, not as though I were writing to you a new commandment, but the one which we have had from the beginning, that we love one another."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And this is love, that we walk according to His commandments. This is the commandment, just as you have heard from the beginning, that you are to walk in it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For many deceivers have gone out into the world, those who do not acknowledge Jesus Christ as coming in the flesh. This is the deceiver and the antichrist."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Watch yourselves, that you do not lose what we have accomplished, but that you may receive a full reward."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Anyone who goes too far and does not remain in the teaching of Christ, does not have God; the one who remains in the teaching has both the Father and the Son."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "If anyone comes to you and does not bring this teaching, do not receive him into your house, and do not give him a greeting;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "for the one who gives him a greeting participates in his evil deeds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Though I have many things to write to you, I do not want to do so with paper and ink; but I hope to come to you and speak face to face, so that your joy may be made complete."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The children of your chosen sister greet you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "book_usfm": "2TH",
+  "name": "2 Thessalonians",
+  "local_title": "New American Standard Bible - NASB",
+  "local_abbreviation": "NASB2020",
+  "version_id": 2692,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+    "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2TH.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Thessalonians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Thessalonians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TH.5"
+        ],
+        "human": "1 Thessalonians 5",
+        "toc": true
+      },
+      "chapter_text": "Paul, Silvanus, and Timothy,\nT o the church of the Thessalonians in God our Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ.\nWe ought always to give thanks to God for you, brothers and sisters, as is only fitting, because your faith is increasing abundantly, and the love of each and every one of you toward one another grows ever greater. As a result, we ourselves speak proudly of you among the churches of God for your perseverance and faith in the midst of all your persecutions and afflictions which you endure. This is a plain indication of God’s righteous judgment so that you will be considered worthy of the kingdom of God, for which you indeed are suffering. For after all it is only right for God to repay with affliction those who afflict you, and to give relief to you who are afflicted, along with us, when the Lord Jesus will be revealed from heaven with His mighty angels in flaming fire, dealing out retribution to those who do not know God, and to those who do not obey the gospel of our Lord Jesus. These people will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His power, when He comes to be glorified among His saints on that day, and to be marveled at among all who have believed—because our testimony to you was believed. To this end also we pray for you always, that our God will consider you worthy of your calling, and fulfill every desire for goodness and the work of faith with power, so that the name of our Lord Jesus will be glorified in you, and you in Him, in accordance with the grace of our God and the Lord Jesus Christ.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TH\">\n      <div class=\"chapter ch1\" data-usfm=\"2TH.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Giving Thanks for Faith and Perseverance</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TH.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, Silvanus, and Timothy,</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2TH.1.1\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">T</span></span><span class=\"content\">o the church of the Thessalonians in God our Father and the Lord Jesus Christ: </span></span><span class=\"verse v2\" data-usfm=\"2TH.1.2\"><span class=\"label\">2</span><span class=\"content\">Grace to you and peace from God our Father and the Lord Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2TH.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TH.1.3\"><span class=\"label\">3</span><span class=\"content\">We ought always to give thanks to God for you, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> as is </span><span class=\"it\"><span class=\"content\">only</span></span><span class=\"content\"> fitting, because your faith is increasing abundantly, and the love of each and every one of you toward one another grows </span><span class=\"it\"><span class=\"content\">ever</span></span><span class=\"content\"> greater. </span></span><span class=\"verse v4\" data-usfm=\"2TH.1.4\"><span class=\"label\">4</span><span class=\"content\">As a result, we ourselves speak proudly of you among the churches of God for your </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">Or <span class=\"it\">steadfastness</span></span></span></span><span class=\"content\">perseverance and faith </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">Or <span class=\"it\">during all</span></span></span></span><span class=\"content\">in the midst of all your persecutions and afflictions which you endure. </span></span><span class=\"verse v5\" data-usfm=\"2TH.1.5\"><span class=\"label\">5</span><span class=\"it\"><span class=\"content\">This is</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Or <span class=\"it\">proof of</span></span></span></span><span class=\"content\">a plain indication of God&#8217;s righteous judgment so that you will be considered worthy of the kingdom of God, for which you indeed are suffering. </span></span><span class=\"verse v6\" data-usfm=\"2TH.1.6\"><span class=\"label\">6</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Lit <span class=\"it\">If indeed</span></span></span></span><span class=\"content\">For after all it is </span><span class=\"it\"><span class=\"content\">only</span></span><span class=\"content\"> right </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Or <span class=\"it\">in the sight of</span></span></span></span><span class=\"content\">for God to repay with affliction those who afflict you, </span></span><span class=\"verse v7\" data-usfm=\"2TH.1.7\"><span class=\"label\">7</span><span class=\"content\">and </span><span class=\"it\"><span class=\"content\">to give</span></span><span class=\"content\"> relief to you who are afflicted, </span><span class=\"it\"><span class=\"content\">along</span></span><span class=\"content\"> with us, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit <span class=\"it\">at the revelation of the Lord Jesus</span></span></span></span><span class=\"content\">when the Lord Jesus will be revealed from heaven with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit <span class=\"it\">the angels of His power</span></span></span></span><span class=\"content\">His mighty angels </span></span><span class=\"verse v8\" data-usfm=\"2TH.1.8\"><span class=\"label\">8</span><span class=\"content\">in flaming fire, dealing out retribution to those who do not know God, and to those who do not obey the gospel of our Lord Jesus. </span></span><span class=\"verse v9\" data-usfm=\"2TH.1.9\"><span class=\"label\">9</span><span class=\"content\">These people will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His power, </span></span><span class=\"verse v10\" data-usfm=\"2TH.1.10\"><span class=\"label\">10</span><span class=\"content\">when He comes to be glorified among His </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">Lit <span class=\"it\">holy ones;</span> i.e., God&#8217;s people</span></span></span><span class=\"content\">saints on that day, and to be marveled at among all who have believed&#8212;because our testimony to you was believed. </span></span><span class=\"verse v11\" data-usfm=\"2TH.1.11\"><span class=\"label\">11</span><span class=\"content\">To this end also we pray for you always, that our God will consider you worthy of your calling, and fulfill every desire for goodness and the work of faith with power, </span></span><span class=\"verse v12\" data-usfm=\"2TH.1.12\"><span class=\"label\">12</span><span class=\"content\">so that the name of our Lord Jesus will be glorified in you, and you in Him, in accordance with the grace of our God and </span><span class=\"it\"><span class=\"content\">the</span></span><span class=\"content\"> Lord Jesus Christ.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, Silvanus, and Timothy,",
+            "To the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "We ought always to give thanks to God for you, brothers and sisters, as is only fitting, because your faith is increasing abundantly, and the love of each and every one of you toward one another grows ever greater."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "As a result, we ourselves speak proudly of you among the churches of God for your perseverance and faith in the midst of all your persecutions and afflictions which you endure."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "This is a plain indication of God’s righteous judgment so that you will be considered worthy of the kingdom of God, for which you indeed are suffering."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For after all it is only right for God to repay with affliction those who afflict you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and to give relief to you who are afflicted, along with us, when the Lord Jesus will be revealed from heaven with His mighty angels"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "in flaming fire, dealing out retribution to those who do not know God, and to those who do not obey the gospel of our Lord Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "These people will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His power,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "when He comes to be glorified among His saints on that day, and to be marveled at among all who have believed—because our testimony to you was believed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "To this end also we pray for you always, that our God will consider you worthy of your calling, and fulfill every desire for goodness and the work of faith with power,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "so that the name of our Lord Jesus will be glorified in you, and you in Him, in accordance with the grace of our God and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Thessalonians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Thessalonians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.1"
+        ],
+        "human": "2 Thessalonians 1",
+        "toc": true
+      },
+      "chapter_text": "Now we ask you, brothers and sisters, regarding the coming of our Lord Jesus Christ and our gathering together to Him, that you not be quickly shaken from your composure or be disturbed either by a spirit, or a message, or a letter as if from us, to the effect that the day of the Lord has come. No one is to deceive you in any way! For it will not come unless the apostasy comes first, and the man of lawlessness is revealed, the son of destruction, who opposes and exalts himself above every so-called god or object of worship, so that he takes his seat in the temple of God, displaying himself as being God. Do you not remember that while I was still with you, I was telling you these things? And you know what restrains him now, so that he will be revealed in his time. For the mystery of lawlessness is already at work; only He who now restrains will do so until He is removed. Then that lawless one will be revealed, whom the Lord will eliminate with the breath of His mouth and bring to an end by the appearance of His coming; that is, the one whose coming is in accord with the activity of Satan, with all power and false signs and wonders, and with all the deception of wickedness for those who perish, because they did not accept the love of the truth so as to be saved. For this reason God will send upon them a deluding influence so that they will believe what is false, in order that they all may be judged who did not believe the truth, but took pleasure in wickedness.\n\nBut we should always give thanks to God for you, brothers and sisters beloved by the Lord, because God has chosen you from the beginning for salvation through sanctification by the Spirit and faith in the truth. It was for this He called you through our gospel, that you may obtain the glory of our Lord Jesus Christ. So then, brothers and sisters, stand firm and hold on to the traditions which you were taught, whether by word of mouth or by letter from us.\nNow may our Lord Jesus Christ Himself and God our Father, who has loved us and given us eternal comfort and good hope by grace, comfort and strengthen your hearts in every good work and word.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TH\">\n      <div class=\"chapter ch2\" data-usfm=\"2TH.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Man of Lawlessness</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TH.2.1\"><span class=\"label\">1</span><span class=\"content\">Now we ask you, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> regarding the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:1 </span><span class=\"ft\">Or <span class=\"it\">presence</span></span></span></span><span class=\"content\">coming of our Lord Jesus Christ and our gathering together to Him, </span></span><span class=\"verse v2\" data-usfm=\"2TH.2.2\"><span class=\"label\">2</span><span class=\"content\">that you not be quickly shaken from your </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">Lit <span class=\"it\">mind</span></span></span></span><span class=\"content\">composure or be disturbed either by a spirit, or a </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">Lit <span class=\"it\">word</span></span></span></span><span class=\"content\">message, or a letter as if from us, to the effect that the day of the Lord has come. </span></span><span class=\"verse v3\" data-usfm=\"2TH.2.3\"><span class=\"label\">3</span><span class=\"content\">No one is to deceive you in any way! For </span><span class=\"it\"><span class=\"content\">it will not come</span></span><span class=\"content\"> unless the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">Or <span class=\"it\">falling away</span> from the faith</span></span></span><span class=\"content\">apostasy comes first, and the man of lawlessness is revealed, the son of destruction, </span></span><span class=\"verse v4\" data-usfm=\"2TH.2.4\"><span class=\"label\">4</span><span class=\"content\">who opposes and exalts himself above </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:4 </span><span class=\"ft\">Or <span class=\"it\">everyone who is called God</span></span></span></span><span class=\"content\">every so-called god or object of worship, so that he takes his seat in the temple of God, displaying himself as being God. </span></span><span class=\"verse v5\" data-usfm=\"2TH.2.5\"><span class=\"label\">5</span><span class=\"content\">Do you not remember that while I was still with you, I was telling you these things? </span></span><span class=\"verse v6\" data-usfm=\"2TH.2.6\"><span class=\"label\">6</span><span class=\"content\">And you know what restrains </span><span class=\"it\"><span class=\"content\">him</span></span><span class=\"content\"> now, so that he will be revealed in his time. </span></span><span class=\"verse v7\" data-usfm=\"2TH.2.7\"><span class=\"label\">7</span><span class=\"content\">For the mystery of lawlessness is already at work; only </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or <span class=\"it\">he</span></span></span></span><span class=\"content\">He who now restrains </span><span class=\"it\"><span class=\"content\">will do so</span></span><span class=\"content\"> until </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or <span class=\"it\">he</span></span></span></span><span class=\"content\">He is </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or <span class=\"it\">out of the way</span></span></span></span><span class=\"content\">removed. </span></span><span class=\"verse v8\" data-usfm=\"2TH.2.8\"><span class=\"label\">8</span><span class=\"content\">Then that lawless one will be revealed, whom the Lord will eliminate with the breath of His mouth and bring to an end by the appearance of His </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Or <span class=\"it\">presence</span></span></span></span><span class=\"content\">coming; </span></span><span class=\"verse v9\" data-usfm=\"2TH.2.9\"><span class=\"label\">9</span><span class=\"it\"><span class=\"content\">that is,</span></span><span class=\"content\"> the one whose </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">Or <span class=\"it\">presence</span></span></span></span><span class=\"content\">coming is in accord with the activity of Satan, with all power and false </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">I.e., confirming miracles</span></span></span><span class=\"content\">signs and wonders, </span></span><span class=\"verse v10\" data-usfm=\"2TH.2.10\"><span class=\"label\">10</span><span class=\"content\">and with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:10 </span><span class=\"ft\">Or <span class=\"it\">every deception</span></span></span></span><span class=\"content\">all the deception of wickedness for those who perish, because they did not accept the love of the truth so as to be saved. </span></span><span class=\"verse v11\" data-usfm=\"2TH.2.11\"><span class=\"label\">11</span><span class=\"content\">For this reason God </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Lit <span class=\"it\">is sending</span></span></span></span><span class=\"content\">will send upon them </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Lit <span class=\"it\">an activity of error</span></span></span></span><span class=\"content\">a deluding influence so that they will believe </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:11 </span><span class=\"ft\">Or <span class=\"it\">the lie</span></span></span></span><span class=\"content\">what is false, </span></span><span class=\"verse v12\" data-usfm=\"2TH.2.12\"><span class=\"label\">12</span><span class=\"content\">in order that they all may be </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">Or <span class=\"it\">condemned</span></span></span></span><span class=\"content\">judged who did not believe the truth, but </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">Or <span class=\"it\">approved</span></span></span></span><span class=\"content\">took pleasure in wickedness.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Stand Firm</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"2TH.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TH.2.13\"><span class=\"label\">13</span><span class=\"content\">But we should always give thanks to God for you, brothers </span><span class=\"it\"><span class=\"content\">and sisters</span></span><span class=\"content\"> beloved by the Lord, because God has chosen you </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">One early ms <span class=\"it\">first fruits</span></span></span></span><span class=\"content\">from the beginning for salvation </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Lit <span class=\"it\">in</span></span></span></span><span class=\"content\">through sanctification </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Lit <span class=\"it\">of</span></span></span></span><span class=\"content\">by the Spirit and faith in the truth. </span></span><span class=\"verse v14\" data-usfm=\"2TH.2.14\"><span class=\"label\">14</span><span class=\"content\">It was for this He called you through our gospel, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:14 </span><span class=\"ft\">Lit <span class=\"it\">to the obtaining of</span></span></span></span><span class=\"content\">that you may obtain the glory of our Lord Jesus Christ. </span></span><span class=\"verse v15\" data-usfm=\"2TH.2.15\"><span class=\"label\">15</span><span class=\"content\">So then, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> stand firm and hold on to the traditions which you were taught, whether by word </span><span class=\"it\"><span class=\"content\">of mouth</span></span><span class=\"content\"> or by letter </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Lit <span class=\"it\">of</span></span></span></span><span class=\"content\">from us.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TH.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TH.2.16\"><span class=\"label\">16</span><span class=\"content\">Now may our Lord Jesus Christ Himself and God our Father, who has loved us and given us eternal comfort and good hope by grace, </span></span><span class=\"verse v17\" data-usfm=\"2TH.2.17\"><span class=\"label\">17</span><span class=\"content\">comfort and strengthen your hearts in every good work and word.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Now we ask you, brothers and sisters, regarding the coming of our Lord Jesus Christ and our gathering together to Him,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "that you not be quickly shaken from your composure or be disturbed either by a spirit, or a message, or a letter as if from us, to the effect that the day of the Lord has come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "No one is to deceive you in any way! For it will not come unless the apostasy comes first, and the man of lawlessness is revealed, the son of destruction,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "who opposes and exalts himself above every so-called god or object of worship, so that he takes his seat in the temple of God, displaying himself as being God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Do you not remember that while I was still with you, I was telling you these things?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And you know what restrains him now, so that he will be revealed in his time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For the mystery of lawlessness is already at work; only He who now restrains will do so until He is removed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Then that lawless one will be revealed, whom the Lord will eliminate with the breath of His mouth and bring to an end by the appearance of His coming;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "that is, the one whose coming is in accord with the activity of Satan, with all power and false signs and wonders,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and with all the deception of wickedness for those who perish, because they did not accept the love of the truth so as to be saved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For this reason God will send upon them a deluding influence so that they will believe what is false,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "in order that they all may be judged who did not believe the truth, but took pleasure in wickedness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But we should always give thanks to God for you, brothers and sisters beloved by the Lord, because God has chosen you from the beginning for salvation through sanctification by the Spirit and faith in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "It was for this He called you through our gospel, that you may obtain the glory of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "So then, brothers and sisters, stand firm and hold on to the traditions which you were taught, whether by word of mouth or by letter from us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Now may our Lord Jesus Christ Himself and God our Father, who has loved us and given us eternal comfort and good hope by grace,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "comfort and strengthen your hearts in every good work and word."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TH.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Thessalonians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timothy 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.2"
+        ],
+        "human": "2 Thessalonians 2",
+        "toc": true
+      },
+      "chapter_text": "Finally, brothers and sisters, pray for us that the word of the Lord will spread rapidly and be glorified, just as it was also with you; and that we will be rescued from troublesome and evil people; for not all have the faith. But the Lord is faithful, and He will strengthen and protect you from the evil one. We have confidence in the Lord concerning you, that you are doing, and will do, what we command. May the Lord direct your hearts to the love of God and to the perseverance of Christ.\nNow we command you, brothers and sisters, in the name of our Lord Jesus Christ, that you keep away from every brother or sister who leads a disorderly life and not one in accordance with the tradition which you received from us. For you yourselves know how you ought to follow our example, because we did not act in an undisciplined way among you, nor did we eat anyone’s bread without paying for it, but with labor and hardship we kept working night and day so that we would not be a burden to any of you; not because we do not have the right to this, but in order to offer ourselves as a role model for you, so that you would follow our example. For even when we were with you, we used to give you this order: if anyone is not willing to work, then he is not to eat, either. For we hear that some among you are leading an undisciplined life, doing no work at all, but acting like busybodies. Now we command and exhort such persons in the Lord Jesus Christ to work peacefully and eat their own bread. But as for you, brothers and sisters, do not grow weary of doing good.\nIf anyone does not obey our instruction in this letter, take special note of that person so as not to associate with him, so that he will be put to shame. And yet do not regard that person as an enemy, but admonish that one as a brother or sister.\nNow may the Lord of peace Himself continually grant you peace in every circumstance. The Lord be with you all!\nI, Paul, write this greeting with my own hand, and this is a distinguishing mark in every letter; this is the way I write. The grace of our Lord Jesus Christ be with you all.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TH\">\n      <div class=\"chapter ch3\" data-usfm=\"2TH.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Request for Prayer</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TH.3.1\"><span class=\"label\">1</span><span class=\"content\">Finally, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> pray for us that the word of the Lord will </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:1 </span><span class=\"ft\">Lit <span class=\"it\">run</span></span></span></span><span class=\"content\">spread rapidly and be glorified, just as </span><span class=\"it\"><span class=\"content\">it was</span></span><span class=\"content\"> also with you; </span></span><span class=\"verse v2\" data-usfm=\"2TH.3.2\"><span class=\"label\">2</span><span class=\"content\">and that we will be rescued from troublesome and evil people; for not all have the faith. </span></span><span class=\"verse v3\" data-usfm=\"2TH.3.3\"><span class=\"label\">3</span><span class=\"content\">But the Lord is faithful, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Lit <span class=\"it\">who will</span></span></span></span><span class=\"content\">and He will strengthen and protect you </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Or <span class=\"it\">from evil</span></span></span></span><span class=\"content\">from the evil one. </span></span><span class=\"verse v4\" data-usfm=\"2TH.3.4\"><span class=\"label\">4</span><span class=\"content\">We have confidence in the Lord concerning you, that you are doing, and will do, what we command. </span></span><span class=\"verse v5\" data-usfm=\"2TH.3.5\"><span class=\"label\">5</span><span class=\"content\">May the Lord direct your hearts to the love of God and to the perseverance of Christ.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TH.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TH.3.6\"><span class=\"label\">6</span><span class=\"content\">Now we command you, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> in the name of our Lord Jesus Christ, that you </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Or <span class=\"it\">avoid</span></span></span></span><span class=\"content\">keep away from every brother </span><span class=\"it\"><span class=\"content\">or sister</span></span><span class=\"content\"> who </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Lit <span class=\"it\">walks disorderly</span></span></span></span><span class=\"content\">leads a </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Or <span class=\"it\">undisciplined</span></span></span></span><span class=\"content\">disorderly life and not </span><span class=\"it\"><span class=\"content\">one</span></span><span class=\"content\"> in accordance with the tradition which </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">One early ms <span class=\"it\">they</span></span></span></span><span class=\"content\">you received from us. </span></span><span class=\"verse v7\" data-usfm=\"2TH.3.7\"><span class=\"label\">7</span><span class=\"content\">For you yourselves know how you ought to </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:7 </span><span class=\"ft\">Or <span class=\"it\">imitate us</span></span></span></span><span class=\"content\">follow our example, because we did not act in an undisciplined way among you, </span></span><span class=\"verse v8\" data-usfm=\"2TH.3.8\"><span class=\"label\">8</span><span class=\"content\">nor did we eat </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Lit <span class=\"it\">from anyone</span></span></span></span><span class=\"content\">anyone&#8217;s bread </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Lit <span class=\"it\">freely</span></span></span></span><span class=\"content\">without paying for it, but with labor and hardship we </span><span class=\"it\"><span class=\"content\">kept</span></span><span class=\"content\"> working night and day so that we would not be a burden to any of you; </span></span><span class=\"verse v9\" data-usfm=\"2TH.3.9\"><span class=\"label\">9</span><span class=\"content\">not because we do not have the right </span><span class=\"it\"><span class=\"content\">to this,</span></span><span class=\"content\"> but in order to offer ourselves as a role model for you, so that you would </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:9 </span><span class=\"ft\">Or <span class=\"it\">imitate us</span></span></span></span><span class=\"content\">follow our example. </span></span><span class=\"verse v10\" data-usfm=\"2TH.3.10\"><span class=\"label\">10</span><span class=\"content\">For even when we were with you, we used to give you this order: if anyone is not willing to work, then he is not to eat, either. </span></span><span class=\"verse v11\" data-usfm=\"2TH.3.11\"><span class=\"label\">11</span><span class=\"content\">For we hear that some among you are leading an undisciplined life, doing no work at all, but acting like busybodies. </span></span><span class=\"verse v12\" data-usfm=\"2TH.3.12\"><span class=\"label\">12</span><span class=\"content\">Now we command and exhort such persons in the Lord Jesus Christ to work </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Lit <span class=\"it\">with quietness</span></span></span></span><span class=\"content\">peacefully and eat their own bread. </span></span><span class=\"verse v13\" data-usfm=\"2TH.3.13\"><span class=\"label\">13</span><span class=\"content\">But as for you, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> do not grow weary of doing good.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2TH.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TH.3.14\"><span class=\"label\">14</span><span class=\"content\">If anyone does not obey our </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">Lit <span class=\"it\">word</span></span></span></span><span class=\"content\">instruction </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">Lit <span class=\"it\">through</span></span></span></span><span class=\"content\">in this letter, take special note of that person </span><span class=\"it\"><span class=\"content\">so as</span></span><span class=\"content\"> not to associate with him, so that he will be put to shame. </span></span><span class=\"verse v15\" data-usfm=\"2TH.3.15\"><span class=\"label\">15</span><span class=\"content\">And </span><span class=\"it\"><span class=\"content\">yet</span></span><span class=\"content\"> do not regard </span><span class=\"it\"><span class=\"content\">that person</span></span><span class=\"content\"> as an enemy, but </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"ft\">Or <span class=\"it\">keep admonishing</span></span></span></span><span class=\"content\">admonish </span><span class=\"it\"><span class=\"content\">that one</span></span><span class=\"content\"> as a brother </span><span class=\"it\"><span class=\"content\">or sister.</span></span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TH.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TH.3.16\"><span class=\"label\">16</span><span class=\"content\">Now may the Lord of peace Himself continually grant you peace in every </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">Lit <span class=\"it\">way</span></span></span></span><span class=\"content\">circumstance. The Lord be with you all!</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2TH.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2TH.3.17\"><span class=\"label\">17</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:17 </span><span class=\"ft\">  </span><span class=\"ft\">Lit <span class=\"it\">The greeting by my hand of Paul</span></span><span class=\"ft\">  </span></span></span><span class=\"content\">I, Paul, write this greeting with my own hand, and this is a distinguishing mark in every letter; this is the way I write. </span></span><span class=\"verse v18\" data-usfm=\"2TH.3.18\"><span class=\"label\">18</span><span class=\"content\">The grace of our Lord Jesus Christ be with you all.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Finally, brothers and sisters, pray for us that the word of the Lord will spread rapidly and be glorified, just as it was also with you;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "and that we will be rescued from troublesome and evil people; for not all have the faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "But the Lord is faithful, and He will strengthen and protect you from the evil one."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "We have confidence in the Lord concerning you, that you are doing, and will do, what we command."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "May the Lord direct your hearts to the love of God and to the perseverance of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Now we command you, brothers and sisters, in the name of our Lord Jesus Christ, that you keep away from every brother or sister who leads a disorderly life and not one in accordance with the tradition which you received from us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For you yourselves know how you ought to follow our example, because we did not act in an undisciplined way among you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "nor did we eat anyone’s bread without paying for it, but with labor and hardship we kept working night and day so that we would not be a burden to any of you;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "not because we do not have the right to this, but in order to offer ourselves as a role model for you, so that you would follow our example."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For even when we were with you, we used to give you this order: if anyone is not willing to work, then he is not to eat, either."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For we hear that some among you are leading an undisciplined life, doing no work at all, but acting like busybodies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Now we command and exhort such persons in the Lord Jesus Christ to work peacefully and eat their own bread."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But as for you, brothers and sisters, do not grow weary of doing good."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "If anyone does not obey our instruction in this letter, take special note of that person so as not to associate with him, so that he will be put to shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And yet do not regard that person as an enemy, but admonish that one as a brother or sister."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Now may the Lord of peace Himself continually grant you peace in every circumstance. The Lord be with you all!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "I, Paul, write this greeting with my own hand, and this is a distinguishing mark in every letter; this is the way I write."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "The grace of our Lord Jesus Christ be with you all."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

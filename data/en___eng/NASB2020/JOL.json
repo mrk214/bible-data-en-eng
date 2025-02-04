@@ -1,0 +1,887 @@
+{
+  "book_usfm": "JOL",
+  "name": "Joel",
+  "local_title": "New American Standard Bible - NASB",
+  "local_abbreviation": "NASB2020",
+  "version_id": 2692,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+    "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JOL.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Hosea 14",
+        "toc": true
+      },
+      "chapter_text": "The word of the LORD that came to Joel, the son of Pethuel:\nHear this, you elders,\nAnd listen, all inhabitants of the land.\nHas anything like this happened in your days,\nOr in your fathers’ days?\nTell your sons about it,\nAnd have your sons tell their sons,\nAnd their sons the next generation.\n¶What the gnawing locust has left, the swarming locust has eaten;\nAnd what the swarming locust has left, the creeping locust has eaten;\nAnd what the creeping locust has left, the stripping locust has eaten.\nAwake, you heavy drinkers, and weep;\nAnd wail, all you wine drinkers,\nBecause of the sweet wine,\nFor it has been eliminated from your mouth.\nFor a nation has invaded my land,\nMighty and without number;\nIts teeth are the teeth of a lion,\nAnd it has the jaws of a lioness.\nIt has made my vine a waste\nAnd my fig tree a stump.\nIt has stripped them bare and hurled them away;\nTheir branches have become white.\n¶Wail like a virgin clothed with sackcloth\nFor the groom of her youth.\nThe grain offering and the drink offering have been cut off\nFrom the house of the LORD.\nThe priests mourn,\nThe ministers of the LORD.\nThe field is ruined,\nThe land mourns;\nFor the grain is ruined,\nThe new wine has dried up,\nFresh oil has failed.\nBe ashamed, you farm workers,\nWail, you vinedressers,\nFor the wheat and the barley;\nBecause the harvest of the field is destroyed.\nThe vine has dried up\nAnd the fig tree has withered;\nThe pomegranate, the palm also, and the apple tree,\nAll the trees of the field have dried up.\nIndeed, joy has dried up\nFrom the sons of mankind.\n¶Put on sackcloth\nAnd mourn, you priests;\nWail, you ministers of the altar!\nCome, spend the night in sackcloth,\nYou ministers of my God,\nFor the grain offering and the drink offering\nHave been withheld from the house of your God.\n\nConsecrate a fast,\nProclaim a solemn assembly;\nGather the elders\nAnd all the inhabitants of the land\nTo the house of the LORD your God,\nAnd cry out to the LORD.\nWoe for the day!\nFor the day of the LORD is near,\nAnd it will come as destruction from the Almighty.\nHas food not been cut off before our eyes, and\nJoy and rejoicing from the house of our God?\nThe seeds have dried up under their shovels;\nThe storehouses have become desolate,\nThe grain silos are ruined,\nBecause the grain has dried up.\nHow the animals have groaned!\nThe herds of cattle have wandered aimlessly\nBecause there is no pasture for them;\nEven the flocks of sheep have suffered.\nTo You, LORD, I cry out;\nFor fire has devoured the pastures of the wilderness,\nAnd the flame has burned up all the trees of the field.\nEven the animals of the field pant for You;\nFor the stream beds of water are dried up,\nAnd fire has devoured the pastures of the wilderness.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch1\" data-usfm=\"JOL.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Devastation by Locusts</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.1.1\"><span class=\"label\">1</span><span class=\"content\">The word of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> that came to Joel, the son of Pethuel:</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"label\">2</span><span class=\"content\">Hear this, you elders,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">And listen, all inhabitants of the land.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">Has </span><span class=\"it\"><span class=\"content\">anything like</span></span><span class=\"content\"> this happened in your days,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">Or in your fathers&#8217; days?</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"label\">3</span><span class=\"content\">Tell your sons about it,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"content\">And </span><span class=\"it\"><span class=\"content\">have</span></span><span class=\"content\"> your sons </span><span class=\"it\"><span class=\"content\">tell</span></span><span class=\"content\"> their sons,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"content\">And their sons the next generation.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"label\">4</span><span class=\"content\">&#182;What the gnawing locust has left, the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">Or <span class=\"it\">migratory</span></span></span></span><span class=\"content\">swarming locust has eaten;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">And what the swarming locust has left, the creeping locust has eaten;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">And what the creeping locust has left, the stripping locust has eaten.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"label\">5</span><span class=\"content\">Awake, you heavy drinkers, and weep;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">And wail, all you wine drinkers,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">Because of the sweet wine,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">For it has been eliminated from your mouth.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"label\">6</span><span class=\"content\">For a nation has </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Lit <span class=\"it\">gone up against</span></span></span></span><span class=\"content\">invaded my land,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">Mighty and without number;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">Its teeth are the teeth of a lion,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">And it has the jaws of a lioness.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"label\">7</span><span class=\"content\">It has made my vine a waste</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">And my fig tree a stump.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">It has stripped them bare and hurled </span><span class=\"it\"><span class=\"content\">them</span></span><span class=\"content\"> away;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">Their branches have become white.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"label\">8</span><span class=\"content\">&#182;Wail like a virgin clothed with sackcloth</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"content\">For the groom of her youth.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"label\">9</span><span class=\"content\">The grain offering and the drink offering have been cut off</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">From the house of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">The priests mourn,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">The ministers of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"label\">10</span><span class=\"content\">The field is ruined,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">The land mourns;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">For the grain is ruined,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">The new wine has dried up,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">Fresh oil has </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">Lit <span class=\"it\">dried out</span></span></span></span><span class=\"content\">failed.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"label\">11</span><span class=\"content\">Be ashamed, you farm workers,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">Wail, you vinedressers,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">For the wheat and the barley;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">Because the harvest of the field is destroyed.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"label\">12</span><span class=\"content\">The vine has dried up</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">And the fig tree has withered;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">The pomegranate, the palm also, and the apple tree,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">All the trees of the field have dried up.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">Indeed, joy has dried up</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">From the sons of mankind.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"label\">13</span><span class=\"content\">&#182;Put on </span><span class=\"it\"><span class=\"content\">sackcloth</span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">And mourn, you priests;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Wail, you ministers of the altar!</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Come, spend the night in sackcloth,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">You ministers of my God,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">For the grain offering and the drink offering</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">Have been withheld from the house of your God.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Starvation and Drought</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"label\">14</span><span class=\"content\">Consecrate a fast,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">Proclaim a solemn assembly;</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">Gather the elders</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">And</span></span><span class=\"content\"> all the inhabitants of the land</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">To the house of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">And cry out to the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"label\">15</span><span class=\"content\">Woe for the day!</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"content\">For the day of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> is near,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"content\">And it will come as destruction from the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Heb <span class=\"it\">Shaddai</span></span></span></span><span class=\"content\">Almighty.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"label\">16</span><span class=\"content\">Has food not been cut off before our eyes, </span><span class=\"it\"><span class=\"content\">and</span></span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"content\">Joy and rejoicing from the house of our God?</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"label\">17</span><span class=\"content\">The </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Or <span class=\"it\">dried figs</span></span></span></span><span class=\"content\">seeds have dried up under their shovels;</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">The storehouses have become desolate,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">The grain silos are ruined,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">Because the grain has dried up.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"label\">18</span><span class=\"content\">How the animals have groaned!</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">The herds of cattle have wandered aimlessly</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">Because there is no pasture for them;</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">Even the flocks of sheep have </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:18 </span><span class=\"ft\">Lit <span class=\"it\">suffered punishment</span></span></span></span><span class=\"content\">suffered.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.1.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"label\">19</span><span class=\"content\">To You, L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">, I cry out;</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"content\">For fire has devoured the pastures of the wilderness,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"content\">And the flame has burned up all the trees of the field.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.1.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"label\">20</span><span class=\"content\">Even the animals of the field </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:20 </span><span class=\"ft\">Or <span class=\"it\">long for</span></span></span></span><span class=\"content\">pant for You;</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"content\">For the stream beds of water are dried up,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.1.20\"><span class=\"content\">And fire has devoured the pastures of the wilderness.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the Lord that came to Joel, the son of Pethuel:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Hear this, you elders,",
+            "And listen, all inhabitants of the land.",
+            "Has anything like this happened in your days,",
+            "Or in your fathers’ days?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Tell your sons about it,",
+            "And have your sons tell their sons,",
+            "And their sons the next generation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "¶What the gnawing locust has left, the swarming locust has eaten;",
+            "And what the swarming locust has left, the creeping locust has eaten;",
+            "And what the creeping locust has left, the stripping locust has eaten."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Awake, you heavy drinkers, and weep;",
+            "And wail, all you wine drinkers,",
+            "Because of the sweet wine,",
+            "For it has been eliminated from your mouth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For a nation has invaded my land,",
+            "Mighty and without number;",
+            "Its teeth are the teeth of a lion,",
+            "And it has the jaws of a lioness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "It has made my vine a waste",
+            "And my fig tree a stump.",
+            "It has stripped them bare and hurled them away;",
+            "Their branches have become white."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "¶Wail like a virgin clothed with sackcloth",
+            "For the groom of her youth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The grain offering and the drink offering have been cut off",
+            "From the house of the Lord.",
+            "The priests mourn,",
+            "The ministers of the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "The field is ruined,",
+            "The land mourns;",
+            "For the grain is ruined,",
+            "The new wine has dried up,",
+            "Fresh oil has failed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Be ashamed, you farm workers,",
+            "Wail, you vinedressers,",
+            "For the wheat and the barley;",
+            "Because the harvest of the field is destroyed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "The vine has dried up",
+            "And the fig tree has withered;",
+            "The pomegranate, the palm also, and the apple tree,",
+            "All the trees of the field have dried up.",
+            "Indeed, joy has dried up",
+            "From the sons of mankind."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "¶Put on sackcloth",
+            "And mourn, you priests;",
+            "Wail, you ministers of the altar!",
+            "Come, spend the night in sackcloth,",
+            "You ministers of my God,",
+            "For the grain offering and the drink offering",
+            "Have been withheld from the house of your God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Consecrate a fast,",
+            "Proclaim a solemn assembly;",
+            "Gather the elders",
+            "And all the inhabitants of the land",
+            "To the house of the Lord your God,",
+            "And cry out to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Woe for the day!",
+            "For the day of the Lord is near,",
+            "And it will come as destruction from the Almighty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Has food not been cut off before our eyes, and",
+            "Joy and rejoicing from the house of our God?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The seeds have dried up under their shovels;",
+            "The storehouses have become desolate,",
+            "The grain silos are ruined,",
+            "Because the grain has dried up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "How the animals have groaned!",
+            "The herds of cattle have wandered aimlessly",
+            "Because there is no pasture for them;",
+            "Even the flocks of sheep have suffered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "To You, Lord, I cry out;",
+            "For fire has devoured the pastures of the wilderness,",
+            "And the flame has burned up all the trees of the field."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Even the animals of the field pant for You;",
+            "For the stream beds of water are dried up,",
+            "And fire has devoured the pastures of the wilderness."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "chapter_text": "Blow a trumpet in Zion,\nAnd sound an alarm on My holy mountain!\nLet all the inhabitants of the land tremble,\nFor the day of the LORD is coming;\nIndeed, it is near,\nA day of darkness and gloom,\nA day of clouds and thick darkness.\nAs dawn is spread over the mountains,\nSo there is a great and mighty people;\nThere has never been anything like it,\nNor will there be again after it\nTo the years of many generations.\nA fire consumes before them,\nAnd behind them a flame devours.\nThe land is like the Garden of Eden before them,\nBut a desolate wilderness behind them,\nAnd nothing at all escapes them.\nTheir appearance is like the appearance of horses;\nAnd like war horses, so they run.\nWith a noise as of chariots\nThey leap about on the tops of the mountains,\nLike the crackling of a flame of fire consuming the stubble,\nLike a mighty people drawn up for battle.\nBefore them the people are in anguish;\nAll faces turn pale.\nThey run like warriors,\nThey climb the wall like soldiers;\nAnd each of them marches in line,\nNor do they lose their way.\nThey do not crowd each other,\nEvery warrior of them marches in his path;\nWhen they burst through the defenses,\nThey do not break ranks.\nThey storm the city,\nThey run on the wall;\nThey climb into the houses,\nThey enter through the windows like a thief.\nBefore them the earth quakes,\nThe heavens tremble,\nThe sun and the moon become dark,\nAnd the stars lose their brightness.\nThe LORD utters His voice before His army;\nHis camp is indeed very great,\nFor mighty is one who carries out His word.\nThe day of the LORD is indeed great and very awesome,\nAnd who can endure it?\n“Yet even now,” declares the LORD,\n“Return to Me with all your heart,\nAnd with fasting, weeping, and mourning;\nAnd tear your heart and not merely your garments.”\nNow return to the LORD your God,\nFor He is gracious and compassionate,\nSlow to anger, abounding in mercy\nAnd relenting of catastrophe.\nWho knows, He might turn and relent,\nAnd leave a blessing behind Him,\nResulting in a grain offering and a drink offering\nFor the LORD your God.\nBlow a trumpet in Zion,\nConsecrate a fast, proclaim a solemn assembly,\nGather the people, sanctify the congregation,\nAssemble the elders,\nGather the children and the nursing infants.\nHave the groom come out of his room\nAnd the bride out of her bridal chamber.\nLet the priests, the LORD’S ministers,\nWeep between the porch and the altar,\nAnd let them say, “Spare Your people, LORD,\nAnd do not make Your inheritance a disgrace,\nWith the nations jeering at them.\nWhy should those among the peoples say,\n‘Where is their God?’ ”\n\n¶Then the LORD will be zealous for His land,\nAnd will have compassion for His people.\nThe LORD will answer and say to His people,\n“Behold, I am going to send you grain, new wine, and oil,\nAnd you will be satisfied in full with them;\nAnd I will never again make you a disgrace among the nations.\n“But I will remove the northern army far from you,\nAnd I will drive it into a dry and desolate land,\nIts advance guard into the eastern sea,\nAnd its rear guard into the western sea.\nAnd its stench will ascend and its odor of decay will come up,\nBecause it has done great things.”\n¶Do not fear, land; shout for joy and rejoice,\nFor the LORD has done great things.\nDo not fear, animals of the field,\nFor the pastures of the wilderness have turned green,\nFor the tree has produced its fruit,\nThe fig tree and the vine have yielded in full.\nSo shout for joy, you sons of Zion,\nAnd rejoice in the LORD your God;\nFor He has given you the early rain for your vindication.\nAnd He has brought down for you the rain,\nThe early and latter rain as before.\nThe threshing floors will be full of grain,\nAnd the vats will overflow with the new wine and oil.\n“Then I will compensate you for the years\nThat the swarming locust has eaten,\nThe creeping locust, the stripping locust, and the gnawing locust—\nMy great army which I sent among you.\n“You will have plenty to eat and be satisfied,\nAnd you will praise the name of the LORD your God,\nWho has dealt wondrously with you;\nThen My people will never be put to shame.\n“So you will know that I am in the midst of Israel,\nAnd that I am the LORD your God\nAnd there is no other;\nAnd My people will never be put to shame.\n\n¶“It will come about after this\nThat I will pour out My Spirit on all mankind;\nAnd your sons and your daughters will prophesy,\nYour old men will have dreams,\nYour young men will see visions.\n“And even on the male and female servants\nI will pour out My Spirit in those days.\nORD\n“I will display wonders in the sky and on the earth,\nBlood, fire, and columns of smoke.\n“The sun will be turned into darkness,\nAnd the moon into blood,\nBefore the great and awesome day of the LORD comes.\n“And it will come about that everyone who calls on the name of the LORD\nWill be saved;\nFor on Mount Zion and in Jerusalem\nThere will be those who escape,\nJust as the LORD has said,\nEven among the survivors whom the LORD calls.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch2\" data-usfm=\"JOL.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Terrible Visitation</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"label\">1</span><span class=\"content\">Blow a trumpet in Zion,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">And sound an alarm on My holy mountain!</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">Let all the inhabitants of the land tremble,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">For the day of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> is coming;</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">Indeed, it is near,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"label\">2</span><span class=\"content\">A day of darkness and gloom,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">A day of clouds and thick darkness.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">As dawn is spread over the mountains,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">So</span></span><span class=\"content\"> there is a great and mighty people;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">There has never been </span><span class=\"it\"><span class=\"content\">anything</span></span><span class=\"content\"> like it,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">Nor will there be again after it</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">To the years of many generations.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"label\">3</span><span class=\"content\">A fire consumes before them,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">And behind them a flame devours.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">The land is like the Garden of Eden before them,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">But a desolate wilderness behind them,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">And nothing at all escapes them.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"label\">4</span><span class=\"content\">Their appearance is like the appearance of horses;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"content\">And like war horses, so they run.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JOL.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">  </span><span class=\"ft\">Lit <span class=\"it\">Like the noise of chariots</span></span><span class=\"ft\">  </span></span></span><span class=\"content\">With a noise as of chariots</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">They leap about on the tops of the mountains,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">Like the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:5 </span><span class=\"ft\">Lit <span class=\"it\">sound</span></span></span></span><span class=\"content\">crackling of a flame of fire consuming the stubble,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">Like a mighty people drawn up for battle.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JOL.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"label\">6</span><span class=\"content\">Before them the people are in anguish;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"content\">All faces </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:6 </span><span class=\"ft\">Or <span class=\"it\">become flushed</span></span></span></span><span class=\"content\">turn pale.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JOL.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"label\">7</span><span class=\"content\">They run like warriors,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">They climb the wall like soldiers;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">And each of them marches </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Lit <span class=\"it\">in his ways</span></span></span></span><span class=\"content\">in line,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">Nor do they lose their way.</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JOL.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"label\">8</span><span class=\"content\">They do not crowd each other,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">Every warrior of them marches in his path;</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">When they </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Lit <span class=\"it\">fall</span></span></span></span><span class=\"content\">burst through the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Lit <span class=\"it\">weapon,</span> prob. <span class=\"it\">javelin</span></span></span></span><span class=\"content\">defenses,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">They do not break ranks.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"label\">9</span><span class=\"content\">They storm the city,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">They run on the wall;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">They climb into the houses,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">They enter through the windows like a thief.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"label\">10</span><span class=\"content\">Before them the earth quakes,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">The heavens tremble,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">The sun and the moon become dark,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">And the stars lose their brightness.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"label\">11</span><span class=\"content\">The L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> utters His voice before His army;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">His camp is indeed very great,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">For mighty is one who carries out His word.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">The day of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> is indeed great and very awesome,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">And who can endure it?</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"label\">12</span><span class=\"content\">&#8220;Yet even now,&#8221; declares the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"content\">&#8220;Return to Me with all your heart,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"content\">And with fasting, weeping, and mourning;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"label\">13</span><span class=\"content\">And tear your heart and not </span><span class=\"it\"><span class=\"content\">merely</span></span><span class=\"content\"> your garments.&#8221;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Now return to the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">For He is gracious and compassionate,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">Slow to anger, abounding in mercy</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">And relenting of catastrophe.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"label\">14</span><span class=\"content\">Who knows, He might turn and relent,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">And leave a blessing behind Him,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">Resulting in</span></span><span class=\"content\"> a grain offering and a drink offering</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">For the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"label\">15</span><span class=\"content\">Blow a trumpet in Zion,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"content\">Consecrate a fast, proclaim a solemn assembly,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"label\">16</span><span class=\"content\">Gather the people, sanctify the congregation,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Assemble the elders,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Gather the children and the nursing infants.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">Have the groom come out of his room</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">And the bride out of her bridal chamber.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"label\">17</span><span class=\"content\">Let the priests, the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">&#8217;</span><span class=\"sc\"><span class=\"content\">s</span></span><span class=\"content\"> ministers,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">Weep between the porch and the altar,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">And let them say, &#8220;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Or <span class=\"it\">Look compassionately on</span></span></span></span><span class=\"content\">Spare Your people, L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">And do not make Your inheritance a disgrace,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">With the nations jeering at them.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">Why should </span><span class=\"it\"><span class=\"content\">those</span></span><span class=\"content\"> among the peoples say,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">&#8216;Where is their God?&#8217;&#8201;&#8221;</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Deliverance Promised</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"label\">18</span><span class=\"content\">&#182;Then the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:18 </span><span class=\"ft\">Or <span class=\"it\">was zealous</span></span></span></span><span class=\"content\">will be zealous for His land,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"content\">And </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:18 </span><span class=\"ft\">Or <span class=\"it\">had compassion</span></span></span></span><span class=\"content\">will have compassion for His people.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"label\">19</span><span class=\"content\">The L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:19 </span><span class=\"ft\">Or <span class=\"it\">answered and said</span></span></span></span><span class=\"content\">will answer and say to His people,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">&#8220;Behold, I am going to send you grain, new wine, and oil,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">And you will be satisfied </span><span class=\"it\"><span class=\"content\">in full</span></span><span class=\"content\"> with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:19 </span><span class=\"ft\">Lit <span class=\"it\">it</span></span></span></span><span class=\"content\">them;</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">And I will never again make you a disgrace among the nations.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"label\">20</span><span class=\"content\">&#8220;But I will remove the northern </span><span class=\"it\"><span class=\"content\">army</span></span><span class=\"content\"> far from you,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">And I will drive it into a dry and desolate land,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Its advance guard into the eastern sea,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">And its rear guard into the western sea.</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">And its stench will ascend and its odor of decay will come up,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">Because it has done great things.&#8221;</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.2.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"label\">21</span><span class=\"content\">&#182;Do not fear, land; shout for joy and rejoice,</span></span></div><div class=\"q\"><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"content\">For the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> has done great things.</span></span></div><div class=\"q\"><span class=\"verse v21\" data-usfm=\"JOL.2.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"label\">22</span><span class=\"content\">Do not fear, animals of the field,</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">For the pastures of the wilderness have turned green,</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">For the tree has produced its fruit,</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">The fig tree and the vine have yielded </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:22 </span><span class=\"ft\">Lit <span class=\"it\">their wealth</span></span></span></span><span class=\"content\">in full.</span></span></div><div class=\"q\"><span class=\"verse v22\" data-usfm=\"JOL.2.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"label\">23</span><span class=\"content\">So shout for joy, you sons of Zion,</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">And rejoice in the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God;</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">For He has given you </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">I.e., autumn; or possibly <span class=\"it\">the teacher for righteousness</span></span></span></span><span class=\"content\">the early rain for </span><span class=\"it\"><span class=\"content\">your</span></span><span class=\"content\"> vindication.</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">And He has brought down for you the rain,</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">The </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">I.e., autumn</span></span></span><span class=\"content\">early and </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">I.e., spring</span></span></span><span class=\"content\">latter rain </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">As in ancient versions; MT <span class=\"it\">in the first</span></span></span></span><span class=\"content\">as before.</span></span></div><div class=\"q\"><span class=\"verse v23\" data-usfm=\"JOL.2.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"label\">24</span><span class=\"content\">The threshing floors will be full of grain,</span></span></div><div class=\"q\"><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"content\">And the vats will overflow with the new wine and oil.</span></span></div><div class=\"q\"><span class=\"verse v24\" data-usfm=\"JOL.2.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"label\">25</span><span class=\"content\">&#8220;Then I will compensate you for the years</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">That the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:25 </span><span class=\"ft\">Or <span class=\"it\">migratory</span></span></span></span><span class=\"content\">swarming locust has eaten,</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">The creeping locust, the stripping locust, and the gnawing locust&#8212;</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">My great army which I sent among you.</span></span></div><div class=\"q\"><span class=\"verse v25\" data-usfm=\"JOL.2.25\"><span class=\"content\">  </span></span><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"label\">26</span><span class=\"content\">&#8220;You will have plenty to eat and be satisfied,</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">And you will praise the name of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God,</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">Who has dealt wondrously with you;</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">Then My people will never be put to shame.</span></span></div><div class=\"q\"><span class=\"verse v26\" data-usfm=\"JOL.2.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"label\">27</span><span class=\"content\">&#8220;So you will know that I am in the midst of Israel,</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">And that I am the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">And there is no other;</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">And My people will never be put to shame.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Promise of the Spirit</span></span></div><div class=\"q\"><span class=\"verse v27\" data-usfm=\"JOL.2.27\"><span class=\"content\">  </span></span><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"label\">28</span><span class=\"content\">&#182;&#8220;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:28 </span><span class=\"ft\">Ch 3:1 in Heb</span></span></span><span class=\"content\">It will come about after this</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">That I will pour out My Spirit on all </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:28 </span><span class=\"ft\">Lit <span class=\"it\">flesh</span></span></span></span><span class=\"content\">mankind;</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">And your sons and your daughters will prophesy,</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">Your old men will have dreams,</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">Your young men will see visions.</span></span></div><div class=\"q\"><span class=\"verse v28\" data-usfm=\"JOL.2.28\"><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"label\">29</span><span class=\"content\">&#8220;And even on the male and female servants</span></span></div><div class=\"q\"><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"content\">I will pour out My Spirit in those days.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Day of the L</span><span class=\"sc\"><span class=\"it\"><span class=\"heading\">ord</span></span></span></span></div><div class=\"q\"><span class=\"verse v29\" data-usfm=\"JOL.2.29\"><span class=\"content\">  </span></span><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"label\">30</span><span class=\"content\">&#8220;I will </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:30 </span><span class=\"ft\">Lit <span class=\"it\">give</span></span></span></span><span class=\"content\">display wonders in the sky and on the earth,</span></span></div><div class=\"q\"><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"content\">Blood, fire, and columns of smoke.</span></span></div><div class=\"q\"><span class=\"verse v30\" data-usfm=\"JOL.2.30\"><span class=\"content\">  </span></span><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"label\">31</span><span class=\"content\">&#8220;The sun will be turned into darkness,</span></span></div><div class=\"q\"><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"content\">And the moon into blood,</span></span></div><div class=\"q\"><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"content\">Before the great and awesome day of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> comes.</span></span></div><div class=\"q\"><span class=\"verse v31\" data-usfm=\"JOL.2.31\"><span class=\"content\">  </span></span><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"label\">32</span><span class=\"content\">&#8220;And it will come about </span><span class=\"it\"><span class=\"content\">that</span></span><span class=\"content\"> everyone who calls on the name of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Will </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:32 </span><span class=\"ft\">Or <span class=\"it\">flee to safety</span></span></span></span><span class=\"content\">be saved;</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">For on Mount Zion and in Jerusalem</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">There will be those who escape,</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Just as the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> has said,</span></span></div><div class=\"q\"><span class=\"verse v32\" data-usfm=\"JOL.2.32\"><span class=\"content\">Even among the survivors whom the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> calls.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Blow a trumpet in Zion,",
+            "And sound an alarm on My holy mountain!",
+            "Let all the inhabitants of the land tremble,",
+            "For the day of the Lord is coming;",
+            "Indeed, it is near,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "A day of darkness and gloom,",
+            "A day of clouds and thick darkness.",
+            "As dawn is spread over the mountains,",
+            "So there is a great and mighty people;",
+            "There has never been anything like it,",
+            "Nor will there be again after it",
+            "To the years of many generations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "A fire consumes before them,",
+            "And behind them a flame devours.",
+            "The land is like the Garden of Eden before them,",
+            "But a desolate wilderness behind them,",
+            "And nothing at all escapes them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Their appearance is like the appearance of horses;",
+            "And like war horses, so they run."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "With a noise as of chariots",
+            "They leap about on the tops of the mountains,",
+            "Like the crackling of a flame of fire consuming the stubble,",
+            "Like a mighty people drawn up for battle."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Before them the people are in anguish;",
+            "All faces turn pale."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They run like warriors,",
+            "They climb the wall like soldiers;",
+            "And each of them marches in line,",
+            "Nor do they lose their way."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "They do not crowd each other,",
+            "Every warrior of them marches in his path;",
+            "When they burst through the defenses,",
+            "They do not break ranks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "They storm the city,",
+            "They run on the wall;",
+            "They climb into the houses,",
+            "They enter through the windows like a thief."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Before them the earth quakes,",
+            "The heavens tremble,",
+            "The sun and the moon become dark,",
+            "And the stars lose their brightness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The Lord utters His voice before His army;",
+            "His camp is indeed very great,",
+            "For mighty is one who carries out His word.",
+            "The day of the Lord is indeed great and very awesome,",
+            "And who can endure it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "“Yet even now,” declares the Lord,",
+            "“Return to Me with all your heart,",
+            "And with fasting, weeping, and mourning;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And tear your heart and not merely your garments.”",
+            "Now return to the Lord your God,",
+            "For He is gracious and compassionate,",
+            "Slow to anger, abounding in mercy",
+            "And relenting of catastrophe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Who knows, He might turn and relent,",
+            "And leave a blessing behind Him,",
+            "Resulting in a grain offering and a drink offering",
+            "For the Lord your God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Blow a trumpet in Zion,",
+            "Consecrate a fast, proclaim a solemn assembly,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Gather the people, sanctify the congregation,",
+            "Assemble the elders,",
+            "Gather the children and the nursing infants.",
+            "Have the groom come out of his room",
+            "And the bride out of her bridal chamber."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Let the priests, the Lord’s ministers,",
+            "Weep between the porch and the altar,",
+            "And let them say, “Spare Your people, Lord,",
+            "And do not make Your inheritance a disgrace,",
+            "With the nations jeering at them.",
+            "Why should those among the peoples say,",
+            "‘Where is their God?’ ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¶Then the Lord will be zealous for His land,",
+            "And will have compassion for His people."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "The Lord will answer and say to His people,",
+            "“Behold, I am going to send you grain, new wine, and oil,",
+            "And you will be satisfied in full with them;",
+            "And I will never again make you a disgrace among the nations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "“But I will remove the northern army far from you,",
+            "And I will drive it into a dry and desolate land,",
+            "Its advance guard into the eastern sea,",
+            "And its rear guard into the western sea.",
+            "And its stench will ascend and its odor of decay will come up,",
+            "Because it has done great things.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "¶Do not fear, land; shout for joy and rejoice,",
+            "For the Lord has done great things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Do not fear, animals of the field,",
+            "For the pastures of the wilderness have turned green,",
+            "For the tree has produced its fruit,",
+            "The fig tree and the vine have yielded in full."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "So shout for joy, you sons of Zion,",
+            "And rejoice in the Lord your God;",
+            "For He has given you the early rain for your vindication.",
+            "And He has brought down for you the rain,",
+            "The early and latter rain as before."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "The threshing floors will be full of grain,",
+            "And the vats will overflow with the new wine and oil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "“Then I will compensate you for the years",
+            "That the swarming locust has eaten,",
+            "The creeping locust, the stripping locust, and the gnawing locust—",
+            "My great army which I sent among you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "“You will have plenty to eat and be satisfied,",
+            "And you will praise the name of the Lord your God,",
+            "Who has dealt wondrously with you;",
+            "Then My people will never be put to shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "“So you will know that I am in the midst of Israel,",
+            "And that I am the Lord your God",
+            "And there is no other;",
+            "And My people will never be put to shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "¶“It will come about after this",
+            "That I will pour out My Spirit on all mankind;",
+            "And your sons and your daughters will prophesy,",
+            "Your old men will have dreams,",
+            "Your young men will see visions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "“And even on the male and female servants",
+            "I will pour out My Spirit in those days."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "“I will display wonders in the sky and on the earth,",
+            "Blood, fire, and columns of smoke."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 31,
+          "lines": [
+            "“The sun will be turned into darkness,",
+            "And the moon into blood,",
+            "Before the great and awesome day of the Lord comes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 32,
+          "lines": [
+            "“And it will come about that everyone who calls on the name of the Lord",
+            "Will be saved;",
+            "For on Mount Zion and in Jerusalem",
+            "There will be those who escape,",
+            "Just as the Lord has said,",
+            "Even among the survivors whom the Lord calls."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JOL.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JOL.3"
+        ],
+        "human": "Joel 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "AMO.1"
+        ],
+        "human": "Amos 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JOL.2"
+        ],
+        "human": "Joel 2",
+        "toc": true
+      },
+      "chapter_text": "“For behold, in those days and at that time,\nWhen I restore the fortunes of Judah and Jerusalem,\nI will gather all the nations\nAnd bring them down to the Valley of Jehoshaphat.\nThen I will enter into judgment with them there\nOn behalf of My people and My inheritance, Israel,\nWhom they have scattered among the nations;\nAnd they have divided up My land.\n“They have also cast lots for My people,\nTraded a boy for a prostitute,\nAnd sold a girl for wine so that they may drink.\nMoreover, what are you to Me, Tyre, Sidon, and all the regions of Philistia? Are you repaying Me with retribution? But if you are showing Me retribution, swiftly and speedily I will return your retribution on your head! Since you have taken My silver and My gold, brought My precious treasures to your temples, and sold the sons of Judah and Jerusalem to the Greeks in order to remove them far from their territory, behold, I am going to stir them up from the place where you have sold them, and return your retribution on your head. I will also sell your sons and your daughters into the hand of the sons of Judah, and they will sell them to the Sabeans, to a distant nation,” for the LORD has spoken.\n¶Proclaim this among the nations:\nPrepare for holy war; stir up the warriors!\nHave all the soldiers come forward, have them come up!\nBeat your plowshares into swords,\nAnd your pruning hooks into spears;\nLet the weak man say, “I am a warrior.”\nHurry and come, all you surrounding nations,\nAnd gather yourselves there.\nBring down, LORD, Your warriors.\nLet the nations be awakened\nAnd come up to the Valley of Jehoshaphat,\nFor there I will sit to judge\nAll the surrounding nations.\nPut in the sickle, for the harvest is ripe.\nCome, tread the grapes, for the wine press is full;\nThe vats overflow, for their wickedness is great.\nMultitudes, multitudes in the valley of decision!\nFor the day of the LORD is near in the valley of decision.\nThe sun and moon have become dark,\nAnd the stars have lost their brightness.\nThe LORD roars from Zion\nAnd utters His voice from Jerusalem,\nAnd the heavens and the earth quake.\nBut the LORD is a refuge for His people,\nAnd a stronghold for the sons of Israel.\nThen you will know that I am the LORD your God,\nDwelling on Zion, My holy mountain.\nSo Jerusalem will be holy,\nAnd strangers will no longer pass through it.\n\n¶And on that day\nThe mountains will drip with sweet wine,\nAnd the hills will flow with milk,\nAnd all the brooks of Judah will flow with water;\nAnd a spring will go out from the house of the LORD\nAnd water the Valley of Shittim.\nEgypt will become a wasteland,\nAnd Edom will become a desolate wilderness,\nBecause of the violence done to the sons of Judah,\nIn whose land they have shed innocent blood.\nBut Judah will be inhabited forever,\nAnd Jerusalem for all generations.\nAnd I will avenge their blood which I have not avenged,\nFor the LORD dwells in Zion.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkJOL\">\n      <div class=\"chapter ch3\" data-usfm=\"JOL.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Nations Will Be Judged</span></span></div><div class=\"q\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"label\">1</span><span class=\"content\">&#8220;</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:1 </span><span class=\"ft\">Ch 4:1 in Heb</span></span></span><span class=\"content\">For behold, in those days and at that time,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"content\">When I restore the fortunes of Judah and Jerusalem,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"JOL.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"label\">2</span><span class=\"content\">I will gather all the nations</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">And bring them down to the Valley of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:2 </span><span class=\"ft\">I.e., YHWH judges</span></span></span><span class=\"content\">Jehoshaphat.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">Then I will enter into judgment with them there</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">On behalf of My people and My inheritance, Israel,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">Whom they have scattered among the nations;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">And they have divided up My land.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JOL.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"label\">3</span><span class=\"content\">&#8220;They have also cast lots for My people,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">  </span><span class=\"ft\">Lit <span class=\"it\">Given</span></span><span class=\"ft\">  </span></span></span><span class=\"content\">Traded a boy for a prostitute,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">And sold a girl for wine so that they may drink.</span></span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"JOL.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JOL.3.4\"><span class=\"label\">4</span><span class=\"content\">Moreover, what are you to Me, Tyre, Sidon, and all the regions of Philistia? Are you repaying Me with retribution? But if you are showing Me </span><span class=\"it\"><span class=\"content\">retribution,</span></span><span class=\"content\"> swiftly and speedily I will return your retribution on your head! </span></span><span class=\"verse v5\" data-usfm=\"JOL.3.5\"><span class=\"label\">5</span><span class=\"content\">Since you have taken My silver and My gold, brought My precious </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:5 </span><span class=\"ft\">Lit <span class=\"it\">goodly things</span></span></span></span><span class=\"content\">treasures to your temples, </span></span><span class=\"verse v6\" data-usfm=\"JOL.3.6\"><span class=\"label\">6</span><span class=\"content\">and sold the sons of Judah and Jerusalem to the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Lit <span class=\"it\">sons of Javan</span></span></span></span><span class=\"content\">Greeks in order to remove them far from their territory, </span></span><span class=\"verse v7\" data-usfm=\"JOL.3.7\"><span class=\"label\">7</span><span class=\"content\">behold, I am going to stir them up from the place where you have sold them, and return your retribution on your head. </span></span><span class=\"verse v8\" data-usfm=\"JOL.3.8\"><span class=\"label\">8</span><span class=\"content\">I will also sell your sons and your daughters into the hand of the sons of Judah, and they will sell them to the Sabeans, to a distant nation,&#8221; for the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> has spoken.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JOL.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"label\">9</span><span class=\"content\">&#182;Proclaim this among the nations:</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"content\">Prepare for holy war; stir up the warriors!</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"content\">Have all the soldiers come forward, have them come up!</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JOL.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"label\">10</span><span class=\"content\">Beat your plowshares into swords,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"content\">And your pruning hooks into spears;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"content\">Let the weak </span><span class=\"it\"><span class=\"content\">man</span></span><span class=\"content\"> say, &#8220;I am a warrior.&#8221;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"JOL.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"label\">11</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">  </span><span class=\"ft\">Or <span class=\"it\">Come help</span></span><span class=\"ft\">  </span></span></span><span class=\"content\">Hurry and come, all you surrounding nations,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">And gather yourselves there.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">Bring down, L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\">, Your warriors.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"JOL.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"label\">12</span><span class=\"content\">Let the nations be awakened</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">And come up to the Valley of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">I.e., YHWH judges</span></span></span><span class=\"content\">Jehoshaphat,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">For there I will sit to judge</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">All the surrounding nations.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"JOL.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"label\">13</span><span class=\"content\">Put in the sickle, for the harvest is ripe.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">Come, tread </span><span class=\"it\"><span class=\"content\">the grapes,</span></span><span class=\"content\"> for the wine press is full;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">The vats overflow, for their wickedness is great.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"JOL.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"label\">14</span><span class=\"content\">Multitudes, multitudes in the valley of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">I.e., God&#8217;s verdict</span></span></span><span class=\"content\">decision!</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"content\">For the day of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> is near in the valley of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:14 </span><span class=\"ft\">I.e., God&#8217;s verdict</span></span></span><span class=\"content\">decision.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"JOL.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"label\">15</span><span class=\"content\">The sun and moon have become dark,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"content\">And the stars have lost their brightness.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"JOL.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"label\">16</span><span class=\"content\">The L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> roars from Zion</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">And utters His voice from Jerusalem,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">And the heavens and the earth quake.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">But the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> is a refuge for His people,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">And a stronghold for the sons of Israel.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"JOL.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"label\">17</span><span class=\"content\">Then you will know that I am the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> your God,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">Dwelling on Zion, My holy mountain.</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">So Jerusalem will be holy,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">And strangers will no longer pass through it.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Judah Will Be Blessed</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"JOL.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"label\">18</span><span class=\"content\">&#182;And on that day</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">The mountains will drip with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:18 </span><span class=\"ft\">Lit <span class=\"it\">freshly pressed-out grape juice</span></span></span></span><span class=\"content\">sweet wine,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">And the hills will flow with milk,</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">And all the brooks of Judah will flow with water;</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">And a spring will go out from the house of the L</span><span class=\"sc\"><span class=\"content\">ord</span></span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">And water the Valley of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:18 </span><span class=\"ft\">Or <span class=\"it\">acacias</span></span></span></span><span class=\"content\">Shittim.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"JOL.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"label\">19</span><span class=\"content\">Egypt will become a wasteland,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">And Edom will become a desolate wilderness,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">Because of the violence </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:19 </span><span class=\"ft\">Lit <span class=\"it\">of the sons</span></span></span></span><span class=\"content\">done to the sons of Judah,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">In whose land they have shed innocent blood.</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"JOL.3.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"label\">20</span><span class=\"content\">But Judah will be inhabited forever,</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"content\">And Jerusalem for all generations.</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"JOL.3.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"JOL.3.21\"><span class=\"label\">21</span><span class=\"content\">And I will avenge their blood </span><span class=\"it\"><span class=\"content\">which</span></span><span class=\"content\"> I have not avenged,</span></span></div><div class=\"q\"><span class=\"verse v21\" data-usfm=\"JOL.3.21\"><span class=\"content\">For the L</span><span class=\"sc\"><span class=\"content\">ord</span></span><span class=\"content\"> dwells in Zion.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "“For behold, in those days and at that time,",
+            "When I restore the fortunes of Judah and Jerusalem,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I will gather all the nations",
+            "And bring them down to the Valley of Jehoshaphat.",
+            "Then I will enter into judgment with them there",
+            "On behalf of My people and My inheritance, Israel,",
+            "Whom they have scattered among the nations;",
+            "And they have divided up My land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "“They have also cast lots for My people,",
+            "Traded a boy for a prostitute,",
+            "And sold a girl for wine so that they may drink."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Moreover, what are you to Me, Tyre, Sidon, and all the regions of Philistia? Are you repaying Me with retribution? But if you are showing Me retribution, swiftly and speedily I will return your retribution on your head!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Since you have taken My silver and My gold, brought My precious treasures to your temples,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and sold the sons of Judah and Jerusalem to the Greeks in order to remove them far from their territory,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "behold, I am going to stir them up from the place where you have sold them, and return your retribution on your head."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I will also sell your sons and your daughters into the hand of the sons of Judah, and they will sell them to the Sabeans, to a distant nation,” for the Lord has spoken."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "¶Proclaim this among the nations:",
+            "Prepare for holy war; stir up the warriors!",
+            "Have all the soldiers come forward, have them come up!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Beat your plowshares into swords,",
+            "And your pruning hooks into spears;",
+            "Let the weak man say, “I am a warrior.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Hurry and come, all you surrounding nations,",
+            "And gather yourselves there.",
+            "Bring down, Lord, Your warriors."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Let the nations be awakened",
+            "And come up to the Valley of Jehoshaphat,",
+            "For there I will sit to judge",
+            "All the surrounding nations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Put in the sickle, for the harvest is ripe.",
+            "Come, tread the grapes, for the wine press is full;",
+            "The vats overflow, for their wickedness is great."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Multitudes, multitudes in the valley of decision!",
+            "For the day of the Lord is near in the valley of decision."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The sun and moon have become dark,",
+            "And the stars have lost their brightness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "The Lord roars from Zion",
+            "And utters His voice from Jerusalem,",
+            "And the heavens and the earth quake.",
+            "But the Lord is a refuge for His people,",
+            "And a stronghold for the sons of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Then you will know that I am the Lord your God,",
+            "Dwelling on Zion, My holy mountain.",
+            "So Jerusalem will be holy,",
+            "And strangers will no longer pass through it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "¶And on that day",
+            "The mountains will drip with sweet wine,",
+            "And the hills will flow with milk,",
+            "And all the brooks of Judah will flow with water;",
+            "And a spring will go out from the house of the Lord",
+            "And water the Valley of Shittim."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Egypt will become a wasteland,",
+            "And Edom will become a desolate wilderness,",
+            "Because of the violence done to the sons of Judah,",
+            "In whose land they have shed innocent blood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "But Judah will be inhabited forever,",
+            "And Jerusalem for all generations."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "And I will avenge their blood which I have not avenged,",
+            "For the Lord dwells in Zion."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "book_usfm": "JUD",
+  "name": "Jude",
+  "local_title": "New American Standard Bible - NASB",
+  "local_abbreviation": "NASB2020",
+  "version_id": 2692,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+    "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JUD.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Jude 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "REV.1"
+        ],
+        "human": "Revelation 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1",
+        "toc": true
+      },
+      "chapter_text": "Jude, a bond-servant of Jesus Christ and brother of James,\nT o those who are the called, beloved in God the Father, and kept for Jesus Christ: May mercy, peace, and love be multiplied to you.\nBeloved, while I was making every effort to write you about our common salvation, I felt the necessity to write to you appealing that you contend earnestly for the faith that was once for all time handed down to the saints. For certain people have crept in unnoticed, those who were long beforehand marked out for this condemnation, ungodly persons who turn the grace of our God into indecent behavior and deny our only Master and Lord, Jesus Christ.\nNow I want to remind you, though you know everything once and for all, that the Lord, after saving a people out of the land of Egypt, subsequently destroyed those who did not believe. And angels who did not keep their own domain but abandoned their proper dwelling place, these He has kept in eternal restraints under darkness for the judgment of the great day, just as Sodom and Gomorrah and the cities around them, since they in the same way as these angels indulged in sexual perversion and went after strange flesh, are exhibited as an example in undergoing the punishment of eternal fire.\nYet in the same way these people also, dreaming, defile the flesh, reject authority, and speak abusively of angelic majesties. But Michael the archangel, when he disputed with the devil and argued about the body of Moses, did not dare pronounce against him an abusive judgment, but said, “The Lord rebuke you!” But these people disparage all the things that they do not understand; and all the things that they know by instinct, like unreasoning animals, by these things they are destroyed. Woe to them! For they have gone the way of Cain, and for pay they have given themselves up to the error of Balaam, and perished in the rebellion of Korah. These are the ones who are hidden reefs in your love feasts when they feast with you without fear, like shepherds caring only for themselves; clouds without water, carried along by winds; autumn trees without fruit, doubly dead, uprooted; wild waves of the sea, churning up their own shameful deeds like dirty foam; wandering stars, for whom the gloom of darkness has been reserved forever.\nIt was also about these people that Enoch, in the seventh generation from Adam, prophesied, saying, “Behold, the Lord has come with many thousands of His holy ones, to execute judgment upon all, and to convict all the ungodly of all their ungodly deeds which they have done in an ungodly way, and of all the harsh things which ungodly sinners have spoken against Him.” These are grumblers, finding fault, following after their own lusts; they speak arrogantly, flattering people for the sake of gaining an advantage.\n\nBut you, beloved, ought to remember the words that were spoken beforehand by the apostles of our Lord Jesus Christ, that they were saying to you, “In the last time there will be mockers, following after their own ungodly lusts.” These are the ones who cause divisions, worldly-minded, devoid of the Spirit. But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit, keep yourselves in the love of God, looking forward to the mercy of our Lord Jesus Christ to eternal life. And have mercy on some, who are doubting; save others, snatching them out of the fire; and on some have mercy with fear, hating even the garment polluted by the flesh.\nNow to Him who is able to protect you from stumbling, and to make you stand in the presence of His glory, blameless with great joy, to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority before all time and now and forever. Amen.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkJUD\">\n      <div class=\"chapter ch1\" data-usfm=\"JUD.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Warnings of History to the Ungodly</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">  </span><span class=\"ft\">Gr <span class=\"it\">Judas</span></span><span class=\"ft\">  </span></span></span><span class=\"content\">Jude, a bond-servant of Jesus Christ and brother of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Or <span class=\"it\">Jacob</span></span></span></span><span class=\"content\">James,</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">T</span></span><span class=\"content\">o those who are the called, beloved in God the Father, and kept for Jesus Christ: </span></span><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"label\">2</span><span class=\"content\">May mercy, peace, and love be multiplied to you.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JUD.1.3\"><span class=\"label\">3</span><span class=\"content\">Beloved, while I was making every effort to write you about our common salvation, I felt the necessity to write to you appealing that you contend earnestly for the faith that was once for all </span><span class=\"it\"><span class=\"content\">time</span></span><span class=\"content\"> handed down to the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"ft\">Lit <span class=\"it\">holy ones;</span> i.e., God&#8217;s people</span></span></span><span class=\"content\">saints. </span></span><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"label\">4</span><span class=\"content\">For certain people have crept in unnoticed, those who were long beforehand </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:4 </span><span class=\"ft\">Or <span class=\"it\">written about regarding this</span></span></span></span><span class=\"content\">marked out for this condemnation, ungodly persons who turn the grace of our God into indecent behavior and deny our only Master and Lord, Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JUD.1.5\"><span class=\"label\">5</span><span class=\"content\">Now I want to remind you, though you know everything once </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> for all, that </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">One early ms <span class=\"it\">Jesus</span></span></span></span><span class=\"content\">the Lord, after saving a people out of the land of Egypt, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Lit <span class=\"it\">the second time</span></span></span></span><span class=\"content\">subsequently destroyed those who did not believe. </span></span><span class=\"verse v6\" data-usfm=\"JUD.1.6\"><span class=\"label\">6</span><span class=\"content\">And angels who did not keep their own domain but abandoned their proper dwelling place, </span><span class=\"it\"><span class=\"content\">these</span></span><span class=\"content\"> He has kept in eternal restraints under darkness for the judgment of the great day, </span></span><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"label\">7</span><span class=\"content\">just as Sodom and Gomorrah and the cities around them, since they in the same way as these </span><span class=\"it\"><span class=\"content\">angels</span></span><span class=\"content\"> indulged in sexual perversion and went after </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit <span class=\"it\">different;</span> or <span class=\"it\">other flesh</span></span></span></span><span class=\"content\">strange flesh, are exhibited as an </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Or <span class=\"it\">example of eternal fire, in undergoing punishment</span></span></span></span><span class=\"content\">example in undergoing the punishment of eternal fire.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JUD.1.8\"><span class=\"label\">8</span><span class=\"content\">Yet in the same way these people also, dreaming, defile the flesh, reject authority, and speak abusively of </span><span class=\"it\"><span class=\"content\">angelic</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8 </span><span class=\"ft\">Lit <span class=\"it\">glories</span></span></span></span><span class=\"content\">majesties. </span></span><span class=\"verse v9\" data-usfm=\"JUD.1.9\"><span class=\"label\">9</span><span class=\"content\">But Michael the archangel, when he disputed with the devil and argued about the body of Moses, did not dare pronounce against him an abusive judgment, but said, &#8220;The Lord rebuke you!&#8221; </span></span><span class=\"verse v10\" data-usfm=\"JUD.1.10\"><span class=\"label\">10</span><span class=\"content\">But these people disparage all the things that they do not understand; and all the things that they know by instinct, like unreasoning animals, by these things they are destroyed. </span></span><span class=\"verse v11\" data-usfm=\"JUD.1.11\"><span class=\"label\">11</span><span class=\"content\">Woe to them! For they have gone the way of Cain, and for pay </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:11 </span><span class=\"ft\">Lit <span class=\"it\">they have poured themselves out</span></span></span></span><span class=\"content\">they have given themselves up to the error of Balaam, and perished in the rebellion of Korah. </span></span><span class=\"verse v12\" data-usfm=\"JUD.1.12\"><span class=\"label\">12</span><span class=\"content\">These are the ones who are </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Or <span class=\"it\">stains</span></span></span></span><span class=\"content\">hidden reefs in your love feasts when they feast with you without fear, </span><span class=\"it\"><span class=\"content\">like shepherds</span></span><span class=\"content\"> caring </span><span class=\"it\"><span class=\"content\">only</span></span><span class=\"content\"> for themselves; clouds without water, carried along by winds; autumn trees without fruit, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Lit <span class=\"it\">twice</span></span></span></span><span class=\"content\">doubly dead, uprooted; </span></span><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"label\">13</span><span class=\"content\">wild waves of the sea, churning up their own shameful deeds like </span><span class=\"it\"><span class=\"content\">dirty</span></span><span class=\"content\"> foam; wandering stars, for whom the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:13 </span><span class=\"ft\">Or <span class=\"it\">netherworld gloom</span></span></span></span><span class=\"content\">gloom of darkness has been reserved forever.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JUD.1.14\"><span class=\"label\">14</span><span class=\"content\">  </span><span class=\"it\"><span class=\"content\">It was</span></span><span class=\"content\"> also about these people </span><span class=\"it\"><span class=\"content\">that</span></span><span class=\"content\"> Enoch, </span><span class=\"it\"><span class=\"content\">in the</span></span><span class=\"content\"> seventh </span><span class=\"it\"><span class=\"content\">generation</span></span><span class=\"content\"> from Adam, prophesied, saying, &#8220;Behold, the Lord has come with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:14 </span><span class=\"ft\">Lit <span class=\"it\">His holy ten thousands</span></span></span></span><span class=\"content\">many thousands of His holy ones, </span></span><span class=\"verse v15\" data-usfm=\"JUD.1.15\"><span class=\"label\">15</span><span class=\"content\">to execute judgment upon all, and to convict all the ungodly of all their ungodly deeds which they have done in an ungodly way, and of all the harsh things which ungodly sinners have spoken against Him.&#8221; </span></span><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"label\">16</span><span class=\"content\">These are grumblers, finding fault, following after their </span><span class=\"it\"><span class=\"content\">own</span></span><span class=\"content\"> lusts; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:16 </span><span class=\"ft\">Lit <span class=\"it\">their mouth speaks</span></span></span></span><span class=\"content\">they speak arrogantly, flattering people for the sake of </span><span class=\"it\"><span class=\"content\">gaining an</span></span><span class=\"content\"> advantage.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Keep Yourselves in the Love of God</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JUD.1.17\"><span class=\"label\">17</span><span class=\"content\">But you, beloved, ought to remember the words that were spoken beforehand by the apostles of our Lord Jesus Christ, </span></span><span class=\"verse v18\" data-usfm=\"JUD.1.18\"><span class=\"label\">18</span><span class=\"content\">that they were saying to you, &#8220;In the last time there will be mockers, following after their own ungodly lusts.&#8221; </span></span><span class=\"verse v19\" data-usfm=\"JUD.1.19\"><span class=\"label\">19</span><span class=\"content\">These are the ones who cause divisions, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:19 </span><span class=\"ft\">Or <span class=\"it\">merely natural</span></span></span></span><span class=\"content\">worldly-minded, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:19 </span><span class=\"ft\">Lit <span class=\"it\">not having</span></span></span></span><span class=\"content\">devoid of the Spirit. </span></span><span class=\"verse v20\" data-usfm=\"JUD.1.20\"><span class=\"label\">20</span><span class=\"content\">But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit, </span></span><span class=\"verse v21\" data-usfm=\"JUD.1.21\"><span class=\"label\">21</span><span class=\"content\">keep yourselves in the love of God, looking forward to the mercy of our Lord Jesus Christ to eternal life. </span></span><span class=\"verse v22\" data-usfm=\"JUD.1.22\"><span class=\"label\">22</span><span class=\"content\">And have mercy on some, who are doubting; </span></span><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"label\">23</span><span class=\"content\">save others, snatching them out of the fire; and on some have mercy with fear, hating even the garment polluted by the flesh.</span></span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"JUD.1.24\"><span class=\"label\">24</span><span class=\"content\">Now to Him who is able to protect you from stumbling, and to make you stand in the presence of His glory, blameless with great joy, </span></span><span class=\"verse v25\" data-usfm=\"JUD.1.25\"><span class=\"label\">25</span><span class=\"content\">to the only God our Savior, through Jesus Christ our Lord, </span><span class=\"it\"><span class=\"content\">be</span></span><span class=\"content\"> glory, majesty, dominion, and authority before all time and now and </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:25 </span><span class=\"ft\">Lit <span class=\"it\">to all the ages</span></span></span></span><span class=\"content\">forever. Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Jude, a bond-servant of Jesus Christ and brother of James,",
+            "To those who are the called, beloved in God the Father, and kept for Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "May mercy, peace, and love be multiplied to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Beloved, while I was making every effort to write you about our common salvation, I felt the necessity to write to you appealing that you contend earnestly for the faith that was once for all time handed down to the saints."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For certain people have crept in unnoticed, those who were long beforehand marked out for this condemnation, ungodly persons who turn the grace of our God into indecent behavior and deny our only Master and Lord, Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Now I want to remind you, though you know everything once and for all, that the Lord, after saving a people out of the land of Egypt, subsequently destroyed those who did not believe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And angels who did not keep their own domain but abandoned their proper dwelling place, these He has kept in eternal restraints under darkness for the judgment of the great day,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "just as Sodom and Gomorrah and the cities around them, since they in the same way as these angels indulged in sexual perversion and went after strange flesh, are exhibited as an example in undergoing the punishment of eternal fire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Yet in the same way these people also, dreaming, defile the flesh, reject authority, and speak abusively of angelic majesties."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But Michael the archangel, when he disputed with the devil and argued about the body of Moses, did not dare pronounce against him an abusive judgment, but said, “The Lord rebuke you!”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But these people disparage all the things that they do not understand; and all the things that they know by instinct, like unreasoning animals, by these things they are destroyed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Woe to them! For they have gone the way of Cain, and for pay they have given themselves up to the error of Balaam, and perished in the rebellion of Korah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "These are the ones who are hidden reefs in your love feasts when they feast with you without fear, like shepherds caring only for themselves; clouds without water, carried along by winds; autumn trees without fruit, doubly dead, uprooted;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "wild waves of the sea, churning up their own shameful deeds like dirty foam; wandering stars, for whom the gloom of darkness has been reserved forever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "It was also about these people that Enoch, in the seventh generation from Adam, prophesied, saying, “Behold, the Lord has come with many thousands of His holy ones,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "to execute judgment upon all, and to convict all the ungodly of all their ungodly deeds which they have done in an ungodly way, and of all the harsh things which ungodly sinners have spoken against Him.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "These are grumblers, finding fault, following after their own lusts; they speak arrogantly, flattering people for the sake of gaining an advantage."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But you, beloved, ought to remember the words that were spoken beforehand by the apostles of our Lord Jesus Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "that they were saying to you, “In the last time there will be mockers, following after their own ungodly lusts.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "These are the ones who cause divisions, worldly-minded, devoid of the Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "keep yourselves in the love of God, looking forward to the mercy of our Lord Jesus Christ to eternal life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "And have mercy on some, who are doubting;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "save others, snatching them out of the fire; and on some have mercy with fear, hating even the garment polluted by the flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Now to Him who is able to protect you from stumbling, and to make you stand in the presence of His glory, blameless with great joy,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority before all time and now and forever. Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "book_usfm": "PHP",
+  "name": "Philippians",
+  "local_title": "New American Standard Bible - NASB",
+  "local_abbreviation": "NASB2020",
+  "version_id": 2692,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+    "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "PHP.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.1"
+        ],
+        "human": "Philippians 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.2"
+        ],
+        "human": "Philippians 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "EPH.6"
+        ],
+        "human": "Ephesians 6",
+        "toc": true
+      },
+      "chapter_text": "Paul and Timothy, bond-servants of Christ Jesus,\nT o all the saints in Christ Jesus who are in Philippi, including the overseers and deacons: Grace to you and peace from God our Father and the Lord Jesus Christ.\nI thank my God in all my remembrance of you, always offering prayer with joy in my every prayer for you all, in view of your participation in the gospel from the first day until now. For I am confident of this very thing, that He who began a good work among you will complete it by the day of Christ Jesus. For it is only right for me to feel this way about you all, because I have you in my heart, since both in my imprisonment and in the defense and confirmation of the gospel, you all are partakers of grace with me. For God is my witness, how I long for you all with the affection of Christ Jesus. And this I pray, that your love may overflow still more and more in real knowledge and all discernment, so that you may discover the things that are excellent, that you may be sincere and blameless for the day of Christ; having been filled with the fruit of righteousness which comes through Jesus Christ, for the glory and praise of God.\n\nNow I want you to know, brothers and sisters, that my circumstances have turned out for the greater progress of the gospel, so that my imprisonment in the cause of Christ has become well known throughout the praetorian guard and to everyone else, and that most of the brothers and sisters, trusting in the Lord because of my imprisonment, have far more courage to speak the word of God without fear. Some, to be sure, are preaching Christ even from envy and strife, but some also from goodwill; the latter do it out of love, knowing that I am appointed for the defense of the gospel; the former proclaim Christ out of selfish ambition rather than from pure motives, thinking that they are causing me distress in my imprisonment. What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in this I rejoice.\nB ut not only that, I also will rejoice, for I know that this will turn out for my deliverance through your prayers and the provision of the Spirit of Jesus Christ, according to my eager expectation and hope, that I will not be put to shame in anything, but that with all boldness, Christ will even now, as always, be exalted in my body, whether by life or by death.\n\nFor to me, to live is Christ, and to die is gain. But if I am to live on in the flesh, this will mean fruitful labor for me; and I do not know which to choose. But I am hard-pressed from both directions, having the desire to depart and be with Christ, for that is very much better; yet to remain on in the flesh is more necessary for your sakes. Convinced of this, I know that I will remain and continue with you all for your progress and joy in the faith, so that your pride in Christ Jesus may be abundant because of me by my coming to you again.\nOnly conduct yourselves in a manner worthy of the gospel of Christ, so that whether I come and see you or remain absent, I will hear about you that you are standing firm in one spirit, with one mind striving together for the faith of the gospel; and in no way alarmed by your opponents—which is a sign of destruction for them, but of salvation for you, and this too, from God. For to you it has been granted for Christ’s sake, not only to believe in Him, but also to suffer on His behalf, experiencing the same conflict which you saw in me, and now hear to be in me.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch1\" data-usfm=\"PHP.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Thanksgiving</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul and Timothy, bond-servants of Christ Jesus,</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"PHP.1.1\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">T</span></span><span class=\"content\">o all the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Lit <span class=\"it\">holy ones;</span> i.e., God&#8217;s people</span></span></span><span class=\"content\">saints in Christ Jesus who are in Philippi, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Lit <span class=\"it\">with</span></span></span></span><span class=\"content\">including the overseers and deacons: </span></span><span class=\"verse v2\" data-usfm=\"PHP.1.2\"><span class=\"label\">2</span><span class=\"content\">Grace to you and peace from God our Father and the Lord Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"PHP.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"PHP.1.3\"><span class=\"label\">3</span><span class=\"content\">I thank my God in all my remembrance of you, </span></span><span class=\"verse v4\" data-usfm=\"PHP.1.4\"><span class=\"label\">4</span><span class=\"content\">always offering prayer with joy in my every prayer for you all, </span></span><span class=\"verse v5\" data-usfm=\"PHP.1.5\"><span class=\"label\">5</span><span class=\"content\">in view of your </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Or <span class=\"it\">sharing in the preaching of the gospel</span></span></span></span><span class=\"content\">participation in the gospel from the first day until now. </span></span><span class=\"verse v6\" data-usfm=\"PHP.1.6\"><span class=\"label\">6</span><span class=\"it\"><span class=\"content\">For I am</span></span><span class=\"content\"> confident of this very thing, that He who began a good work </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Or <span class=\"it\">in</span></span></span></span><span class=\"content\">among you will complete it </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:6 </span><span class=\"ft\">Lit <span class=\"it\">until</span></span></span></span><span class=\"content\">by the day of Christ Jesus. </span></span><span class=\"verse v7\" data-usfm=\"PHP.1.7\"><span class=\"label\">7</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit <span class=\"it\">Just as it is right</span></span></span></span><span class=\"content\">For it is only right for me to feel this way about you all, because I have you in my heart, since both in my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Lit <span class=\"it\">bonds</span></span></span></span><span class=\"content\">imprisonment and in the defense and confirmation of the gospel, you all are </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Or <span class=\"it\">partners in</span></span></span></span><span class=\"content\">partakers of grace with me. </span></span><span class=\"verse v8\" data-usfm=\"PHP.1.8\"><span class=\"label\">8</span><span class=\"content\">For God is my witness, how I long for you all with the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:8 </span><span class=\"ft\">Lit <span class=\"it\">inward parts</span></span></span></span><span class=\"content\">affection of Christ Jesus. </span></span><span class=\"verse v9\" data-usfm=\"PHP.1.9\"><span class=\"label\">9</span><span class=\"content\">And this I pray, that your love may overflow still more and more in real knowledge and all discernment, </span></span><span class=\"verse v10\" data-usfm=\"PHP.1.10\"><span class=\"label\">10</span><span class=\"content\">so that you may </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:10 </span><span class=\"ft\">Or <span class=\"it\">approve the things that matter</span></span></span></span><span class=\"content\">discover the things that are excellent, that you may be sincere and blameless for the day of Christ; </span></span><span class=\"verse v11\" data-usfm=\"PHP.1.11\"><span class=\"label\">11</span><span class=\"content\">having been filled with the fruit of righteousness which </span><span class=\"it\"><span class=\"content\">comes</span></span><span class=\"content\"> through Jesus Christ, for the glory and praise of God.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Gospel Is Preached</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"PHP.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.1.12\"><span class=\"label\">12</span><span class=\"content\">Now I want you to know, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> that my circumstances have turned out for the greater progress of the gospel, </span></span><span class=\"verse v13\" data-usfm=\"PHP.1.13\"><span class=\"label\">13</span><span class=\"content\">so that my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:13 </span><span class=\"ft\">Lit <span class=\"it\">bonds</span></span></span></span><span class=\"content\">imprisonment in </span><span class=\"it\"><span class=\"content\">the cause of</span></span><span class=\"content\"> Christ has become well known throughout the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:13 </span><span class=\"ft\">Or <span class=\"it\">governor&#8217;s palace</span></span></span></span><span class=\"content\">praetorian guard and to everyone else, </span></span><span class=\"verse v14\" data-usfm=\"PHP.1.14\"><span class=\"label\">14</span><span class=\"content\">and that most of the brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:14 </span><span class=\"ft\">Or <span class=\"it\">in the Lord, trusting because of</span></span></span></span><span class=\"content\">trusting in the Lord because of my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:14 </span><span class=\"ft\">Lit <span class=\"it\">bonds</span></span></span></span><span class=\"content\">imprisonment, have far more courage to speak the word of God without fear. </span></span><span class=\"verse v15\" data-usfm=\"PHP.1.15\"><span class=\"label\">15</span><span class=\"content\">Some, to be sure, are preaching Christ even </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Lit <span class=\"it\">because of</span></span></span></span><span class=\"content\">from envy and strife, but some also </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">Lit <span class=\"it\">because of</span></span></span></span><span class=\"content\">from goodwill; </span></span><span class=\"verse v16\" data-usfm=\"PHP.1.16\"><span class=\"label\">16</span><span class=\"content\">the latter </span><span class=\"it\"><span class=\"content\">do it</span></span><span class=\"content\"> out of love, knowing that I am appointed for the defense of the gospel; </span></span><span class=\"verse v17\" data-usfm=\"PHP.1.17\"><span class=\"label\">17</span><span class=\"content\">the former proclaim Christ out of selfish ambition </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Lit <span class=\"it\">not sincerely</span></span></span></span><span class=\"content\">rather than from pure motives, thinking that they are causing me distress in my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:17 </span><span class=\"ft\">Lit <span class=\"it\">bonds</span></span></span></span><span class=\"content\">imprisonment. </span></span><span class=\"verse v18\" data-usfm=\"PHP.1.18\"><span class=\"label\">18</span><span class=\"content\">What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in this I rejoice.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"PHP.1.18\"><span class=\"content\">  </span><span class=\"bd\"><span class=\"content\">B</span></span><span class=\"content\">ut </span><span class=\"it\"><span class=\"content\">not only that,</span></span><span class=\"content\"> I also will rejoice, </span></span><span class=\"verse v19\" data-usfm=\"PHP.1.19\"><span class=\"label\">19</span><span class=\"content\">for I know that this will turn out for my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:19 </span><span class=\"ft\">Or <span class=\"it\">salvation</span></span></span></span><span class=\"content\">deliverance through your </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:19 </span><span class=\"ft\">Lit <span class=\"it\">supplication</span></span></span></span><span class=\"content\">prayers and the provision of the Spirit of Jesus Christ, </span></span><span class=\"verse v20\" data-usfm=\"PHP.1.20\"><span class=\"label\">20</span><span class=\"content\">according to my eager expectation and hope, that I will not be put to shame in anything, but </span><span class=\"it\"><span class=\"content\">that</span></span><span class=\"content\"> with all boldness, Christ will even now, as always, be exalted in my body, whether by life or by death.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">To Live Is Christ</span></span></div><div class=\"m\"><span class=\"verse v20\" data-usfm=\"PHP.1.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHP.1.21\"><span class=\"label\">21</span><span class=\"content\">For to me, to live is Christ, and to die is gain. </span></span><span class=\"verse v22\" data-usfm=\"PHP.1.22\"><span class=\"label\">22</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:22 </span><span class=\"ft\">Or <span class=\"it\">But if to live in the flesh, this will be fruitful labor for me, then I</span></span></span></span><span class=\"content\">But if </span><span class=\"it\"><span class=\"content\">I am</span></span><span class=\"content\"> to live </span><span class=\"it\"><span class=\"content\">on</span></span><span class=\"content\"> in the flesh, this </span><span class=\"it\"><span class=\"content\">will mean</span></span><span class=\"content\"> fruitful labor for me; and I do not know </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:22 </span><span class=\"ft\">Lit <span class=\"it\">what I shall choose</span></span></span></span><span class=\"content\">which to choose. </span></span><span class=\"verse v23\" data-usfm=\"PHP.1.23\"><span class=\"label\">23</span><span class=\"content\">But I am hard-pressed from both </span><span class=\"it\"><span class=\"content\">directions,</span></span><span class=\"content\"> having the desire to depart and be with Christ, for </span><span class=\"it\"><span class=\"content\">that</span></span><span class=\"content\"> is very much better; </span></span><span class=\"verse v24\" data-usfm=\"PHP.1.24\"><span class=\"label\">24</span><span class=\"content\">yet to remain on in the flesh is more necessary for your sakes. </span></span><span class=\"verse v25\" data-usfm=\"PHP.1.25\"><span class=\"label\">25</span><span class=\"content\">Convinced of this, I know that I will remain and continue with you all for your progress and joy </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:25 </span><span class=\"ft\">Lit <span class=\"it\">of</span></span></span></span><span class=\"content\">in the faith, </span></span><span class=\"verse v26\" data-usfm=\"PHP.1.26\"><span class=\"label\">26</span><span class=\"content\">so that your pride in Christ Jesus may be abundant because of me by my coming to you again.</span></span></div><div class=\"p\"><span class=\"verse v26\" data-usfm=\"PHP.1.26\"><span class=\"content\">  </span></span><span class=\"verse v27\" data-usfm=\"PHP.1.27\"><span class=\"label\">27</span><span class=\"content\">Only conduct yourselves in a manner worthy of the gospel of Christ, so that whether I come and see you or remain absent, I will hear about you that you are standing firm in one spirit, with one </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:27 </span><span class=\"ft\">Lit <span class=\"it\">soul</span></span></span></span><span class=\"content\">mind striving together for the faith of the gospel; </span></span><span class=\"verse v28\" data-usfm=\"PHP.1.28\"><span class=\"label\">28</span><span class=\"content\">and in no way alarmed by </span><span class=\"it\"><span class=\"content\">your</span></span><span class=\"content\"> opponents&#8212;which is a sign of destruction for them, but of salvation for you, and this </span><span class=\"it\"><span class=\"content\">too,</span></span><span class=\"content\"> from God. </span></span><span class=\"verse v29\" data-usfm=\"PHP.1.29\"><span class=\"label\">29</span><span class=\"content\">For to you it has been granted for Christ&#8217;s sake, not only to believe in Him, but also to suffer on His behalf, </span></span><span class=\"verse v30\" data-usfm=\"PHP.1.30\"><span class=\"label\">30</span><span class=\"content\">experiencing the same conflict which you saw in me, and now hear </span><span class=\"it\"><span class=\"content\">to be</span></span><span class=\"content\"> in me.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul and Timothy, bond-servants of Christ Jesus,",
+            "To all the saints in Christ Jesus who are in Philippi, including the overseers and deacons:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I thank my God in all my remembrance of you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "always offering prayer with joy in my every prayer for you all,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "in view of your participation in the gospel from the first day until now."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For I am confident of this very thing, that He who began a good work among you will complete it by the day of Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For it is only right for me to feel this way about you all, because I have you in my heart, since both in my imprisonment and in the defense and confirmation of the gospel, you all are partakers of grace with me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For God is my witness, how I long for you all with the affection of Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And this I pray, that your love may overflow still more and more in real knowledge and all discernment,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "so that you may discover the things that are excellent, that you may be sincere and blameless for the day of Christ;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "having been filled with the fruit of righteousness which comes through Jesus Christ, for the glory and praise of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Now I want you to know, brothers and sisters, that my circumstances have turned out for the greater progress of the gospel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "so that my imprisonment in the cause of Christ has become well known throughout the praetorian guard and to everyone else,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "and that most of the brothers and sisters, trusting in the Lord because of my imprisonment, have far more courage to speak the word of God without fear."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Some, to be sure, are preaching Christ even from envy and strife, but some also from goodwill;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "the latter do it out of love, knowing that I am appointed for the defense of the gospel;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "the former proclaim Christ out of selfish ambition rather than from pure motives, thinking that they are causing me distress in my imprisonment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in this I rejoice.",
+            "But not only that, I also will rejoice,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "for I know that this will turn out for my deliverance through your prayers and the provision of the Spirit of Jesus Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "according to my eager expectation and hope, that I will not be put to shame in anything, but that with all boldness, Christ will even now, as always, be exalted in my body, whether by life or by death."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For to me, to live is Christ, and to die is gain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "But if I am to live on in the flesh, this will mean fruitful labor for me; and I do not know which to choose."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "But I am hard-pressed from both directions, having the desire to depart and be with Christ, for that is very much better;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "yet to remain on in the flesh is more necessary for your sakes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Convinced of this, I know that I will remain and continue with you all for your progress and joy in the faith,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "so that your pride in Christ Jesus may be abundant because of me by my coming to you again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Only conduct yourselves in a manner worthy of the gospel of Christ, so that whether I come and see you or remain absent, I will hear about you that you are standing firm in one spirit, with one mind striving together for the faith of the gospel;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "and in no way alarmed by your opponents—which is a sign of destruction for them, but of salvation for you, and this too, from God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "For to you it has been granted for Christ’s sake, not only to believe in Him, but also to suffer on His behalf,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "experiencing the same conflict which you saw in me, and now hear to be in me."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "PHP.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.2"
+        ],
+        "human": "Philippians 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.3"
+        ],
+        "human": "Philippians 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.1"
+        ],
+        "human": "Philippians 1",
+        "toc": true
+      },
+      "chapter_text": "Therefore if there is any encouragement in Christ, if any consolation of love, if any fellowship of the Spirit, if any affection and compassion, make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose. Do nothing from selfishness or empty conceit, but with humility consider one another as more important than yourselves; do not merely look out for your own personal interests, but also for the interests of others. Have this attitude in yourselves which was also in Christ Jesus, who, as He already existed in the form of God, did not consider equality with God something to be grasped, but emptied Himself by taking the form of a bond-servant and being born in the likeness of men. And being found in appearance as a man, He humbled Himself by becoming obedient to the point of death: death on a cross. For this reason also God highly exalted Him, and bestowed on Him the name which is above every name, so that at the name of Jesus EVERY KNEE WILL BOW, of those who are in heaven and on earth and under the earth, and that every tongue will confess that Jesus Christ is Lord, to the glory of God the Father.\nSo then, my beloved, just as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling; for it is God who is at work in you, both to desire and to work for His good pleasure.\nDo all things without complaining or arguments; so that you will prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you appear as lights in the world, holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain. But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all. You too, I urge you, rejoice in the same way and share your joy with me.\n\nBut I hope, in the Lord Jesus, to send Timothy to you shortly, so that I also may be encouraged when I learn of your condition. For I have no one else of kindred spirit who will genuinely be concerned for your welfare. For they all seek after their own interests, not those of Christ Jesus. But you know of his proven character, that he served with me in the furtherance of the gospel like a child serving his father. Therefore I hope to send him immediately, as soon as I see how things go with me; and I trust in the Lord that I myself will also be coming shortly. But I thought it necessary to send to you Epaphroditus, my brother and fellow worker and fellow soldier, who is also your messenger and minister to my need, because he was longing for you all and was distressed because you had heard that he was sick. For indeed he was sick to the point of death, but God had mercy on him, and not only on him but also on me, so that I would not have sorrow upon sorrow. Therefore I have sent him all the more eagerly, so that when you see him again you may rejoice and I may be less concerned about you. Receive him then in the Lord with all joy, and hold people like him in high regard, because he came close to death for the work of Christ, risking his life to compensate for your absence in your service to me.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch2\" data-usfm=\"PHP.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Be like Christ</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.2.1\"><span class=\"label\">1</span><span class=\"content\">Therefore if there is any encouragement in Christ, if any consolation of love, if any fellowship of the Spirit, if any </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:1 </span><span class=\"ft\">Lit <span class=\"it\">inward parts</span></span></span></span><span class=\"content\">affection and compassion, </span></span><span class=\"verse v2\" data-usfm=\"PHP.2.2\"><span class=\"label\">2</span><span class=\"content\">make my joy complete </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">Lit <span class=\"it\">that you be</span></span></span></span><span class=\"content\">by being of the same mind, maintaining the same love, united in spirit, intent on one purpose. </span></span><span class=\"verse v3\" data-usfm=\"PHP.2.3\"><span class=\"label\">3</span><span class=\"content\">Do nothing </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">Lit <span class=\"it\">according to</span></span></span></span><span class=\"content\">from </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:3 </span><span class=\"ft\">Or <span class=\"it\">contentiousness</span></span></span></span><span class=\"content\">selfishness or empty conceit, but with humility consider one another as more important than yourselves; </span></span><span class=\"verse v4\" data-usfm=\"PHP.2.4\"><span class=\"label\">4</span><span class=\"content\">do not </span><span class=\"it\"><span class=\"content\">merely</span></span><span class=\"content\"> look out for your own personal </span><span class=\"it\"><span class=\"content\">interests,</span></span><span class=\"content\"> but also for the </span><span class=\"it\"><span class=\"content\">interests</span></span><span class=\"content\"> of others. </span></span><span class=\"verse v5\" data-usfm=\"PHP.2.5\"><span class=\"label\">5</span><span class=\"content\">Have this attitude </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:5 </span><span class=\"ft\">Or <span class=\"it\">among</span></span></span></span><span class=\"content\">in yourselves which was also in Christ Jesus, </span></span><span class=\"verse v6\" data-usfm=\"PHP.2.6\"><span class=\"label\">6</span><span class=\"content\">who, as He </span><span class=\"it\"><span class=\"content\">already</span></span><span class=\"content\"> existed in the form of God, did not consider equality with God something to be </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:6 </span><span class=\"ft\">Or <span class=\"it\">seized</span></span></span></span><span class=\"content\">grasped, </span></span><span class=\"verse v7\" data-usfm=\"PHP.2.7\"><span class=\"label\">7</span><span class=\"content\">but </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">I.e., set aside His divine rights</span></span></span><span class=\"content\">emptied Himself </span><span class=\"it\"><span class=\"content\">by</span></span><span class=\"content\"> taking the form of a bond-servant </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or <span class=\"it\">having come to be</span></span></span></span><span class=\"content\">being born in the likeness of men. </span></span><span class=\"verse v8\" data-usfm=\"PHP.2.8\"><span class=\"label\">8</span><span class=\"content\">And being found in appearance as a man, He humbled Himself by becoming obedient to the point of death: death </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:8 </span><span class=\"ft\">Lit <span class=\"it\">of</span></span></span></span><span class=\"content\">on a cross. </span></span><span class=\"verse v9\" data-usfm=\"PHP.2.9\"><span class=\"label\">9</span><span class=\"content\">For this reason also God highly exalted Him, and bestowed on Him the name which is above every name, </span></span><span class=\"verse v10\" data-usfm=\"PHP.2.10\"><span class=\"label\">10</span><span class=\"content\">so that at the name of Jesus </span><span class=\"sc\"><span class=\"content\">every knee will bow</span></span><span class=\"content\">, of those who are in heaven and on earth and under the earth, </span></span><span class=\"verse v11\" data-usfm=\"PHP.2.11\"><span class=\"label\">11</span><span class=\"content\">and </span><span class=\"it\"><span class=\"content\">that</span></span><span class=\"content\"> every tongue will confess that Jesus Christ is Lord, to the glory of God the Father.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"PHP.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.2.12\"><span class=\"label\">12</span><span class=\"content\">So then, my beloved, just as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling; </span></span><span class=\"verse v13\" data-usfm=\"PHP.2.13\"><span class=\"label\">13</span><span class=\"content\">for it is God who is at work in you, both to </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:13 </span><span class=\"ft\">Or <span class=\"it\">be willing</span></span></span></span><span class=\"content\">desire and to work for </span><span class=\"it\"><span class=\"content\">His</span></span><span class=\"content\"> good pleasure.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"PHP.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"PHP.2.14\"><span class=\"label\">14</span><span class=\"content\">Do all things without complaining or arguments; </span></span><span class=\"verse v15\" data-usfm=\"PHP.2.15\"><span class=\"label\">15</span><span class=\"content\">so that you will </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or <span class=\"it\">become</span></span></span></span><span class=\"content\">prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or <span class=\"it\">shine</span></span></span></span><span class=\"content\">appear as </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or <span class=\"it\">luminaries, stars</span></span></span></span><span class=\"content\">lights in the world, </span></span><span class=\"verse v16\" data-usfm=\"PHP.2.16\"><span class=\"label\">16</span><span class=\"content\">holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain. </span></span><span class=\"verse v17\" data-usfm=\"PHP.2.17\"><span class=\"label\">17</span><span class=\"content\">But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all. </span></span><span class=\"verse v18\" data-usfm=\"PHP.2.18\"><span class=\"label\">18</span><span class=\"content\">You too, </span><span class=\"it\"><span class=\"content\">I urge you,</span></span><span class=\"content\"> rejoice in the same way and share your joy with me.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Timothy and Epaphroditus</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"PHP.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"PHP.2.19\"><span class=\"label\">19</span><span class=\"content\">But I hope, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:19 </span><span class=\"ft\">Or <span class=\"it\">trusting in</span></span></span></span><span class=\"content\">in the Lord Jesus, to send Timothy to you shortly, so that I also may be encouraged when I learn of your condition. </span></span><span class=\"verse v20\" data-usfm=\"PHP.2.20\"><span class=\"label\">20</span><span class=\"content\">For I have no one </span><span class=\"it\"><span class=\"content\">else</span></span><span class=\"content\"> of kindred spirit who will genuinely be concerned for your welfare. </span></span><span class=\"verse v21\" data-usfm=\"PHP.2.21\"><span class=\"label\">21</span><span class=\"content\">For they all seek after their own </span><span class=\"it\"><span class=\"content\">interests,</span></span><span class=\"content\"> not those of Christ Jesus. </span></span><span class=\"verse v22\" data-usfm=\"PHP.2.22\"><span class=\"label\">22</span><span class=\"content\">But you know of his proven character, that he served with me in the furtherance of the gospel like a child </span><span class=\"it\"><span class=\"content\">serving</span></span><span class=\"content\"> his father. </span></span><span class=\"verse v23\" data-usfm=\"PHP.2.23\"><span class=\"label\">23</span><span class=\"content\">Therefore I hope to send him immediately, as soon as I see how things </span><span class=\"it\"><span class=\"content\">go</span></span><span class=\"content\"> with me; </span></span><span class=\"verse v24\" data-usfm=\"PHP.2.24\"><span class=\"label\">24</span><span class=\"content\">and I trust in the Lord that I myself will also be coming shortly. </span></span><span class=\"verse v25\" data-usfm=\"PHP.2.25\"><span class=\"label\">25</span><span class=\"content\">But I thought it necessary to send to you Epaphroditus, my brother and fellow worker and fellow soldier, who is also your </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:25 </span><span class=\"ft\">Lit <span class=\"it\">apostle</span></span></span></span><span class=\"content\">messenger and minister to my need, </span></span><span class=\"verse v26\" data-usfm=\"PHP.2.26\"><span class=\"label\">26</span><span class=\"content\">because he was longing </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:26 </span><span class=\"ft\">One early ms <span class=\"it\">to see you all</span></span></span></span><span class=\"content\">for you all and was distressed because you had heard that he was sick. </span></span><span class=\"verse v27\" data-usfm=\"PHP.2.27\"><span class=\"label\">27</span><span class=\"content\">For indeed he was sick to the point of death, but God had mercy on him, and not only on him but also on me, so that I would not have sorrow upon sorrow. </span></span><span class=\"verse v28\" data-usfm=\"PHP.2.28\"><span class=\"label\">28</span><span class=\"content\">Therefore I have sent him all the more eagerly, so that when you see him again you may rejoice and I may be less concerned </span><span class=\"it\"><span class=\"content\">about you.</span></span><span class=\"content\">  </span></span><span class=\"verse v29\" data-usfm=\"PHP.2.29\"><span class=\"label\">29</span><span class=\"content\">Receive him then in the Lord with all joy, and hold people like him in high regard, </span></span><span class=\"verse v30\" data-usfm=\"PHP.2.30\"><span class=\"label\">30</span><span class=\"content\">because he came close to death </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:30 </span><span class=\"ft\">Lit <span class=\"it\">because of</span></span></span></span><span class=\"content\">for the work of Christ, risking his life to compensate </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:30 </span><span class=\"ft\">Lit <span class=\"it\">your deficiency of service</span></span></span></span><span class=\"content\">for your absence in your service to me.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Therefore if there is any encouragement in Christ, if any consolation of love, if any fellowship of the Spirit, if any affection and compassion,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Do nothing from selfishness or empty conceit, but with humility consider one another as more important than yourselves;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "do not merely look out for your own personal interests, but also for the interests of others."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Have this attitude in yourselves which was also in Christ Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "who, as He already existed in the form of God, did not consider equality with God something to be grasped,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "but emptied Himself by taking the form of a bond-servant and being born in the likeness of men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "And being found in appearance as a man, He humbled Himself by becoming obedient to the point of death: death on a cross."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For this reason also God highly exalted Him, and bestowed on Him the name which is above every name,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "so that at the name of Jesus every knee will bow, of those who are in heaven and on earth and under the earth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "and that every tongue will confess that Jesus Christ is Lord, to the glory of God the Father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "So then, my beloved, just as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "for it is God who is at work in you, both to desire and to work for His good pleasure."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Do all things without complaining or arguments;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "so that you will prove yourselves to be blameless and innocent, children of God above reproach in the midst of a crooked and perverse generation, among whom you appear as lights in the world,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labor in vain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "You too, I urge you, rejoice in the same way and share your joy with me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "But I hope, in the Lord Jesus, to send Timothy to you shortly, so that I also may be encouraged when I learn of your condition."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For I have no one else of kindred spirit who will genuinely be concerned for your welfare."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For they all seek after their own interests, not those of Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "But you know of his proven character, that he served with me in the furtherance of the gospel like a child serving his father."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Therefore I hope to send him immediately, as soon as I see how things go with me;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "and I trust in the Lord that I myself will also be coming shortly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "But I thought it necessary to send to you Epaphroditus, my brother and fellow worker and fellow soldier, who is also your messenger and minister to my need,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "because he was longing for you all and was distressed because you had heard that he was sick."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "For indeed he was sick to the point of death, but God had mercy on him, and not only on him but also on me, so that I would not have sorrow upon sorrow."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "Therefore I have sent him all the more eagerly, so that when you see him again you may rejoice and I may be less concerned about you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Receive him then in the Lord with all joy, and hold people like him in high regard,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 30,
+          "lines": [
+            "because he came close to death for the work of Christ, risking his life to compensate for your absence in your service to me."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "PHP.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.3"
+        ],
+        "human": "Philippians 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Philippians 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.2"
+        ],
+        "human": "Philippians 2",
+        "toc": true
+      },
+      "chapter_text": "Finally, my brothers and sisters, rejoice in the Lord. To write the same things again is no trouble for me, and it is a safeguard for you.\nBeware of the dogs, beware of the evil workers, beware of the false circumcision; for we are the true circumcision, who worship in the Spirit of God and take pride in Christ Jesus, and put no confidence in the flesh, although I myself could boast as having confidence even in the flesh. If anyone else thinks he is confident in the flesh, I have more reason: circumcised the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the Law, a Pharisee; as to zeal, a persecutor of the church; as to the righteousness which is in the Law, found blameless.\nBut whatever things were gain to me, these things I have counted as loss because of Christ. More than that, I count all things to be loss in view of the surpassing value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them mere rubbish, so that I may gain Christ, and may be found in Him, not having a righteousness of my own derived from the Law, but that which is through faith in Christ, the righteousness which comes from God on the basis of faith, that I may know Him and the power of His resurrection and the fellowship of His sufferings, being conformed to His death; if somehow I may attain to the resurrection from the dead.\nNot that I have already grasped it all or have already become perfect, but I press on if I may also take hold of that for which I was even taken hold of by Christ Jesus. Brothers and sisters, I do not regard myself as having taken hold of it yet; but one thing I do: forgetting what lies behind and reaching forward to what lies ahead, I press on toward the goal for the prize of the upward call of God in Christ Jesus. Therefore, all who are mature, let’s have this attitude; and if in anything you have a different attitude, God will reveal that to you as well; however, let’s keep living by that same standard to which we have attained.\nBrothers and sisters, join in following my example, and observe those who walk according to the pattern you have in us. For many walk, of whom I often told you, and now tell you even as I weep, that they are the enemies of the cross of Christ, whose end is destruction, whose god is their appetite, and whose glory is in their shame, who have their minds on earthly things. For our citizenship is in heaven, from which we also eagerly wait for a Savior, the Lord Jesus Christ; who will transform the body of our lowly condition into conformity with His glorious body, by the exertion of the power that He has even to subject all things to Himself.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch3\" data-usfm=\"PHP.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">The Goal of Life</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.3.1\"><span class=\"label\">1</span><span class=\"content\">Finally, my brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> rejoice in the Lord. To write the same things </span><span class=\"it\"><span class=\"content\">again</span></span><span class=\"content\"> is no trouble for me, and it is a safeguard for you.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"PHP.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"PHP.3.2\"><span class=\"label\">2</span><span class=\"content\">Beware of the dogs, beware of the evil workers, beware of the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:2 </span><span class=\"ft\">Lit <span class=\"it\">mutilation;</span> Gr <span class=\"it\">katatome</span></span></span></span><span class=\"content\">false circumcision; </span></span><span class=\"verse v3\" data-usfm=\"PHP.3.3\"><span class=\"label\">3</span><span class=\"content\">for we are the </span><span class=\"it\"><span class=\"content\">true</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Gr <span class=\"it\">peritome</span></span></span></span><span class=\"content\">circumcision, who worship in the Spirit of God and take pride in Christ Jesus, and put no confidence in the flesh, </span></span><span class=\"verse v4\" data-usfm=\"PHP.3.4\"><span class=\"label\">4</span><span class=\"content\">although I myself </span><span class=\"it\"><span class=\"content\">could boast as</span></span><span class=\"content\"> having confidence even in the flesh. If anyone else thinks he is confident in the flesh, I </span><span class=\"it\"><span class=\"content\">have</span></span><span class=\"content\"> more </span><span class=\"it\"><span class=\"content\">reason:</span></span><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"PHP.3.5\"><span class=\"label\">5</span><span class=\"content\">circumcised the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the Law, a Pharisee; </span></span><span class=\"verse v6\" data-usfm=\"PHP.3.6\"><span class=\"label\">6</span><span class=\"content\">as to zeal, a persecutor of the church; as to the righteousness which is in the Law, found blameless.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"PHP.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"PHP.3.7\"><span class=\"label\">7</span><span class=\"content\">But whatever things were gain to me, these things I have counted as loss because of Christ. </span></span><span class=\"verse v8\" data-usfm=\"PHP.3.8\"><span class=\"label\">8</span><span class=\"content\">More than that, I count all things to be loss </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Lit <span class=\"it\">because of</span></span></span></span><span class=\"content\">in view of the surpassing value of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Lit <span class=\"it\">the knowledge of</span></span></span></span><span class=\"content\">knowing Christ Jesus my Lord, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Lit <span class=\"it\">because of</span></span></span></span><span class=\"content\">for whom I have suffered the loss of all things, and count them </span><span class=\"it\"><span class=\"content\">mere</span></span><span class=\"content\"> rubbish, so that I may gain Christ, </span></span><span class=\"verse v9\" data-usfm=\"PHP.3.9\"><span class=\"label\">9</span><span class=\"content\">and may be found in Him, not having a righteousness of my own derived from </span><span class=\"it\"><span class=\"content\">the</span></span><span class=\"content\"> Law, but that which is through faith in Christ, the righteousness which </span><span class=\"it\"><span class=\"content\">comes</span></span><span class=\"content\"> from God on the basis of faith, </span></span><span class=\"verse v10\" data-usfm=\"PHP.3.10\"><span class=\"label\">10</span><span class=\"content\">that I may know Him and the power of His resurrection and </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:10 </span><span class=\"ft\">Or <span class=\"it\">participation in</span></span></span></span><span class=\"content\">the fellowship of His sufferings, being conformed to His death; </span></span><span class=\"verse v11\" data-usfm=\"PHP.3.11\"><span class=\"label\">11</span><span class=\"content\">if somehow I may attain to the resurrection from the dead.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"PHP.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"PHP.3.12\"><span class=\"label\">12</span><span class=\"content\">Not that I have already </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Or <span class=\"it\">obtained</span></span></span></span><span class=\"content\">grasped </span><span class=\"it\"><span class=\"content\">it all</span></span><span class=\"content\"> or have already become perfect, but I press on if I may also take hold of that </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:12 </span><span class=\"ft\">Or <span class=\"it\">because also</span></span></span></span><span class=\"content\">for which I was even taken hold of by Christ Jesus. </span></span><span class=\"verse v13\" data-usfm=\"PHP.3.13\"><span class=\"label\">13</span><span class=\"content\">Brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> I do not regard myself as having taken hold of </span><span class=\"it\"><span class=\"content\">it yet;</span></span><span class=\"content\"> but one thing </span><span class=\"it\"><span class=\"content\">I do:</span></span><span class=\"content\"> forgetting what </span><span class=\"it\"><span class=\"content\">lies</span></span><span class=\"content\"> behind and reaching forward to what </span><span class=\"it\"><span class=\"content\">lies</span></span><span class=\"content\"> ahead, </span></span><span class=\"verse v14\" data-usfm=\"PHP.3.14\"><span class=\"label\">14</span><span class=\"content\">I press on toward the goal for the prize of the upward call of God in Christ Jesus. </span></span><span class=\"verse v15\" data-usfm=\"PHP.3.15\"><span class=\"label\">15</span><span class=\"content\">Therefore, all who are </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:15 </span><span class=\"ft\">Or <span class=\"it\">perfect</span></span></span></span><span class=\"content\">mature, let&#8217;s have this attitude; and if in anything you have a different attitude, God will reveal that to you as well; </span></span><span class=\"verse v16\" data-usfm=\"PHP.3.16\"><span class=\"label\">16</span><span class=\"content\">however, let&#8217;s keep </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">Lit <span class=\"it\">following in line</span></span></span></span><span class=\"content\">living by that same </span><span class=\"it\"><span class=\"content\">standard</span></span><span class=\"content\"> to which we have attained.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"PHP.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHP.3.17\"><span class=\"label\">17</span><span class=\"content\">Brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> join in following my example, and observe those who walk according to the pattern you have in us. </span></span><span class=\"verse v18\" data-usfm=\"PHP.3.18\"><span class=\"label\">18</span><span class=\"content\">For many walk, of whom I often told you, and now tell you even as I weep, </span><span class=\"it\"><span class=\"content\">that they are</span></span><span class=\"content\"> the enemies of the cross of Christ, </span></span><span class=\"verse v19\" data-usfm=\"PHP.3.19\"><span class=\"label\">19</span><span class=\"content\">whose end is destruction, whose god is </span><span class=\"it\"><span class=\"content\">their</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:19 </span><span class=\"ft\">Lit <span class=\"it\">belly</span></span></span></span><span class=\"content\">appetite, and </span><span class=\"it\"><span class=\"content\">whose</span></span><span class=\"content\"> glory is in their shame, who have their minds on earthly things. </span></span><span class=\"verse v20\" data-usfm=\"PHP.3.20\"><span class=\"label\">20</span><span class=\"content\">For our </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:20 </span><span class=\"ft\">Lit <span class=\"it\">commonwealth</span></span></span></span><span class=\"content\">citizenship is in heaven, from which we also eagerly wait for a Savior, the Lord Jesus Christ; </span></span><span class=\"verse v21\" data-usfm=\"PHP.3.21\"><span class=\"label\">21</span><span class=\"content\">who will transform the body of our lowly condition into conformity with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:21 </span><span class=\"ft\">Lit <span class=\"it\">the body of His glory</span></span></span></span><span class=\"content\">His glorious body, by the exertion of the power that He has even to subject all things to Himself.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Finally, my brothers and sisters, rejoice in the Lord. To write the same things again is no trouble for me, and it is a safeguard for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Beware of the dogs, beware of the evil workers, beware of the false circumcision;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "for we are the true circumcision, who worship in the Spirit of God and take pride in Christ Jesus, and put no confidence in the flesh,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "although I myself could boast as having confidence even in the flesh. If anyone else thinks he is confident in the flesh, I have more reason:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "circumcised the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the Law, a Pharisee;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "as to zeal, a persecutor of the church; as to the righteousness which is in the Law, found blameless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But whatever things were gain to me, these things I have counted as loss because of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "More than that, I count all things to be loss in view of the surpassing value of knowing Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them mere rubbish, so that I may gain Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "and may be found in Him, not having a righteousness of my own derived from the Law, but that which is through faith in Christ, the righteousness which comes from God on the basis of faith,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "that I may know Him and the power of His resurrection and the fellowship of His sufferings, being conformed to His death;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "if somehow I may attain to the resurrection from the dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Not that I have already grasped it all or have already become perfect, but I press on if I may also take hold of that for which I was even taken hold of by Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Brothers and sisters, I do not regard myself as having taken hold of it yet; but one thing I do: forgetting what lies behind and reaching forward to what lies ahead,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I press on toward the goal for the prize of the upward call of God in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Therefore, all who are mature, let’s have this attitude; and if in anything you have a different attitude, God will reveal that to you as well;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "however, let’s keep living by that same standard to which we have attained."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Brothers and sisters, join in following my example, and observe those who walk according to the pattern you have in us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For many walk, of whom I often told you, and now tell you even as I weep, that they are the enemies of the cross of Christ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "whose end is destruction, whose god is their appetite, and whose glory is in their shame, who have their minds on earthly things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For our citizenship is in heaven, from which we also eagerly wait for a Savior, the Lord Jesus Christ;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "who will transform the body of our lowly condition into conformity with His glorious body, by the exertion of the power that He has even to subject all things to Himself."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "PHP.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHP.4"
+        ],
+        "human": "Philippians 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "COL.1"
+        ],
+        "human": "Colossians 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PHP.3"
+        ],
+        "human": "Philippians 3",
+        "toc": true
+      },
+      "chapter_text": "Therefore, my beloved brothers and sisters, whom I long to see, my joy and crown, stand firm in the Lord in this way, my beloved.\nI urge Euodia and I urge Syntyche to live in harmony in the Lord. Indeed, true companion, I ask you also, help these women who have shared my struggle in the cause of the gospel, together with Clement as well as the rest of my fellow workers, whose names are in the book of life.\nRejoice in the Lord always; again I will say, rejoice! Let your gentle spirit be known to all people. The Lord is near. Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus.\nFinally, brothers and sisters, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence and if anything worthy of praise, think about these things. As for the things you have learned and received and heard and seen in me, practice these things, and the God of peace will be with you.\n\nBut I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned before, but you lacked an opportunity to act. Not that I speak from need, for I have learned to be content in whatever circumstances I am. I know how to get along with little, and I also know how to live in prosperity; in any and every circumstance I have learned the secret of being filled and going hungry, both of having abundance and suffering need. I can do all things through Him who strengthens me. Nevertheless, you have done well to share with me in my difficulty.\nYou yourselves also know, Philippians, that at the first preaching of the gospel, after I left Macedonia, no church shared with me in the matter of giving and receiving except you alone; for even in Thessalonica you sent a gift more than once for my needs. Not that I seek the gift itself, but I seek the profit which increases to your account. But I have received everything in full and have an abundance; I am amply supplied, having received from Epaphroditus what you have sent, a fragrant aroma, an acceptable sacrifice, pleasing to God. And my God will supply all your needs according to His riches in glory in Christ Jesus. Now to our God and Father be the glory forever and ever. Amen.\nGreet every saint in Christ Jesus. The brothers who are with me greet you. All the saints greet you, especially those of Caesar’s household.\nThe grace of the Lord Jesus Christ be with your spirit.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bkPHP\">\n      <div class=\"chapter ch4\" data-usfm=\"PHP.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Think of Excellence</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHP.4.1\"><span class=\"label\">1</span><span class=\"content\">Therefore, my beloved brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:1 </span><span class=\"ft\">Lit <span class=\"it\">and longed for</span></span></span></span><span class=\"content\">whom I long </span><span class=\"it\"><span class=\"content\">to see,</span></span><span class=\"content\"> my joy and crown, stand firm in the Lord in this way, my beloved.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"PHP.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"PHP.4.2\"><span class=\"label\">2</span><span class=\"content\">I urge Euodia and I urge Syntyche to </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">Or <span class=\"it\">be of the same mind</span></span></span></span><span class=\"content\">live in harmony in the Lord. </span></span><span class=\"verse v3\" data-usfm=\"PHP.4.3\"><span class=\"label\">3</span><span class=\"content\">Indeed, true </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:3 </span><span class=\"ft\">Lit <span class=\"it\">yokefellow</span></span></span></span><span class=\"content\">companion, I ask you also, help these women who have shared my struggle in </span><span class=\"it\"><span class=\"content\">the cause of</span></span><span class=\"content\"> the gospel, together with Clement as well as the rest of my fellow workers, whose names are in the book of life.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"PHP.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHP.4.4\"><span class=\"label\">4</span><span class=\"content\">Rejoice in the Lord always; again I will say, rejoice! </span></span><span class=\"verse v5\" data-usfm=\"PHP.4.5\"><span class=\"label\">5</span><span class=\"content\">Let your gentle </span><span class=\"it\"><span class=\"content\">spirit</span></span><span class=\"content\"> be known to all people. The Lord is </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:5 </span><span class=\"ft\">Or <span class=\"it\">at hand</span></span></span></span><span class=\"content\">near. </span></span><span class=\"verse v6\" data-usfm=\"PHP.4.6\"><span class=\"label\">6</span><span class=\"content\">Do not </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:6 </span><span class=\"ft\">I.e., have anxiety</span></span></span><span class=\"content\">be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God. </span></span><span class=\"verse v7\" data-usfm=\"PHP.4.7\"><span class=\"label\">7</span><span class=\"content\">And the peace of God, which surpasses all </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:7 </span><span class=\"ft\">Lit <span class=\"it\">mind</span></span></span></span><span class=\"content\">comprehension, will guard your hearts and minds in Christ Jesus.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"PHP.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHP.4.8\"><span class=\"label\">8</span><span class=\"content\">Finally, brothers </span><span class=\"it\"><span class=\"content\">and sisters,</span></span><span class=\"content\"> whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:8 </span><span class=\"ft\">Or <span class=\"it\">lovable and gracious</span></span></span></span><span class=\"content\">lovely, whatever is commendable, if there is any excellence and if anything worthy of praise, think about these things. </span></span><span class=\"verse v9\" data-usfm=\"PHP.4.9\"><span class=\"label\">9</span><span class=\"content\">As for the things you have learned and received and heard and seen in me, practice these things, and the God of peace will be with you.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">God&#8217;s Provisions</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"PHP.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"PHP.4.10\"><span class=\"label\">10</span><span class=\"content\">But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned </span><span class=\"it\"><span class=\"content\">before,</span></span><span class=\"content\"> but you lacked an opportunity </span><span class=\"it\"><span class=\"content\">to act.</span></span><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"PHP.4.11\"><span class=\"label\">11</span><span class=\"content\">Not that I speak </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:11 </span><span class=\"ft\">Lit <span class=\"it\">according to</span></span></span></span><span class=\"content\">from need, for I have learned to be </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:11 </span><span class=\"ft\">Or <span class=\"it\">self-sufficient</span></span></span></span><span class=\"content\">content in whatever </span><span class=\"it\"><span class=\"content\">circumstances</span></span><span class=\"content\"> I am. </span></span><span class=\"verse v12\" data-usfm=\"PHP.4.12\"><span class=\"label\">12</span><span class=\"content\">I know how to get along with little, and I also know how to live in prosperity; in any and every </span><span class=\"it\"><span class=\"content\">circumstance</span></span><span class=\"content\"> I have learned the secret of being filled and going hungry, both of having abundance and suffering need. </span></span><span class=\"verse v13\" data-usfm=\"PHP.4.13\"><span class=\"label\">13</span><span class=\"content\">I can do all things </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:13 </span><span class=\"ft\">Lit <span class=\"it\">in</span></span></span></span><span class=\"content\">through Him who strengthens me. </span></span><span class=\"verse v14\" data-usfm=\"PHP.4.14\"><span class=\"label\">14</span><span class=\"content\">Nevertheless, you have done well to share </span><span class=\"it\"><span class=\"content\">with me</span></span><span class=\"content\"> in my difficulty.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"PHP.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"PHP.4.15\"><span class=\"label\">15</span><span class=\"content\">You yourselves also know, Philippians, that at the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:15 </span><span class=\"ft\">Lit <span class=\"it\">beginning of</span></span></span></span><span class=\"content\">first </span><span class=\"it\"><span class=\"content\">preaching</span></span><span class=\"content\"> of the gospel, after I left Macedonia, no church shared with me in the matter of giving and receiving except you alone; </span></span><span class=\"verse v16\" data-usfm=\"PHP.4.16\"><span class=\"label\">16</span><span class=\"content\">for even in Thessalonica you sent </span><span class=\"it\"><span class=\"content\">a gift</span></span><span class=\"content\"> more than once for my needs. </span></span><span class=\"verse v17\" data-usfm=\"PHP.4.17\"><span class=\"label\">17</span><span class=\"content\">Not that I seek the gift </span><span class=\"it\"><span class=\"content\">itself,</span></span><span class=\"content\"> but I seek the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:17 </span><span class=\"ft\">Lit <span class=\"it\">fruit</span></span></span></span><span class=\"content\">profit which increases to your account. </span></span><span class=\"verse v18\" data-usfm=\"PHP.4.18\"><span class=\"label\">18</span><span class=\"content\">But I have received everything in full and have an abundance; I am </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:18 </span><span class=\"ft\">Lit <span class=\"it\">made full</span></span></span></span><span class=\"content\">amply supplied, having received from Epaphroditus </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:18 </span><span class=\"ft\">Lit <span class=\"it\">the things from you</span></span></span></span><span class=\"content\">what you have sent, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:18 </span><span class=\"ft\">Lit <span class=\"it\">an odor of fragrance</span></span></span></span><span class=\"content\">a fragrant aroma, an acceptable sacrifice, pleasing to God. </span></span><span class=\"verse v19\" data-usfm=\"PHP.4.19\"><span class=\"label\">19</span><span class=\"content\">And my God will supply </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:19 </span><span class=\"ft\">Or <span class=\"it\">every need of yours</span></span></span></span><span class=\"content\">all your needs according to His riches in glory in Christ Jesus. </span></span><span class=\"verse v20\" data-usfm=\"PHP.4.20\"><span class=\"label\">20</span><span class=\"content\">Now to our God and Father </span><span class=\"it\"><span class=\"content\">be</span></span><span class=\"content\"> the glory </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:20 </span><span class=\"ft\">Lit <span class=\"it\">to the ages of the ages</span></span></span></span><span class=\"content\">forever and ever. Amen.</span></span></div><div class=\"p\"><span class=\"verse v20\" data-usfm=\"PHP.4.20\"><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"PHP.4.21\"><span class=\"label\">21</span><span class=\"content\">Greet every </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:21 </span><span class=\"ft\">Or <span class=\"it\">holy one;</span> i.e., God&#8217;s people</span></span></span><span class=\"content\">saint in Christ Jesus. The brothers who are with me greet you. </span></span><span class=\"verse v22\" data-usfm=\"PHP.4.22\"><span class=\"label\">22</span><span class=\"content\">All the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:22 </span><span class=\"ft\">See note v 21</span></span></span><span class=\"content\">saints greet you, especially those of Caesar&#8217;s household.</span></span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"PHP.4.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHP.4.23\"><span class=\"label\">23</span><span class=\"content\">The grace of the Lord Jesus Christ be with your spirit.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Therefore, my beloved brothers and sisters, whom I long to see, my joy and crown, stand firm in the Lord in this way, my beloved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I urge Euodia and I urge Syntyche to live in harmony in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Indeed, true companion, I ask you also, help these women who have shared my struggle in the cause of the gospel, together with Clement as well as the rest of my fellow workers, whose names are in the book of life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Rejoice in the Lord always; again I will say, rejoice!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Let your gentle spirit be known to all people. The Lord is near."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Do not be anxious about anything, but in everything by prayer and pleading with thanksgiving let your requests be made known to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "And the peace of God, which surpasses all comprehension, will guard your hearts and minds in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Finally, brothers and sisters, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence and if anything worthy of praise, think about these things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "As for the things you have learned and received and heard and seen in me, practice these things, and the God of peace will be with you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But I rejoiced in the Lord greatly, that now at last you have revived your concern for me; indeed, you were concerned before, but you lacked an opportunity to act."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Not that I speak from need, for I have learned to be content in whatever circumstances I am."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I know how to get along with little, and I also know how to live in prosperity; in any and every circumstance I have learned the secret of being filled and going hungry, both of having abundance and suffering need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I can do all things through Him who strengthens me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Nevertheless, you have done well to share with me in my difficulty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "You yourselves also know, Philippians, that at the first preaching of the gospel, after I left Macedonia, no church shared with me in the matter of giving and receiving except you alone;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "for even in Thessalonica you sent a gift more than once for my needs."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Not that I seek the gift itself, but I seek the profit which increases to your account."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "But I have received everything in full and have an abundance; I am amply supplied, having received from Epaphroditus what you have sent, a fragrant aroma, an acceptable sacrifice, pleasing to God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "And my God will supply all your needs according to His riches in glory in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Now to our God and Father be the glory forever and ever. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Greet every saint in Christ Jesus. The brothers who are with me greet you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "All the saints greet you, especially those of Caesar’s household."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "The grace of the Lord Jesus Christ be with your spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

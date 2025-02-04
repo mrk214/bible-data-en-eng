@@ -1,0 +1,810 @@
+{
+  "book_usfm": "2TI",
+  "name": "2 Timothy",
+  "local_title": "New American Standard Bible - NASB",
+  "local_abbreviation": "NASB2020",
+  "version_id": 2692,
+  "publisher": {
+    "name": "The Lockman Foundation"
+  },
+  "copyright": {
+    "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+    "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2TI.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timothy 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timothy 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timothy 6",
+        "toc": true
+      },
+      "chapter_text": "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,\nTo Timothy, my beloved son: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.\nI thank God, whom I serve with a clear conscience the way my forefathers did, as I constantly remember you in my prayers night and day, longing to see you, even as I recall your tears, so that I may be filled with joy. For I am mindful of the sincere faith within you, which first dwelled in your grandmother Lois and your mother Eunice, and I am sure that it is in you as well. For this reason I remind you to kindle afresh the gift of God which is in you through the laying on of my hands. For God has not given us a spirit of timidity, but of power and love and discipline.\nTherefore do not be ashamed of the testimony of our Lord or of me His prisoner, but join with me in suffering for the gospel according to the power of God, who saved us and called us with a holy calling, not according to our works, but according to His own purpose and grace, which was granted to us in Christ Jesus from all eternity, but has now been revealed by the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel, for which I was appointed a preacher, an apostle, and a teacher. For this reason I also suffer these things; but I am not ashamed, for I know whom I have believed, and I am convinced that He is able to protect what I have entrusted to Him until that day. Hold on to the example of sound words which you have heard from me, in the faith and love which are in Christ Jesus. Protect, through the Holy Spirit who dwells in us, the treasure which has been entrusted to you.\nYou are aware of the fact that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes. The Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains; but when he was in Rome, he eagerly searched for me and found me— the Lord grant to him to find mercy from the Lord on that day—and you know very well what services he rendered at Ephesus.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch1\" data-usfm=\"2TI.1\">\n         <div class=\"label\">1</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Timothy Charged to Guard His Trust</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul, an apostle of Christ Jesus </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:1 </span><span class=\"ft\">Lit <span class=\"it\">through</span></span></span></span><span class=\"content\">by the will of God, according to the promise of life in Christ Jesus,</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2TI.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2TI.1.2\"><span class=\"label\">2</span><span class=\"content\">To Timothy, my beloved </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:2 </span><span class=\"ft\">Or <span class=\"it\">child</span></span></span></span><span class=\"content\">son: Grace, mercy, </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> peace from God the Father and Christ Jesus our Lord.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"2TI.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2TI.1.3\"><span class=\"label\">3</span><span class=\"content\">I thank God, whom I serve with a clear conscience </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"ft\">Lit <span class=\"it\">from my forefathers</span></span></span></span><span class=\"content\">the way my forefathers did, as I constantly remember you in my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:3 </span><span class=\"ft\">Or <span class=\"it\">petitions</span></span></span></span><span class=\"content\">prayers night and day, </span></span><span class=\"verse v4\" data-usfm=\"2TI.1.4\"><span class=\"label\">4</span><span class=\"content\">longing to see you, even as I recall your tears, so that I may be filled with joy. </span></span><span class=\"verse v5\" data-usfm=\"2TI.1.5\"><span class=\"label\">5</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:5 </span><span class=\"ft\">Lit <span class=\"it\">Receiving remembrance of</span></span></span></span><span class=\"content\">For I am mindful of the sincere faith within you, which first dwelled in your grandmother Lois and your mother Eunice, and I am sure that </span><span class=\"it\"><span class=\"content\">it is</span></span><span class=\"content\"> in you as well. </span></span><span class=\"verse v6\" data-usfm=\"2TI.1.6\"><span class=\"label\">6</span><span class=\"content\">For this reason I remind you to kindle afresh the gift of God which is in you through the laying on of my hands. </span></span><span class=\"verse v7\" data-usfm=\"2TI.1.7\"><span class=\"label\">7</span><span class=\"content\">For God has not given us a spirit of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Or <span class=\"it\">cowardice</span></span></span></span><span class=\"content\">timidity, but of power and love and </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:7 </span><span class=\"ft\">Or <span class=\"it\">sound judgment</span></span></span></span><span class=\"content\">discipline.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2TI.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.1.8\"><span class=\"label\">8</span><span class=\"content\">Therefore do not be ashamed of the testimony of our Lord or of me His prisoner, but join with </span><span class=\"it\"><span class=\"content\">me</span></span><span class=\"content\"> in suffering for the gospel according to the power of God, </span></span><span class=\"verse v9\" data-usfm=\"2TI.1.9\"><span class=\"label\">9</span><span class=\"content\">who saved us and called us with a holy calling, not according to our works, but according to His own purpose and grace, which was granted to us in Christ Jesus from all eternity, </span></span><span class=\"verse v10\" data-usfm=\"2TI.1.10\"><span class=\"label\">10</span><span class=\"content\">but has now been revealed by the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel, </span></span><span class=\"verse v11\" data-usfm=\"2TI.1.11\"><span class=\"label\">11</span><span class=\"content\">for which I was appointed a preacher, an apostle, and a teacher. </span></span><span class=\"verse v12\" data-usfm=\"2TI.1.12\"><span class=\"label\">12</span><span class=\"content\">For this reason I also suffer these things; but I am not ashamed, for I know whom I have believed, and I am convinced that He is able to protect what I have entrusted to Him </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:12 </span><span class=\"ft\">Or <span class=\"it\">for</span></span></span></span><span class=\"content\">until that day. </span></span><span class=\"verse v13\" data-usfm=\"2TI.1.13\"><span class=\"label\">13</span><span class=\"content\">Hold on to the example of sound words which you have heard from me, in </span><span class=\"it\"><span class=\"content\">the</span></span><span class=\"content\"> faith and love which are in Christ Jesus. </span></span><span class=\"verse v14\" data-usfm=\"2TI.1.14\"><span class=\"label\">14</span><span class=\"content\">Protect, through the Holy Spirit who dwells in us, the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:14 </span><span class=\"ft\">Lit <span class=\"it\">good deposit</span></span></span></span><span class=\"content\">treasure which has been entrusted to </span><span class=\"it\"><span class=\"content\">you.</span></span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"2TI.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.1.15\"><span class=\"label\">15</span><span class=\"content\">You are aware of the fact that all who are in </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:15 </span><span class=\"ft\">I.e., the province of Asia</span></span></span><span class=\"content\">Asia turned away from me, among whom are Phygelus and Hermogenes. </span></span><span class=\"verse v16\" data-usfm=\"2TI.1.16\"><span class=\"label\">16</span><span class=\"content\">The Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">1:16 </span><span class=\"ft\">Lit <span class=\"it\">chain</span></span></span></span><span class=\"content\">chains; </span></span><span class=\"verse v17\" data-usfm=\"2TI.1.17\"><span class=\"label\">17</span><span class=\"content\">but when he was in Rome, he eagerly searched for me and found me&#8212; </span></span><span class=\"verse v18\" data-usfm=\"2TI.1.18\"><span class=\"label\">18</span><span class=\"content\">the Lord grant to him to find mercy from the Lord on that day&#8212;and you know very well what services he rendered at Ephesus.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "To Timothy, my beloved son: Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I thank God, whom I serve with a clear conscience the way my forefathers did, as I constantly remember you in my prayers night and day,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "longing to see you, even as I recall your tears, so that I may be filled with joy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For I am mindful of the sincere faith within you, which first dwelled in your grandmother Lois and your mother Eunice, and I am sure that it is in you as well."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For this reason I remind you to kindle afresh the gift of God which is in you through the laying on of my hands."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For God has not given us a spirit of timidity, but of power and love and discipline."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Therefore do not be ashamed of the testimony of our Lord or of me His prisoner, but join with me in suffering for the gospel according to the power of God,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "who saved us and called us with a holy calling, not according to our works, but according to His own purpose and grace, which was granted to us in Christ Jesus from all eternity,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "but has now been revealed by the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "for which I was appointed a preacher, an apostle, and a teacher."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For this reason I also suffer these things; but I am not ashamed, for I know whom I have believed, and I am convinced that He is able to protect what I have entrusted to Him until that day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Hold on to the example of sound words which you have heard from me, in the faith and love which are in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Protect, through the Holy Spirit who dwells in us, the treasure which has been entrusted to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "You are aware of the fact that all who are in Asia turned away from me, among whom are Phygelus and Hermogenes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "The Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "but when he was in Rome, he eagerly searched for me and found me—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "the Lord grant to him to find mercy from the Lord on that day—and you know very well what services he rendered at Ephesus."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timothy 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timothy 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timothy 1",
+        "toc": true
+      },
+      "chapter_text": "You therefore, my son, be strong in the grace that is in Christ Jesus. The things which you have heard from me in the presence of many witnesses, entrust these to faithful people who will be able to teach others also. Suffer hardship with me, as a good soldier of Christ Jesus. No soldier in active service entangles himself in the affairs of everyday life, so that he may please the one who enlisted him. And if someone likewise competes as an athlete, he is not crowned as victor unless he competes according to the rules. The hard-working farmer ought to be the first to receive his share of the crops. Consider what I say, for the Lord will give you understanding in everything.\nRemember Jesus Christ, risen from the dead, descendant of David, according to my gospel, for which I suffer hardship even to imprisonment as a criminal; but the word of God is not imprisoned. For this reason I endure all things for the sake of those who are chosen, so that they also may obtain the salvation which is in Christ Jesus and with it eternal glory. The statement is trustworthy:\nFor if we died with Him, we will also live with Him;\nIf we endure, we will also reign with Him;\nIf we deny Him, He will also deny us;\nIf we are faithless, He remains faithful, for He cannot deny Himself.\n\nRemind them of these things, and solemnly exhort them in the presence of God not to dispute about words, which is useless and leads to the ruin of the listeners. Be diligent to present yourself approved to God as a worker who does not need to be ashamed, accurately handling the word of truth. But avoid worldly and empty chatter, for it will lead to further ungodliness, and their talk will spread like gangrene. Among them are Hymenaeus and Philetus, men who have gone astray from the truth, claiming that the resurrection has already taken place; and they are jeopardizing the faith of some. Nevertheless, the firm foundation of God stands, having this seal: “The Lord knows those who are His;” and, “Everyone who names the name of the Lord is to keep away from wickedness.”\nNow in a large house there are not only gold and silver implements, but also implements of wood and of earthenware, and some are for honor while others are for dishonor. Therefore, if anyone cleanses himself from these things, he will be an implement for honor, sanctified, useful to the Master, prepared for every good work. Now flee from youthful lusts and pursue righteousness, faith, love, and peace with those who call on the Lord from a pure heart. But refuse foolish and ignorant speculations, knowing that they produce quarrels. The Lord’s bond-servant must not be quarrelsome, but be kind to all, skillful in teaching, patient when wronged, with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth, and they may come to their senses and escape from the snare of the devil, having been held captive by him to do his will.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch2\" data-usfm=\"2TI.2\">\n         <div class=\"label\">2</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Be Strong</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.2.1\"><span class=\"label\">1</span><span class=\"content\">You therefore, my </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:1 </span><span class=\"ft\">Or <span class=\"it\">child</span></span></span></span><span class=\"content\">son, be strong in the grace that is in Christ Jesus. </span></span><span class=\"verse v2\" data-usfm=\"2TI.2.2\"><span class=\"label\">2</span><span class=\"content\">The things which you have heard from me in the presence of many witnesses, entrust these to faithful </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:2 </span><span class=\"ft\">Or <span class=\"it\">men</span></span></span></span><span class=\"content\">people who will be able to teach others also. </span></span><span class=\"verse v3\" data-usfm=\"2TI.2.3\"><span class=\"label\">3</span><span class=\"content\">Suffer hardship with </span><span class=\"it\"><span class=\"content\">me,</span></span><span class=\"content\"> as a good soldier of Christ Jesus. </span></span><span class=\"verse v4\" data-usfm=\"2TI.2.4\"><span class=\"label\">4</span><span class=\"content\">No soldier in active service entangles himself in the affairs of everyday life, so that he may please the one who enlisted </span><span class=\"it\"><span class=\"content\">him.</span></span><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2TI.2.5\"><span class=\"label\">5</span><span class=\"content\">And if someone likewise competes as an athlete, he is not </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:5 </span><span class=\"ft\">I.e., with a wreath</span></span></span><span class=\"content\">crowned </span><span class=\"it\"><span class=\"content\">as victor</span></span><span class=\"content\"> unless he competes according to the rules. </span></span><span class=\"verse v6\" data-usfm=\"2TI.2.6\"><span class=\"label\">6</span><span class=\"content\">The hard-working farmer ought to be the first to receive his share of the crops. </span></span><span class=\"verse v7\" data-usfm=\"2TI.2.7\"><span class=\"label\">7</span><span class=\"content\">Consider what I say, for the Lord will give you understanding in everything.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2TI.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2TI.2.8\"><span class=\"label\">8</span><span class=\"content\">Remember Jesus Christ, risen from the dead, descendant of David, according to my gospel, </span></span><span class=\"verse v9\" data-usfm=\"2TI.2.9\"><span class=\"label\">9</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:9 </span><span class=\"ft\">Lit <span class=\"it\">in which</span></span></span></span><span class=\"content\">for which I suffer hardship even to imprisonment as a criminal; but the word of God is not imprisoned. </span></span><span class=\"verse v10\" data-usfm=\"2TI.2.10\"><span class=\"label\">10</span><span class=\"content\">For this reason I endure all things for the sake of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:10 </span><span class=\"ft\">Or <span class=\"it\">the chosen</span></span></span></span><span class=\"content\">those who are chosen, so that they also may obtain the salvation which is in Christ Jesus </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> with </span><span class=\"it\"><span class=\"content\">it</span></span><span class=\"content\"> eternal glory. </span></span><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"label\">11</span><span class=\"content\">The statement is trustworthy:</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">For if we died with Him, we will also live with Him;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"2TI.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"label\">12</span><span class=\"content\">If we endure, we will also reign with Him;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">If we </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">Lit <span class=\"it\">will deny</span></span></span></span><span class=\"content\">deny Him, He will also deny us;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"2TI.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"label\">13</span><span class=\"content\">If we are faithless, He remains faithful, for He cannot deny Himself.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">An Unashamed Worker</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2TI.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2TI.2.14\"><span class=\"label\">14</span><span class=\"content\">Remind </span><span class=\"it\"><span class=\"content\">them</span></span><span class=\"content\"> of these things, and solemnly exhort </span><span class=\"it\"><span class=\"content\">them</span></span><span class=\"content\"> in the presence of God not to dispute about words, which is useless </span><span class=\"it\"><span class=\"content\">and leads</span></span><span class=\"content\"> to the ruin of the listeners. </span></span><span class=\"verse v15\" data-usfm=\"2TI.2.15\"><span class=\"label\">15</span><span class=\"content\">Be diligent to present yourself approved to God as a worker who </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:15 </span><span class=\"ft\">Or <span class=\"it\">has no reason to</span></span></span></span><span class=\"content\">does not need to be ashamed, accurately handling the word of truth. </span></span><span class=\"verse v16\" data-usfm=\"2TI.2.16\"><span class=\"label\">16</span><span class=\"content\">But avoid worldly </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> empty chatter, for </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:16 </span><span class=\"ft\">Lit <span class=\"it\">they will make further progress in ungodliness</span></span></span></span><span class=\"content\">it will lead to further ungodliness, </span></span><span class=\"verse v17\" data-usfm=\"2TI.2.17\"><span class=\"label\">17</span><span class=\"content\">and their </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Lit <span class=\"it\">word</span></span></span></span><span class=\"content\">talk will spread like </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Or <span class=\"it\">cancer</span></span></span></span><span class=\"content\">gangrene. Among them are Hymenaeus and Philetus, </span></span><span class=\"verse v18\" data-usfm=\"2TI.2.18\"><span class=\"label\">18</span><span class=\"it\"><span class=\"content\">men</span></span><span class=\"content\"> who have gone astray from the truth, claiming that the resurrection has already taken place; and they are jeopardizing the faith of some. </span></span><span class=\"verse v19\" data-usfm=\"2TI.2.19\"><span class=\"label\">19</span><span class=\"content\">Nevertheless, the firm foundation of God stands, having this seal: &#8220;The Lord knows those who are His;&#8221; and, &#8220;Everyone who names the name of the Lord is to keep away from wickedness.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"2TI.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"2TI.2.20\"><span class=\"label\">20</span><span class=\"content\">Now in a large house there are not only gold and silver implements, but also </span><span class=\"it\"><span class=\"content\">implements</span></span><span class=\"content\"> of wood and of earthenware, and some </span><span class=\"it\"><span class=\"content\">are</span></span><span class=\"content\"> for honor while others </span><span class=\"it\"><span class=\"content\">are</span></span><span class=\"content\"> for dishonor. </span></span><span class=\"verse v21\" data-usfm=\"2TI.2.21\"><span class=\"label\">21</span><span class=\"content\">Therefore, if anyone cleanses himself from these </span><span class=\"it\"><span class=\"content\">things,</span></span><span class=\"content\"> he will be an implement for honor, sanctified, useful to the Master, prepared for every good work. </span></span><span class=\"verse v22\" data-usfm=\"2TI.2.22\"><span class=\"label\">22</span><span class=\"content\">Now flee from youthful lusts and pursue righteousness, faith, love, </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> peace with those who call on the Lord from a pure heart. </span></span><span class=\"verse v23\" data-usfm=\"2TI.2.23\"><span class=\"label\">23</span><span class=\"content\">But refuse foolish and ignorant speculations, knowing that they produce </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:23 </span><span class=\"ft\">Lit <span class=\"it\">fightings</span></span></span></span><span class=\"content\">quarrels. </span></span><span class=\"verse v24\" data-usfm=\"2TI.2.24\"><span class=\"label\">24</span><span class=\"content\">The Lord&#8217;s bond-servant must not be quarrelsome, but be kind to all, skillful in teaching, patient when wronged, </span></span><span class=\"verse v25\" data-usfm=\"2TI.2.25\"><span class=\"label\">25</span><span class=\"content\">with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth, </span></span><span class=\"verse v26\" data-usfm=\"2TI.2.26\"><span class=\"label\">26</span><span class=\"content\">and they may come to their senses </span><span class=\"it\"><span class=\"content\">and escape</span></span><span class=\"content\"> from the snare of the devil, having been held captive </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:26 </span><span class=\"ft\">Or <span class=\"it\">by him, to do His will</span></span></span></span><span class=\"content\">by him to do his will.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "You therefore, my son, be strong in the grace that is in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The things which you have heard from me in the presence of many witnesses, entrust these to faithful people who will be able to teach others also."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Suffer hardship with me, as a good soldier of Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "No soldier in active service entangles himself in the affairs of everyday life, so that he may please the one who enlisted him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "And if someone likewise competes as an athlete, he is not crowned as victor unless he competes according to the rules."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "The hard-working farmer ought to be the first to receive his share of the crops."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Consider what I say, for the Lord will give you understanding in everything."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Remember Jesus Christ, risen from the dead, descendant of David, according to my gospel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "for which I suffer hardship even to imprisonment as a criminal; but the word of God is not imprisoned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For this reason I endure all things for the sake of those who are chosen, so that they also may obtain the salvation which is in Christ Jesus and with it eternal glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The statement is trustworthy:",
+            "For if we died with Him, we will also live with Him;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "If we endure, we will also reign with Him;",
+            "If we deny Him, He will also deny us;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "If we are faithless, He remains faithful, for He cannot deny Himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Remind them of these things, and solemnly exhort them in the presence of God not to dispute about words, which is useless and leads to the ruin of the listeners."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Be diligent to present yourself approved to God as a worker who does not need to be ashamed, accurately handling the word of truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "But avoid worldly and empty chatter, for it will lead to further ungodliness,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "men who have gone astray from the truth, claiming that the resurrection has already taken place; and they are jeopardizing the faith of some."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Nevertheless, the firm foundation of God stands, having this seal: “The Lord knows those who are His;” and, “Everyone who names the name of the Lord is to keep away from wickedness.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Now in a large house there are not only gold and silver implements, but also implements of wood and of earthenware, and some are for honor while others are for dishonor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Therefore, if anyone cleanses himself from these things, he will be an implement for honor, sanctified, useful to the Master, prepared for every good work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Now flee from youthful lusts and pursue righteousness, faith, love, and peace with those who call on the Lord from a pure heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "But refuse foolish and ignorant speculations, knowing that they produce quarrels."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "The Lord’s bond-servant must not be quarrelsome, but be kind to all, skillful in teaching, patient when wronged,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "and they may come to their senses and escape from the snare of the devil, having been held captive by him to do his will."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timothy 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timothy 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.2"
+        ],
+        "human": "2 Timothy 2",
+        "toc": true
+      },
+      "chapter_text": "But realize this, that in the last days difficult times will come. For people will be lovers of self, lovers of money, boastful, arrogant, slanderers, disobedient to parents, ungrateful, unholy, unloving, irreconcilable, malicious gossips, without self-control, brutal, haters of good, treacherous, reckless, conceited, lovers of pleasure rather than lovers of God, holding to a form of godliness although they have denied its power; avoid such people as these. For among them are those who slip into households and captivate weak women weighed down with sins, led on by various impulses, always learning and never able to come to the knowledge of the truth. Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men of depraved mind, worthless in regard to the faith. But they will not make further progress; for their foolishness will be obvious to all, just as was that also of Jannes and Jambres.\nNow you followed my teaching, conduct, purpose, faith, patience, love, perseverance, persecutions, and sufferings, such as happened to me at Antioch, at Iconium, and at Lystra; what persecutions I endured, and out of them all the Lord rescued me! Indeed, all who want to live in a godly way in Christ Jesus will be persecuted. But evil people and impostors will proceed from bad to worse, deceiving and being deceived. You, however, continue in the things you have learned and become convinced of, knowing from whom you have learned them, and that from childhood you have known the sacred writings which are able to give you the wisdom that leads to salvation through faith which is in Christ Jesus. All Scripture is inspired by God and beneficial for teaching, for rebuke, for correction, for training in righteousness; so that the man or woman of God may be fully capable, equipped for every good work.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch3\" data-usfm=\"2TI.3\">\n         <div class=\"label\">3</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Difficult Times Will Come</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.3.1\"><span class=\"label\">1</span><span class=\"content\">But realize this, that in the last days difficult times will come. </span></span><span class=\"verse v2\" data-usfm=\"2TI.3.2\"><span class=\"label\">2</span><span class=\"content\">For people will be lovers of self, lovers of money, boastful, arrogant, slanderers, disobedient to parents, ungrateful, unholy, </span></span><span class=\"verse v3\" data-usfm=\"2TI.3.3\"><span class=\"label\">3</span><span class=\"content\">unloving, irreconcilable, malicious gossips, without self-control, brutal, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:3 </span><span class=\"ft\">Lit <span class=\"it\">not loving good</span></span></span></span><span class=\"content\">haters of good, </span></span><span class=\"verse v4\" data-usfm=\"2TI.3.4\"><span class=\"label\">4</span><span class=\"content\">treacherous, reckless, conceited, lovers of pleasure rather than lovers of God, </span></span><span class=\"verse v5\" data-usfm=\"2TI.3.5\"><span class=\"label\">5</span><span class=\"content\">holding to a form of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:5 </span><span class=\"ft\">Or <span class=\"it\">religion</span></span></span></span><span class=\"content\">godliness although they have denied its power; avoid </span><span class=\"it\"><span class=\"content\">such people as</span></span><span class=\"content\"> these. </span></span><span class=\"verse v6\" data-usfm=\"2TI.3.6\"><span class=\"label\">6</span><span class=\"content\">For among them are those who </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Or <span class=\"it\">creep into</span></span></span></span><span class=\"content\">slip into households and captivate </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:6 </span><span class=\"ft\">Or <span class=\"it\">idle</span></span></span></span><span class=\"content\">weak women weighed down with sins, led on by various impulses, </span></span><span class=\"verse v7\" data-usfm=\"2TI.3.7\"><span class=\"label\">7</span><span class=\"content\">always learning and never able to come to the </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:7 </span><span class=\"ft\">Or <span class=\"it\">recognition</span></span></span></span><span class=\"content\">knowledge of the truth. </span></span><span class=\"verse v8\" data-usfm=\"2TI.3.8\"><span class=\"label\">8</span><span class=\"content\">Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men of depraved mind, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:8 </span><span class=\"ft\">Or <span class=\"it\">unfit</span></span></span></span><span class=\"content\">worthless in regard to the faith. </span></span><span class=\"verse v9\" data-usfm=\"2TI.3.9\"><span class=\"label\">9</span><span class=\"content\">But they will not make further progress; for their foolishness will be obvious to all, just as was that also of </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:9 </span><span class=\"ft\">Lit <span class=\"it\">those</span></span></span></span><span class=\"content\">Jannes and Jambres.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"2TI.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2TI.3.10\"><span class=\"label\">10</span><span class=\"content\">Now you followed my teaching, conduct, purpose, faith, patience, love, </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:10 </span><span class=\"ft\">Or <span class=\"it\">steadfastness</span></span></span></span><span class=\"content\">perseverance, </span></span><span class=\"verse v11\" data-usfm=\"2TI.3.11\"><span class=\"label\">11</span><span class=\"content\">persecutions, </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> sufferings, such as happened to me at Antioch, at Iconium, </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> at Lystra; what persecutions I endured, and out of them all the Lord rescued me! </span></span><span class=\"verse v12\" data-usfm=\"2TI.3.12\"><span class=\"label\">12</span><span class=\"content\">Indeed, all who want to live in a godly way in Christ Jesus will be persecuted. </span></span><span class=\"verse v13\" data-usfm=\"2TI.3.13\"><span class=\"label\">13</span><span class=\"content\">But evil people and impostors will proceed </span><span class=\"it\"><span class=\"content\">from bad</span></span><span class=\"content\"> to worse, deceiving and being deceived. </span></span><span class=\"verse v14\" data-usfm=\"2TI.3.14\"><span class=\"label\">14</span><span class=\"content\">You, however, continue in the things you have learned and become convinced of, knowing from whom you have learned </span><span class=\"it\"><span class=\"content\">them,</span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2TI.3.15\"><span class=\"label\">15</span><span class=\"content\">and that from childhood you have known the sacred writings which are able to give you the wisdom that leads to salvation through faith which is in Christ Jesus. </span></span><span class=\"verse v16\" data-usfm=\"2TI.3.16\"><span class=\"label\">16</span><span class=\"content\">All Scripture is </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">Lit <span class=\"it\">God-breathed</span></span></span></span><span class=\"content\">inspired by God and beneficial for teaching, for </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:16 </span><span class=\"ft\">Or <span class=\"it\">reprimand</span></span></span></span><span class=\"content\">rebuke, for correction, for training in righteousness; </span></span><span class=\"verse v17\" data-usfm=\"2TI.3.17\"><span class=\"label\">17</span><span class=\"content\">so that the man </span><span class=\"it\"><span class=\"content\">or woman</span></span><span class=\"content\"> of God may be </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:17 </span><span class=\"ft\">Or <span class=\"it\">proficient</span></span></span></span><span class=\"content\">fully capable, equipped for every good work.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "But realize this, that in the last days difficult times will come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "For people will be lovers of self, lovers of money, boastful, arrogant, slanderers, disobedient to parents, ungrateful, unholy,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "unloving, irreconcilable, malicious gossips, without self-control, brutal, haters of good,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "treacherous, reckless, conceited, lovers of pleasure rather than lovers of God,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "holding to a form of godliness although they have denied its power; avoid such people as these."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For among them are those who slip into households and captivate weak women weighed down with sins, led on by various impulses,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "always learning and never able to come to the knowledge of the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men of depraved mind, worthless in regard to the faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But they will not make further progress; for their foolishness will be obvious to all, just as was that also of Jannes and Jambres."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Now you followed my teaching, conduct, purpose, faith, patience, love, perseverance,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "persecutions, and sufferings, such as happened to me at Antioch, at Iconium, and at Lystra; what persecutions I endured, and out of them all the Lord rescued me!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Indeed, all who want to live in a godly way in Christ Jesus will be persecuted."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But evil people and impostors will proceed from bad to worse, deceiving and being deceived."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "You, however, continue in the things you have learned and become convinced of, knowing from whom you have learned them,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "and that from childhood you have known the sacred writings which are able to give you the wisdom that leads to salvation through faith which is in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "All Scripture is inspired by God and beneficial for teaching, for rebuke, for correction, for training in righteousness;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "so that the man or woman of God may be fully capable, equipped for every good work."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2TI.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2TI.4"
+        ],
+        "human": "2 Timothy 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "TIT.1"
+        ],
+        "human": "Titus 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TI.3"
+        ],
+        "human": "2 Timothy 3",
+        "toc": true
+      },
+      "chapter_text": "I solemnly exhort you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by His appearing and His kingdom: preach the word; be ready in season and out of season; correct, rebuke, and exhort, with great patience and instruction. For the time will come when they will not tolerate sound doctrine; but wanting to have their ears tickled, they will accumulate for themselves teachers in accordance with their own desires, and they will turn their ears away from the truth and will turn aside to myths. But as for you, use self-restraint in all things, endure hardship, do the work of an evangelist, fulfill your ministry.\nFor I am already being poured out as a drink offering, and the time of my departure has come. I have fought the good fight, I have finished the course, I have kept the faith; in the future there is reserved for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day; and not only to me, but also to all who have loved His appearing.\n\nMake every effort to come to me soon; for Demas, having loved this present world, has deserted me and gone to Thessalonica; Crescens has gone to Galatia, Titus to Dalmatia. Only Luke is with me. Take along Mark and bring him with you, for he is useful to me for service. But I have sent Tychicus to Ephesus. When you come, bring the overcoat which I left at Troas with Carpus, and the books, especially the parchments. Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds. Be on guard against him yourself too, for he vigorously opposed our teaching.\nAt my first defense no one supported me, but all deserted me; may it not be counted against them. But the Lord stood with me and strengthened me, so that through me the proclamation might be fully accomplished, and that all the Gentiles might hear; and I was rescued out of the lion’s mouth. The Lord will rescue me from every evil deed, and will bring me safely to His heavenly kingdom; to Him be the glory forever and ever. Amen.\nGreet Prisca and Aquila, and the household of Onesiphorus. Erastus remained at Corinth, but I left Trophimus sick at Miletus. Make every effort to come before winter. Eubulus greets you, also Pudens, Linus, Claudia, and all the brothers and sisters.\nThe Lord be with your spirit. Grace be with you.",
+      "chapter_html": "<div class=\"version vid2692 iso6393eng\" data-vid=\"2692\" data-iso6393=\"eng\">\n   <div class=\"book bk2TI\">\n      <div class=\"chapter ch4\" data-usfm=\"2TI.4\">\n         <div class=\"label\">4</div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Preach the Word</span></span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2TI.4.1\"><span class=\"label\">1</span><span class=\"content\">I solemnly exhort </span><span class=\"it\"><span class=\"content\">you</span></span><span class=\"content\"> in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by His appearing and His kingdom: </span></span><span class=\"verse v2\" data-usfm=\"2TI.4.2\"><span class=\"label\">2</span><span class=\"content\">preach the word; be ready </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">I.e., whether it is convenient or not</span></span></span><span class=\"content\">in season </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\"> out of season; correct, rebuke, </span><span class=\"it\"><span class=\"content\">and</span></span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">Or <span class=\"it\">encourage</span></span></span></span><span class=\"content\">exhort, with </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">Lit <span class=\"it\">all</span></span></span></span><span class=\"content\">great patience and instruction. </span></span><span class=\"verse v3\" data-usfm=\"2TI.4.3\"><span class=\"label\">3</span><span class=\"content\">For </span><span class=\"it\"><span class=\"content\">the</span></span><span class=\"content\"> time will come when they will not tolerate sound doctrine; but </span><span class=\"it\"><span class=\"content\">wanting</span></span><span class=\"content\"> to have their ears tickled, they will accumulate for themselves teachers in accordance with their own desires, </span></span><span class=\"verse v4\" data-usfm=\"2TI.4.4\"><span class=\"label\">4</span><span class=\"content\">and they will turn their ears away from the truth and will turn aside to myths. </span></span><span class=\"verse v5\" data-usfm=\"2TI.4.5\"><span class=\"label\">5</span><span class=\"content\">But </span><span class=\"it\"><span class=\"content\">as for</span></span><span class=\"content\"> you, use self-restraint in all things, endure hardship, do the work of an evangelist, fulfill your ministry.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"2TI.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2TI.4.6\"><span class=\"label\">6</span><span class=\"content\">For I am already being poured out as a drink offering, and the time of my departure has come. </span></span><span class=\"verse v7\" data-usfm=\"2TI.4.7\"><span class=\"label\">7</span><span class=\"content\">I have fought the good fight, I have finished the course, I have kept the faith; </span></span><span class=\"verse v8\" data-usfm=\"2TI.4.8\"><span class=\"label\">8</span><span class=\"content\">in the future there is reserved for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day; and not only to me, but also to all who have loved His appearing.</span></span></div><div class=\"s\"><span class=\"heading\">  </span><span class=\"it\"><span class=\"heading\">Personal Concerns</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"2TI.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2TI.4.9\"><span class=\"label\">9</span><span class=\"content\">Make every effort to come to me soon; </span></span><span class=\"verse v10\" data-usfm=\"2TI.4.10\"><span class=\"label\">10</span><span class=\"content\">for Demas, having loved this present </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:10 </span><span class=\"ft\">Or <span class=\"it\">age</span></span></span></span><span class=\"content\">world, has deserted me and gone to Thessalonica; Crescens </span><span class=\"it\"><span class=\"content\">has gone</span></span><span class=\"content\"> to </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:10 </span><span class=\"ft\">One early ms <span class=\"it\">Gaul</span></span></span></span><span class=\"content\">Galatia, Titus to Dalmatia. </span></span><span class=\"verse v11\" data-usfm=\"2TI.4.11\"><span class=\"label\">11</span><span class=\"content\">Only Luke is with me. Take along Mark and bring him with you, for he is useful to me for service. </span></span><span class=\"verse v12\" data-usfm=\"2TI.4.12\"><span class=\"label\">12</span><span class=\"content\">But I have sent Tychicus to Ephesus. </span></span><span class=\"verse v13\" data-usfm=\"2TI.4.13\"><span class=\"label\">13</span><span class=\"content\">When you come, bring the overcoat which I left at Troas with Carpus, and the books, especially the parchments. </span></span><span class=\"verse v14\" data-usfm=\"2TI.4.14\"><span class=\"label\">14</span><span class=\"content\">Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds. </span></span><span class=\"verse v15\" data-usfm=\"2TI.4.15\"><span class=\"label\">15</span><span class=\"content\">Be on guard against him yourself too, for he vigorously opposed our </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:15 </span><span class=\"ft\">Lit <span class=\"it\">words</span></span></span></span><span class=\"content\">teaching.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"2TI.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2TI.4.16\"><span class=\"label\">16</span><span class=\"content\">At my first defense no one supported me, but all deserted me; may it not be counted against them. </span></span><span class=\"verse v17\" data-usfm=\"2TI.4.17\"><span class=\"label\">17</span><span class=\"content\">But the Lord stood with me and strengthened me, so that through me the proclamation might </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:17 </span><span class=\"ft\">Or <span class=\"it\">be fulfilled</span></span></span></span><span class=\"content\">be fully accomplished, and that all the Gentiles might hear; and I was rescued out of the lion&#8217;s mouth. </span></span><span class=\"verse v18\" data-usfm=\"2TI.4.18\"><span class=\"label\">18</span><span class=\"content\">The Lord will rescue me from every evil deed, and will </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:18 </span><span class=\"ft\">Or <span class=\"it\">save me for</span></span></span></span><span class=\"content\">bring me safely to His heavenly kingdom; to </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:18 </span><span class=\"ft\">Lit <span class=\"it\">Whom</span></span></span></span><span class=\"content\">Him </span><span class=\"it\"><span class=\"content\">be</span></span><span class=\"content\"> the glory forever and ever. Amen.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"2TI.4.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2TI.4.19\"><span class=\"label\">19</span><span class=\"content\">Greet Prisca and Aquila, and the household of Onesiphorus. </span></span><span class=\"verse v20\" data-usfm=\"2TI.4.20\"><span class=\"label\">20</span><span class=\"content\">Erastus remained at Corinth, but I left Trophimus sick at Miletus. </span></span><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"label\">21</span><span class=\"content\">Make every effort to come before winter. Eubulus greets you, also Pudens, Linus, Claudia, and all the brothers </span><span class=\"it\"><span class=\"content\">and sisters.</span></span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"2TI.4.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"2TI.4.22\"><span class=\"label\">22</span><span class=\"content\">The Lord be with your spirit. Grace be with you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I solemnly exhort you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by His appearing and His kingdom:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "preach the word; be ready in season and out of season; correct, rebuke, and exhort, with great patience and instruction."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For the time will come when they will not tolerate sound doctrine; but wanting to have their ears tickled, they will accumulate for themselves teachers in accordance with their own desires,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "and they will turn their ears away from the truth and will turn aside to myths."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "But as for you, use self-restraint in all things, endure hardship, do the work of an evangelist, fulfill your ministry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For I am already being poured out as a drink offering, and the time of my departure has come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I have fought the good fight, I have finished the course, I have kept the faith;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "in the future there is reserved for me the crown of righteousness, which the Lord, the righteous Judge, will award to me on that day; and not only to me, but also to all who have loved His appearing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Make every effort to come to me soon;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "for Demas, having loved this present world, has deserted me and gone to Thessalonica; Crescens has gone to Galatia, Titus to Dalmatia."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Only Luke is with me. Take along Mark and bring him with you, for he is useful to me for service."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But I have sent Tychicus to Ephesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "When you come, bring the overcoat which I left at Troas with Carpus, and the books, especially the parchments."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Be on guard against him yourself too, for he vigorously opposed our teaching."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "At my first defense no one supported me, but all deserted me; may it not be counted against them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But the Lord stood with me and strengthened me, so that through me the proclamation might be fully accomplished, and that all the Gentiles might hear; and I was rescued out of the lion’s mouth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "The Lord will rescue me from every evil deed, and will bring me safely to His heavenly kingdom; to Him be the glory forever and ever. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Greet Prisca and Aquila, and the household of Onesiphorus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Erastus remained at Corinth, but I left Trophimus sick at Miletus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Make every effort to come before winter. Eubulus greets you, also Pudens, Linus, Claudia, and all the brothers and sisters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "The Lord be with your spirit. Grace be with you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
