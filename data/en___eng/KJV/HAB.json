@@ -1,0 +1,624 @@
+{
+  "book_usfm": "HAB",
+  "name": "Habakkuk",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "HAB.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3",
+        "toc": true
+      },
+      "chapter_text": "The burden which Habakkuk the prophet did see. O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save! Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention. Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.\nBehold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you. For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not their's. They are terrible and dreadful: their judgment and their dignity shall proceed of themselves. Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.\nThey shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand. And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it. Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.\nArt thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction. Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he? And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?\nThey take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad. Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous. Shall they therefore empty their net, and not spare continually to slay the nations?",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch1\" data-usfm=\"HAB.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.1.1\"><span class=\"label\">1</span><span class=\"content\">The burden which Habakkuk the prophet did see. </span></span><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"label\">2</span><span class=\"content\">O </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, how long shall I cry, and thou wilt not hear! </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> cry out unto thee </span><span class=\"add\"><span class=\"content\">of</span></span><span class=\"content\"> violence, and thou wilt not save! </span></span><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"label\">3</span><span class=\"content\">Why dost thou shew me iniquity, and cause </span><span class=\"add\"><span class=\"content\">me</span></span><span class=\"content\"> to behold grievance? for spoiling and violence </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> before me: and there are </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> raise up strife and contention. </span></span><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"label\">4</span><span class=\"content\">Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"label\">5</span><span class=\"content\">Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> ye will not believe, though it be told </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\">. </span></span><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"label\">6</span><span class=\"content\">For, lo, I raise up the Chaldeans, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces </span><span class=\"add\"><span class=\"content\">that are</span></span><span class=\"content\"> not their's. </span></span><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"label\">7</span><span class=\"content\">They </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> terrible and dreadful: their judgment and their dignity shall proceed of themselves. </span></span><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"label\">8</span><span class=\"content\">Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> hasteth to eat.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"label\">9</span><span class=\"content\">They shall come all for violence: their faces shall sup up </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> the east wind, and they shall gather the captivity as the sand. </span></span><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"label\">10</span><span class=\"content\">And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it. </span></span><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"label\">11</span><span class=\"content\">Then shall </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> mind change, and he shall pass over, and offend, </span><span class=\"add\"><span class=\"content\">imputing</span></span><span class=\"content\"> this his power unto his god.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"label\">12</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Art</span></span><span class=\"content\"> thou not from everlasting, O </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> my God, mine Holy One? we shall not die. O </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction. </span></span><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"label\">13</span><span class=\"add\"><span class=\"content\">Thou art</span></span><span class=\"content\"> of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> holdest thy tongue when the wicked devoureth </span><span class=\"add\"><span class=\"content\">the man that is</span></span><span class=\"content\"> more righteous than he? </span></span><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"label\">14</span><span class=\"content\">And makest men as the fishes of the sea, as the creeping things, </span><span class=\"add\"><span class=\"content\">that have</span></span><span class=\"content\"> no ruler over them?</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"label\">15</span><span class=\"content\">They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad. </span></span><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"label\">16</span><span class=\"content\">Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> fat, and their meat plenteous. </span></span><span class=\"verse v17\" data-usfm=\"HAB.1.17\"><span class=\"label\">17</span><span class=\"content\">Shall they therefore empty their net, and not spare continually to slay the nations?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The burden which Habakkuk the prophet did see."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not their's."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They are terrible and dreadful: their judgment and their dignity shall proceed of themselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Shall they therefore empty their net, and not spare continually to slay the nations?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1",
+        "toc": true
+      },
+      "chapter_text": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved. And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it. For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry. Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.\nYea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people: shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay! Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them? Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.\nWoe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil! Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul. For the stone shall cry out of the wall, and the beam out of the timber shall answer it.\nWoe to him that buildeth a town with blood, and stablisheth a city by iniquity! Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity? For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.\nWoe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness! Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD's right hand shall be turned unto thee, and shameful spewing shall be on thy glory. For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.\nWhat profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols? Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it. But the LORD is in his holy temple: let all the earth keep silence before him.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch2\" data-usfm=\"HAB.2\">\n         <div class=\"label\">2</div><div class=\"s2\"><span class=\"heading\">His Watchtower</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"label\">1</span><span class=\"content\">I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved. </span></span><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"label\">2</span><span class=\"content\">And the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> answered me, and said, Write the vision, and make </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> plain upon tables, that he may run that readeth it. </span></span><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"label\">3</span><span class=\"content\">For the vision </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry. </span></span><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"label\">4</span><span class=\"content\">Behold, his soul </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> is lifted up is not upright in him: but the just shall live by his faith.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"label\">5</span><span class=\"content\">Yea also, because he transgresseth by wine, </span><span class=\"add\"><span class=\"content\">he is</span></span><span class=\"content\"> a proud man, neither keepeth at home, who enlargeth his desire as hell, and </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people: </span></span><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"label\">6</span><span class=\"content\">shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth </span><span class=\"add\"><span class=\"content\">that which is</span></span><span class=\"content\"> not his! how long? and to him that ladeth himself with thick clay! </span></span><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"label\">7</span><span class=\"content\">Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them? </span></span><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"label\">8</span><span class=\"content\">Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and </span><span class=\"add\"><span class=\"content\">for</span></span><span class=\"content\"> the violence of the land, of the city, and of all that dwell therein.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"label\">9</span><span class=\"content\">Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil! </span></span><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"label\">10</span><span class=\"content\">Thou hast consulted shame to thy house by cutting off many people, and hast sinned </span><span class=\"add\"><span class=\"content\">against</span></span><span class=\"content\"> thy soul. </span></span><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"label\">11</span><span class=\"content\">For the stone shall cry out of the wall, and the beam out of the timber shall answer it.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"label\">12</span><span class=\"content\">Woe to him that buildeth a town with blood, and stablisheth a city by iniquity! </span></span><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"label\">13</span><span class=\"content\">Behold, </span><span class=\"add\"><span class=\"content\">is it</span></span><span class=\"content\"> not of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity? </span></span><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"label\">14</span><span class=\"content\">For the earth shall be filled with the knowledge of the glory of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, as the waters cover the sea.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"label\">15</span><span class=\"content\">Woe unto him that giveth his neighbour drink, that puttest thy bottle to </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\">, and makest </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\"> drunken also, that thou mayest look on their nakedness! </span></span><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"label\">16</span><span class=\"content\">Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s right hand shall be turned unto thee, and shameful spewing </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> on thy glory. </span></span><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"label\">17</span><span class=\"content\">For the violence of Lebanon shall cover thee, and the spoil of beasts, </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"label\">18</span><span class=\"content\">What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols? </span></span><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"label\">19</span><span class=\"content\">Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> laid over with gold and silver, and </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no breath at all in the midst of it. </span></span><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"label\">20</span><span class=\"content\">But the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in his holy temple: let all the earth keep silence before him.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "His Watchtower"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For the stone shall cry out of the wall, and the beam out of the timber shall answer it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD's right hand shall be turned unto thee, and shameful spewing shall be on thy glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "But the LORD is in his holy temple: let all the earth keep silence before him."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2",
+        "toc": true
+      },
+      "chapter_text": "A prayer of Habakkuk the prophet upon Shigionoth.\nO LORD, I have heard thy speech, and was afraid:\nO LORD, revive thy work in the midst of the years,\nIn the midst of the years make known;\nIn wrath remember mercy.\nGod came from Teman,\nAnd the Holy One from mount Paran. Selah.\nHis glory covered the heavens,\nAnd the earth was full of his praise.\nAnd his brightness was as the light;\nHe had horns coming out of his hand:\nAnd there was the hiding of his power.\nBefore him went the pestilence,\nAnd burning coals went forth at his feet.\nHe stood, and measured the earth:\nHe beheld, and drove asunder the nations;\nAnd the everlasting mountains were scattered,\nThe perpetual hills did bow:\nHis ways are everlasting.\nI saw the tents of Cushan in affliction:\nAnd the curtains of the land of Midian did tremble.\nWas the LORD displeased against the rivers?\nWas thine anger against the rivers?\nWas thy wrath against the sea,\nThat thou didst ride upon thine horses\nAnd thy chariots of salvation?\nThy bow was made quite naked,\nAccording to the oaths of the tribes, even thy word. Selah.\nThou didst cleave the earth with rivers.\nThe mountains saw thee, and they trembled:\nThe overflowing of the water passed by:\nThe deep uttered his voice,\nAnd lifted up his hands on high.\nThe sun and moon stood still in their habitation:\nAt the light of thine arrows they went,\nAnd at the shining of thy glittering spear.\nThou didst march through the land in indignation,\nThou didst thresh the heathen in anger.\nThou wentest forth for the salvation of thy people,\nEven for salvation with thine anointed;\nThou woundedst the head out of the house of the wicked,\nBy discovering the foundation unto the neck. Selah.\nThou didst strike through with his staves the head of his villages:\nThey came out as a whirlwind to scatter me:\nTheir rejoicing was as to devour the poor secretly.\nThou didst walk through the sea with thine horses,\nThrough the heap of great waters.\n\nWhen I heard, my belly trembled;\nMy lips quivered at the voice:\nRottenness entered into my bones, and I trembled in myself,\nThat I might rest in the day of trouble:\nWhen he cometh up unto the people,\nHe will invade them with his troops.\nAlthough the fig tree shall not blossom,\nNeither shall fruit be in the vines;\nThe labour of the olive shall fail,\nAnd the fields shall yield no meat;\nThe flock shall be cut off from the fold,\nAnd there shall be no herd in the stalls:\nYet I will rejoice in the LORD,\nI will joy in the God of my salvation.\nThe LORD God is my strength,\nAnd he will make my feet like hinds' feet,\nAnd he will make me to walk upon mine high places.\nTo the chief singer on my stringed instruments.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch3\" data-usfm=\"HAB.3\">\n         <div class=\"label\">3</div><div class=\"s2\"><span class=\"heading\">His Prayer</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"label\">1</span><span class=\"content\">A prayer of Habakkuk the prophet upon Shigionoth.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"label\">2</span><span class=\"content\">O </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, I have heard thy speech, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> was afraid:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">O </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, revive thy work in the midst of the years,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">In the midst of the years make known;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">In wrath remember mercy.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"label\">3</span><span class=\"content\">God came from Teman,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">And the Holy One from mount Paran. </span><span class=\"qs\"><span class=\"content\">Selah.</span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">His glory covered the heavens,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">And the earth was full of his praise.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"label\">4</span><span class=\"content\">And </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> brightness was as the light;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">He had horns </span><span class=\"add\"><span class=\"content\">coming</span></span><span class=\"content\"> out of his hand:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">And there </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> the hiding of his power.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"label\">5</span><span class=\"content\">Before him went the pestilence,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">And burning coals went forth at his feet.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"label\">6</span><span class=\"content\">He stood, and measured the earth:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">He beheld, and drove asunder the nations;</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">And the everlasting mountains were scattered,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">The perpetual hills did bow:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">His ways </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> everlasting.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"label\">7</span><span class=\"content\">I saw the tents of Cushan in affliction:</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> the curtains of the land of Midian did tremble.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"label\">8</span><span class=\"content\">Was the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> displeased against the rivers?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Was</span></span><span class=\"content\"> thine anger against the rivers?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Was</span></span><span class=\"content\"> thy wrath against the sea,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">That thou didst ride upon thine horses</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> thy chariots of salvation?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"label\">9</span><span class=\"content\">Thy bow was made quite naked,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">According</span></span><span class=\"content\"> to the oaths of the tribes, </span><span class=\"add\"><span class=\"content\">even thy</span></span><span class=\"content\"> word. </span><span class=\"qs\"><span class=\"content\">Selah.</span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">Thou didst cleave the earth with rivers.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"label\">10</span><span class=\"content\">The mountains saw thee, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> they trembled:</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">The overflowing of the water passed by:</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">The deep uttered his voice,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> lifted up his hands on high.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"label\">11</span><span class=\"content\">The sun </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> moon stood still in their habitation:</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">At the light of thine arrows they went,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> at the shining of thy glittering spear.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"label\">12</span><span class=\"content\">Thou didst march through the land in indignation,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">Thou didst thresh the heathen in anger.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"label\">13</span><span class=\"content\">Thou wentest forth for the salvation of thy people,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Even</span></span><span class=\"content\"> for salvation with thine anointed;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">Thou woundedst the head out of the house of the wicked,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">By discovering the foundation unto the neck. </span><span class=\"qs\"><span class=\"content\">Selah.</span></span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"label\">14</span><span class=\"content\">Thou didst strike through with his staves the head of his villages:</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">They came out as a whirlwind to scatter me:</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">Their rejoicing </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> as to devour the poor secretly.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"label\">15</span><span class=\"content\">Thou didst walk through the sea with thine horses,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Through</span></span><span class=\"content\"> the heap of great waters.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"label\">16</span><span class=\"content\">When I heard, my belly trembled;</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">My lips quivered at the voice:</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Rottenness entered into my bones, and I trembled in myself,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">That I might rest in the day of trouble:</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">When he cometh up unto the people,</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">He will invade them with his troops.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"label\">17</span><span class=\"content\">Although the fig tree shall not blossom,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">Neither </span><span class=\"add\"><span class=\"content\">shall</span></span><span class=\"content\"> fruit </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> in the vines;</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">The labour of the olive shall fail,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">And the fields shall yield no meat;</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">The flock shall be cut off from the fold,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">And </span><span class=\"add\"><span class=\"content\">there shall be</span></span><span class=\"content\"> no herd in the stalls:</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"label\">18</span><span class=\"content\">Yet I will rejoice in the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"content\">I will joy in the God of my salvation.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"label\">19</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> God </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my strength,</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">And he will make my feet like hinds' </span><span class=\"add\"><span class=\"content\">feet</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">And he will make me to walk upon mine high places.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">To the chief singer on my stringed instruments.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "His Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "A prayer of Habakkuk the prophet upon Shigionoth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "O LORD, I have heard thy speech, and was afraid:",
+            "O LORD, revive thy work in the midst of the years,",
+            "In the midst of the years make known;",
+            "In wrath remember mercy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "God came from Teman,",
+            "And the Holy One from mount Paran. Selah.",
+            "His glory covered the heavens,",
+            "And the earth was full of his praise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "And his brightness was as the light;",
+            "He had horns coming out of his hand:",
+            "And there was the hiding of his power."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Before him went the pestilence,",
+            "And burning coals went forth at his feet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "He stood, and measured the earth:",
+            "He beheld, and drove asunder the nations;",
+            "And the everlasting mountains were scattered,",
+            "The perpetual hills did bow:",
+            "His ways are everlasting."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I saw the tents of Cushan in affliction:",
+            "And the curtains of the land of Midian did tremble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Was the LORD displeased against the rivers?",
+            "Was thine anger against the rivers?",
+            "Was thy wrath against the sea,",
+            "That thou didst ride upon thine horses",
+            "And thy chariots of salvation?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Thy bow was made quite naked,",
+            "According to the oaths of the tribes, even thy word. Selah.",
+            "Thou didst cleave the earth with rivers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "The mountains saw thee, and they trembled:",
+            "The overflowing of the water passed by:",
+            "The deep uttered his voice,",
+            "And lifted up his hands on high."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The sun and moon stood still in their habitation:",
+            "At the light of thine arrows they went,",
+            "And at the shining of thy glittering spear."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Thou didst march through the land in indignation,",
+            "Thou didst thresh the heathen in anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Thou wentest forth for the salvation of thy people,",
+            "Even for salvation with thine anointed;",
+            "Thou woundedst the head out of the house of the wicked,",
+            "By discovering the foundation unto the neck. Selah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Thou didst strike through with his staves the head of his villages:",
+            "They came out as a whirlwind to scatter me:",
+            "Their rejoicing was as to devour the poor secretly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Thou didst walk through the sea with thine horses,",
+            "Through the heap of great waters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "When I heard, my belly trembled;",
+            "My lips quivered at the voice:",
+            "Rottenness entered into my bones, and I trembled in myself,",
+            "That I might rest in the day of trouble:",
+            "When he cometh up unto the people,",
+            "He will invade them with his troops."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Although the fig tree shall not blossom,",
+            "Neither shall fruit be in the vines;",
+            "The labour of the olive shall fail,",
+            "And the fields shall yield no meat;",
+            "The flock shall be cut off from the fold,",
+            "And there shall be no herd in the stalls:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Yet I will rejoice in the LORD,",
+            "I will joy in the God of my salvation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "The LORD God is my strength,",
+            "And he will make my feet like hinds' feet,",
+            "And he will make me to walk upon mine high places.",
+            "To the chief singer on my stringed instruments."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

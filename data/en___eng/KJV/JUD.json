@@ -1,0 +1,254 @@
+{
+  "book_usfm": "JUD",
+  "name": "Jude",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JUD.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Jude 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "REV.1"
+        ],
+        "human": "Revelation 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1",
+        "toc": true
+      },
+      "chapter_text": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called: mercy unto you, and peace, and love, be multiplied.\nBeloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints. For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.\nI will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not. And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day. Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.\nLikewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities. Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves. Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core. These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots; raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.\nAnd Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, to execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.\nThese are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men's persons in admiration because of advantage.\nBut, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ; how that they told you there should be mockers in the last time, who should walk after their own ungodly lusts. These be they who separate themselves, sensual, having not the Spirit. But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life. And of some have compassion, making a difference: and others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.\nNow unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy, to the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkJUD\">\n      <div class=\"chapter ch1\" data-usfm=\"JUD.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JUD.1.1\"><span class=\"label\">1</span><span class=\"content\">Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> called: </span></span><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"label\">2</span><span class=\"content\">mercy unto you, and peace, and love, be multiplied.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"JUD.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JUD.1.3\"><span class=\"label\">3</span><span class=\"content\">Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\"> that ye should earnestly contend for the faith which was once delivered unto the saints. </span></span><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"label\">4</span><span class=\"content\">For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JUD.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JUD.1.5\"><span class=\"label\">5</span><span class=\"content\">I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not. </span></span><span class=\"verse v6\" data-usfm=\"JUD.1.6\"><span class=\"label\">6</span><span class=\"content\">And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day. </span></span><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"label\">7</span><span class=\"content\">Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JUD.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JUD.1.8\"><span class=\"label\">8</span><span class=\"content\">Likewise also these </span><span class=\"add\"><span class=\"content\">filthy</span></span><span class=\"content\"> dreamers defile the flesh, despise dominion, and speak evil of dignities. </span></span><span class=\"verse v9\" data-usfm=\"JUD.1.9\"><span class=\"label\">9</span><span class=\"content\">Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee. </span></span><span class=\"verse v10\" data-usfm=\"JUD.1.10\"><span class=\"label\">10</span><span class=\"content\">But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves. </span></span><span class=\"verse v11\" data-usfm=\"JUD.1.11\"><span class=\"label\">11</span><span class=\"content\">Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core. </span></span><span class=\"verse v12\" data-usfm=\"JUD.1.12\"><span class=\"label\">12</span><span class=\"content\">These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds </span><span class=\"add\"><span class=\"content\">they are</span></span><span class=\"content\"> without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots; </span></span><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"label\">13</span><span class=\"content\">raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JUD.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JUD.1.14\"><span class=\"label\">14</span><span class=\"content\">And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints, </span></span><span class=\"verse v15\" data-usfm=\"JUD.1.15\"><span class=\"label\">15</span><span class=\"content\">to execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard </span><span class=\"add\"><span class=\"content\">speeches</span></span><span class=\"content\"> which ungodly sinners have spoken against him.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"JUD.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"label\">16</span><span class=\"content\">These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling </span><span class=\"add\"><span class=\"content\">words</span></span><span class=\"content\">, having men's persons in admiration because of advantage.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JUD.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JUD.1.17\"><span class=\"label\">17</span><span class=\"content\">But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ; </span></span><span class=\"verse v18\" data-usfm=\"JUD.1.18\"><span class=\"label\">18</span><span class=\"content\">how that they told you there should be mockers in the last time, who should walk after their own ungodly lusts. </span></span><span class=\"verse v19\" data-usfm=\"JUD.1.19\"><span class=\"label\">19</span><span class=\"content\">These be they who separate themselves, sensual, having not the Spirit. </span></span><span class=\"verse v20\" data-usfm=\"JUD.1.20\"><span class=\"label\">20</span><span class=\"content\">But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, </span></span><span class=\"verse v21\" data-usfm=\"JUD.1.21\"><span class=\"label\">21</span><span class=\"content\">keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life. </span></span><span class=\"verse v22\" data-usfm=\"JUD.1.22\"><span class=\"label\">22</span><span class=\"content\">And of some have compassion, making a difference: </span></span><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"label\">23</span><span class=\"content\">and others save with fear, pulling </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> out of the fire; hating even the garment spotted by the flesh.</span></span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"JUD.1.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"JUD.1.24\"><span class=\"label\">24</span><span class=\"content\">Now unto him that is able to keep you from falling, and to present </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\"> faultless before the presence of his glory with exceeding joy, </span></span><span class=\"verse v25\" data-usfm=\"JUD.1.25\"><span class=\"label\">25</span><span class=\"content\">to the only wise God our Saviour, </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> glory and majesty, dominion and power, both now and ever. Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "mercy unto you, and peace, and love, be multiplied."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "to execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men's persons in admiration because of advantage."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "how that they told you there should be mockers in the last time, who should walk after their own ungodly lusts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "These be they who separate themselves, sensual, having not the Spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "And of some have compassion, making a difference:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "and others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "to the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

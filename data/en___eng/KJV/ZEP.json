@@ -1,0 +1,594 @@
+{
+  "book_usfm": "ZEP",
+  "name": "Zephaniah",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "ZEP.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Zephaniah 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3",
+        "toc": true
+      },
+      "chapter_text": "LORD\nThe word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.\n\nI will utterly consume all things from off the land, saith the LORD. I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the LORD. I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests; and them that worship the host of heaven upon the housetops; and them that worship and that swear by the LORD, and that swear by Malcham; and them that are turned back from the LORD; and those that have not sought the LORD, nor enquired for him.\nHold thy peace at the presence of the Lord GOD: for the day of the LORD is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests. And it shall come to pass in the day of the LORD's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel. In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit. And it shall come to pass in that day, saith the LORD, that there shall be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills. Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.\nAnd it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil. Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof.\nThe great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly. That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness, a day of the trumpet and alarm against the fenced cities, and against the high towers. And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung. Neither their silver nor their gold shall be able to deliver them in the day of the LORD's wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch1\" data-usfm=\"ZEP.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">The Day of the </span><span class=\"nd\"><span class=\"heading\">LORD</span></span><span class=\"heading\">'s Wrath</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.1.1\"><span class=\"label\">1</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.</span></span></div><div class=\"s2\"><span class=\"heading\">The Day of the Lord</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"ZEP.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ZEP.1.2\"><span class=\"label\">2</span><span class=\"content\">I will utterly consume all </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> from off the land, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v3\" data-usfm=\"ZEP.1.3\"><span class=\"label\">3</span><span class=\"content\">I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v4\" data-usfm=\"ZEP.1.4\"><span class=\"label\">4</span><span class=\"content\">I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> the name of the Chemarims with the priests; </span></span><span class=\"verse v5\" data-usfm=\"ZEP.1.5\"><span class=\"label\">5</span><span class=\"content\">and them that worship the host of heaven upon the housetops; and them that worship </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> that swear by the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, and that swear by Malcham; </span></span><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"label\">6</span><span class=\"content\">and them that are turned back from the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">; and </span><span class=\"add\"><span class=\"content\">those</span></span><span class=\"content\"> that have not sought the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, nor enquired for him.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"ZEP.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ZEP.1.7\"><span class=\"label\">7</span><span class=\"content\">Hold thy peace at the presence of the Lord </span><span class=\"nd\"><span class=\"content\">GOD</span></span><span class=\"content\">: for the day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> at hand: for the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> hath prepared a sacrifice, he hath bid his guests. </span></span><span class=\"verse v8\" data-usfm=\"ZEP.1.8\"><span class=\"label\">8</span><span class=\"content\">And it shall come to pass in the day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel. </span></span><span class=\"verse v9\" data-usfm=\"ZEP.1.9\"><span class=\"label\">9</span><span class=\"content\">In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit. </span></span><span class=\"verse v10\" data-usfm=\"ZEP.1.10\"><span class=\"label\">10</span><span class=\"content\">And it shall come to pass in that day, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, </span><span class=\"add\"><span class=\"content\">that there shall be</span></span><span class=\"content\"> the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills. </span></span><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"label\">11</span><span class=\"content\">Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"ZEP.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.1.12\"><span class=\"label\">12</span><span class=\"content\">And it shall come to pass at that time, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> will not do good, neither will he do evil. </span></span><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"label\">13</span><span class=\"content\">Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\">; and they shall plant vineyards, but not drink the wine thereof.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"ZEP.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.1.14\"><span class=\"label\">14</span><span class=\"content\">The great day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> near, </span><span class=\"add\"><span class=\"content\">it is</span></span><span class=\"content\"> near, and hasteth greatly, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> the voice of the day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: the mighty man shall cry there bitterly. </span></span><span class=\"verse v15\" data-usfm=\"ZEP.1.15\"><span class=\"label\">15</span><span class=\"content\">That day </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness, </span></span><span class=\"verse v16\" data-usfm=\"ZEP.1.16\"><span class=\"label\">16</span><span class=\"content\">a day of the trumpet and alarm against the fenced cities, and against the high towers. </span></span><span class=\"verse v17\" data-usfm=\"ZEP.1.17\"><span class=\"label\">17</span><span class=\"content\">And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: and their blood shall be poured out as dust, and their flesh as the dung. </span></span><span class=\"verse v18\" data-usfm=\"ZEP.1.18\"><span class=\"label\">18</span><span class=\"content\">Neither their silver nor their gold shall be able to deliver them in the day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Day of the LORD's Wrath"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I will utterly consume all things from off the land, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "and them that worship the host of heaven upon the housetops; and them that worship and that swear by the LORD, and that swear by Malcham;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and them that are turned back from the LORD; and those that have not sought the LORD, nor enquired for him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Hold thy peace at the presence of the Lord GOD: for the day of the LORD is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "And it shall come to pass in the day of the LORD's sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And it shall come to pass in that day, saith the LORD, that there shall be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "a day of the trumpet and alarm against the fenced cities, and against the high towers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Neither their silver nor their gold shall be able to deliver them in the day of the LORD's wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Zephaniah 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Zephaniah 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1",
+        "toc": true
+      },
+      "chapter_text": "Gather yourselves together, yea, gather together, O nation not desired; before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD's anger come upon you. Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD's anger.\n\nFor Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up. Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant. And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks. And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity.\n\nI have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border. Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them. This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts. The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.\n\nYe Ethiopians also, ye shall be slain by my sword. And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness. And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work. This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch2\" data-usfm=\"ZEP.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.2.1\"><span class=\"label\">1</span><span class=\"content\">Gather yourselves together, yea, gather together, O nation not desired; </span></span><span class=\"verse v2\" data-usfm=\"ZEP.2.2\"><span class=\"label\">2</span><span class=\"content\">before the decree bring forth, </span><span class=\"add\"><span class=\"content\">before</span></span><span class=\"content\"> the day pass as the chaff, before the fierce anger of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> come upon you, before the day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s anger come upon you. </span></span><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"label\">3</span><span class=\"content\">Seek ye the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s anger.</span></span></div><div class=\"s2\"><span class=\"heading\">The Philistines</span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"ZEP.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ZEP.2.4\"><span class=\"label\">4</span><span class=\"content\">For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up. </span></span><span class=\"verse v5\" data-usfm=\"ZEP.2.5\"><span class=\"label\">5</span><span class=\"content\">Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant. </span></span><span class=\"verse v6\" data-usfm=\"ZEP.2.6\"><span class=\"label\">6</span><span class=\"content\">And the sea coast shall be dwellings </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> cottages for shepherds, and folds for flocks. </span></span><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"label\">7</span><span class=\"content\">And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> their God shall visit them, and turn away their captivity.</span></span></div><div class=\"s2\"><span class=\"heading\">Moab and Ammon</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"ZEP.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.2.8\"><span class=\"label\">8</span><span class=\"content\">I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified </span><span class=\"add\"><span class=\"content\">themselves</span></span><span class=\"content\"> against their border. </span></span><span class=\"verse v9\" data-usfm=\"ZEP.2.9\"><span class=\"label\">9</span><span class=\"content\">Therefore </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> I live, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them. </span></span><span class=\"verse v10\" data-usfm=\"ZEP.2.10\"><span class=\"label\">10</span><span class=\"content\">This shall they have for their pride, because they have reproached and magnified </span><span class=\"add\"><span class=\"content\">themselves</span></span><span class=\"content\"> against the people of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"label\">11</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">will be</span></span><span class=\"content\"> terrible unto them: for he will famish all the gods of the earth; and </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\"> shall worship him, every one from his place, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> all the isles of the heathen.</span></span></div><div class=\"s2\"><span class=\"heading\">Ethiopia and Assyria</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"ZEP.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ZEP.2.12\"><span class=\"label\">12</span><span class=\"content\">Ye Ethiopians also, ye </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> slain by my sword. </span></span><span class=\"verse v13\" data-usfm=\"ZEP.2.13\"><span class=\"label\">13</span><span class=\"content\">And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> dry like a wilderness. </span></span><span class=\"verse v14\" data-usfm=\"ZEP.2.14\"><span class=\"label\">14</span><span class=\"content\">And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; </span><span class=\"add\"><span class=\"content\">their</span></span><span class=\"content\"> voice shall sing in the windows; desolation </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> in the thresholds: for he shall uncover the cedar work. </span></span><span class=\"verse v15\" data-usfm=\"ZEP.2.15\"><span class=\"label\">15</span><span class=\"content\">This </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the rejoicing city that dwelt carelessly, that said in her heart, I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\">, and </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> wag his hand.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Gather yourselves together, yea, gather together, O nation not desired;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD's anger come upon you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD's anger."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Philistines"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Moab and Ammon"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Ethiopia and Assyria"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Ye Ethiopians also, ye shall be slain by my sword."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ZEP.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Zephaniah 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Haggai 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.2"
+        ],
+        "human": "Zephaniah 2",
+        "toc": true
+      },
+      "chapter_text": "Woe to her that is filthy and polluted, to the oppressing city! She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God. Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow. Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.\nThe just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame. I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant. I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.\n\nTherefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.\nFor then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent. From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering. In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain. I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD. The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.\nSing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem. The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any more. In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack. The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing. I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden. Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame. At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkZEP\">\n      <div class=\"chapter ch3\" data-usfm=\"ZEP.3\">\n         <div class=\"label\">3</div><div class=\"s2\"><span class=\"heading\">Jerusalem's Danger</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ZEP.3.1\"><span class=\"label\">1</span><span class=\"content\">Woe to her that is filthy and polluted, to the oppressing city! </span></span><span class=\"verse v2\" data-usfm=\"ZEP.3.2\"><span class=\"label\">2</span><span class=\"content\">She obeyed not the voice; she received not correction; she trusted not in the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">; she drew not near to her God. </span></span><span class=\"verse v3\" data-usfm=\"ZEP.3.3\"><span class=\"label\">3</span><span class=\"content\">Her princes within her </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> roaring lions; her judges </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> evening wolves; they gnaw not the bones till the morrow. </span></span><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"label\">4</span><span class=\"content\">Her prophets </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> light </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"ZEP.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ZEP.3.5\"><span class=\"label\">5</span><span class=\"content\">The just </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame. </span></span><span class=\"verse v6\" data-usfm=\"ZEP.3.6\"><span class=\"label\">6</span><span class=\"content\">I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant. </span></span><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"label\">7</span><span class=\"content\">I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> corrupted all their doings.</span></span></div><div class=\"s2\"><span class=\"heading\">Jerusalem's Deliverance</span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"ZEP.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"label\">8</span><span class=\"content\">Therefore wait ye upon me, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, until the day that I rise up to the prey: for my determination </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"ZEP.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ZEP.3.9\"><span class=\"label\">9</span><span class=\"content\">For then will I turn to the people a pure language, that they may all call upon the name of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, to serve him with one consent. </span></span><span class=\"verse v10\" data-usfm=\"ZEP.3.10\"><span class=\"label\">10</span><span class=\"content\">From beyond the rivers of Ethiopia my suppliants, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> the daughter of my dispersed, shall bring mine offering. </span></span><span class=\"verse v11\" data-usfm=\"ZEP.3.11\"><span class=\"label\">11</span><span class=\"content\">In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain. </span></span><span class=\"verse v12\" data-usfm=\"ZEP.3.12\"><span class=\"label\">12</span><span class=\"content\">I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"label\">13</span><span class=\"content\">The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> afraid.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"ZEP.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ZEP.3.14\"><span class=\"label\">14</span><span class=\"content\">Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem. </span></span><span class=\"verse v15\" data-usfm=\"ZEP.3.15\"><span class=\"label\">15</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in the midst of thee: thou shalt not see evil any more. </span></span><span class=\"verse v16\" data-usfm=\"ZEP.3.16\"><span class=\"label\">16</span><span class=\"content\">In that day it shall be said to Jerusalem, Fear thou not: </span><span class=\"add\"><span class=\"content\">and to</span></span><span class=\"content\"> Zion, Let not thine hands be slack. </span></span><span class=\"verse v17\" data-usfm=\"ZEP.3.17\"><span class=\"label\">17</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> thy God in the midst of thee </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing. </span></span><span class=\"verse v18\" data-usfm=\"ZEP.3.18\"><span class=\"label\">18</span><span class=\"content\">I will gather </span><span class=\"add\"><span class=\"content\">them that are</span></span><span class=\"content\"> sorrowful for the solemn assembly, </span><span class=\"add\"><span class=\"content\">who</span></span><span class=\"content\"> are of thee, </span><span class=\"add\"><span class=\"content\">to whom</span></span><span class=\"content\"> the reproach of it </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> a burden. </span></span><span class=\"verse v19\" data-usfm=\"ZEP.3.19\"><span class=\"label\">19</span><span class=\"content\">Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame. </span></span><span class=\"verse v20\" data-usfm=\"ZEP.3.20\"><span class=\"label\">20</span><span class=\"content\">At that time will I bring you </span><span class=\"add\"><span class=\"content\">again</span></span><span class=\"content\">, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Jerusalem's Danger"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Woe to her that is filthy and polluted, to the oppressing city!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Jerusalem's Deliverance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any more."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

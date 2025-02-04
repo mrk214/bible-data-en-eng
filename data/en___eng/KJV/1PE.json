@@ -1,0 +1,1032 @@
+{
+  "book_usfm": "1PE",
+  "name": "1 Peter",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "1PE.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1PE.1"
+        ],
+        "human": "1 Peter 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1PE.2"
+        ],
+        "human": "1 Peter 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JAS.5"
+        ],
+        "human": "James 5",
+        "toc": true
+      },
+      "chapter_text": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.\nBlessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, to an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, who are kept by the power of God through faith unto salvation ready to be revealed in the last time. Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations: that the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ: whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory: receiving the end of your faith, even the salvation of your souls.\nOf which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you: searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.\nWherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ; as obedient children, not fashioning yourselves according to the former lusts in your ignorance: but as he which hath called you is holy, so be ye holy in all manner of conversation; because it is written, Be ye holy; for I am holy. And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear: forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; but with the precious blood of Christ, as of a lamb without blemish and without spot: who verily was foreordained before the foundation of the world, but was manifest in these last times for you, who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.\nSeeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently: being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. For\nAll flesh is as grass,\nAnd all the glory of man as the flower of grass.\nThe grass withereth, and the flower thereof falleth away:\nBut the word of the Lord endureth for ever.\nAnd this is the word which by the gospel is preached unto you.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk1PE\">\n      <div class=\"chapter ch1\" data-usfm=\"1PE.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1PE.1.1\"><span class=\"label\">1</span><span class=\"content\">Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, </span></span><span class=\"verse v2\" data-usfm=\"1PE.1.2\"><span class=\"label\">2</span><span class=\"content\">elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1PE.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1PE.1.3\"><span class=\"label\">3</span><span class=\"content\">Blessed </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, </span></span><span class=\"verse v4\" data-usfm=\"1PE.1.4\"><span class=\"label\">4</span><span class=\"content\">to an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, </span></span><span class=\"verse v5\" data-usfm=\"1PE.1.5\"><span class=\"label\">5</span><span class=\"content\">who are kept by the power of God through faith unto salvation ready to be revealed in the last time. </span></span><span class=\"verse v6\" data-usfm=\"1PE.1.6\"><span class=\"label\">6</span><span class=\"content\">Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations: </span></span><span class=\"verse v7\" data-usfm=\"1PE.1.7\"><span class=\"label\">7</span><span class=\"content\">that the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ: </span></span><span class=\"verse v8\" data-usfm=\"1PE.1.8\"><span class=\"label\">8</span><span class=\"content\">whom having not seen, ye love; in whom, though now ye see </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\"> not, yet believing, ye rejoice with joy unspeakable and full of glory: </span></span><span class=\"verse v9\" data-usfm=\"1PE.1.9\"><span class=\"label\">9</span><span class=\"content\">receiving the end of your faith, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> the salvation of </span><span class=\"add\"><span class=\"content\">your</span></span><span class=\"content\"> souls.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"1PE.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"1PE.1.10\"><span class=\"label\">10</span><span class=\"content\">Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace </span><span class=\"add\"><span class=\"content\">that should come</span></span><span class=\"content\"> unto you: </span></span><span class=\"verse v11\" data-usfm=\"1PE.1.11\"><span class=\"label\">11</span><span class=\"content\">searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow. </span></span><span class=\"verse v12\" data-usfm=\"1PE.1.12\"><span class=\"label\">12</span><span class=\"content\">Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1PE.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1PE.1.13\"><span class=\"label\">13</span><span class=\"content\">Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ; </span></span><span class=\"verse v14\" data-usfm=\"1PE.1.14\"><span class=\"label\">14</span><span class=\"content\">as obedient children, not fashioning yourselves according to the former lusts in your ignorance: </span></span><span class=\"verse v15\" data-usfm=\"1PE.1.15\"><span class=\"label\">15</span><span class=\"content\">but as he which hath called you is holy, so be ye holy in all manner of conversation; </span></span><span class=\"verse v16\" data-usfm=\"1PE.1.16\"><span class=\"label\">16</span><span class=\"content\">because it is written, Be ye holy; for I am holy. </span></span><span class=\"verse v17\" data-usfm=\"1PE.1.17\"><span class=\"label\">17</span><span class=\"content\">And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning </span><span class=\"add\"><span class=\"content\">here</span></span><span class=\"content\"> in fear: </span></span><span class=\"verse v18\" data-usfm=\"1PE.1.18\"><span class=\"label\">18</span><span class=\"content\">forasmuch as ye know that ye were not redeemed with corruptible things, </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> silver and gold, from your vain conversation </span><span class=\"add\"><span class=\"content\">received</span></span><span class=\"content\"> by tradition from your fathers; </span></span><span class=\"verse v19\" data-usfm=\"1PE.1.19\"><span class=\"label\">19</span><span class=\"content\">but with the precious blood of Christ, as of a lamb without blemish and without spot: </span></span><span class=\"verse v20\" data-usfm=\"1PE.1.20\"><span class=\"label\">20</span><span class=\"content\">who verily was foreordained before the foundation of the world, but was manifest in these last times for you, </span></span><span class=\"verse v21\" data-usfm=\"1PE.1.21\"><span class=\"label\">21</span><span class=\"content\">who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.</span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"1PE.1.21\"><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"1PE.1.22\"><span class=\"label\">22</span><span class=\"content\">Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, </span><span class=\"add\"><span class=\"content\">see that ye</span></span><span class=\"content\"> love one another with a pure heart fervently: </span></span><span class=\"verse v23\" data-usfm=\"1PE.1.23\"><span class=\"label\">23</span><span class=\"content\">being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever. </span></span><span class=\"verse v24\" data-usfm=\"1PE.1.24\"><span class=\"label\">24</span><span class=\"content\">For</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"1PE.1.24\"><span class=\"content\">All flesh </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as grass,</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"1PE.1.24\"><span class=\"content\">And all the glory of man as the flower of grass.</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"1PE.1.24\"><span class=\"content\">The grass withereth, and the flower thereof falleth away:</span></span></div><div class=\"q1\"><span class=\"verse v24\" data-usfm=\"1PE.1.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"1PE.1.25\"><span class=\"label\">25</span><span class=\"content\">But the word of the Lord endureth for ever.</span></span></div><div class=\"m\"><span class=\"verse v25\" data-usfm=\"1PE.1.25\"><span class=\"content\">And this is the word which by the gospel is preached unto you.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "to an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "who are kept by the power of God through faith unto salvation ready to be revealed in the last time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "that the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "receiving the end of your faith, even the salvation of your souls."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "as obedient children, not fashioning yourselves according to the former lusts in your ignorance:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "but as he which hath called you is holy, so be ye holy in all manner of conversation;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "because it is written, Be ye holy; for I am holy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "but with the precious blood of Christ, as of a lamb without blemish and without spot:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "who verily was foreordained before the foundation of the world, but was manifest in these last times for you,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "For",
+            "All flesh is as grass,",
+            "And all the glory of man as the flower of grass.",
+            "The grass withereth, and the flower thereof falleth away:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "But the word of the Lord endureth for ever.",
+            "And this is the word which by the gospel is preached unto you."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1PE.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1PE.2"
+        ],
+        "human": "1 Peter 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1PE.3"
+        ],
+        "human": "1 Peter 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.1"
+        ],
+        "human": "1 Peter 1",
+        "toc": true
+      },
+      "chapter_text": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings, as newborn babes, desire the sincere milk of the word, that ye may grow thereby: if so be ye have tasted that the Lord is gracious. To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious, ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Wherefore also it is contained in the scripture,\nBehold, I lay in Sion a chief corner stone, elect, precious:\nAnd he that believeth on him shall not be confounded.\nUnto you therefore which believe he is precious: but unto them which be disobedient,\nThe stone which the builders disallowed,\nThe same is made the head of the corner,\nand\nA stone of stumbling, and a rock of offence,\neven to them which stumble at the word, being disobedient: whereunto also they were appointed.\nBut ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.\nDearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul; having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.\nSubmit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme; or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well. For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men: as free, and not using your liberty for a cloke of maliciousness, but as the servants of God. Honour all men. Love the brotherhood. Fear God. Honour the king.\nServants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward. For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully. For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God. For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: who did no sin, neither was guile found in his mouth: who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously: who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk1PE\">\n      <div class=\"chapter ch2\" data-usfm=\"1PE.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1PE.2.1\"><span class=\"label\">1</span><span class=\"content\">Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings, </span></span><span class=\"verse v2\" data-usfm=\"1PE.2.2\"><span class=\"label\">2</span><span class=\"content\">as newborn babes, desire the sincere milk of the word, that ye may grow thereby: </span></span><span class=\"verse v3\" data-usfm=\"1PE.2.3\"><span class=\"label\">3</span><span class=\"content\">if so be ye have tasted that the Lord </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> gracious. </span></span><span class=\"verse v4\" data-usfm=\"1PE.2.4\"><span class=\"label\">4</span><span class=\"content\">To whom coming, </span><span class=\"add\"><span class=\"content\">as unto</span></span><span class=\"content\"> a living stone, disallowed indeed of men, but chosen of God, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> precious, </span></span><span class=\"verse v5\" data-usfm=\"1PE.2.5\"><span class=\"label\">5</span><span class=\"content\">ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. </span></span><span class=\"verse v6\" data-usfm=\"1PE.2.6\"><span class=\"label\">6</span><span class=\"content\">Wherefore also it is contained in the scripture,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"1PE.2.6\"><span class=\"content\">Behold, I lay in Sion a chief corner stone, elect, precious:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"1PE.2.6\"><span class=\"content\">And he that believeth on him shall not be confounded.</span></span></div><div class=\"m\"><span class=\"verse v6\" data-usfm=\"1PE.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1PE.2.7\"><span class=\"label\">7</span><span class=\"content\">Unto you therefore which believe </span><span class=\"add\"><span class=\"content\">he is</span></span><span class=\"content\"> precious: but unto them which be disobedient,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"1PE.2.7\"><span class=\"content\">The stone which the builders disallowed,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"1PE.2.7\"><span class=\"content\">The same is made the head of the corner,</span></span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"1PE.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1PE.2.8\"><span class=\"label\">8</span><span class=\"content\">and</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"1PE.2.8\"><span class=\"content\">A stone of stumbling, and a rock of offence,</span></span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"1PE.2.8\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">even to them</span></span><span class=\"content\"> which stumble at the word, being disobedient: whereunto also they were appointed.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1PE.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1PE.2.9\"><span class=\"label\">9</span><span class=\"content\">But ye </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light: </span></span><span class=\"verse v10\" data-usfm=\"1PE.2.10\"><span class=\"label\">10</span><span class=\"content\">which in time past </span><span class=\"add\"><span class=\"content\">were</span></span><span class=\"content\"> not a people, but </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> now the people of God: which had not obtained mercy, but now have obtained mercy.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"1PE.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1PE.2.11\"><span class=\"label\">11</span><span class=\"content\">Dearly beloved, I beseech </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\"> as strangers and pilgrims, abstain from fleshly lusts, which war against the soul; </span></span><span class=\"verse v12\" data-usfm=\"1PE.2.12\"><span class=\"label\">12</span><span class=\"content\">having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by </span><span class=\"add\"><span class=\"content\">your</span></span><span class=\"content\"> good works, which they shall behold, glorify God in the day of visitation.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1PE.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1PE.2.13\"><span class=\"label\">13</span><span class=\"content\">Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme; </span></span><span class=\"verse v14\" data-usfm=\"1PE.2.14\"><span class=\"label\">14</span><span class=\"content\">or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well. </span></span><span class=\"verse v15\" data-usfm=\"1PE.2.15\"><span class=\"label\">15</span><span class=\"content\">For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men: </span></span><span class=\"verse v16\" data-usfm=\"1PE.2.16\"><span class=\"label\">16</span><span class=\"content\">as free, and not using </span><span class=\"add\"><span class=\"content\">your</span></span><span class=\"content\"> liberty for a cloke of maliciousness, but as the servants of God. </span></span><span class=\"verse v17\" data-usfm=\"1PE.2.17\"><span class=\"label\">17</span><span class=\"content\">Honour all </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\">. Love the brotherhood. Fear God. Honour the king.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"1PE.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"1PE.2.18\"><span class=\"label\">18</span><span class=\"content\">Servants, </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> subject to </span><span class=\"add\"><span class=\"content\">your</span></span><span class=\"content\"> masters with all fear; not only to the good and gentle, but also to the froward. </span></span><span class=\"verse v19\" data-usfm=\"1PE.2.19\"><span class=\"label\">19</span><span class=\"content\">For this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> thankworthy, if a man for conscience toward God endure grief, suffering wrongfully. </span></span><span class=\"verse v20\" data-usfm=\"1PE.2.20\"><span class=\"label\">20</span><span class=\"content\">For what glory </span><span class=\"add\"><span class=\"content\">is it</span></span><span class=\"content\">, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer </span><span class=\"add\"><span class=\"content\">for it</span></span><span class=\"content\">, ye take it patiently, this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> acceptable with God. </span></span><span class=\"verse v21\" data-usfm=\"1PE.2.21\"><span class=\"label\">21</span><span class=\"content\">For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps: </span></span><span class=\"verse v22\" data-usfm=\"1PE.2.22\"><span class=\"label\">22</span><span class=\"content\">who did no sin, neither was guile found in his mouth: </span></span><span class=\"verse v23\" data-usfm=\"1PE.2.23\"><span class=\"label\">23</span><span class=\"content\">who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed </span><span class=\"add\"><span class=\"content\">himself</span></span><span class=\"content\"> to him that judgeth righteously: </span></span><span class=\"verse v24\" data-usfm=\"1PE.2.24\"><span class=\"label\">24</span><span class=\"content\">who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. </span></span><span class=\"verse v25\" data-usfm=\"1PE.2.25\"><span class=\"label\">25</span><span class=\"content\">For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "as newborn babes, desire the sincere milk of the word, that ye may grow thereby:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "if so be ye have tasted that the Lord is gracious."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Wherefore also it is contained in the scripture,",
+            "Behold, I lay in Sion a chief corner stone, elect, precious:",
+            "And he that believeth on him shall not be confounded."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Unto you therefore which believe he is precious: but unto them which be disobedient,",
+            "The stone which the builders disallowed,",
+            "The same is made the head of the corner,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "and",
+            "A stone of stumbling, and a rock of offence,",
+            "even to them which stumble at the word, being disobedient: whereunto also they were appointed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Submit yourselves to every ordinance of man for the Lord's sake: whether it be to the king, as supreme;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "as free, and not using your liberty for a cloke of maliciousness, but as the servants of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Honour all men. Love the brotherhood. Fear God. Honour the king."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "who did no sin, neither was guile found in his mouth:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1PE.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1PE.3"
+        ],
+        "human": "1 Peter 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1PE.4"
+        ],
+        "human": "1 Peter 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.2"
+        ],
+        "human": "1 Peter 2",
+        "toc": true
+      },
+      "chapter_text": "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; while they behold your chaste conversation coupled with fear. Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel; but let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price. For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands: even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.\nLikewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.\nFinally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous: not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing. For\nHe that will love life,\nAnd see good days,\nLet him refrain his tongue from evil,\nAnd his lips that they speak no guile:\nLet him eschew evil, and do good;\nLet him seek peace, and ensue it.\nFor the eyes of the Lord are over the righteous,\nAnd his ears are open unto their prayers:\nBut the face of the Lord is against them that do evil.\nAnd who is he that will harm you, if ye be followers of that which is good? But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled; but sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ. For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing. For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: by which also he went and preached unto the spirits in prison; which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk1PE\">\n      <div class=\"chapter ch3\" data-usfm=\"1PE.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1PE.3.1\"><span class=\"label\">1</span><span class=\"content\">Likewise, ye wives, </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives; </span></span><span class=\"verse v2\" data-usfm=\"1PE.3.2\"><span class=\"label\">2</span><span class=\"content\">while they behold your chaste conversation </span><span class=\"add\"><span class=\"content\">coupled</span></span><span class=\"content\"> with fear. </span></span><span class=\"verse v3\" data-usfm=\"1PE.3.3\"><span class=\"label\">3</span><span class=\"content\">Whose adorning let it not be that outward </span><span class=\"add\"><span class=\"content\">adorning</span></span><span class=\"content\"> of plaiting the hair, and of wearing of gold, or of putting on of apparel; </span></span><span class=\"verse v4\" data-usfm=\"1PE.3.4\"><span class=\"label\">4</span><span class=\"content\">but </span><span class=\"add\"><span class=\"content\">let it be</span></span><span class=\"content\"> the hidden man of the heart, in that which is not corruptible, </span><span class=\"add\"><span class=\"content\">even the ornament</span></span><span class=\"content\"> of a meek and quiet spirit, which is in the sight of God of great price. </span></span><span class=\"verse v5\" data-usfm=\"1PE.3.5\"><span class=\"label\">5</span><span class=\"content\">For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands: </span></span><span class=\"verse v6\" data-usfm=\"1PE.3.6\"><span class=\"label\">6</span><span class=\"content\">even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1PE.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1PE.3.7\"><span class=\"label\">7</span><span class=\"content\">Likewise, ye husbands, dwell with </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"1PE.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1PE.3.8\"><span class=\"label\">8</span><span class=\"content\">Finally, </span><span class=\"add\"><span class=\"content\">be ye</span></span><span class=\"content\"> all of one mind, having compassion one of another, love as brethren, </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> pitiful, </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> courteous: </span></span><span class=\"verse v9\" data-usfm=\"1PE.3.9\"><span class=\"label\">9</span><span class=\"content\">not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing. </span></span><span class=\"verse v10\" data-usfm=\"1PE.3.10\"><span class=\"label\">10</span><span class=\"content\">For</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"1PE.3.10\"><span class=\"content\">He that will love life,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"1PE.3.10\"><span class=\"content\">And see good days,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"1PE.3.10\"><span class=\"content\">Let him refrain his tongue from evil,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"1PE.3.10\"><span class=\"content\">And his lips that they speak no guile:</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"1PE.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1PE.3.11\"><span class=\"label\">11</span><span class=\"content\">Let him eschew evil, and do good;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"1PE.3.11\"><span class=\"content\">Let him seek peace, and ensue it.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"1PE.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1PE.3.12\"><span class=\"label\">12</span><span class=\"content\">For the eyes of the Lord </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> over the righteous,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"1PE.3.12\"><span class=\"content\">And his ears </span><span class=\"add\"><span class=\"content\">are open</span></span><span class=\"content\"> unto their prayers:</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"1PE.3.12\"><span class=\"content\">But the face of the Lord </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> against them that do evil.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"1PE.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1PE.3.13\"><span class=\"label\">13</span><span class=\"content\">And who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> he that will harm you, if ye be followers of that which is good? </span></span><span class=\"verse v14\" data-usfm=\"1PE.3.14\"><span class=\"label\">14</span><span class=\"content\">But and if ye suffer for righteousness' sake, happy </span><span class=\"add\"><span class=\"content\">are ye</span></span><span class=\"content\">: and be not afraid of their terror, neither be troubled; </span></span><span class=\"verse v15\" data-usfm=\"1PE.3.15\"><span class=\"label\">15</span><span class=\"content\">but sanctify the Lord God in your hearts: and </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> ready always to </span><span class=\"add\"><span class=\"content\">give</span></span><span class=\"content\"> an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: </span></span><span class=\"verse v16\" data-usfm=\"1PE.3.16\"><span class=\"label\">16</span><span class=\"content\">having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ. </span></span><span class=\"verse v17\" data-usfm=\"1PE.3.17\"><span class=\"label\">17</span><span class=\"content\">For </span><span class=\"add\"><span class=\"content\">it is</span></span><span class=\"content\"> better, if the will of God be so, that ye suffer for well doing, than for evil doing. </span></span><span class=\"verse v18\" data-usfm=\"1PE.3.18\"><span class=\"label\">18</span><span class=\"content\">For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit: </span></span><span class=\"verse v19\" data-usfm=\"1PE.3.19\"><span class=\"label\">19</span><span class=\"content\">by which also he went and preached unto the spirits in prison; </span></span><span class=\"verse v20\" data-usfm=\"1PE.3.20\"><span class=\"label\">20</span><span class=\"content\">which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. </span></span><span class=\"verse v21\" data-usfm=\"1PE.3.21\"><span class=\"label\">21</span><span class=\"content\">The like figure whereunto </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: </span></span><span class=\"verse v22\" data-usfm=\"1PE.3.22\"><span class=\"label\">22</span><span class=\"content\">who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "while they behold your chaste conversation coupled with fear."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "but let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For",
+            "He that will love life,",
+            "And see good days,",
+            "Let him refrain his tongue from evil,",
+            "And his lips that they speak no guile:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Let him eschew evil, and do good;",
+            "Let him seek peace, and ensue it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For the eyes of the Lord are over the righteous,",
+            "And his ears are open unto their prayers:",
+            "But the face of the Lord is against them that do evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And who is he that will harm you, if ye be followers of that which is good?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "but sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "by which also he went and preached unto the spirits in prison;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1PE.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1PE.4"
+        ],
+        "human": "1 Peter 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1PE.5"
+        ],
+        "human": "1 Peter 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.3"
+        ],
+        "human": "1 Peter 3",
+        "toc": true
+      },
+      "chapter_text": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; that he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God. For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you: who shall give account to him that is ready to judge the quick and the dead. For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.\nBut the end of all things is at hand: be ye therefore sober, and watch unto prayer. And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. Use hospitality one to another without grudging. As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ to whom be praise and dominion for ever and ever. Amen.\nBeloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you: but rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy. If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified. But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters. Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf. For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God? And if the righteous scarcely be saved, where shall the ungodly and the sinner appear? Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk1PE\">\n      <div class=\"chapter ch4\" data-usfm=\"1PE.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1PE.4.1\"><span class=\"label\">1</span><span class=\"content\">Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin; </span></span><span class=\"verse v2\" data-usfm=\"1PE.4.2\"><span class=\"label\">2</span><span class=\"content\">that he no longer should live the rest of </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> time in the flesh to the lusts of men, but to the will of God. </span></span><span class=\"verse v3\" data-usfm=\"1PE.4.3\"><span class=\"label\">3</span><span class=\"content\">For the time past of </span><span class=\"add\"><span class=\"content\">our</span></span><span class=\"content\"> life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries: </span></span><span class=\"verse v4\" data-usfm=\"1PE.4.4\"><span class=\"label\">4</span><span class=\"content\">wherein they think it strange that ye run not with </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> to the same excess of riot, speaking evil of </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\">: </span></span><span class=\"verse v5\" data-usfm=\"1PE.4.5\"><span class=\"label\">5</span><span class=\"content\">who shall give account to him that is ready to judge the quick and the dead. </span></span><span class=\"verse v6\" data-usfm=\"1PE.4.6\"><span class=\"label\">6</span><span class=\"content\">For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1PE.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1PE.4.7\"><span class=\"label\">7</span><span class=\"content\">But the end of all things is at hand: be ye therefore sober, and watch unto prayer. </span></span><span class=\"verse v8\" data-usfm=\"1PE.4.8\"><span class=\"label\">8</span><span class=\"content\">And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. </span></span><span class=\"verse v9\" data-usfm=\"1PE.4.9\"><span class=\"label\">9</span><span class=\"content\">Use hospitality one to another without grudging. </span></span><span class=\"verse v10\" data-usfm=\"1PE.4.10\"><span class=\"label\">10</span><span class=\"content\">As every man hath received the gift, </span><span class=\"add\"><span class=\"content\">even so</span></span><span class=\"content\"> minister the same one to another, as good stewards of the manifold grace of God. </span></span><span class=\"verse v11\" data-usfm=\"1PE.4.11\"><span class=\"label\">11</span><span class=\"content\">If any man speak, </span><span class=\"add\"><span class=\"content\">let him speak</span></span><span class=\"content\"> as the oracles of God; if any man minister, </span><span class=\"add\"><span class=\"content\">let him do it</span></span><span class=\"content\"> as of the ability which God giveth: that God in all things may be glorified through Jesus Christ to whom be praise and dominion for ever and ever. Amen.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"1PE.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1PE.4.12\"><span class=\"label\">12</span><span class=\"content\">Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you: </span></span><span class=\"verse v13\" data-usfm=\"1PE.4.13\"><span class=\"label\">13</span><span class=\"content\">but rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy. </span></span><span class=\"verse v14\" data-usfm=\"1PE.4.14\"><span class=\"label\">14</span><span class=\"content\">If ye be reproached for the name of Christ, happy </span><span class=\"add\"><span class=\"content\">are ye</span></span><span class=\"content\">; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified. </span></span><span class=\"verse v15\" data-usfm=\"1PE.4.15\"><span class=\"label\">15</span><span class=\"content\">But let none of you suffer as a murderer, or </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> a thief, or </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> an evildoer, or as a busybody in other men's matters. </span></span><span class=\"verse v16\" data-usfm=\"1PE.4.16\"><span class=\"label\">16</span><span class=\"content\">Yet if </span><span class=\"add\"><span class=\"content\">any man suffer</span></span><span class=\"content\"> as a Christian, let him not be ashamed; but let him glorify God on this behalf. </span></span><span class=\"verse v17\" data-usfm=\"1PE.4.17\"><span class=\"label\">17</span><span class=\"content\">For the time </span><span class=\"add\"><span class=\"content\">is come</span></span><span class=\"content\"> that judgment must begin at the house of God: and if </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> first </span><span class=\"add\"><span class=\"content\">begin</span></span><span class=\"content\"> at us, what shall the end </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> of them that obey not the gospel of God? </span></span><span class=\"verse v18\" data-usfm=\"1PE.4.18\"><span class=\"label\">18</span><span class=\"content\">And if the righteous scarcely be saved, where shall the ungodly and the sinner appear? </span></span><span class=\"verse v19\" data-usfm=\"1PE.4.19\"><span class=\"label\">19</span><span class=\"content\">Wherefore let them that suffer according to the will of God commit the keeping of their souls </span><span class=\"add\"><span class=\"content\">to him</span></span><span class=\"content\"> in well doing, as unto a faithful Creator.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "that he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "who shall give account to him that is ready to judge the quick and the dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But the end of all things is at hand: be ye therefore sober, and watch unto prayer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Use hospitality one to another without grudging."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ to whom be praise and dominion for ever and ever. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "but rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men's matters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1PE.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1PE.5"
+        ],
+        "human": "1 Peter 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.4"
+        ],
+        "human": "1 Peter 4",
+        "toc": true
+      },
+      "chapter_text": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind; neither as being lords over God's heritage, but being ensamples to the flock. And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away. Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: casting all your care upon him; for he careth for you. Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world. But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you. To him be glory and dominion for ever and ever. Amen.\nBy Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand. The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son. Greet ye one another with a kiss of charity.\nPeace be with you all that are in Christ Jesus. Amen.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk1PE\">\n      <div class=\"chapter ch5\" data-usfm=\"1PE.5\">\n         <div class=\"label\">5</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1PE.5.1\"><span class=\"label\">1</span><span class=\"content\">The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed: </span></span><span class=\"verse v2\" data-usfm=\"1PE.5.2\"><span class=\"label\">2</span><span class=\"content\">feed the flock of God which is among you, taking the oversight </span><span class=\"add\"><span class=\"content\">thereof</span></span><span class=\"content\">, not by constraint, but willingly; not for filthy lucre, but of a ready mind; </span></span><span class=\"verse v3\" data-usfm=\"1PE.5.3\"><span class=\"label\">3</span><span class=\"content\">neither as being lords over </span><span class=\"add\"><span class=\"content\">God's</span></span><span class=\"content\"> heritage, but being ensamples to the flock. </span></span><span class=\"verse v4\" data-usfm=\"1PE.5.4\"><span class=\"label\">4</span><span class=\"content\">And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away. </span></span><span class=\"verse v5\" data-usfm=\"1PE.5.5\"><span class=\"label\">5</span><span class=\"content\">Likewise, ye younger, submit yourselves unto the elder. Yea, all </span><span class=\"add\"><span class=\"content\">of you</span></span><span class=\"content\"> be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble. </span></span><span class=\"verse v6\" data-usfm=\"1PE.5.6\"><span class=\"label\">6</span><span class=\"content\">Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time: </span></span><span class=\"verse v7\" data-usfm=\"1PE.5.7\"><span class=\"label\">7</span><span class=\"content\">casting all your care upon him; for he careth for you. </span></span><span class=\"verse v8\" data-usfm=\"1PE.5.8\"><span class=\"label\">8</span><span class=\"content\">Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: </span></span><span class=\"verse v9\" data-usfm=\"1PE.5.9\"><span class=\"label\">9</span><span class=\"content\">whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world. </span></span><span class=\"verse v10\" data-usfm=\"1PE.5.10\"><span class=\"label\">10</span><span class=\"content\">But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\">. </span></span><span class=\"verse v11\" data-usfm=\"1PE.5.11\"><span class=\"label\">11</span><span class=\"content\">To him </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> glory and dominion for ever and ever. Amen.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"1PE.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1PE.5.12\"><span class=\"label\">12</span><span class=\"content\">By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand. </span></span><span class=\"verse v13\" data-usfm=\"1PE.5.13\"><span class=\"label\">13</span><span class=\"content\">The </span><span class=\"add\"><span class=\"content\">church that is</span></span><span class=\"content\"> at Babylon, elected together with </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\">, saluteth you; and </span><span class=\"add\"><span class=\"content\">so doth</span></span><span class=\"content\"> Marcus my son. </span></span><span class=\"verse v14\" data-usfm=\"1PE.5.14\"><span class=\"label\">14</span><span class=\"content\">Greet ye one another with a kiss of charity.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"1PE.5.14\"><span class=\"content\">Peace </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> with you all that are in Christ Jesus. Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "neither as being lords over God's heritage, but being ensamples to the flock."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "casting all your care upon him; for he careth for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "To him be glory and dominion for ever and ever. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Greet ye one another with a kiss of charity.",
+            "Peace be with you all that are in Christ Jesus. Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "book_usfm": "3JN",
+  "name": "3 John",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "3JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Jude 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 John 1",
+        "toc": true
+      },
+      "chapter_text": "The elder unto the wellbeloved Gaius, whom I love in the truth.\nBeloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth. For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth. I have no greater joy than to hear that my children walk in truth.\nBeloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers; which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well: because that for his name's sake they went forth, taking nothing of the Gentiles. We therefore ought to receive such, that we might be fellowhelpers to the truth.\nI wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.\nBeloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.\nDemetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.\nI had many things to write, but I will not with ink and pen write unto thee: but I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter ch1\" data-usfm=\"3JN.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"label\">1</span><span class=\"content\">The elder unto the wellbeloved Gaius, whom I love in the truth.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"3JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth. </span></span><span class=\"verse v3\" data-usfm=\"3JN.1.3\"><span class=\"label\">3</span><span class=\"content\">For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth. </span></span><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"label\">4</span><span class=\"content\">I have no greater joy than to hear that my children walk in truth.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"3JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers; </span></span><span class=\"verse v6\" data-usfm=\"3JN.1.6\"><span class=\"label\">6</span><span class=\"content\">which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well: </span></span><span class=\"verse v7\" data-usfm=\"3JN.1.7\"><span class=\"label\">7</span><span class=\"content\">because that for his name's sake they went forth, taking nothing of the Gentiles. </span></span><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"label\">8</span><span class=\"content\">We therefore ought to receive such, that we might be fellowhelpers to the truth.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"3JN.1.9\"><span class=\"label\">9</span><span class=\"content\">I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not. </span></span><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"label\">10</span><span class=\"content\">Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> out of the church.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"label\">11</span><span class=\"content\">Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Demetrius hath good report of all </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\">, and of the truth itself: yea, and we </span><span class=\"add\"><span class=\"content\">also</span></span><span class=\"content\"> bear record; and ye know that our record is true.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"3JN.1.13\"><span class=\"label\">13</span><span class=\"content\">I had many things to write, but I will not with ink and pen write unto thee: </span></span><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"label\">14</span><span class=\"content\">but I trust I shall shortly see thee, and we shall speak face to face. Peace </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> to thee. </span><span class=\"add\"><span class=\"content\">Our</span></span><span class=\"content\"> friends salute thee. Greet the friends by name.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The elder unto the wellbeloved Gaius, whom I love in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I have no greater joy than to hear that my children walk in truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "because that for his name's sake they went forth, taking nothing of the Gentiles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "We therefore ought to receive such, that we might be fellowhelpers to the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I had many things to write, but I will not with ink and pen write unto thee:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "but I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

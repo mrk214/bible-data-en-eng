@@ -1,0 +1,412 @@
+{
+  "book_usfm": "HAG",
+  "name": "Haggai",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "HAG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Haggai 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Haggai 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.3"
+        ],
+        "human": "Zephaniah 3",
+        "toc": true
+      },
+      "chapter_text": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying, Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD's house should be built.\n\nThen came the word of the LORD by Haggai the prophet, saying, Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste? Now therefore thus saith the LORD of hosts; Consider your ways. Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.\nThus saith the LORD of hosts; Consider your ways. Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD. Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that is waste, and ye run every man unto his own house. Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit. And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.\nThen Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD. Then spake Haggai the LORD's messenger in the LORD's message unto the people, saying, I am with you, saith the LORD. And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God, in the four and twentieth day of the sixth month, in the second year of Darius the king.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch1\" data-usfm=\"HAG.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.1.1\"><span class=\"label\">1</span><span class=\"content\">In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying, </span></span><span class=\"verse v2\" data-usfm=\"HAG.1.2\"><span class=\"label\">2</span><span class=\"content\">Thus speaketh the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts, saying, This people say, The time is not come, the time that the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s house should be built.</span></span></div><div class=\"s2\"><span class=\"heading\">This House Lies Waste</span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"HAG.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAG.1.3\"><span class=\"label\">3</span><span class=\"content\">Then came the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> by Haggai the prophet, saying, </span></span><span class=\"verse v4\" data-usfm=\"HAG.1.4\"><span class=\"label\">4</span><span class=\"add\"><span class=\"content\">Is it</span></span><span class=\"content\"> time for you, O ye, to dwell in your cieled houses, and this house </span><span class=\"add\"><span class=\"content\">lie</span></span><span class=\"content\"> waste? </span></span><span class=\"verse v5\" data-usfm=\"HAG.1.5\"><span class=\"label\">5</span><span class=\"content\">Now therefore thus saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts; Consider your ways. </span></span><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"label\">6</span><span class=\"content\">Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages </span><span class=\"add\"><span class=\"content\">to put it</span></span><span class=\"content\"> into a bag with holes.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HAG.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAG.1.7\"><span class=\"label\">7</span><span class=\"content\">Thus saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts; Consider your ways. </span></span><span class=\"verse v8\" data-usfm=\"HAG.1.8\"><span class=\"label\">8</span><span class=\"content\">Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v9\" data-usfm=\"HAG.1.9\"><span class=\"label\">9</span><span class=\"content\">Ye looked for much, and, lo, </span><span class=\"add\"><span class=\"content\">it came</span></span><span class=\"content\"> to little; and when ye brought </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> home, I did blow upon it. Why? saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts. Because of mine house that </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> waste, and ye run every man unto his own house. </span></span><span class=\"verse v10\" data-usfm=\"HAG.1.10\"><span class=\"label\">10</span><span class=\"content\">Therefore the heaven over you is stayed from dew, and the earth is stayed </span><span class=\"add\"><span class=\"content\">from</span></span><span class=\"content\"> her fruit. </span></span><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"label\">11</span><span class=\"content\">And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HAG.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAG.1.12\"><span class=\"label\">12</span><span class=\"content\">Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> their God, and the words of Haggai the prophet, as the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> their God had sent him, and the people did fear before the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v13\" data-usfm=\"HAG.1.13\"><span class=\"label\">13</span><span class=\"content\">Then spake Haggai the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s messenger in the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s message unto the people, saying, I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> with you, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v14\" data-usfm=\"HAG.1.14\"><span class=\"label\">14</span><span class=\"content\">And the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts, their God, </span></span><span class=\"verse v15\" data-usfm=\"HAG.1.15\"><span class=\"label\">15</span><span class=\"content\">in the four and twentieth day of the sixth month, in the second year of Darius the king.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Thus speaketh the LORD of hosts, saying, This people say, The time is not come, the time that the LORD's house should be built."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "This House Lies Waste"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Then came the word of the LORD by Haggai the prophet, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Is it time for you, O ye, to dwell in your cieled houses, and this house lie waste?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Now therefore thus saith the LORD of hosts; Consider your ways."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Thus saith the LORD of hosts; Consider your ways."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that is waste, and ye run every man unto his own house."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Then spake Haggai the LORD's messenger in the LORD's message unto the people, saying, I am with you, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "in the four and twentieth day of the sixth month, in the second year of Darius the king."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAG.2"
+        ],
+        "human": "Haggai 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEC.1"
+        ],
+        "human": "Zechariah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAG.1"
+        ],
+        "human": "Haggai 1",
+        "toc": true
+      },
+      "chapter_text": "In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying, Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying, Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing? Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts: According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.\nFor thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land; and I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts. The silver is mine, and the gold is mine, saith the LORD of hosts. The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.\nIn the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying, Thus saith the LORD of hosts; Ask now the priests concerning the law, saying, If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No. Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean. Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean.\nAnd now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD: since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty. I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD.\n\nConsider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD's temple was laid, consider it. Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you.\nAnd again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying, Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth; and I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother. In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHAG\">\n      <div class=\"chapter ch2\" data-usfm=\"HAG.2\">\n         <div class=\"label\">2</div><div class=\"s2\"><span class=\"heading\">Recall its First Glory</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAG.2.1\"><span class=\"label\">1</span><span class=\"content\">In the seventh </span><span class=\"add\"><span class=\"content\">month</span></span><span class=\"content\">, in the one and twentieth </span><span class=\"add\"><span class=\"content\">day</span></span><span class=\"content\"> of the month, came the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> by the prophet Haggai, saying, </span></span><span class=\"verse v2\" data-usfm=\"HAG.2.2\"><span class=\"label\">2</span><span class=\"content\">Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying, </span></span><span class=\"verse v3\" data-usfm=\"HAG.2.3\"><span class=\"label\">3</span><span class=\"content\">Who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> left among you that saw this house in her first glory? and how do ye see it now? </span><span class=\"add\"><span class=\"content\">is it</span></span><span class=\"content\"> not in your eyes in comparison of it as nothing? </span></span><span class=\"verse v4\" data-usfm=\"HAG.2.4\"><span class=\"label\">4</span><span class=\"content\">Yet now be strong, O Zerubbabel, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, and work: for I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> with you, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts: </span></span><span class=\"verse v5\" data-usfm=\"HAG.2.5\"><span class=\"label\">5</span><span class=\"add\"><span class=\"content\">According to</span></span><span class=\"content\"> the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"HAG.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAG.2.6\"><span class=\"label\">6</span><span class=\"content\">For thus saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts; Yet once, it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a little while, and I will shake the heavens, and the earth, and the sea, and the dry </span><span class=\"add\"><span class=\"content\">land</span></span><span class=\"content\">; </span></span><span class=\"verse v7\" data-usfm=\"HAG.2.7\"><span class=\"label\">7</span><span class=\"content\">and I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v8\" data-usfm=\"HAG.2.8\"><span class=\"label\">8</span><span class=\"content\">The silver </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mine, and the gold </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mine, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts. </span></span><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"label\">9</span><span class=\"content\">The glory of this latter house shall be greater than of the former, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts: and in this place will I give peace, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HAG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAG.2.10\"><span class=\"label\">10</span><span class=\"content\">In the four and twentieth </span><span class=\"add\"><span class=\"content\">day</span></span><span class=\"content\"> of the ninth </span><span class=\"add\"><span class=\"content\">month</span></span><span class=\"content\">, in the second year of Darius, came the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> by Haggai the prophet, saying, </span></span><span class=\"verse v11\" data-usfm=\"HAG.2.11\"><span class=\"label\">11</span><span class=\"content\">Thus saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts; Ask now the priests </span><span class=\"add\"><span class=\"content\">concerning</span></span><span class=\"content\"> the law, saying, </span></span><span class=\"verse v12\" data-usfm=\"HAG.2.12\"><span class=\"label\">12</span><span class=\"content\">If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No. </span></span><span class=\"verse v13\" data-usfm=\"HAG.2.13\"><span class=\"label\">13</span><span class=\"content\">Then said Haggai, If </span><span class=\"add\"><span class=\"content\">one that is</span></span><span class=\"content\"> unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean. </span></span><span class=\"verse v14\" data-usfm=\"HAG.2.14\"><span class=\"label\">14</span><span class=\"content\">Then answered Haggai, and said, So </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> this people, and so </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> this nation before me, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">; and so </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> every work of their hands; and that which they offer there </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> unclean.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HAG.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAG.2.15\"><span class=\"label\">15</span><span class=\"content\">And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: </span></span><span class=\"verse v16\" data-usfm=\"HAG.2.16\"><span class=\"label\">16</span><span class=\"content\">since those </span><span class=\"add\"><span class=\"content\">days</span></span><span class=\"content\"> were, when </span><span class=\"add\"><span class=\"content\">one</span></span><span class=\"content\"> came to an heap of twenty </span><span class=\"add\"><span class=\"content\">measures</span></span><span class=\"content\">, there were </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> ten: when </span><span class=\"add\"><span class=\"content\">one</span></span><span class=\"content\"> came to the pressfat for to draw out fifty </span><span class=\"add\"><span class=\"content\">vessels</span></span><span class=\"content\"> out of the press, there were </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> twenty. </span></span><span class=\"verse v17\" data-usfm=\"HAG.2.17\"><span class=\"label\">17</span><span class=\"content\">I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye </span><span class=\"add\"><span class=\"content\">turned</span></span><span class=\"content\"> not to me, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">.</span></span></div><div class=\"s2\"><span class=\"heading\">Build for a Great Future</span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"HAG.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAG.2.18\"><span class=\"label\">18</span><span class=\"content\">Consider now from this day and upward, from the four and twentieth day of the ninth </span><span class=\"add\"><span class=\"content\">month, even</span></span><span class=\"content\"> from the day that the foundation of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s temple was laid, consider </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">. </span></span><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"label\">19</span><span class=\"content\">Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v19\" data-usfm=\"HAG.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAG.2.20\"><span class=\"label\">20</span><span class=\"content\">And again the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> came unto Haggai in the four and twentieth </span><span class=\"add\"><span class=\"content\">day</span></span><span class=\"content\"> of the month, saying, </span></span><span class=\"verse v21\" data-usfm=\"HAG.2.21\"><span class=\"label\">21</span><span class=\"content\">Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth; </span></span><span class=\"verse v22\" data-usfm=\"HAG.2.22\"><span class=\"label\">22</span><span class=\"content\">and I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother. </span></span><span class=\"verse v23\" data-usfm=\"HAG.2.23\"><span class=\"label\">23</span><span class=\"content\">In that day, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, and will make thee as a signet: for I have chosen thee, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> of hosts.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Recall its First Glory"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "In the seventh month, in the one and twentieth day of the month, came the word of the LORD by the prophet Haggai, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For thus saith the LORD of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The silver is mine, and the gold is mine, saith the LORD of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Thus saith the LORD of hosts; Ask now the priests concerning the law, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Then answered Haggai, and said, So is this people, and so is this nation before me, saith the LORD; and so is every work of their hands; and that which they offer there is unclean."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Build for a Great Future"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the LORD's temple was laid, consider it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "And again the word of the LORD came unto Haggai in the four and twentieth day of the month, saying,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "and I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

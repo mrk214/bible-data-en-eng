@@ -1,0 +1,1485 @@
+{
+  "book_usfm": "SNG",
+  "name": "Song of Solomon",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "SNG.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Song of Solomon 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Song of Solomon 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Ecclesiastes 12",
+        "toc": true
+      },
+      "chapter_text": "The song of songs, which is Solomon's.\nLet him kiss me with the kisses of his mouth:\nFor thy love is better than wine.\nBecause of the savour of thy good ointments\nThy name is as ointment poured forth,\nTherefore do the virgins love thee.\nDraw me, we will run after thee:\nThe king hath brought me into his chambers:\nWe will be glad and rejoice in thee,\nWe will remember thy love more than wine:\nThe upright love thee.\n\nI am black, but comely,\nO ye daughters of Jerusalem,\nAs the tents of Kedar,\nAs the curtains of Solomon.\nLook not upon me, because I am black,\nBecause the sun hath looked upon me:\nMy mother's children were angry with me;\nThey made me the keeper of the vineyards;\nBut mine own vineyard have I not kept.\nTell me, O thou whom my soul loveth,\nWhere thou feedest, where thou makest thy flock to rest at noon:\nFor why should I be as one that turneth aside\nBy the flocks of thy companions?\n\nIf thou know not,\nO thou fairest among women,\nGo thy way forth by the footsteps of the flock,\nAnd feed thy kids\nBeside the shepherds' tents.\n\nI have compared thee, O my love,\nTo a company of horses in Pharaoh's chariots.\nThy cheeks are comely with rows of jewels,\nThy neck with chains of gold.\nWe will make thee borders of gold\nWith studs of silver.\n\nWhile the King sitteth at his table,\nMy spikenard sendeth forth the smell thereof.\nA bundle of myrrh is my wellbeloved unto me;\nHe shall lie all night betwixt my breasts.\nMy beloved is unto me as a cluster of camphire\nIn the vineyards of Engedi.\n\nBehold, thou art fair, my love;\nBehold, thou art fair;\nThou hast doves' eyes.\nBehold, thou art fair, my beloved,\nYea, pleasant:\nAlso our bed is green.\nThe beams of our house are cedar,\nAnd our rafters of fir.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch1\" data-usfm=\"SNG.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.1.1\"><span class=\"label\">1</span><span class=\"content\">The song of songs, which </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> Solomon's.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.1.2\"><span class=\"label\">2</span><span class=\"content\">Let him kiss me with the kisses of his mouth:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.1.2\"><span class=\"content\">For thy love </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than wine.</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"label\">3</span><span class=\"content\">Because of the savour of thy good ointments</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"content\">Thy name </span><span class=\"add\"><span class=\"content\">is as</span></span><span class=\"content\"> ointment poured forth,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"content\">Therefore do the virgins love thee.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"label\">4</span><span class=\"content\">Draw me, we will run after thee:</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">The king hath brought me into his chambers:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">We will be glad and rejoice in thee,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">We will remember thy love more than wine:</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">The upright love thee.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"label\">5</span><span class=\"content\">I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> black, but comely,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">O ye daughters of Jerusalem,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">As the tents of Kedar,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">As the curtains of Solomon.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"label\">6</span><span class=\"content\">Look not upon me, because I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> black,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">Because the sun hath looked upon me:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">My mother's children were angry with me;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">They made me the keeper of the vineyards;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">But</span></span><span class=\"content\"> mine own vineyard have I not kept.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"label\">7</span><span class=\"content\">Tell me, O thou whom my soul loveth,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">Where thou feedest, where thou makest </span><span class=\"add\"><span class=\"content\">thy flock</span></span><span class=\"content\"> to rest at noon:</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">For why should I be as one that turneth aside</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">By the flocks of thy companions?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"label\">8</span><span class=\"content\">If thou know not,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">O thou fairest among women,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">Go thy way forth by the footsteps of the flock,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">And feed thy kids</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">Beside the shepherds' tents.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.1.9\"><span class=\"label\">9</span><span class=\"content\">I have compared thee, O my love,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.1.9\"><span class=\"content\">To a company of horses in Pharaoh's chariots.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"label\">10</span><span class=\"content\">Thy cheeks are comely with rows </span><span class=\"add\"><span class=\"content\">of jewels</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"content\">Thy neck with chains </span><span class=\"add\"><span class=\"content\">of gold</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.1.11\"><span class=\"label\">11</span><span class=\"content\">We will make thee borders of gold</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.1.11\"><span class=\"content\">With studs of silver.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.1.12\"><span class=\"label\">12</span><span class=\"content\">While the King </span><span class=\"add\"><span class=\"content\">sitteth</span></span><span class=\"content\"> at his table,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.1.12\"><span class=\"content\">My spikenard sendeth forth the smell thereof.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.1.13\"><span class=\"label\">13</span><span class=\"content\">A bundle of myrrh </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my wellbeloved unto me;</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.1.13\"><span class=\"content\">He shall lie all night betwixt my breasts.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.1.14\"><span class=\"label\">14</span><span class=\"content\">My beloved </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> unto me </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> a cluster of camphire</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.1.14\"><span class=\"content\">In the vineyards of Engedi.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"label\">15</span><span class=\"content\">Behold, thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> fair, my love;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"content\">Behold, thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> fair;</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"content\">Thou </span><span class=\"add\"><span class=\"content\">hast</span></span><span class=\"content\"> doves' eyes.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"label\">16</span><span class=\"content\">Behold, thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> fair, my beloved,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"content\">Yea, pleasant:</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"content\">Also our bed </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> green.</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"SNG.1.17\"><span class=\"label\">17</span><span class=\"content\">The beams of our house </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> cedar,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"SNG.1.17\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> our rafters of fir.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The song of songs, which is Solomon's."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Let him kiss me with the kisses of his mouth:",
+            "For thy love is better than wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Because of the savour of thy good ointments",
+            "Thy name is as ointment poured forth,",
+            "Therefore do the virgins love thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Draw me, we will run after thee:",
+            "The king hath brought me into his chambers:",
+            "We will be glad and rejoice in thee,",
+            "We will remember thy love more than wine:",
+            "The upright love thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I am black, but comely,",
+            "O ye daughters of Jerusalem,",
+            "As the tents of Kedar,",
+            "As the curtains of Solomon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Look not upon me, because I am black,",
+            "Because the sun hath looked upon me:",
+            "My mother's children were angry with me;",
+            "They made me the keeper of the vineyards;",
+            "But mine own vineyard have I not kept."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Tell me, O thou whom my soul loveth,",
+            "Where thou feedest, where thou makest thy flock to rest at noon:",
+            "For why should I be as one that turneth aside",
+            "By the flocks of thy companions?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "If thou know not,",
+            "O thou fairest among women,",
+            "Go thy way forth by the footsteps of the flock,",
+            "And feed thy kids",
+            "Beside the shepherds' tents."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I have compared thee, O my love,",
+            "To a company of horses in Pharaoh's chariots."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Thy cheeks are comely with rows of jewels,",
+            "Thy neck with chains of gold."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "We will make thee borders of gold",
+            "With studs of silver."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "While the King sitteth at his table,",
+            "My spikenard sendeth forth the smell thereof."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "A bundle of myrrh is my wellbeloved unto me;",
+            "He shall lie all night betwixt my breasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "My beloved is unto me as a cluster of camphire",
+            "In the vineyards of Engedi."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Behold, thou art fair, my love;",
+            "Behold, thou art fair;",
+            "Thou hast doves' eyes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Behold, thou art fair, my beloved,",
+            "Yea, pleasant:",
+            "Also our bed is green."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The beams of our house are cedar,",
+            "And our rafters of fir."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Song of Solomon 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Song of Solomon 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Song of Solomon 1",
+        "toc": true
+      },
+      "chapter_text": "I am the rose of Sharon,\nAnd the lily of the valleys.\n\nAs the lily among thorns,\nSo is my love among the daughters.\n\nAs the apple tree among the trees of the wood,\nSo is my beloved among the sons.\nI sat down under his shadow with great delight,\nAnd his fruit was sweet to my taste.\nHe brought me to the banqueting house,\nAnd his banner over me was love.\nStay me with flagons,\nComfort me with apples:\nFor I am sick of love.\nHis left hand is under my head,\nAnd his right hand doth embrace me.\nI charge you, O ye daughters of Jerusalem,\nBy the roes, and by the hinds of the field,\nThat ye stir not up, nor awake my love,\nTill he please.\n\nThe voice of my beloved!\nBehold, he cometh\nLeaping upon the mountains,\nSkipping upon the hills.\nMy beloved is like a roe\nOr a young hart:\nBehold, he standeth\nBehind our wall,\nHe looketh forth at the windows,\nShewing himself through the lattice.\nMy beloved spake, and said unto me,\nRise up, my love, my fair one,\nAnd come away.\nFor, lo, the winter is past,\nThe rain is over and gone;\nThe flowers appear on the earth;\nThe time of the singing of birds is come,\nAnd the voice of the turtle\nIs heard in our land;\nThe fig tree putteth forth her green figs,\nAnd the vines with the tender grape\nGive a good smell.\nArise, my love, my fair one,\nand come away.\nO my dove, that art in the clefts of the rock,\nIn the secret places of the stairs,\nLet me see thy countenance,\nLet me hear thy voice;\nFor sweet is thy voice,\nAnd thy countenance is comely.\nTake us the foxes,\nThe little foxes,\nThat spoil the vines:\nFor our vines have tender grapes.\n\nMy beloved is mine, and I am his:\nHe feedeth among the lilies.\nUntil the day break,\nAnd the shadows flee away,\nTurn, my beloved, and be thou like a roe or a young hart\nUpon the mountains of Bether.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch2\" data-usfm=\"SNG.2\">\n         <div class=\"label\">2</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"label\">1</span><span class=\"content\">I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> the rose of Sharon,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> the lily of the valleys.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"label\">2</span><span class=\"content\">As the lily among thorns,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"content\">So </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my love among the daughters.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"label\">3</span><span class=\"content\">As the apple tree among the trees of the wood,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">So </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my beloved among the sons.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">I sat down under his shadow with great delight,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">And his fruit </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> sweet to my taste.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"label\">4</span><span class=\"content\">He brought me to the banqueting house,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"content\">And his banner over me </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> love.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"label\">5</span><span class=\"content\">Stay me with flagons,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">Comfort me with apples:</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">For I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> sick of love.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"label\">6</span><span class=\"content\">His left hand </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> under my head,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"content\">And his right hand doth embrace me.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"label\">7</span><span class=\"content\">I charge you, O ye daughters of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">By the roes, and by the hinds of the field,</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">That ye stir not up, nor awake </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> love,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">Till he please.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"label\">8</span><span class=\"content\">The voice of my beloved!</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">Behold, he cometh</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">Leaping upon the mountains,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">Skipping upon the hills.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"label\">9</span><span class=\"content\">My beloved is like a roe</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">Or a young hart:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">Behold, he standeth</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">Behind our wall,</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">He looketh forth at the windows,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">Shewing himself through the lattice.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"label\">10</span><span class=\"content\">My beloved spake, and said unto me,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">Rise up, my love, my fair one,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">And come away.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"label\">11</span><span class=\"content\">For, lo, the winter is past,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"content\">The rain is over </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> gone;</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"label\">12</span><span class=\"content\">The flowers appear on the earth;</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">The time of the singing </span><span class=\"add\"><span class=\"content\">of birds</span></span><span class=\"content\"> is come,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">And the voice of the turtle</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">Is heard in our land;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"label\">13</span><span class=\"content\">The fig tree putteth forth her green figs,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">And the vines </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> the tender grape</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">Give a </span><span class=\"add\"><span class=\"content\">good</span></span><span class=\"content\"> smell.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">Arise, my love, my fair one,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">and come away.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"label\">14</span><span class=\"content\">O my dove, </span><span class=\"add\"><span class=\"content\">that art</span></span><span class=\"content\"> in the clefts of the rock,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">In the secret </span><span class=\"add\"><span class=\"content\">places</span></span><span class=\"content\"> of the stairs,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">Let me see thy countenance,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">Let me hear thy voice;</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">For sweet </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> thy voice,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">And thy countenance </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> comely.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"label\">15</span><span class=\"content\">Take us the foxes,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">The little foxes,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">That spoil the vines:</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">For our vines </span><span class=\"add\"><span class=\"content\">have</span></span><span class=\"content\"> tender grapes.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"label\">16</span><span class=\"content\">My beloved </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mine, and I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> his:</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"content\">He feedeth among the lilies.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"label\">17</span><span class=\"content\">Until the day break,</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">And the shadows flee away,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">Turn, my beloved, and be thou like a roe or a young hart</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">Upon the mountains of Bether.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I am the rose of Sharon,",
+            "And the lily of the valleys."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "As the lily among thorns,",
+            "So is my love among the daughters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "As the apple tree among the trees of the wood,",
+            "So is my beloved among the sons.",
+            "I sat down under his shadow with great delight,",
+            "And his fruit was sweet to my taste."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "He brought me to the banqueting house,",
+            "And his banner over me was love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Stay me with flagons,",
+            "Comfort me with apples:",
+            "For I am sick of love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "His left hand is under my head,",
+            "And his right hand doth embrace me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I charge you, O ye daughters of Jerusalem,",
+            "By the roes, and by the hinds of the field,",
+            "That ye stir not up, nor awake my love,",
+            "Till he please."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The voice of my beloved!",
+            "Behold, he cometh",
+            "Leaping upon the mountains,",
+            "Skipping upon the hills."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "My beloved is like a roe",
+            "Or a young hart:",
+            "Behold, he standeth",
+            "Behind our wall,",
+            "He looketh forth at the windows,",
+            "Shewing himself through the lattice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "My beloved spake, and said unto me,",
+            "Rise up, my love, my fair one,",
+            "And come away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For, lo, the winter is past,",
+            "The rain is over and gone;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "The flowers appear on the earth;",
+            "The time of the singing of birds is come,",
+            "And the voice of the turtle",
+            "Is heard in our land;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The fig tree putteth forth her green figs,",
+            "And the vines with the tender grape",
+            "Give a good smell.",
+            "Arise, my love, my fair one,",
+            "and come away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "O my dove, that art in the clefts of the rock,",
+            "In the secret places of the stairs,",
+            "Let me see thy countenance,",
+            "Let me hear thy voice;",
+            "For sweet is thy voice,",
+            "And thy countenance is comely."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Take us the foxes,",
+            "The little foxes,",
+            "That spoil the vines:",
+            "For our vines have tender grapes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "My beloved is mine, and I am his:",
+            "He feedeth among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Until the day break,",
+            "And the shadows flee away,",
+            "Turn, my beloved, and be thou like a roe or a young hart",
+            "Upon the mountains of Bether."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Song of Solomon 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Song of Solomon 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.2"
+        ],
+        "human": "Song of Solomon 2",
+        "toc": true
+      },
+      "chapter_text": "By night on my bed I sought him whom my soul loveth:\nI sought him, but I found him not.\nI will rise now, and go about the city\nIn the streets, and in the broad ways\nI will seek him whom my soul loveth:\nI sought him, but I found him not.\nThe watchmen that go about the city found me:\nTo whom I said,\nSaw ye him whom my soul loveth?\nIt was but a little that I passed from them,\nBut I found him whom my soul loveth:\nI held him, and would not let him go,\nUntil I had brought him into my mother's house,\nAnd into the chamber of her that conceived me.\nI charge you, O ye daughters of Jerusalem,\nBy the roes, and by the hinds of the field,\nThat ye stir not up, nor awake my love,\nTill he please.\n\nWho is this that cometh out of the wilderness\nLike pillars of smoke,\nPerfumed with myrrh and frankincense,\nWith all powders of the merchant?\nBehold his bed, which is Solomon's;\nThreescore valiant men are about it,\nOf the valiant of Israel.\nThey all hold swords,\nBeing expert in war:\nEvery man hath his sword upon his thigh\nBecause of fear in the night.\nKing Solomon made himself a chariot\nOf the wood of Lebanon.\nHe made the pillars thereof of silver,\nThe bottom thereof of gold, the covering of it of purple,\nThe midst thereof being paved with love,\nFor the daughters of Jerusalem.\nGo forth, O ye daughters of Zion,\nAnd behold king Solomon\nWith the crown wherewith his mother crowned him\nIn the day of his espousals,\nAnd in the day of the gladness of his heart.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch3\" data-usfm=\"SNG.3\">\n         <div class=\"label\">3</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"label\">1</span><span class=\"content\">By night on my bed I sought him whom my soul loveth:</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">I sought him, but I found him not.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"label\">2</span><span class=\"content\">I will rise now, and go about the city</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">In the streets, and in the broad ways</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">I will seek him whom my soul loveth:</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">I sought him, but I found him not.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"label\">3</span><span class=\"content\">The watchmen that go about the city found me:</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">To whom I said</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">Saw ye him whom my soul loveth?</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"label\">4</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">It was</span></span><span class=\"content\"> but a little that I passed from them,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">But I found him whom my soul loveth:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">I held him, and would not let him go,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">Until I had brought him into my mother's house,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">And into the chamber of her that conceived me.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"label\">5</span><span class=\"content\">I charge you, O ye daughters of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">By the roes, and by the hinds of the field,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">That ye stir not up, nor awake </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> love,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">Till he please.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"label\">6</span><span class=\"content\">Who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> this that cometh out of the wilderness</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">Like pillars of smoke,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">Perfumed with myrrh and frankincense,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">With all powders of the merchant?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"label\">7</span><span class=\"content\">Behold his bed, which </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> Solomon's;</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">Threescore valiant men </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> about it,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">Of the valiant of Israel.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"label\">8</span><span class=\"content\">They all hold swords,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Being</span></span><span class=\"content\"> expert in war:</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">Every man </span><span class=\"add\"><span class=\"content\">hath</span></span><span class=\"content\"> his sword upon his thigh</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">Because of fear in the night.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"label\">9</span><span class=\"content\">King Solomon made himself a chariot</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"content\">Of the wood of Lebanon.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"label\">10</span><span class=\"content\">He made the pillars thereof </span><span class=\"add\"><span class=\"content\">of</span></span><span class=\"content\"> silver,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">The bottom thereof </span><span class=\"add\"><span class=\"content\">of</span></span><span class=\"content\"> gold, the covering of it </span><span class=\"add\"><span class=\"content\">of</span></span><span class=\"content\"> purple,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">The midst thereof being paved </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> love,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">For the daughters of Jerusalem.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"label\">11</span><span class=\"content\">Go forth, O ye daughters of Zion,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">And behold king Solomon</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">With the crown wherewith his mother crowned him</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">In the day of his espousals,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">And in the day of the gladness of his heart.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "By night on my bed I sought him whom my soul loveth:",
+            "I sought him, but I found him not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I will rise now, and go about the city",
+            "In the streets, and in the broad ways",
+            "I will seek him whom my soul loveth:",
+            "I sought him, but I found him not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "The watchmen that go about the city found me:",
+            "To whom I said,",
+            "Saw ye him whom my soul loveth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "It was but a little that I passed from them,",
+            "But I found him whom my soul loveth:",
+            "I held him, and would not let him go,",
+            "Until I had brought him into my mother's house,",
+            "And into the chamber of her that conceived me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I charge you, O ye daughters of Jerusalem,",
+            "By the roes, and by the hinds of the field,",
+            "That ye stir not up, nor awake my love,",
+            "Till he please."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Who is this that cometh out of the wilderness",
+            "Like pillars of smoke,",
+            "Perfumed with myrrh and frankincense,",
+            "With all powders of the merchant?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Behold his bed, which is Solomon's;",
+            "Threescore valiant men are about it,",
+            "Of the valiant of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "They all hold swords,",
+            "Being expert in war:",
+            "Every man hath his sword upon his thigh",
+            "Because of fear in the night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "King Solomon made himself a chariot",
+            "Of the wood of Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "He made the pillars thereof of silver,",
+            "The bottom thereof of gold, the covering of it of purple,",
+            "The midst thereof being paved with love,",
+            "For the daughters of Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Go forth, O ye daughters of Zion,",
+            "And behold king Solomon",
+            "With the crown wherewith his mother crowned him",
+            "In the day of his espousals,",
+            "And in the day of the gladness of his heart."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Song of Solomon 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Song of Solomon 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.3"
+        ],
+        "human": "Song of Solomon 3",
+        "toc": true
+      },
+      "chapter_text": "Behold, thou art fair, my love;\nBehold, thou art fair;\nThou hast doves' eyes\nWithin thy locks:\nThy hair is as a flock of goats,\nThat appear from mount Gilead.\nThy teeth are like a flock of sheep that are even shorn,\nWhich came up from the washing;\nWhereof every one bear twins,\nAnd none is barren among them.\nThy lips are like a thread of scarlet,\nAnd thy speech is comely:\nThy temples are like a piece of a pomegranate\nWithin thy locks.\nThy neck is like the tower of David\nBuilded for an armoury,\nWhereon there hang a thousand bucklers,\nAll shields of mighty men.\nThy two breasts are like two young roes\nThat are twins,\nWhich feed among the lilies.\nUntil the day break,\nAnd the shadows flee away,\nI will get me to the mountain of myrrh,\nAnd to the hill of frankincense.\nThou art all fair, my love;\nThere is no spot in thee.\nCome with me from Lebanon, my spouse,\nWith me from Lebanon:\nLook from the top of Amana,\nFrom the top of Shenir and Hermon,\nFrom the lions' dens,\nFrom the mountains of the leopards.\n\nThou hast ravished my heart, my sister, my spouse;\nThou hast ravished my heart with one of thine eyes,\nWith one chain of thy neck.\nHow fair is thy love, my sister, my spouse!\nHow much better is thy love than wine!\nAnd the smell of thine ointments than all spices!\nThy lips, O my spouse, drop as the honeycomb:\nHoney and milk are under thy tongue;\nAnd the smell of thy garments is like the smell of Lebanon.\nA garden inclosed is my sister, my spouse;\nA spring shut up, a fountain sealed.\nThy plants are an orchard of pomegranates,\nWith pleasant fruits;\nCamphire, with spikenard,\nSpikenard and saffron;\nCalamus and cinnamon,\nWith all trees of frankincense;\nMyrrh and aloes, with all the chief spices:\nA fountain of gardens,\nA well of living waters, and streams from Lebanon.\n\nAwake, O north wind;\nAnd come, thou south;\nBlow upon my garden,\nThat the spices thereof may flow out.\nLet my beloved come into his garden,\nAnd eat his pleasant fruits.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch4\" data-usfm=\"SNG.4\">\n         <div class=\"label\">4</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"label\">1</span><span class=\"content\">Behold, thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> fair, my love;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Behold, thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> fair;</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Thou </span><span class=\"add\"><span class=\"content\">hast</span></span><span class=\"content\"> doves' eyes</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Within thy locks:</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Thy hair </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as a flock of goats,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">That appear from mount Gilead.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"label\">2</span><span class=\"content\">Thy teeth </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> like a flock </span><span class=\"add\"><span class=\"content\">of sheep that are even</span></span><span class=\"content\"> shorn,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">Which came up from the washing;</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">Whereof every one bear twins,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">And none </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> barren among them.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"label\">3</span><span class=\"content\">Thy lips </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> like a thread of scarlet,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">And thy speech </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> comely:</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">Thy temples </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> like a piece of a pomegranate</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">Within thy locks.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"label\">4</span><span class=\"content\">Thy neck </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> like the tower of David</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">Builded for an armoury,</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">Whereon there hang a thousand bucklers,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">All shields of mighty men.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"label\">5</span><span class=\"content\">Thy two breasts </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> like two young roes</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">That are twins,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">Which feed among the lilies.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"label\">6</span><span class=\"content\">Until the day break,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">And the shadows flee away,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">I will get me to the mountain of myrrh,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">And to the hill of frankincense.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"label\">7</span><span class=\"content\">Thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> all fair, my love;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">There is</span></span><span class=\"content\"> no spot in thee.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"label\">8</span><span class=\"content\">Come with me from Lebanon, </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> spouse,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">With me from Lebanon:</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">Look from the top of Amana,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">From the top of Shenir and Hermon,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">From the lions' dens,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">From the mountains of the leopards.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"label\">9</span><span class=\"content\">Thou hast ravished my heart, my sister, </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> spouse;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">Thou hast ravished my heart with one of thine eyes,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">With one chain of thy neck.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"label\">10</span><span class=\"content\">How fair is thy love, my sister, </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> spouse!</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">How much better is thy love than wine!</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">And the smell of thine ointments than all spices!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"label\">11</span><span class=\"content\">Thy lips, O </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> spouse, drop </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> the honeycomb:</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">Honey and milk </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> under thy tongue;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">And the smell of thy garments </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> like the smell of Lebanon.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"label\">12</span><span class=\"content\">A garden inclosed </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my sister, </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> spouse;</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">A spring shut up, a fountain sealed.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"label\">13</span><span class=\"content\">Thy plants </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> an orchard of pomegranates,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">With pleasant fruits;</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">Camphire, with spikenard,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"label\">14</span><span class=\"content\">Spikenard and saffron;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">Calamus and cinnamon,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">With all trees of frankincense;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">Myrrh and aloes, with all the chief spices:</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"label\">15</span><span class=\"content\">A fountain of gardens,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">A well of living waters, and streams from Lebanon.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"label\">16</span><span class=\"content\">Awake, O north wind;</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">And come, thou south;</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Blow upon my garden,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">That</span></span><span class=\"content\"> the spices thereof may flow out.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Let my beloved come into his garden,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">And eat his pleasant fruits.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Behold, thou art fair, my love;",
+            "Behold, thou art fair;",
+            "Thou hast doves' eyes",
+            "Within thy locks:",
+            "Thy hair is as a flock of goats,",
+            "That appear from mount Gilead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Thy teeth are like a flock of sheep that are even shorn,",
+            "Which came up from the washing;",
+            "Whereof every one bear twins,",
+            "And none is barren among them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Thy lips are like a thread of scarlet,",
+            "And thy speech is comely:",
+            "Thy temples are like a piece of a pomegranate",
+            "Within thy locks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Thy neck is like the tower of David",
+            "Builded for an armoury,",
+            "Whereon there hang a thousand bucklers,",
+            "All shields of mighty men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Thy two breasts are like two young roes",
+            "That are twins,",
+            "Which feed among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Until the day break,",
+            "And the shadows flee away,",
+            "I will get me to the mountain of myrrh,",
+            "And to the hill of frankincense."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Thou art all fair, my love;",
+            "There is no spot in thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Come with me from Lebanon, my spouse,",
+            "With me from Lebanon:",
+            "Look from the top of Amana,",
+            "From the top of Shenir and Hermon,",
+            "From the lions' dens,",
+            "From the mountains of the leopards."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Thou hast ravished my heart, my sister, my spouse;",
+            "Thou hast ravished my heart with one of thine eyes,",
+            "With one chain of thy neck."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "How fair is thy love, my sister, my spouse!",
+            "How much better is thy love than wine!",
+            "And the smell of thine ointments than all spices!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Thy lips, O my spouse, drop as the honeycomb:",
+            "Honey and milk are under thy tongue;",
+            "And the smell of thy garments is like the smell of Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "A garden inclosed is my sister, my spouse;",
+            "A spring shut up, a fountain sealed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Thy plants are an orchard of pomegranates,",
+            "With pleasant fruits;",
+            "Camphire, with spikenard,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Spikenard and saffron;",
+            "Calamus and cinnamon,",
+            "With all trees of frankincense;",
+            "Myrrh and aloes, with all the chief spices:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "A fountain of gardens,",
+            "A well of living waters, and streams from Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Awake, O north wind;",
+            "And come, thou south;",
+            "Blow upon my garden,",
+            "That the spices thereof may flow out.",
+            "Let my beloved come into his garden,",
+            "And eat his pleasant fruits."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Song of Solomon 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Song of Solomon 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.4"
+        ],
+        "human": "Song of Solomon 4",
+        "toc": true
+      },
+      "chapter_text": "I am come into my garden, my sister, my spouse:\nI have gathered my myrrh with my spice;\nI have eaten my honeycomb with my honey;\nI have drunk my wine with my milk:\n\nEat, O friends;\nDrink, yea, drink abundantly, O beloved.\n\nI sleep, but my heart waketh:\nIt is the voice of my beloved that knocketh, saying,\nOpen to me, my sister, my love,\nMy dove, my undefiled:\nFor my head is filled with dew,\nAnd my locks with the drops of the night.\nI have put off my coat;\nHow shall I put it on?\nI have washed my feet;\nHow shall I defile them?\nMy beloved put in his hand by the hole of the door,\nAnd my bowels were moved for him.\nI rose up to open to my beloved;\nAnd my hands dropped with myrrh,\nAnd my fingers with sweet smelling myrrh,\nUpon the handles of the lock.\nI opened to my beloved;\nBut my beloved had withdrawn himself, and was gone:\nMy soul failed when he spake:\nI sought him, but I could not find him;\nI called him, but he gave me no answer.\nThe watchmen that went about the city found me,\nThey smote me, they wounded me;\nThe keepers of the walls took away my veil from me.\nI charge you, O daughters of Jerusalem,\nIf ye find my beloved,\nThat ye tell him,\nthat I am sick of love.\n\nWhat is thy beloved more than another beloved,\nO thou fairest among women?\nWhat is thy beloved more than another beloved,\nThat thou dost so charge us?\n\nMy beloved is white and ruddy,\nThe chiefest among ten thousand.\nHis head is as the most fine gold,\nHis locks are bushy,\nAnd black as a raven.\nHis eyes are as the eyes of doves by the rivers of waters,\nWashed with milk, and fitly set.\nHis cheeks are as a bed of spices, as sweet flowers:\nHis lips like lilies, dropping sweet smelling myrrh.\nHis hands are as gold rings set with the beryl:\nHis belly is as bright ivory overlaid with sapphires.\nHis legs are as pillars of marble, set upon sockets of fine gold:\nHis countenance is as Lebanon, excellent as the cedars.\nHis mouth is most sweet:\nYea, he is altogether lovely.\nThis is my beloved, and this is my friend,\nO daughters of Jerusalem.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch5\" data-usfm=\"SNG.5\">\n         <div class=\"label\">5</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"label\">1</span><span class=\"content\">I am come into my garden, my sister, </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> spouse:</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">I have gathered my myrrh with my spice;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">I have eaten my honeycomb with my honey;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">I have drunk my wine with my milk:</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">Eat, O friends;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">Drink, yea, drink abundantly, O beloved.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"label\">2</span><span class=\"content\">I sleep, but my heart waketh:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">It is</span></span><span class=\"content\"> the voice of my beloved that knocketh, </span><span class=\"add\"><span class=\"content\">saying</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">Open to me, my sister, my love,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">My dove, my undefiled:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">For my head is filled with dew,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> my locks with the drops of the night.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"label\">3</span><span class=\"content\">I have put off my coat;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">How shall I put it on?</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">I have washed my feet;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">How shall I defile them?</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"label\">4</span><span class=\"content\">My beloved put in his hand by the hole </span><span class=\"add\"><span class=\"content\">of the door</span></span><span class=\"content\">,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">And my bowels were moved for him.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"label\">5</span><span class=\"content\">I rose up to open to my beloved;</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">And my hands dropped </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> myrrh,</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">And my fingers </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> sweet smelling myrrh,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">Upon the handles of the lock.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"label\">6</span><span class=\"content\">I opened to my beloved;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">But my beloved had withdrawn himself, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> was gone:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">My soul failed when he spake:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">I sought him, but I could not find him;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">I called him, but he gave me no answer.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"label\">7</span><span class=\"content\">The watchmen that went about the city found me,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">They smote me, they wounded me;</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">The keepers of the walls took away my veil from me.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"label\">8</span><span class=\"content\">I charge you, O daughters of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">If ye find my beloved,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">That ye tell him,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">that I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> sick of love.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"label\">9</span><span class=\"content\">What </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> thy beloved more than </span><span class=\"add\"><span class=\"content\">another</span></span><span class=\"content\"> beloved,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">O thou fairest among women?</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">What </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> thy beloved more than </span><span class=\"add\"><span class=\"content\">another</span></span><span class=\"content\"> beloved,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">That thou dost so charge us?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"label\">10</span><span class=\"content\">My beloved </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> white and ruddy,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"content\">The chiefest among ten thousand.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"label\">11</span><span class=\"content\">His head </span><span class=\"add\"><span class=\"content\">is as</span></span><span class=\"content\"> the most fine gold,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">His locks </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> bushy,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> black as a raven.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"label\">12</span><span class=\"content\">His eyes </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> as </span><span class=\"add\"><span class=\"content\">the eyes</span></span><span class=\"content\"> of doves by the rivers of waters,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">Washed with milk, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> fitly set.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"label\">13</span><span class=\"content\">His cheeks </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> as a bed of spices, </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> sweet flowers:</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">His lips </span><span class=\"add\"><span class=\"content\">like</span></span><span class=\"content\"> lilies, dropping sweet smelling myrrh.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"label\">14</span><span class=\"content\">His hands </span><span class=\"add\"><span class=\"content\">are as</span></span><span class=\"content\"> gold rings set with the beryl:</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">His belly </span><span class=\"add\"><span class=\"content\">is as</span></span><span class=\"content\"> bright ivory overlaid </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> sapphires.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"label\">15</span><span class=\"content\">His legs </span><span class=\"add\"><span class=\"content\">are as</span></span><span class=\"content\"> pillars of marble, set upon sockets of fine gold:</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">His countenance </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as Lebanon, excellent as the cedars.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"label\">16</span><span class=\"content\">His mouth </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> most sweet:</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">Yea, he </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> altogether lovely.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">This </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my beloved, and this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> my friend,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">O daughters of Jerusalem.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I am come into my garden, my sister, my spouse:",
+            "I have gathered my myrrh with my spice;",
+            "I have eaten my honeycomb with my honey;",
+            "I have drunk my wine with my milk:",
+            "Eat, O friends;",
+            "Drink, yea, drink abundantly, O beloved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I sleep, but my heart waketh:",
+            "It is the voice of my beloved that knocketh, saying,",
+            "Open to me, my sister, my love,",
+            "My dove, my undefiled:",
+            "For my head is filled with dew,",
+            "And my locks with the drops of the night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I have put off my coat;",
+            "How shall I put it on?",
+            "I have washed my feet;",
+            "How shall I defile them?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "My beloved put in his hand by the hole of the door,",
+            "And my bowels were moved for him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I rose up to open to my beloved;",
+            "And my hands dropped with myrrh,",
+            "And my fingers with sweet smelling myrrh,",
+            "Upon the handles of the lock."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I opened to my beloved;",
+            "But my beloved had withdrawn himself, and was gone:",
+            "My soul failed when he spake:",
+            "I sought him, but I could not find him;",
+            "I called him, but he gave me no answer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "The watchmen that went about the city found me,",
+            "They smote me, they wounded me;",
+            "The keepers of the walls took away my veil from me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I charge you, O daughters of Jerusalem,",
+            "If ye find my beloved,",
+            "That ye tell him,",
+            "that I am sick of love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "What is thy beloved more than another beloved,",
+            "O thou fairest among women?",
+            "What is thy beloved more than another beloved,",
+            "That thou dost so charge us?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "My beloved is white and ruddy,",
+            "The chiefest among ten thousand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "His head is as the most fine gold,",
+            "His locks are bushy,",
+            "And black as a raven."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "His eyes are as the eyes of doves by the rivers of waters,",
+            "Washed with milk, and fitly set."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "His cheeks are as a bed of spices, as sweet flowers:",
+            "His lips like lilies, dropping sweet smelling myrrh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "His hands are as gold rings set with the beryl:",
+            "His belly is as bright ivory overlaid with sapphires."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "His legs are as pillars of marble, set upon sockets of fine gold:",
+            "His countenance is as Lebanon, excellent as the cedars."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "His mouth is most sweet:",
+            "Yea, he is altogether lovely.",
+            "This is my beloved, and this is my friend,",
+            "O daughters of Jerusalem."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Song of Solomon 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Song of Solomon 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.5"
+        ],
+        "human": "Song of Solomon 5",
+        "toc": true
+      },
+      "chapter_text": "Whither is thy beloved gone,\nO thou fairest among women?\nWhither is thy beloved turned aside?\nThat we may seek him with thee.\n\nMy beloved is gone down into his garden,\nTo the beds of spices,\nTo feed in the gardens,\nAnd to gather lilies.\nI am my beloved's, and my beloved is mine:\nHe feedeth among the lilies.\n\nThou art beautiful, O my love, as Tirzah,\nComely as Jerusalem,\nTerrible as an army with banners.\nTurn away thine eyes from me,\nFor they have overcome me:\nThy hair is as a flock of goats\nThat appear from Gilead.\nThy teeth are as a flock of sheep\nWhich go up from the washing,\nWhereof every one beareth twins,\nAnd there is not one barren among them.\nAs a piece of a pomegranate are thy temples\nWithin thy locks.\nThere are threescore queens, and fourscore concubines,\nAnd virgins without number.\nMy dove, my undefiled is but one;\nShe is the only one of her mother,\nShe is the choice one of her that bare her.\nThe daughters saw her, and blessed her;\nYea, the queens and the concubines, and they praised her.\nWho is she that looketh forth as the morning,\nFair as the moon, clear as the sun,\nAnd terrible as an army with banners?\n\nI went down into the garden of nuts\nTo see the fruits of the valley,\nAnd to see whether the vine flourished,\nAnd the pomegranates budded.\nOr ever I was aware,\nMy soul made me like the chariots of Amminadib.\n\nReturn, return, O Shulamite;\nReturn, return, that we may look upon thee.\n\nWhat will ye see in the Shulamite?\nAs it were the company of two armies.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch6\" data-usfm=\"SNG.6\">\n         <div class=\"label\">6</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"label\">1</span><span class=\"content\">Whither is thy beloved gone,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">O thou fairest among women?</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">Whither is thy beloved turned aside?</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">That we may seek him with thee.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"label\">2</span><span class=\"content\">My beloved is gone down into his garden,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">To the beds of spices,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">To feed in the gardens,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">And to gather lilies.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"label\">3</span><span class=\"content\">I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> my beloved's, and my beloved </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mine:</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"content\">He feedeth among the lilies.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"label\">4</span><span class=\"content\">Thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> beautiful, O my love, as Tirzah,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">Comely as Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">Terrible as </span><span class=\"add\"><span class=\"content\">an army</span></span><span class=\"content\"> with banners.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"label\">5</span><span class=\"content\">Turn away thine eyes from me,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">For they have overcome me:</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">Thy hair </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as a flock of goats</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">That appear from Gilead.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"label\">6</span><span class=\"content\">Thy teeth </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> as a flock of sheep</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">Which go up from the washing,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">Whereof every one beareth twins,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">And </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> not one barren among them.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"label\">7</span><span class=\"content\">As a piece of a pomegranate </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> thy temples</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"content\">Within thy locks.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"label\">8</span><span class=\"content\">There are threescore queens, and fourscore concubines,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">And virgins without number.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"label\">9</span><span class=\"content\">My dove, my undefiled is </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> one;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">She </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the </span><span class=\"add\"><span class=\"content\">only</span></span><span class=\"content\"> one of her mother,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">She </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the choice </span><span class=\"add\"><span class=\"content\">one</span></span><span class=\"content\"> of her that bare her.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">The daughters saw her, and blessed her;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Yea</span></span><span class=\"content\">, the queens and the concubines, and they praised her.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"label\">10</span><span class=\"content\">Who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> she </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> looketh forth as the morning,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">Fair as the moon, clear as the sun,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> terrible as </span><span class=\"add\"><span class=\"content\">an army</span></span><span class=\"content\"> with banners?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"label\">11</span><span class=\"content\">I went down into the garden of nuts</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">To see the fruits of the valley,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> to see whether the vine flourished,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> the pomegranates budded.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"label\">12</span><span class=\"content\">Or ever I was aware,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"content\">My soul made me </span><span class=\"add\"><span class=\"content\">like</span></span><span class=\"content\"> the chariots of Amminadib.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"label\">13</span><span class=\"content\">Return, return, O Shulamite;</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">Return, return, that we may look upon thee.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">What will ye see in the Shulamite?</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">As it were the company of two armies.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Whither is thy beloved gone,",
+            "O thou fairest among women?",
+            "Whither is thy beloved turned aside?",
+            "That we may seek him with thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "My beloved is gone down into his garden,",
+            "To the beds of spices,",
+            "To feed in the gardens,",
+            "And to gather lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I am my beloved's, and my beloved is mine:",
+            "He feedeth among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Thou art beautiful, O my love, as Tirzah,",
+            "Comely as Jerusalem,",
+            "Terrible as an army with banners."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Turn away thine eyes from me,",
+            "For they have overcome me:",
+            "Thy hair is as a flock of goats",
+            "That appear from Gilead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Thy teeth are as a flock of sheep",
+            "Which go up from the washing,",
+            "Whereof every one beareth twins,",
+            "And there is not one barren among them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "As a piece of a pomegranate are thy temples",
+            "Within thy locks."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "There are threescore queens, and fourscore concubines,",
+            "And virgins without number."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "My dove, my undefiled is but one;",
+            "She is the only one of her mother,",
+            "She is the choice one of her that bare her.",
+            "The daughters saw her, and blessed her;",
+            "Yea, the queens and the concubines, and they praised her."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Who is she that looketh forth as the morning,",
+            "Fair as the moon, clear as the sun,",
+            "And terrible as an army with banners?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I went down into the garden of nuts",
+            "To see the fruits of the valley,",
+            "And to see whether the vine flourished,",
+            "And the pomegranates budded."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Or ever I was aware,",
+            "My soul made me like the chariots of Amminadib."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Return, return, O Shulamite;",
+            "Return, return, that we may look upon thee.",
+            "What will ye see in the Shulamite?",
+            "As it were the company of two armies."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Song of Solomon 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.8"
+        ],
+        "human": "Song of Solomon 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.6"
+        ],
+        "human": "Song of Solomon 6",
+        "toc": true
+      },
+      "chapter_text": "How beautiful are thy feet with shoes,\nO prince's daughter!\nThe joints of thy thighs are like jewels,\nThe work of the hands of a cunning workman.\nThy navel is like a round goblet,\nWhich wanteth not liquor:\nThy belly is like an heap of wheat\nSet about with lilies.\nThy two breasts are like two young roes\nThat are twins.\nThy neck is as a tower of ivory;\nThine eyes like the fishpools in Heshbon,\nBy the gate of Bathrabbim:\nThy nose is as the tower of Lebanon\nWhich looketh toward Damascus.\nThine head upon thee is like Carmel,\nAnd the hair of thine head like purple;\nThe king is held in the galleries.\n\nHow fair and how pleasant art thou,\nO love, for delights!\nThis thy stature is like to a palm tree,\nAnd thy breasts to clusters of grapes.\nI said, I will go up to the palm tree,\nI will take hold of the boughs thereof:\nNow also thy breasts shall be as clusters of the vine,\nAnd the smell of thy nose like apples;\nAnd the roof of thy mouth like the best wine\nFor my beloved, that goeth down sweetly,\nCausing the lips of those that are asleep to speak.\n\nI am my beloved's,\nAnd his desire is toward me.\nCome, my beloved,\nLet us go forth into the field;\nLet us lodge in the villages.\nLet us get up early to the vineyards;\nLet us see if the vine flourish,\nWhether the tender grape appear,\nAnd the pomegranates bud forth:\nThere will I give thee my loves.\nThe mandrakes give a smell,\nAnd at our gates are all manner of pleasant fruits,\nNew and old,\nWhich I have laid up for thee, O my beloved.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch7\" data-usfm=\"SNG.7\">\n         <div class=\"label\">7</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"label\">1</span><span class=\"content\">How beautiful are thy feet with shoes,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">O prince's daughter!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">The joints of thy thighs </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> like jewels,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">The work of the hands of a cunning workman.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.7.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"label\">2</span><span class=\"content\">Thy navel </span><span class=\"add\"><span class=\"content\">is like</span></span><span class=\"content\"> a round goblet,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Which</span></span><span class=\"content\"> wanteth not liquor:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">Thy belly </span><span class=\"add\"><span class=\"content\">is like</span></span><span class=\"content\"> an heap of wheat</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">Set about with lilies.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.7.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.7.3\"><span class=\"label\">3</span><span class=\"content\">Thy two breasts </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> like two young roes</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.7.3\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">That are</span></span><span class=\"content\"> twins.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.7.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"label\">4</span><span class=\"content\">Thy neck </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as a tower of ivory;</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">Thine eyes </span><span class=\"add\"><span class=\"content\">like</span></span><span class=\"content\"> the fishpools in Heshbon,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">By the gate of Bathrabbim:</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">Thy nose </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as the tower of Lebanon</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">Which looketh toward Damascus.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.7.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"label\">5</span><span class=\"content\">Thine head upon thee </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> like Carmel,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">And the hair of thine head like purple;</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">The king </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> held in the galleries.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.7.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.7.6\"><span class=\"label\">6</span><span class=\"content\">How fair and how pleasant art thou,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.7.6\"><span class=\"content\">O love, for delights!</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.7.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.7.7\"><span class=\"label\">7</span><span class=\"content\">This thy stature is like to a palm tree,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.7.7\"><span class=\"content\">And thy breasts to clusters </span><span class=\"add\"><span class=\"content\">of grapes</span></span><span class=\"content\">.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.7.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"label\">8</span><span class=\"content\">I said, I will go up to the palm tree,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">I will take hold of the boughs thereof:</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">Now also thy breasts shall be as clusters of the vine,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">And the smell of thy nose like apples;</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.7.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"label\">9</span><span class=\"content\">And the roof of thy mouth like the best wine</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"content\">For my beloved, that goeth </span><span class=\"add\"><span class=\"content\">down</span></span><span class=\"content\"> sweetly,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"content\">Causing the lips of those that are asleep to speak.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.7.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.7.10\"><span class=\"label\">10</span><span class=\"content\">I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> my beloved's,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.7.10\"><span class=\"content\">And his desire </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> toward me.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.7.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"label\">11</span><span class=\"content\">Come, my beloved,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"content\">Let us go forth into the field;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"content\">Let us lodge in the villages.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.7.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"label\">12</span><span class=\"content\">Let us get up early to the vineyards;</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">Let us see if the vine flourish,</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Whether</span></span><span class=\"content\"> the tender grape appear,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> the pomegranates bud forth:</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">There will I give thee my loves.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.7.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"label\">13</span><span class=\"content\">The mandrakes give a smell,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"content\">And at our gates </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> all manner of pleasant </span><span class=\"add\"><span class=\"content\">fruits</span></span><span class=\"content\">,</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"content\">New and old,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.7.13\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Which</span></span><span class=\"content\"> I have laid up for thee, O my beloved.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "How beautiful are thy feet with shoes,",
+            "O prince's daughter!",
+            "The joints of thy thighs are like jewels,",
+            "The work of the hands of a cunning workman."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Thy navel is like a round goblet,",
+            "Which wanteth not liquor:",
+            "Thy belly is like an heap of wheat",
+            "Set about with lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Thy two breasts are like two young roes",
+            "That are twins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Thy neck is as a tower of ivory;",
+            "Thine eyes like the fishpools in Heshbon,",
+            "By the gate of Bathrabbim:",
+            "Thy nose is as the tower of Lebanon",
+            "Which looketh toward Damascus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Thine head upon thee is like Carmel,",
+            "And the hair of thine head like purple;",
+            "The king is held in the galleries."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "How fair and how pleasant art thou,",
+            "O love, for delights!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "This thy stature is like to a palm tree,",
+            "And thy breasts to clusters of grapes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I said, I will go up to the palm tree,",
+            "I will take hold of the boughs thereof:",
+            "Now also thy breasts shall be as clusters of the vine,",
+            "And the smell of thy nose like apples;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And the roof of thy mouth like the best wine",
+            "For my beloved, that goeth down sweetly,",
+            "Causing the lips of those that are asleep to speak."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I am my beloved's,",
+            "And his desire is toward me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Come, my beloved,",
+            "Let us go forth into the field;",
+            "Let us lodge in the villages."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Let us get up early to the vineyards;",
+            "Let us see if the vine flourish,",
+            "Whether the tender grape appear,",
+            "And the pomegranates bud forth:",
+            "There will I give thee my loves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The mandrakes give a smell,",
+            "And at our gates are all manner of pleasant fruits,",
+            "New and old,",
+            "Which I have laid up for thee, O my beloved."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "SNG.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "SNG.8"
+        ],
+        "human": "Song of Solomon 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ISA.1"
+        ],
+        "human": "Isaiah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "SNG.7"
+        ],
+        "human": "Song of Solomon 7",
+        "toc": true
+      },
+      "chapter_text": "O that thou wert as my brother,\nThat sucked the breasts of my mother!\nWhen I should find thee without, I would kiss thee;\nYea, I should not be despised.\nI would lead thee,\nAnd bring thee into my mother's house,\nWho would instruct me:\nI would cause thee to drink of spiced wine\nOf the juice of my pomegranate.\nHis left hand should be under my head,\nAnd his right hand should embrace me.\nI charge you, O daughters of Jerusalem,\nThat ye stir not up, nor awake my love,\nUntil he please.\n\nWho is this that cometh up from the wilderness,\nLeaning upon her beloved?\n\nI raised thee up under the apple tree:\nThere thy mother brought thee forth:\nThere she brought thee forth that bare thee.\n\nSet me as a seal upon thine heart,\nAs a seal upon thine arm:\nFor love is strong as death;\nJealousy is cruel as the grave:\nThe coals thereof are coals of fire,\nWhich hath a most vehement flame.\nMany waters cannot quench love,\nNeither can the floods drown it:\nIf a man would give all the substance of his house for love,\nIt would utterly be contemned.\n\nWe have a little sister,\nAnd she hath no breasts:\nWhat shall we do for our sister\nIn the day when she shall be spoken for?\nIf she be a wall,\nWe will build upon her a palace of silver:\nAnd if she be a door,\nWe will inclose her with boards of cedar.\nI am a wall,\nAnd my breasts like towers:\nThen was I in his eyes\nAs one that found favour.\n\nSolomon had a vineyard at Baalhamon;\nHe let out the vineyard unto keepers;\nEvery one for the fruit thereof was to bring a thousand pieces of silver.\nMy vineyard, which is mine, is before me:\nThou, O Solomon, must have a thousand,\nAnd those that keep the fruit thereof two hundred.\n\nThou that dwellest in the gardens,\nThe companions hearken to thy voice:\nCause me to hear it.\n\nMake haste, my beloved,\nAnd be thou like to a roe\nOr to a young hart\nUpon the mountains of spices.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch8\" data-usfm=\"SNG.8\">\n         <div class=\"label\">8</div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"label\">1</span><span class=\"content\">O that thou </span><span class=\"add\"><span class=\"content\">wert</span></span><span class=\"content\"> as my brother,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">That sucked the breasts of my mother!</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">When</span></span><span class=\"content\"> I should find thee without, I would kiss thee;</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">Yea, I should not be despised.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"label\">2</span><span class=\"content\">I would lead thee,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">And</span></span><span class=\"content\"> bring thee into my mother's house,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Who</span></span><span class=\"content\"> would instruct me:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">I would cause thee to drink of spiced wine</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">Of the juice of my pomegranate.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"label\">3</span><span class=\"content\">His left hand </span><span class=\"add\"><span class=\"content\">should be</span></span><span class=\"content\"> under my head,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"content\">And his right hand should embrace me.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"label\">4</span><span class=\"content\">I charge you, O daughters of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">That ye stir not up, nor awake </span><span class=\"add\"><span class=\"content\">my</span></span><span class=\"content\"> love,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">Until he please.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"label\">5</span><span class=\"content\">Who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> this that cometh up from the wilderness,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">Leaning upon her beloved?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">I raised thee up under the apple tree:</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">There thy mother brought thee forth:</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">There she brought thee forth </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> bare thee.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"label\">6</span><span class=\"content\">Set me as a seal upon thine heart,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">As a seal upon thine arm:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">For love </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> strong as death;</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">Jealousy </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> cruel as the grave:</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">The coals thereof </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> coals of fire,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Which hath</span></span><span class=\"content\"> a most vehement flame.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"label\">7</span><span class=\"content\">Many waters cannot quench love,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">Neither can the floods drown it:</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">If a man would give all the substance of his house for love,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">It would utterly be contemned.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"label\">8</span><span class=\"content\">We have a little sister,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">And she hath no breasts:</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">What shall we do for our sister</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">In the day when she shall be spoken for?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"label\">9</span><span class=\"content\">If she </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> a wall,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">We will build upon her a palace of silver:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">And if she </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> a door,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">We will inclose her with boards of cedar.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"label\">10</span><span class=\"content\">I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> a wall,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">And my breasts like towers:</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">Then was I in his eyes</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">As one that found favour.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"label\">11</span><span class=\"content\">Solomon had a vineyard at Baalhamon;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">He let out the vineyard unto keepers;</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">Every one for the fruit thereof was to bring a thousand </span><span class=\"add\"><span class=\"content\">pieces</span></span><span class=\"content\"> of silver.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"label\">12</span><span class=\"content\">My vineyard, which </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mine, </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> before me:</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">Thou, O Solomon, </span><span class=\"add\"><span class=\"content\">must have</span></span><span class=\"content\"> a thousand,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">And those that keep the fruit thereof two hundred.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"label\">13</span><span class=\"content\">Thou that dwellest in the gardens,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">The companions hearken to thy voice:</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">Cause me to hear </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"label\">14</span><span class=\"content\">Make haste, my beloved,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">And be thou like to a roe</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">Or to a young hart</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">Upon the mountains of spices.</span></span></div><div class=\"b\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "O that thou wert as my brother,",
+            "That sucked the breasts of my mother!",
+            "When I should find thee without, I would kiss thee;",
+            "Yea, I should not be despised."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I would lead thee,",
+            "And bring thee into my mother's house,",
+            "Who would instruct me:",
+            "I would cause thee to drink of spiced wine",
+            "Of the juice of my pomegranate."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "His left hand should be under my head,",
+            "And his right hand should embrace me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I charge you, O daughters of Jerusalem,",
+            "That ye stir not up, nor awake my love,",
+            "Until he please."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Who is this that cometh up from the wilderness,",
+            "Leaning upon her beloved?",
+            "I raised thee up under the apple tree:",
+            "There thy mother brought thee forth:",
+            "There she brought thee forth that bare thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Set me as a seal upon thine heart,",
+            "As a seal upon thine arm:",
+            "For love is strong as death;",
+            "Jealousy is cruel as the grave:",
+            "The coals thereof are coals of fire,",
+            "Which hath a most vehement flame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Many waters cannot quench love,",
+            "Neither can the floods drown it:",
+            "If a man would give all the substance of his house for love,",
+            "It would utterly be contemned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "We have a little sister,",
+            "And she hath no breasts:",
+            "What shall we do for our sister",
+            "In the day when she shall be spoken for?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "If she be a wall,",
+            "We will build upon her a palace of silver:",
+            "And if she be a door,",
+            "We will inclose her with boards of cedar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I am a wall,",
+            "And my breasts like towers:",
+            "Then was I in his eyes",
+            "As one that found favour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Solomon had a vineyard at Baalhamon;",
+            "He let out the vineyard unto keepers;",
+            "Every one for the fruit thereof was to bring a thousand pieces of silver."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "My vineyard, which is mine, is before me:",
+            "Thou, O Solomon, must have a thousand,",
+            "And those that keep the fruit thereof two hundred."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Thou that dwellest in the gardens,",
+            "The companions hearken to thy voice:",
+            "Cause me to hear it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Make haste, my beloved,",
+            "And be thou like to a roe",
+            "Or to a young hart",
+            "Upon the mountains of spices."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2132 @@
+{
+  "book_usfm": "HOS",
+  "name": "Hosea",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "HOS.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.1"
+        ],
+        "human": "Hosea 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.2"
+        ],
+        "human": "Hosea 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "DAN.12"
+        ],
+        "human": "Daniel 12",
+        "toc": true
+      },
+      "chapter_text": "The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.\nThe beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD. So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son. And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel. And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel. And she conceived again, and bare a daughter. And God said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away. But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. Now when she had weaned Lo-ruhamah, she conceived, and bare a son. Then said God, Call his name Lo-ammi: for ye are not my people, and I will not be your God.\nYet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God. Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch1\" data-usfm=\"HOS.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.1.1\"><span class=\"label\">1</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"HOS.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HOS.1.2\"><span class=\"label\">2</span><span class=\"content\">The beginning of the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> by Hosea. And the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, </span><span class=\"add\"><span class=\"content\">departing</span></span><span class=\"content\"> from the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v3\" data-usfm=\"HOS.1.3\"><span class=\"label\">3</span><span class=\"content\">So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son. </span></span><span class=\"verse v4\" data-usfm=\"HOS.1.4\"><span class=\"label\">4</span><span class=\"content\">And the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> said unto him, Call his name Jezreel; for yet a little </span><span class=\"add\"><span class=\"content\">while</span></span><span class=\"content\">, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel. </span></span><span class=\"verse v5\" data-usfm=\"HOS.1.5\"><span class=\"label\">5</span><span class=\"content\">And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel. </span></span><span class=\"verse v6\" data-usfm=\"HOS.1.6\"><span class=\"label\">6</span><span class=\"content\">And she conceived again, and bare a daughter. And </span><span class=\"add\"><span class=\"content\">God</span></span><span class=\"content\"> said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away. </span></span><span class=\"verse v7\" data-usfm=\"HOS.1.7\"><span class=\"label\">7</span><span class=\"content\">But I will have mercy upon the house of Judah, and will save them by the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. </span></span><span class=\"verse v8\" data-usfm=\"HOS.1.8\"><span class=\"label\">8</span><span class=\"content\">Now when she had weaned Lo-ruhamah, she conceived, and bare a son. </span></span><span class=\"verse v9\" data-usfm=\"HOS.1.9\"><span class=\"label\">9</span><span class=\"content\">Then said </span><span class=\"add\"><span class=\"content\">God</span></span><span class=\"content\">, Call his name Lo-ammi: for ye </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> not my people, and I will not be your </span><span class=\"add\"><span class=\"content\">God</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HOS.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HOS.1.10\"><span class=\"label\">10</span><span class=\"content\">Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> in the place where it was said unto them, Ye </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> not my people, </span><span class=\"add\"><span class=\"content\">there</span></span><span class=\"content\"> it shall be said unto them, </span><span class=\"add\"><span class=\"content\">Ye are</span></span><span class=\"content\"> the sons of the living God. </span></span><span class=\"verse v11\" data-usfm=\"HOS.1.11\"><span class=\"label\">11</span><span class=\"content\">Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> the day of Jezreel.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And she conceived again, and bare a daughter. And God said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Now when she had weaned Lo-ruhamah, she conceived, and bare a son."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Then said God, Call his name Lo-ammi: for ye are not my people, and I will not be your God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.2"
+        ],
+        "human": "Hosea 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.3"
+        ],
+        "human": "Hosea 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.1"
+        ],
+        "human": "Hosea 1",
+        "toc": true
+      },
+      "chapter_text": "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.\n\nPlead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts; lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst. And I will not have mercy upon her children; for they be the children of whoredoms. For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink. Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths. And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now.\nFor she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal. Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness. And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand. I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts. And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them. And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD.\nTherefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her. And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt. And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali. For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name. And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.\nAnd I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies. I will even betroth thee unto me in faithfulness: and thou shalt know the LORD. And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth; and the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel. And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch2\" data-usfm=\"HOS.2\">\n         <div class=\"label\">2</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.2.1\"><span class=\"label\">1</span><span class=\"content\">Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.</span></span></div><div class=\"s2\"><span class=\"heading\">Israel, a Faithless Wife</span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"HOS.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HOS.2.2\"><span class=\"label\">2</span><span class=\"content\">Plead with your mother, plead: for she </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> not my wife, neither </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts; </span></span><span class=\"verse v3\" data-usfm=\"HOS.2.3\"><span class=\"label\">3</span><span class=\"content\">lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst. </span></span><span class=\"verse v4\" data-usfm=\"HOS.2.4\"><span class=\"label\">4</span><span class=\"content\">And I will not have mercy upon her children; for they </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> the children of whoredoms. </span></span><span class=\"verse v5\" data-usfm=\"HOS.2.5\"><span class=\"label\">5</span><span class=\"content\">For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give </span><span class=\"add\"><span class=\"content\">me</span></span><span class=\"content\"> my bread and my water, my wool and my flax, mine oil and my drink. </span></span><span class=\"verse v6\" data-usfm=\"HOS.2.6\"><span class=\"label\">6</span><span class=\"content\">Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths. </span></span><span class=\"verse v7\" data-usfm=\"HOS.2.7\"><span class=\"label\">7</span><span class=\"content\">And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find </span><span class=\"add\"><span class=\"content\">them:</span></span><span class=\"content\"> then shall she say, I will go and return to my first husband; for then </span><span class=\"add\"><span class=\"content\">was it</span></span><span class=\"content\"> better with me than now.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"HOS.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HOS.2.8\"><span class=\"label\">8</span><span class=\"content\">For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> they prepared for Baal. </span></span><span class=\"verse v9\" data-usfm=\"HOS.2.9\"><span class=\"label\">9</span><span class=\"content\">Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax </span><span class=\"add\"><span class=\"content\">given</span></span><span class=\"content\"> to cover her nakedness. </span></span><span class=\"verse v10\" data-usfm=\"HOS.2.10\"><span class=\"label\">10</span><span class=\"content\">And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand. </span></span><span class=\"verse v11\" data-usfm=\"HOS.2.11\"><span class=\"label\">11</span><span class=\"content\">I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts. </span></span><span class=\"verse v12\" data-usfm=\"HOS.2.12\"><span class=\"label\">12</span><span class=\"content\">And I will destroy her vines and her fig trees, whereof she hath said, These </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them. </span></span><span class=\"verse v13\" data-usfm=\"HOS.2.13\"><span class=\"label\">13</span><span class=\"content\">And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"HOS.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HOS.2.14\"><span class=\"label\">14</span><span class=\"content\">Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her. </span></span><span class=\"verse v15\" data-usfm=\"HOS.2.15\"><span class=\"label\">15</span><span class=\"content\">And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt. </span></span><span class=\"verse v16\" data-usfm=\"HOS.2.16\"><span class=\"label\">16</span><span class=\"content\">And it shall be at that day, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> thou shalt call me Ishi; and shalt call me no more Baali. </span></span><span class=\"verse v17\" data-usfm=\"HOS.2.17\"><span class=\"label\">17</span><span class=\"content\">For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name. </span></span><span class=\"verse v18\" data-usfm=\"HOS.2.18\"><span class=\"label\">18</span><span class=\"content\">And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"HOS.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HOS.2.19\"><span class=\"label\">19</span><span class=\"content\">And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies. </span></span><span class=\"verse v20\" data-usfm=\"HOS.2.20\"><span class=\"label\">20</span><span class=\"content\">I will even betroth thee unto me in faithfulness: and thou shalt know the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v21\" data-usfm=\"HOS.2.21\"><span class=\"label\">21</span><span class=\"content\">And it shall come to pass in that day, I will hear, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, I will hear the heavens, and they shall hear the earth; </span></span><span class=\"verse v22\" data-usfm=\"HOS.2.22\"><span class=\"label\">22</span><span class=\"content\">and the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel. </span></span><span class=\"verse v23\" data-usfm=\"HOS.2.23\"><span class=\"label\">23</span><span class=\"content\">And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to </span><span class=\"add\"><span class=\"content\">them which were</span></span><span class=\"content\"> not my people, Thou </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> my people; and they shall say, </span><span class=\"add\"><span class=\"content\">Thou art</span></span><span class=\"content\"> my God.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Say ye unto your brethren, Ammi; and to your sisters, Ruhamah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Israel, a Faithless Wife"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "And I will not have mercy upon her children; for they be the children of whoredoms."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Therefore, behold, I will hedge up thy way with thorns, and make a wall, that she shall not find her paths."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "I will even betroth thee unto me in faithfulness: and thou shalt know the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "and the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.3"
+        ],
+        "human": "Hosea 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.4"
+        ],
+        "human": "Hosea 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.2"
+        ],
+        "human": "Hosea 2",
+        "toc": true
+      },
+      "chapter_text": "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine. So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley: and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee.\n\nFor the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim: afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch3\" data-usfm=\"HOS.3\">\n         <div class=\"label\">3</div><div class=\"s2\"><span class=\"heading\">Her Purchase Price</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.3.1\"><span class=\"label\">1</span><span class=\"content\">Then said the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> unto me, Go yet, love a woman beloved of </span><span class=\"add\"><span class=\"content\">her</span></span><span class=\"content\"> friend, yet an adulteress, according to the love of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> toward the children of Israel, who look to other gods, and love flagons of wine. </span></span><span class=\"verse v2\" data-usfm=\"HOS.3.2\"><span class=\"label\">2</span><span class=\"content\">So I bought her to me for fifteen </span><span class=\"add\"><span class=\"content\">pieces</span></span><span class=\"content\"> of silver, and </span><span class=\"add\"><span class=\"content\">for</span></span><span class=\"content\"> an homer of barley, and an half homer of barley: </span></span><span class=\"verse v3\" data-usfm=\"HOS.3.3\"><span class=\"label\">3</span><span class=\"content\">and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for </span><span class=\"add\"><span class=\"content\">another</span></span><span class=\"content\"> man: so </span><span class=\"add\"><span class=\"content\">will</span></span><span class=\"content\"> I also </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> for thee.</span></span></div><div class=\"s2\"><span class=\"heading\">Israel's Return</span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"HOS.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HOS.3.4\"><span class=\"label\">4</span><span class=\"content\">For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and </span><span class=\"add\"><span class=\"content\">without</span></span><span class=\"content\"> teraphim: </span></span><span class=\"verse v5\" data-usfm=\"HOS.3.5\"><span class=\"label\">5</span><span class=\"content\">afterward shall the children of Israel return, and seek the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> their God, and David their king; and shall fear the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> and his goodness in the latter days.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Her Purchase Price"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "and I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Israel's Return"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.4"
+        ],
+        "human": "Hosea 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.5"
+        ],
+        "human": "Hosea 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.3"
+        ],
+        "human": "Hosea 3",
+        "toc": true
+      },
+      "chapter_text": "LORD\nHear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood. Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest. Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.\nMy people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. As they were increased, so they sinned against me: therefore will I change their glory into shame. They eat up the sin of my people, and they set their heart on their iniquity. And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings. For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.\nWhoredom and wine and new wine take away the heart. My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God. They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery. I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.\nThough thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The LORD liveth. For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place. Ephraim is joined to idols: let him alone. Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye. The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch4\" data-usfm=\"HOS.4\">\n         <div class=\"label\">4</div><div class=\"s2\"><span class=\"heading\">The </span><span class=\"nd\"><span class=\"heading\">LORD</span></span><span class=\"heading\">'s Controversy</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.4.1\"><span class=\"label\">1</span><span class=\"content\">Hear the word of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, ye children of Israel: for the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> hath a controversy with the inhabitants of the land, because </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no truth, nor mercy, nor knowledge of God in the land. </span></span><span class=\"verse v2\" data-usfm=\"HOS.4.2\"><span class=\"label\">2</span><span class=\"content\">By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood. </span></span><span class=\"verse v3\" data-usfm=\"HOS.4.3\"><span class=\"label\">3</span><span class=\"content\">Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. </span></span><span class=\"verse v4\" data-usfm=\"HOS.4.4\"><span class=\"label\">4</span><span class=\"content\">Yet let no man strive, nor reprove another: for thy people </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> as they that strive with the priest. </span></span><span class=\"verse v5\" data-usfm=\"HOS.4.5\"><span class=\"label\">5</span><span class=\"content\">Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"HOS.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HOS.4.6\"><span class=\"label\">6</span><span class=\"content\">My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children. </span></span><span class=\"verse v7\" data-usfm=\"HOS.4.7\"><span class=\"label\">7</span><span class=\"content\">As they were increased, so they sinned against me: </span><span class=\"add\"><span class=\"content\">therefore</span></span><span class=\"content\"> will I change their glory into shame. </span></span><span class=\"verse v8\" data-usfm=\"HOS.4.8\"><span class=\"label\">8</span><span class=\"content\">They eat up the sin of my people, and they set their heart on their iniquity. </span></span><span class=\"verse v9\" data-usfm=\"HOS.4.9\"><span class=\"label\">9</span><span class=\"content\">And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings. </span></span><span class=\"verse v10\" data-usfm=\"HOS.4.10\"><span class=\"label\">10</span><span class=\"content\">For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"HOS.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HOS.4.11\"><span class=\"label\">11</span><span class=\"content\">Whoredom and wine and new wine take away the heart. </span></span><span class=\"verse v12\" data-usfm=\"HOS.4.12\"><span class=\"label\">12</span><span class=\"content\">My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> to err, and they have gone a whoring from under their God. </span></span><span class=\"verse v13\" data-usfm=\"HOS.4.13\"><span class=\"label\">13</span><span class=\"content\">They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery. </span></span><span class=\"verse v14\" data-usfm=\"HOS.4.14\"><span class=\"label\">14</span><span class=\"content\">I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> doth not understand shall fall.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HOS.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HOS.4.15\"><span class=\"label\">15</span><span class=\"content\">Though thou, Israel, play the harlot, </span><span class=\"add\"><span class=\"content\">yet</span></span><span class=\"content\"> let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> liveth. </span></span><span class=\"verse v16\" data-usfm=\"HOS.4.16\"><span class=\"label\">16</span><span class=\"content\">For Israel slideth back as a backsliding heifer: now the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> will feed them as a lamb in a large place. </span></span><span class=\"verse v17\" data-usfm=\"HOS.4.17\"><span class=\"label\">17</span><span class=\"content\">Ephraim </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> joined to idols: let him alone. </span></span><span class=\"verse v18\" data-usfm=\"HOS.4.18\"><span class=\"label\">18</span><span class=\"content\">Their drink is sour: they have committed whoredom continually: her rulers </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> shame do love, Give ye. </span></span><span class=\"verse v19\" data-usfm=\"HOS.4.19\"><span class=\"label\">19</span><span class=\"content\">The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The LORD's Controversy"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "As they were increased, so they sinned against me: therefore will I change their glory into shame."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "They eat up the sin of my people, and they set their heart on their iniquity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Whoredom and wine and new wine take away the heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused them to err, and they have gone a whoring from under their God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof is good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The LORD liveth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Ephraim is joined to idols: let him alone."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.5"
+        ],
+        "human": "Hosea 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.6"
+        ],
+        "human": "Hosea 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.4"
+        ],
+        "human": "Hosea 4",
+        "toc": true
+      },
+      "chapter_text": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor. And the revolters are profound to make slaughter, though I have been a rebuker of them all.\nI know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled. They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD. And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them. They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them. They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.\nBlow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin. Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.\nThe princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water. Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment. Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness. When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound. For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him. I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n    <div class=\"book bkHOS\">\n        <div class=\"chapter ch5\" data-usfm=\"HOS.5\">\n            <div class=\"label\">5</div><div class=\"s2\"><span class=\"heading\">Against Priests and Kings</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.5.1\"><span class=\"label\">1</span><span class=\"content\">Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor. </span></span><span class=\"verse v2\" data-usfm=\"HOS.5.2\"><span class=\"label\">2</span><span class=\"content\">And the revolters are profound to make slaughter, though I </span><span class=\"add\"><span class=\"content\">have been</span></span><span class=\"content\"> a rebuker of them all.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"HOS.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HOS.5.3\"><span class=\"label\">3</span><span class=\"content\">I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> Israel is defiled. </span></span><span class=\"verse v4\" data-usfm=\"HOS.5.4\"><span class=\"label\">4</span><span class=\"content\">They will not frame their doings to turn unto their God: for the spirit of whoredoms </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in the midst of them, and they have not known the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">. </span></span><span class=\"verse v5\" data-usfm=\"HOS.5.5\"><span class=\"label\">5</span><span class=\"content\">And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them. </span></span><span class=\"verse v6\" data-usfm=\"HOS.5.6\"><span class=\"label\">6</span><span class=\"content\">They shall go with their flocks and with their herds to seek the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">; but they shall not find </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\">; he hath withdrawn himself from them. </span></span><span class=\"verse v7\" data-usfm=\"HOS.5.7\"><span class=\"label\">7</span><span class=\"content\">They have dealt treacherously against the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: for they have begotten strange children: now shall a month devour them with their portions.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"HOS.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HOS.5.8\"><span class=\"label\">8</span><span class=\"content\">Blow ye the cornet in Gibeah, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> the trumpet in Ramah: cry aloud </span><span class=\"add\"><span class=\"content\">at</span></span><span class=\"content\"> Beth-aven, after thee, O Benjamin. </span></span><span class=\"verse v9\" data-usfm=\"HOS.5.9\"><span class=\"label\">9</span><span class=\"content\">Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HOS.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HOS.5.10\"><span class=\"label\">10</span><span class=\"content\">The princes of Judah were like them that remove the bound: </span><span class=\"add\"><span class=\"content\">therefore</span></span><span class=\"content\"> I will pour out my wrath upon them like water. </span></span><span class=\"verse v11\" data-usfm=\"HOS.5.11\"><span class=\"label\">11</span><span class=\"content\">Ephraim </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> oppressed </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> broken in judgment, because he willingly walked after the commandment. </span></span><span class=\"verse v12\" data-usfm=\"HOS.5.12\"><span class=\"label\">12</span><span class=\"content\">Therefore </span><span class=\"add\"><span class=\"content\">will</span></span><span class=\"content\"> I </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> unto Ephraim as a moth, and to the house of Judah as rottenness. </span></span><span class=\"verse v13\" data-usfm=\"HOS.5.13\"><span class=\"label\">13</span><span class=\"content\">When Ephraim saw his sickness, and Judah </span><span class=\"add\"><span class=\"content\">saw</span></span><span class=\"content\"> his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound. </span></span><span class=\"verse v14\" data-usfm=\"HOS.5.14\"><span class=\"label\">14</span><span class=\"content\">For I </span><span class=\"add\"><span class=\"content\">will be</span></span><span class=\"content\"> unto Ephraim as a lion, and as a young lion to the house of Judah: I, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> I, will tear and go away; I will take away, and none shall rescue </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\">. </span></span><span class=\"verse v15\" data-usfm=\"HOS.5.15\"><span class=\"label\">15</span><span class=\"content\">I will go </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Against Priests and Kings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "And the revolters are profound to make slaughter, though I have been a rebuker of them all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.6"
+        ],
+        "human": "Hosea 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.7"
+        ],
+        "human": "Hosea 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.5"
+        ],
+        "human": "Hosea 5",
+        "toc": true
+      },
+      "chapter_text": "Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. After two days will he revive us: in the third day he will raise us up, and we shall live in his sight. Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.\nO Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away. Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth. For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.\nBut they like men have transgressed the covenant: there have they dealt treacherously against me. Gilead is a city of them that work iniquity, and is polluted with blood. And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness. I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.\nAlso, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch6\" data-usfm=\"HOS.6\">\n         <div class=\"label\">6</div><div class=\"s2\"><span class=\"heading\">A Brief Repentance</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.6.1\"><span class=\"label\">1</span><span class=\"content\">Come, and let us return unto the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. </span></span><span class=\"verse v2\" data-usfm=\"HOS.6.2\"><span class=\"label\">2</span><span class=\"content\">After two days will he revive us: in the third day he will raise us up, and we shall live in his sight. </span></span><span class=\"verse v3\" data-usfm=\"HOS.6.3\"><span class=\"label\">3</span><span class=\"content\">Then shall we know, </span><span class=\"add\"><span class=\"content\">if</span></span><span class=\"content\"> we follow on to know the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> former rain unto the earth.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"HOS.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HOS.6.4\"><span class=\"label\">4</span><span class=\"content\">O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as a morning cloud, and as the early dew it goeth away. </span></span><span class=\"verse v5\" data-usfm=\"HOS.6.5\"><span class=\"label\">5</span><span class=\"content\">Therefore have I hewed </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> by the prophets; I have slain them by the words of my mouth: and thy judgments </span><span class=\"add\"><span class=\"content\">are as</span></span><span class=\"content\"> the light </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> goeth forth. </span></span><span class=\"verse v6\" data-usfm=\"HOS.6.6\"><span class=\"label\">6</span><span class=\"content\">For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HOS.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HOS.6.7\"><span class=\"label\">7</span><span class=\"content\">But they like men have transgressed the covenant: there have they dealt treacherously against me. </span></span><span class=\"verse v8\" data-usfm=\"HOS.6.8\"><span class=\"label\">8</span><span class=\"content\">Gilead </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a city of them that work iniquity, </span><span class=\"add\"><span class=\"content\">and is</span></span><span class=\"content\"> polluted with blood. </span></span><span class=\"verse v9\" data-usfm=\"HOS.6.9\"><span class=\"label\">9</span><span class=\"content\">And as troops of robbers wait for a man, </span><span class=\"add\"><span class=\"content\">so</span></span><span class=\"content\"> the company of priests murder in the way by consent: for they commit lewdness. </span></span><span class=\"verse v10\" data-usfm=\"HOS.6.10\"><span class=\"label\">10</span><span class=\"content\">I have seen an horrible thing in the house of Israel: there </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the whoredom of Ephraim, Israel is defiled.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"HOS.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HOS.6.11\"><span class=\"label\">11</span><span class=\"content\">Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "A Brief Repentance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "After two days will he revive us: in the third day he will raise us up, and we shall live in his sight."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But they like men have transgressed the covenant: there have they dealt treacherously against me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Gilead is a city of them that work iniquity, and is polluted with blood."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.7"
+        ],
+        "human": "Hosea 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.8"
+        ],
+        "human": "Hosea 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.6"
+        ],
+        "human": "Hosea 6",
+        "toc": true
+      },
+      "chapter_text": "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without. And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face. They make the king glad with their wickedness, and the princes with their lies. They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened. In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners. For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire. They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me.\nEphraim, he hath mixed himself among the people; Ephraim is a cake not turned. Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not. And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this. Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria. When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard. Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me. And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me. Though I have bound and strengthened their arms, yet do they imagine mischief against me. They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch7\" data-usfm=\"HOS.7\">\n         <div class=\"label\">7</div><div class=\"s2\"><span class=\"heading\">A Half-baked Cake</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.7.1\"><span class=\"label\">1</span><span class=\"content\">When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> the troop of robbers spoileth without. </span></span><span class=\"verse v2\" data-usfm=\"HOS.7.2\"><span class=\"label\">2</span><span class=\"content\">And they consider not in their hearts </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> I remember all their wickedness: now their own doings have beset them about; they are before my face. </span></span><span class=\"verse v3\" data-usfm=\"HOS.7.3\"><span class=\"label\">3</span><span class=\"content\">They make the king glad with their wickedness, and the princes with their lies. </span></span><span class=\"verse v4\" data-usfm=\"HOS.7.4\"><span class=\"label\">4</span><span class=\"content\">They </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> all adulterers, as an oven heated by the baker, </span><span class=\"add\"><span class=\"content\">who</span></span><span class=\"content\"> ceaseth from raising after he hath kneaded the dough, until it be leavened. </span></span><span class=\"verse v5\" data-usfm=\"HOS.7.5\"><span class=\"label\">5</span><span class=\"content\">In the day of our king the princes have made </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\"> sick with bottles of wine; he stretched out his hand with scorners. </span></span><span class=\"verse v6\" data-usfm=\"HOS.7.6\"><span class=\"label\">6</span><span class=\"content\">For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire. </span></span><span class=\"verse v7\" data-usfm=\"HOS.7.7\"><span class=\"label\">7</span><span class=\"content\">They are all hot as an oven, and have devoured their judges; all their kings are fallen: </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> none among them that calleth unto me.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"HOS.7.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HOS.7.8\"><span class=\"label\">8</span><span class=\"content\">Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned. </span></span><span class=\"verse v9\" data-usfm=\"HOS.7.9\"><span class=\"label\">9</span><span class=\"content\">Strangers have devoured his strength, and he knoweth </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> not: yea, gray hairs are here and there upon him, yet he knoweth not. </span></span><span class=\"verse v10\" data-usfm=\"HOS.7.10\"><span class=\"label\">10</span><span class=\"content\">And the pride of Israel testifieth to his face: and they do not return to the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> their God, nor seek him for all this. </span></span><span class=\"verse v11\" data-usfm=\"HOS.7.11\"><span class=\"label\">11</span><span class=\"content\">Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria. </span></span><span class=\"verse v12\" data-usfm=\"HOS.7.12\"><span class=\"label\">12</span><span class=\"content\">When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard. </span></span><span class=\"verse v13\" data-usfm=\"HOS.7.13\"><span class=\"label\">13</span><span class=\"content\">Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me. </span></span><span class=\"verse v14\" data-usfm=\"HOS.7.14\"><span class=\"label\">14</span><span class=\"content\">And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> they rebel against me. </span></span><span class=\"verse v15\" data-usfm=\"HOS.7.15\"><span class=\"label\">15</span><span class=\"content\">Though I have bound </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> strengthened their arms, yet do they imagine mischief against me. </span></span><span class=\"verse v16\" data-usfm=\"HOS.7.16\"><span class=\"label\">16</span><span class=\"content\">They return, </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> their derision in the land of Egypt.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "A Half-baked Cake"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, and the troop of robbers spoileth without."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "And they consider not in their hearts that I remember all their wickedness: now their own doings have beset them about; they are before my face."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "They make the king glad with their wickedness, and the princes with their lies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "In the day of our king the princes have made him sick with bottles of wine; he stretched out his hand with scorners."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For they have made ready their heart like an oven, whiles they lie in wait: their baker sleepeth all the night; in the morning it burneth as a flaming fire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Woe unto them! for they have fled from me: destruction unto them! because they have transgressed against me: though I have redeemed them, yet they have spoken lies against me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Though I have bound and strengthened their arms, yet do they imagine mischief against me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "They return, but not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this shall be their derision in the land of Egypt."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.8"
+        ],
+        "human": "Hosea 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.9"
+        ],
+        "human": "Hosea 9",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.7"
+        ],
+        "human": "Hosea 7",
+        "toc": true
+      },
+      "chapter_text": "Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law. Israel shall cry unto me, My God, we know thee.\nIsrael hath cast off the thing that is good: the enemy shall pursue him. They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off.\nThy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency? For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces.\nFor they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up. Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure. For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers. Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.\nBecause Ephraim hath made many altars to sin, altars shall be unto him to sin. I have written to him the great things of my law, but they were counted as a strange thing. They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt. For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch8\" data-usfm=\"HOS.8\">\n         <div class=\"label\">8</div><div class=\"s2\"><span class=\"heading\">Reaping the Whirlwind</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.8.1\"><span class=\"label\">1</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">Set</span></span><span class=\"content\"> the trumpet to thy mouth. </span><span class=\"add\"><span class=\"content\">He shall come</span></span><span class=\"content\"> as an eagle against the house of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, because they have transgressed my covenant, and trespassed against my law. </span></span><span class=\"verse v2\" data-usfm=\"HOS.8.2\"><span class=\"label\">2</span><span class=\"content\">Israel shall cry unto me, My God, we know thee.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"HOS.8.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HOS.8.3\"><span class=\"label\">3</span><span class=\"content\">Israel hath cast off </span><span class=\"add\"><span class=\"content\">the thing that is</span></span><span class=\"content\"> good: the enemy shall pursue him. </span></span><span class=\"verse v4\" data-usfm=\"HOS.8.4\"><span class=\"label\">4</span><span class=\"content\">They have set up kings, but not by me: they have made princes, and I knew </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> not: of their silver and their gold have they made them idols, that they may be cut off.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HOS.8.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HOS.8.5\"><span class=\"label\">5</span><span class=\"content\">Thy calf, O Samaria, hath cast </span><span class=\"add\"><span class=\"content\">thee</span></span><span class=\"content\"> off; mine anger is kindled against them: how long </span><span class=\"add\"><span class=\"content\">will it be</span></span><span class=\"content\"> ere they attain to innocency? </span></span><span class=\"verse v6\" data-usfm=\"HOS.8.6\"><span class=\"label\">6</span><span class=\"content\">For from Israel </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> it also: the workman made it; therefore it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> not God: but the calf of Samaria shall be broken in pieces.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HOS.8.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HOS.8.7\"><span class=\"label\">7</span><span class=\"content\">For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up. </span></span><span class=\"verse v8\" data-usfm=\"HOS.8.8\"><span class=\"label\">8</span><span class=\"content\">Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> no pleasure. </span></span><span class=\"verse v9\" data-usfm=\"HOS.8.9\"><span class=\"label\">9</span><span class=\"content\">For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers. </span></span><span class=\"verse v10\" data-usfm=\"HOS.8.10\"><span class=\"label\">10</span><span class=\"content\">Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"HOS.8.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HOS.8.11\"><span class=\"label\">11</span><span class=\"content\">Because Ephraim hath made many altars to sin, altars shall be unto him to sin. </span></span><span class=\"verse v12\" data-usfm=\"HOS.8.12\"><span class=\"label\">12</span><span class=\"content\">I have written to him the great things of my law, </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> they were counted as a strange thing. </span></span><span class=\"verse v13\" data-usfm=\"HOS.8.13\"><span class=\"label\">13</span><span class=\"content\">They sacrifice flesh </span><span class=\"add\"><span class=\"content\">for</span></span><span class=\"content\"> the sacrifices of mine offerings, and eat </span><span class=\"add\"><span class=\"content\">it; but</span></span><span class=\"content\"> the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt. </span></span><span class=\"verse v14\" data-usfm=\"HOS.8.14\"><span class=\"label\">14</span><span class=\"content\">For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Reaping the Whirlwind"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Israel shall cry unto me, My God, we know thee."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Israel hath cast off the thing that is good: the enemy shall pursue him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Thy calf, O Samaria, hath cast thee off; mine anger is kindled against them: how long will it be ere they attain to innocency?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For from Israel was it also: the workman made it; therefore it is not God: but the calf of Samaria shall be broken in pieces."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Because Ephraim hath made many altars to sin, altars shall be unto him to sin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I have written to him the great things of my law, but they were counted as a strange thing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.9",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.9"
+        ],
+        "human": "Hosea 9"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.10"
+        ],
+        "human": "Hosea 10",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.8"
+        ],
+        "human": "Hosea 8",
+        "toc": true
+      },
+      "chapter_text": "Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor. The floor and the winepress shall not feed them, and the new wine shall fail in her. They shall not dwell in the LORD's land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria. They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.\nWhat will ye do in the solemn day, and in the day of the feast of the LORD? For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles. The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred. The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God. They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins.\nI found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baal-peor, and separated themselves unto that shame; and their abominations were according as they loved. As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception. Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them! Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer. Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.\nAll their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters. Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb. My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch9\" data-usfm=\"HOS.9\">\n         <div class=\"label\">9</div><div class=\"s2\"><span class=\"heading\">Days of Recompence</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.9.1\"><span class=\"label\">1</span><span class=\"content\">Rejoice not, O Israel, for joy, as </span><span class=\"add\"><span class=\"content\">other</span></span><span class=\"content\"> people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor. </span></span><span class=\"verse v2\" data-usfm=\"HOS.9.2\"><span class=\"label\">2</span><span class=\"content\">The floor and the winepress shall not feed them, and the new wine shall fail in her. </span></span><span class=\"verse v3\" data-usfm=\"HOS.9.3\"><span class=\"label\">3</span><span class=\"content\">They shall not dwell in the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">'s land; but Ephraim shall return to Egypt, and they shall eat unclean </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> in Assyria. </span></span><span class=\"verse v4\" data-usfm=\"HOS.9.4\"><span class=\"label\">4</span><span class=\"content\">They shall not offer wine </span><span class=\"add\"><span class=\"content\">offerings</span></span><span class=\"content\"> to the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, neither shall they be pleasing unto him: their sacrifices </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HOS.9.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HOS.9.5\"><span class=\"label\">5</span><span class=\"content\">What will ye do in the solemn day, and in the day of the feast of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">? </span></span><span class=\"verse v6\" data-usfm=\"HOS.9.6\"><span class=\"label\">6</span><span class=\"content\">For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant </span><span class=\"add\"><span class=\"content\">places</span></span><span class=\"content\"> for their silver, nettles shall possess them: thorns </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> in their tabernacles. </span></span><span class=\"verse v7\" data-usfm=\"HOS.9.7\"><span class=\"label\">7</span><span class=\"content\">The days of visitation are come, the days of recompence are come; Israel shall know </span><span class=\"add\"><span class=\"content\">it:</span></span><span class=\"content\"> the prophet </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a fool, the spiritual man </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mad, for the multitude of thine iniquity, and the great hatred. </span></span><span class=\"verse v8\" data-usfm=\"HOS.9.8\"><span class=\"label\">8</span><span class=\"content\">The watchman of Ephraim </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> with my God: </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> the prophet </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a snare of a fowler in all his ways, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> hatred in the house of his God. </span></span><span class=\"verse v9\" data-usfm=\"HOS.9.9\"><span class=\"label\">9</span><span class=\"content\">They have deeply corrupted </span><span class=\"add\"><span class=\"content\">themselves</span></span><span class=\"content\">, as in the days of Gibeah: </span><span class=\"add\"><span class=\"content\">therefore</span></span><span class=\"content\"> he will remember their iniquity, he will visit their sins.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HOS.9.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HOS.9.10\"><span class=\"label\">10</span><span class=\"content\">I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: </span><span class=\"add\"><span class=\"content\">but</span></span><span class=\"content\"> they went to Baal-peor, and separated themselves unto </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> shame; and </span><span class=\"add\"><span class=\"content\">their</span></span><span class=\"content\"> abominations were according as they loved. </span></span><span class=\"verse v11\" data-usfm=\"HOS.9.11\"><span class=\"label\">11</span><span class=\"add\"><span class=\"content\">As for</span></span><span class=\"content\"> Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception. </span></span><span class=\"verse v12\" data-usfm=\"HOS.9.12\"><span class=\"label\">12</span><span class=\"content\">Though they bring up their children, yet will I bereave them, </span><span class=\"add\"><span class=\"content\">that there shall</span></span><span class=\"content\"> not </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> a man </span><span class=\"add\"><span class=\"content\">left:</span></span><span class=\"content\"> yea, woe also to them when I depart from them! </span></span><span class=\"verse v13\" data-usfm=\"HOS.9.13\"><span class=\"label\">13</span><span class=\"content\">Ephraim, as I saw Tyrus, </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> planted in a pleasant place: but Ephraim shall bring forth his children to the murderer. </span></span><span class=\"verse v14\" data-usfm=\"HOS.9.14\"><span class=\"label\">14</span><span class=\"content\">Give them, O </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: what wilt thou give? give them a miscarrying womb and dry breasts.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HOS.9.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HOS.9.15\"><span class=\"label\">15</span><span class=\"content\">All their wickedness </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> revolters. </span></span><span class=\"verse v16\" data-usfm=\"HOS.9.16\"><span class=\"label\">16</span><span class=\"content\">Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> the beloved </span><span class=\"add\"><span class=\"content\">fruit</span></span><span class=\"content\"> of their womb. </span></span><span class=\"verse v17\" data-usfm=\"HOS.9.17\"><span class=\"label\">17</span><span class=\"content\">My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Days of Recompence"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The floor and the winepress shall not feed them, and the new wine shall fail in her."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "They shall not dwell in the LORD's land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "What will ye do in the solemn day, and in the day of the feast of the LORD?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "The days of visitation are come, the days of recompence are come; Israel shall know it: the prophet is a fool, the spiritual man is mad, for the multitude of thine iniquity, and the great hatred."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The watchman of Ephraim was with my God: but the prophet is a snare of a fowler in all his ways, and hatred in the house of his God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "They have deeply corrupted themselves, as in the days of Gibeah: therefore he will remember their iniquity, he will visit their sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baal-peor, and separated themselves unto that shame; and their abominations were according as they loved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.10",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.10"
+        ],
+        "human": "Hosea 10"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.11"
+        ],
+        "human": "Hosea 11",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.9"
+        ],
+        "human": "Hosea 9",
+        "toc": true
+      },
+      "chapter_text": "Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images. Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images. For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?\nThey have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field. The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it. It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.\nAs for Samaria, her king is cut off as the foam upon the water. The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.\nO Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them. It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows. And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.\nSow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you. Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.\nTherefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon her children. So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n    <div class=\"book bkHOS\">\n        <div class=\"chapter ch10\" data-usfm=\"HOS.10\">\n            <div class=\"label\">10</div><div class=\"s2\"><span class=\"heading\">Their Divided Heart</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.10.1\"><span class=\"label\">1</span><span class=\"content\">Israel </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images. </span></span><span class=\"verse v2\" data-usfm=\"HOS.10.2\"><span class=\"label\">2</span><span class=\"content\">Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images. </span></span><span class=\"verse v3\" data-usfm=\"HOS.10.3\"><span class=\"label\">3</span><span class=\"content\">For now they shall say, We have no king, because we feared not the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">; what then should a king do to us?</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"HOS.10.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HOS.10.4\"><span class=\"label\">4</span><span class=\"content\">They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field. </span></span><span class=\"verse v5\" data-usfm=\"HOS.10.5\"><span class=\"label\">5</span><span class=\"content\">The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> rejoiced on it, for the glory thereof, because it is departed from it. </span></span><span class=\"verse v6\" data-usfm=\"HOS.10.6\"><span class=\"label\">6</span><span class=\"content\">It shall be also carried unto Assyria </span><span class=\"add\"><span class=\"content\">for</span></span><span class=\"content\"> a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HOS.10.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HOS.10.7\"><span class=\"label\">7</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">As for</span></span><span class=\"content\"> Samaria, her king is cut off as the foam upon the water. </span></span><span class=\"verse v8\" data-usfm=\"HOS.10.8\"><span class=\"label\">8</span><span class=\"content\">The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"HOS.10.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HOS.10.9\"><span class=\"label\">9</span><span class=\"content\">O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them. </span></span><span class=\"verse v10\" data-usfm=\"HOS.10.10\"><span class=\"label\">10</span><span class=\"add\"><span class=\"content\">It is</span></span><span class=\"content\"> in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows. </span></span><span class=\"verse v11\" data-usfm=\"HOS.10.11\"><span class=\"label\">11</span><span class=\"content\">And Ephraim </span><span class=\"add\"><span class=\"content\">is as</span></span><span class=\"content\"> an heifer </span><span class=\"add\"><span class=\"content\">that is</span></span><span class=\"content\"> taught, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> loveth to tread out </span><span class=\"add\"><span class=\"content\">the corn</span></span><span class=\"content\">; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> Jacob shall break his clods.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HOS.10.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HOS.10.12\"><span class=\"label\">12</span><span class=\"content\">Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for </span><span class=\"add\"><span class=\"content\">it is</span></span><span class=\"content\"> time to seek the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">, till he come and rain righteousness upon you. </span></span><span class=\"verse v13\" data-usfm=\"HOS.10.13\"><span class=\"label\">13</span><span class=\"content\">Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"HOS.10.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HOS.10.14\"><span class=\"label\">14</span><span class=\"content\">Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon </span><span class=\"add\"><span class=\"content\">her</span></span><span class=\"content\"> children. </span></span><span class=\"verse v15\" data-usfm=\"HOS.10.15\"><span class=\"label\">15</span><span class=\"content\">So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Their Divided Heart"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "As for Samaria, her king is cut off as the foam upon the water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon her children."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.11",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.11"
+        ],
+        "human": "Hosea 11"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.12"
+        ],
+        "human": "Hosea 12",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.10"
+        ],
+        "human": "Hosea 10",
+        "toc": true
+      },
+      "chapter_text": "When Israel was a child, then I loved him, and called my son out of Egypt. As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.\nI taught Ephraim also to go, taking them by their arms; but they knew not that I healed them. I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.\nHe shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return. And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels. And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.\nHow shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together. I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city. They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west. They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.\nEphraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch11\" data-usfm=\"HOS.11\">\n         <div class=\"label\">11</div><div class=\"s2\"><span class=\"heading\">The Father's Love</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.11.1\"><span class=\"label\">1</span><span class=\"content\">When Israel </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> a child, then I loved him, and called my son out of Egypt. </span></span><span class=\"verse v2\" data-usfm=\"HOS.11.2\"><span class=\"label\">2</span><span class=\"add\"><span class=\"content\">As</span></span><span class=\"content\"> they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"HOS.11.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HOS.11.3\"><span class=\"label\">3</span><span class=\"content\">I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them. </span></span><span class=\"verse v4\" data-usfm=\"HOS.11.4\"><span class=\"label\">4</span><span class=\"content\">I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"HOS.11.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HOS.11.5\"><span class=\"label\">5</span><span class=\"content\">He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return. </span></span><span class=\"verse v6\" data-usfm=\"HOS.11.6\"><span class=\"label\">6</span><span class=\"content\">And the sword shall abide on his cities, and shall consume his branches, and devour </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\">, because of their own counsels. </span></span><span class=\"verse v7\" data-usfm=\"HOS.11.7\"><span class=\"label\">7</span><span class=\"content\">And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"HOS.11.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HOS.11.8\"><span class=\"label\">8</span><span class=\"content\">How shall I give thee up, Ephraim? </span><span class=\"add\"><span class=\"content\">how</span></span><span class=\"content\"> shall I deliver thee, Israel? how shall I make thee as Admah? </span><span class=\"add\"><span class=\"content\">how</span></span><span class=\"content\"> shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together. </span></span><span class=\"verse v9\" data-usfm=\"HOS.11.9\"><span class=\"label\">9</span><span class=\"content\">I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> God, and not man; the Holy One in the midst of thee: and I will not enter into the city. </span></span><span class=\"verse v10\" data-usfm=\"HOS.11.10\"><span class=\"label\">10</span><span class=\"content\">They shall walk after the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: he shall roar like a lion: when he shall roar, then the children shall tremble from the west. </span></span><span class=\"verse v11\" data-usfm=\"HOS.11.11\"><span class=\"label\">11</span><span class=\"content\">They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"HOS.11.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HOS.11.12\"><span class=\"label\">12</span><span class=\"content\">Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Father's Love"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "When Israel was a child, then I loved him, and called my son out of Egypt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.12",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.12"
+        ],
+        "human": "Hosea 12"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.13"
+        ],
+        "human": "Hosea 13",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.11"
+        ],
+        "human": "Hosea 11",
+        "toc": true
+      },
+      "chapter_text": "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.\nThe LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him. He took his brother by the heel in the womb, and by his strength he had power with God: yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Beth-el, and there he spake with us; even the LORD God of hosts; the LORD is his memorial. Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.\nHe is a merchant, the balances of deceit are in his hand: he loveth to oppress. And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin. And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.\nI have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets. Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields. And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep. And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved. Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch12\" data-usfm=\"HOS.12\">\n         <div class=\"label\">12</div><div class=\"s2\"><span class=\"heading\">His Past Mercies</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.12.1\"><span class=\"label\">1</span><span class=\"content\">Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"HOS.12.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HOS.12.2\"><span class=\"label\">2</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him. </span></span><span class=\"verse v3\" data-usfm=\"HOS.12.3\"><span class=\"label\">3</span><span class=\"content\">He took his brother by the heel in the womb, and by his strength he had power with God: </span></span><span class=\"verse v4\" data-usfm=\"HOS.12.4\"><span class=\"label\">4</span><span class=\"content\">yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him </span><span class=\"add\"><span class=\"content\">in</span></span><span class=\"content\"> Beth-el, and there he spake with us; </span></span><span class=\"verse v5\" data-usfm=\"HOS.12.5\"><span class=\"label\">5</span><span class=\"content\">even the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> God of hosts; the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> his memorial. </span></span><span class=\"verse v6\" data-usfm=\"HOS.12.6\"><span class=\"label\">6</span><span class=\"content\">Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"HOS.12.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HOS.12.7\"><span class=\"label\">7</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">He is</span></span><span class=\"content\"> a merchant, the balances of deceit </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> in his hand: he loveth to oppress. </span></span><span class=\"verse v8\" data-usfm=\"HOS.12.8\"><span class=\"label\">8</span><span class=\"content\">And Ephraim said, Yet I am become rich, I have found me out substance: </span><span class=\"add\"><span class=\"content\">in</span></span><span class=\"content\"> all my labours they shall find none iniquity in me that </span><span class=\"add\"><span class=\"content\">were</span></span><span class=\"content\"> sin. </span></span><span class=\"verse v9\" data-usfm=\"HOS.12.9\"><span class=\"label\">9</span><span class=\"content\">And I </span><span class=\"add\"><span class=\"content\">that am</span></span><span class=\"content\"> the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"HOS.12.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HOS.12.10\"><span class=\"label\">10</span><span class=\"content\">I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets. </span></span><span class=\"verse v11\" data-usfm=\"HOS.12.11\"><span class=\"label\">11</span><span class=\"add\"><span class=\"content\">Is there</span></span><span class=\"content\"> iniquity </span><span class=\"add\"><span class=\"content\">in</span></span><span class=\"content\"> Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> as heaps in the furrows of the fields. </span></span><span class=\"verse v12\" data-usfm=\"HOS.12.12\"><span class=\"label\">12</span><span class=\"content\">And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept </span><span class=\"add\"><span class=\"content\">sheep</span></span><span class=\"content\">. </span></span><span class=\"verse v13\" data-usfm=\"HOS.12.13\"><span class=\"label\">13</span><span class=\"content\">And by a prophet the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> brought Israel out of Egypt, and by a prophet was he preserved. </span></span><span class=\"verse v14\" data-usfm=\"HOS.12.14\"><span class=\"label\">14</span><span class=\"content\">Ephraim provoked </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\"> to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "His Past Mercies"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "He took his brother by the heel in the womb, and by his strength he had power with God:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Beth-el, and there he spake with us;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "even the LORD God of hosts; the LORD is his memorial."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "He is a merchant, the balances of deceit are in his hand: he loveth to oppress."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.13",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.13"
+        ],
+        "human": "Hosea 13"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Hosea 14",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.12"
+        ],
+        "human": "Hosea 12",
+        "toc": true
+      },
+      "chapter_text": "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died. And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves. Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney.\nYet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me. I did know thee in the wilderness, in the land of great drought. According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me. Therefore I will be unto them as a lion: as a leopard by the way will I observe them: I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.\nO Israel, thou hast destroyed thyself; but in me is thine help. I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes? I gave thee a king in mine anger, and took him away in my wrath. The iniquity of Ephraim is bound up; his sin is hid. The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children. I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.\nThough he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels. Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch13\" data-usfm=\"HOS.13\">\n         <div class=\"label\">13</div><div class=\"s2\"><span class=\"heading\">The Only Saviour</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.13.1\"><span class=\"label\">1</span><span class=\"content\">When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died. </span></span><span class=\"verse v2\" data-usfm=\"HOS.13.2\"><span class=\"label\">2</span><span class=\"content\">And now they sin more and more, and have made them molten images of their silver, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves. </span></span><span class=\"verse v3\" data-usfm=\"HOS.13.3\"><span class=\"label\">3</span><span class=\"content\">Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> is driven with the whirlwind out of the floor, and as the smoke out of the chimney.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"HOS.13.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HOS.13.4\"><span class=\"label\">4</span><span class=\"content\">Yet I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> thy God from the land of Egypt, and thou shalt know no god but me: for </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no saviour beside me. </span></span><span class=\"verse v5\" data-usfm=\"HOS.13.5\"><span class=\"label\">5</span><span class=\"content\">I did know thee in the wilderness, in the land of great drought. </span></span><span class=\"verse v6\" data-usfm=\"HOS.13.6\"><span class=\"label\">6</span><span class=\"content\">According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me. </span></span><span class=\"verse v7\" data-usfm=\"HOS.13.7\"><span class=\"label\">7</span><span class=\"content\">Therefore I will be unto them as a lion: as a leopard by the way will I observe </span><span class=\"add\"><span class=\"content\">them:</span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HOS.13.8\"><span class=\"label\">8</span><span class=\"content\">I will meet them as a bear </span><span class=\"add\"><span class=\"content\">that is</span></span><span class=\"content\"> bereaved </span><span class=\"add\"><span class=\"content\">of her whelps</span></span><span class=\"content\">, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"HOS.13.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HOS.13.9\"><span class=\"label\">9</span><span class=\"content\">O Israel, thou hast destroyed thyself; but in me </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> thine help. </span></span><span class=\"verse v10\" data-usfm=\"HOS.13.10\"><span class=\"label\">10</span><span class=\"content\">I will be thy king: where </span><span class=\"add\"><span class=\"content\">is any other</span></span><span class=\"content\"> that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes? </span></span><span class=\"verse v11\" data-usfm=\"HOS.13.11\"><span class=\"label\">11</span><span class=\"content\">I gave thee a king in mine anger, and took </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\"> away in my wrath. </span></span><span class=\"verse v12\" data-usfm=\"HOS.13.12\"><span class=\"label\">12</span><span class=\"content\">The iniquity of Ephraim </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> bound up; his sin </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> hid. </span></span><span class=\"verse v13\" data-usfm=\"HOS.13.13\"><span class=\"label\">13</span><span class=\"content\">The sorrows of a travailing woman shall come upon him: he </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> an unwise son; for he should not stay long in </span><span class=\"add\"><span class=\"content\">the place of</span></span><span class=\"content\"> the breaking forth of children. </span></span><span class=\"verse v14\" data-usfm=\"HOS.13.14\"><span class=\"label\">14</span><span class=\"content\">I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"HOS.13.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HOS.13.15\"><span class=\"label\">15</span><span class=\"content\">Though he be fruitful among </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> brethren, an east wind shall come, the wind of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels. </span></span><span class=\"verse v16\" data-usfm=\"HOS.13.16\"><span class=\"label\">16</span><span class=\"content\">Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Only Saviour"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Yet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I did know thee in the wilderness, in the land of great drought."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Therefore I will be unto them as a lion: as a leopard by the way will I observe them:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "O Israel, thou hast destroyed thyself; but in me is thine help."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I will be thy king: where is any other that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I gave thee a king in mine anger, and took him away in my wrath."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "The iniquity of Ephraim is bound up; his sin is hid."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The sorrows of a travailing woman shall come upon him: he is an unwise son; for he should not stay long in the place of the breaking forth of children."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HOS.14",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HOS.14"
+        ],
+        "human": "Hosea 14"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JOL.1"
+        ],
+        "human": "Joel 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HOS.13"
+        ],
+        "human": "Hosea 13",
+        "toc": true
+      },
+      "chapter_text": "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity. Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips. Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy.\nI will heal their backsliding, I will love them freely: for mine anger is turned away from him. I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon. His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon. They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon. Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found.\nWho is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkHOS\">\n      <div class=\"chapter ch14\" data-usfm=\"HOS.14\">\n         <div class=\"label\">14</div><div class=\"s2\"><span class=\"heading\">Return, O Israel!</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HOS.14.1\"><span class=\"label\">1</span><span class=\"content\">O Israel, return unto the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\"> thy God; for thou hast fallen by thine iniquity. </span></span><span class=\"verse v2\" data-usfm=\"HOS.14.2\"><span class=\"label\">2</span><span class=\"content\">Take with you words, and turn to the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">: say unto him, Take away all iniquity, and receive </span><span class=\"add\"><span class=\"content\">us</span></span><span class=\"content\"> graciously: so will we render the calves of our lips. </span></span><span class=\"verse v3\" data-usfm=\"HOS.14.3\"><span class=\"label\">3</span><span class=\"content\">Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, </span><span class=\"add\"><span class=\"content\">Ye are</span></span><span class=\"content\"> our gods: for in thee the fatherless findeth mercy.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"HOS.14.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HOS.14.4\"><span class=\"label\">4</span><span class=\"content\">I will heal their backsliding, I will love them freely: for mine anger is turned away from him. </span></span><span class=\"verse v5\" data-usfm=\"HOS.14.5\"><span class=\"label\">5</span><span class=\"content\">I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon. </span></span><span class=\"verse v6\" data-usfm=\"HOS.14.6\"><span class=\"label\">6</span><span class=\"content\">His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon. </span></span><span class=\"verse v7\" data-usfm=\"HOS.14.7\"><span class=\"label\">7</span><span class=\"content\">They that dwell under his shadow shall return; they shall revive </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> the corn, and grow as the vine: the scent thereof </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> as the wine of Lebanon. </span></span><span class=\"verse v8\" data-usfm=\"HOS.14.8\"><span class=\"label\">8</span><span class=\"content\">Ephraim </span><span class=\"add\"><span class=\"content\">shall say</span></span><span class=\"content\">, What have I to do any more with idols? I have heard </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\">, and observed him: I </span><span class=\"add\"><span class=\"content\">am</span></span><span class=\"content\"> like a green fir tree. From me is thy fruit found.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"HOS.14.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HOS.14.9\"><span class=\"label\">9</span><span class=\"content\">Who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> wise, and he shall understand these </span><span class=\"add\"><span class=\"content\">things?</span></span><span class=\"content\"> prudent, and he shall know them? for the ways of the </span><span class=\"nd\"><span class=\"content\">LORD</span></span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> right, and the just shall walk in them: but the transgressors shall fall therein.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "Return, O Israel!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I will heal their backsliding, I will love them freely: for mine anger is turned away from him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

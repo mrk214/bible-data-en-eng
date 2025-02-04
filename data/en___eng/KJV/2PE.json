@@ -1,0 +1,610 @@
+{
+  "book_usfm": "2PE",
+  "name": "2 Peter",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2PE.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.5"
+        ],
+        "human": "1 Peter 5",
+        "toc": true
+      },
+      "chapter_text": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord, according as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue: whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust. And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity. For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ. But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins. Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall: for so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.\nWherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth. Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance; knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me. Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance. For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty. For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased. And this voice which came from heaven we heard, when we were with him in the holy mount. We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: knowing this first, that no prophecy of the scripture is of any private interpretation. For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch1\" data-usfm=\"2PE.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"label\">1</span><span class=\"content\">Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ: </span></span><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"label\">2</span><span class=\"content\">grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord, </span></span><span class=\"verse v3\" data-usfm=\"2PE.1.3\"><span class=\"label\">3</span><span class=\"content\">according as his divine power hath given unto us all things that </span><span class=\"add\"><span class=\"content\">pertain</span></span><span class=\"content\"> unto life and godliness, through the knowledge of him that hath called us to glory and virtue: </span></span><span class=\"verse v4\" data-usfm=\"2PE.1.4\"><span class=\"label\">4</span><span class=\"content\">whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust. </span></span><span class=\"verse v5\" data-usfm=\"2PE.1.5\"><span class=\"label\">5</span><span class=\"content\">And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge; </span></span><span class=\"verse v6\" data-usfm=\"2PE.1.6\"><span class=\"label\">6</span><span class=\"content\">and to knowledge temperance; and to temperance patience; and to patience godliness; </span></span><span class=\"verse v7\" data-usfm=\"2PE.1.7\"><span class=\"label\">7</span><span class=\"content\">and to godliness brotherly kindness; and to brotherly kindness charity. </span></span><span class=\"verse v8\" data-usfm=\"2PE.1.8\"><span class=\"label\">8</span><span class=\"content\">For if these things be in you, and abound, they make </span><span class=\"add\"><span class=\"content\">you that ye shall</span></span><span class=\"content\"> neither </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> barren nor unfruitful in the knowledge of our Lord Jesus Christ. </span></span><span class=\"verse v9\" data-usfm=\"2PE.1.9\"><span class=\"label\">9</span><span class=\"content\">But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins. </span></span><span class=\"verse v10\" data-usfm=\"2PE.1.10\"><span class=\"label\">10</span><span class=\"content\">Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall: </span></span><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"label\">11</span><span class=\"content\">for so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2PE.1.12\"><span class=\"label\">12</span><span class=\"content\">Wherefore I will not be negligent to put you always in remembrance of these things, though ye know </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\">, and be established in the present truth. </span></span><span class=\"verse v13\" data-usfm=\"2PE.1.13\"><span class=\"label\">13</span><span class=\"content\">Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting </span><span class=\"add\"><span class=\"content\">you</span></span><span class=\"content\"> in remembrance; </span></span><span class=\"verse v14\" data-usfm=\"2PE.1.14\"><span class=\"label\">14</span><span class=\"content\">knowing that shortly I must put off </span><span class=\"add\"><span class=\"content\">this</span></span><span class=\"content\"> my tabernacle, even as our Lord Jesus Christ hath shewed me. </span></span><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"label\">15</span><span class=\"content\">Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance. </span></span><span class=\"verse v16\" data-usfm=\"2PE.1.16\"><span class=\"label\">16</span><span class=\"content\">For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty. </span></span><span class=\"verse v17\" data-usfm=\"2PE.1.17\"><span class=\"label\">17</span><span class=\"content\">For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased. </span></span><span class=\"verse v18\" data-usfm=\"2PE.1.18\"><span class=\"label\">18</span><span class=\"content\">And this voice which came from heaven we heard, when we were with him in the holy mount. </span></span><span class=\"verse v19\" data-usfm=\"2PE.1.19\"><span class=\"label\">19</span><span class=\"content\">We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: </span></span><span class=\"verse v20\" data-usfm=\"2PE.1.20\"><span class=\"label\">20</span><span class=\"content\">knowing this first, that no prophecy of the scripture is of any private interpretation. </span></span><span class=\"verse v21\" data-usfm=\"2PE.1.21\"><span class=\"label\">21</span><span class=\"content\">For the prophecy came not in old time by the will of man: but holy men of God spake </span><span class=\"add\"><span class=\"content\">as they were</span></span><span class=\"content\"> moved by the Holy Ghost.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "according as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and to knowledge temperance; and to temperance patience; and to patience godliness;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and to godliness brotherly kindness; and to brotherly kindness charity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "for so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "And this voice which came from heaven we heard, when we were with him in the holy mount."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "knowing this first, that no prophecy of the scripture is of any private interpretation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Peter 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1",
+        "toc": true
+      },
+      "chapter_text": "But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; and spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly; and turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly; and delivered just Lot, vexed with the filthy conversation of the wicked: (for that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;) the Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished: but chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities. Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.\nBut these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption; and shall receive the reward of unrighteousness, as they that count it pleasure to riot in the daytime. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you; having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children: which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness; but was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet. These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever. For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error. While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage. For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning. For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them. But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch2\" data-usfm=\"2PE.2\">\n         <div class=\"label\">2</div><div class=\"s2\"><span class=\"heading\">False Teachers</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.2.1\"><span class=\"label\">1</span><span class=\"content\">But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction. </span></span><span class=\"verse v2\" data-usfm=\"2PE.2.2\"><span class=\"label\">2</span><span class=\"content\">And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of. </span></span><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"label\">3</span><span class=\"content\">And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not. </span></span><span class=\"verse v4\" data-usfm=\"2PE.2.4\"><span class=\"label\">4</span><span class=\"content\">For if God spared not the angels that sinned, but cast </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> down to hell, and delivered </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> into chains of darkness, to be reserved unto judgment; </span></span><span class=\"verse v5\" data-usfm=\"2PE.2.5\"><span class=\"label\">5</span><span class=\"content\">and spared not the old world, but saved Noah the eighth </span><span class=\"add\"><span class=\"content\">person</span></span><span class=\"content\">, a preacher of righteousness, bringing in the flood upon the world of the ungodly; </span></span><span class=\"verse v6\" data-usfm=\"2PE.2.6\"><span class=\"label\">6</span><span class=\"content\">and turning the cities of Sodom and Gomorrha into ashes condemned </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> with an overthrow, making </span><span class=\"add\"><span class=\"content\">them</span></span><span class=\"content\"> an ensample unto those that after should live ungodly; </span></span><span class=\"verse v7\" data-usfm=\"2PE.2.7\"><span class=\"label\">7</span><span class=\"content\">and delivered just Lot, vexed with the filthy conversation of the wicked: </span></span><span class=\"verse v8\" data-usfm=\"2PE.2.8\"><span class=\"label\">8</span><span class=\"content\">(for that righteous man dwelling among them, in seeing and hearing, vexed </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> righteous soul from day to day with </span><span class=\"add\"><span class=\"content\">their</span></span><span class=\"content\"> unlawful deeds;) </span></span><span class=\"verse v9\" data-usfm=\"2PE.2.9\"><span class=\"label\">9</span><span class=\"content\">the Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished: </span></span><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"label\">10</span><span class=\"content\">but chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous </span><span class=\"add\"><span class=\"content\">are they</span></span><span class=\"content\">, selfwilled, they are not afraid to speak evil of dignities. </span></span><span class=\"verse v11\" data-usfm=\"2PE.2.11\"><span class=\"label\">11</span><span class=\"content\">Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2PE.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2PE.2.12\"><span class=\"label\">12</span><span class=\"content\">But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption; </span></span><span class=\"verse v13\" data-usfm=\"2PE.2.13\"><span class=\"label\">13</span><span class=\"content\">and shall receive the reward of unrighteousness, </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> they that count it pleasure to riot in the daytime. Spots </span><span class=\"add\"><span class=\"content\">they are</span></span><span class=\"content\"> and blemishes, sporting themselves with their own deceivings while they feast with you; </span></span><span class=\"verse v14\" data-usfm=\"2PE.2.14\"><span class=\"label\">14</span><span class=\"content\">having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children: </span></span><span class=\"verse v15\" data-usfm=\"2PE.2.15\"><span class=\"label\">15</span><span class=\"content\">which have forsaken the right way, and are gone astray, following the way of Balaam </span><span class=\"add\"><span class=\"content\">the son</span></span><span class=\"content\"> of Bosor, who loved the wages of unrighteousness; </span></span><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"label\">16</span><span class=\"content\">but was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet. </span></span><span class=\"verse v17\" data-usfm=\"2PE.2.17\"><span class=\"label\">17</span><span class=\"content\">These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever. </span></span><span class=\"verse v18\" data-usfm=\"2PE.2.18\"><span class=\"label\">18</span><span class=\"content\">For when they speak great swelling </span><span class=\"add\"><span class=\"content\">words</span></span><span class=\"content\"> of vanity, they allure through the lusts of the flesh, </span><span class=\"add\"><span class=\"content\">through much</span></span><span class=\"content\"> wantonness, those that were clean escaped from them who live in error. </span></span><span class=\"verse v19\" data-usfm=\"2PE.2.19\"><span class=\"label\">19</span><span class=\"content\">While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage. </span></span><span class=\"verse v20\" data-usfm=\"2PE.2.20\"><span class=\"label\">20</span><span class=\"content\">For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning. </span></span><span class=\"verse v21\" data-usfm=\"2PE.2.21\"><span class=\"label\">21</span><span class=\"content\">For it had been better for them not to have known the way of righteousness, than, after they have known </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">, to turn from the holy commandment delivered unto them. </span></span><span class=\"verse v22\" data-usfm=\"2PE.2.22\"><span class=\"label\">22</span><span class=\"content\">But it is happened unto them according to the true proverb, The dog </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> turned to his own vomit again; and the sow that was washed to her wallowing in the mire.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "False Teachers"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "And through covetousness shall they with feigned words make merchandise of you: whose judgment now of a long time lingereth not, and their damnation slumbereth not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "and spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and delivered just Lot, vexed with the filthy conversation of the wicked:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "(for that righteous man dwelling among them, in seeing and hearing, vexed his righteous soul from day to day with their unlawful deeds;)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "the Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "but chiefly them that walk after the flesh in the lust of uncleanness, and despise government. Presumptuous are they, selfwilled, they are not afraid to speak evil of dignities."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But these, as natural brute beasts, made to be taken and destroyed, speak evil of the things that they understand not; and shall utterly perish in their own corruption;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "and shall receive the reward of unrighteousness, as they that count it pleasure to riot in the daytime. Spots they are and blemishes, sporting themselves with their own deceivings while they feast with you;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "but was rebuked for his iniquity: the dumb ass speaking with man's voice forbad the madness of the prophet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "While they promise them liberty, they themselves are the servants of corruption: for of whom a man is overcome, of the same is he brought in bondage."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For it had been better for them not to have known the way of righteousness, than, after they have known it, to turn from the holy commandment delivered unto them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Peter 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.1"
+        ],
+        "human": "1 John 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2",
+        "toc": true
+      },
+      "chapter_text": "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance: that ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: knowing this first, that there shall come in the last days scoffers, walking after their own lusts, and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation. For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: whereby the world that then was, being overflowed with water, perished: but the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.\nBut, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day. The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness, looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.\nWherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless. And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; as also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.\nYe therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch3\" data-usfm=\"2PE.3\">\n         <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.3.1\"><span class=\"label\">1</span><span class=\"content\">This second epistle, beloved, I now write unto you; in </span><span class=\"add\"><span class=\"content\">both</span></span><span class=\"content\"> which I stir up your pure minds by way of remembrance: </span></span><span class=\"verse v2\" data-usfm=\"2PE.3.2\"><span class=\"label\">2</span><span class=\"content\">that ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour: </span></span><span class=\"verse v3\" data-usfm=\"2PE.3.3\"><span class=\"label\">3</span><span class=\"content\">knowing this first, that there shall come in the last days scoffers, walking after their own lusts, </span></span><span class=\"verse v4\" data-usfm=\"2PE.3.4\"><span class=\"label\">4</span><span class=\"content\">and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as </span><span class=\"add\"><span class=\"content\">they were</span></span><span class=\"content\"> from the beginning of the creation. </span></span><span class=\"verse v5\" data-usfm=\"2PE.3.5\"><span class=\"label\">5</span><span class=\"content\">For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water: </span></span><span class=\"verse v6\" data-usfm=\"2PE.3.6\"><span class=\"label\">6</span><span class=\"content\">whereby the world that then was, being overflowed with water, perished: </span></span><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"label\">7</span><span class=\"content\">but the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2PE.3.8\"><span class=\"label\">8</span><span class=\"content\">But, beloved, be not ignorant of this one thing, that one day </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> with the Lord as a thousand years, and a thousand years as one day. </span></span><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"label\">9</span><span class=\"content\">The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance. </span></span><span class=\"verse v10\" data-usfm=\"2PE.3.10\"><span class=\"label\">10</span><span class=\"content\">But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up. </span></span><span class=\"verse v11\" data-usfm=\"2PE.3.11\"><span class=\"label\">11</span><span class=\"add\"><span class=\"content\">Seeing</span></span><span class=\"content\"> then </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> all these things shall be dissolved, what manner </span><span class=\"add\"><span class=\"content\">of persons</span></span><span class=\"content\"> ought ye to be in </span><span class=\"add\"><span class=\"content\">all</span></span><span class=\"content\"> holy conversation and godliness, </span></span><span class=\"verse v12\" data-usfm=\"2PE.3.12\"><span class=\"label\">12</span><span class=\"content\">looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat? </span></span><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"label\">13</span><span class=\"content\">Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2PE.3.14\"><span class=\"label\">14</span><span class=\"content\">Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless. </span></span><span class=\"verse v15\" data-usfm=\"2PE.3.15\"><span class=\"label\">15</span><span class=\"content\">And account </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> the longsuffering of our Lord </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you; </span></span><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"label\">16</span><span class=\"content\">as also in all </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as </span><span class=\"add\"><span class=\"content\">they do</span></span><span class=\"content\"> also the other scriptures, unto their own destruction.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.3.17\"><span class=\"label\">17</span><span class=\"content\">Ye therefore, beloved, seeing ye know </span><span class=\"add\"><span class=\"content\">these things</span></span><span class=\"content\"> before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness. </span></span><span class=\"verse v18\" data-usfm=\"2PE.3.18\"><span class=\"label\">18</span><span class=\"content\">But grow in grace, and </span><span class=\"add\"><span class=\"content\">in</span></span><span class=\"content\"> the knowledge of our Lord and Saviour Jesus Christ. To him </span><span class=\"add\"><span class=\"content\">be</span></span><span class=\"content\"> glory both now and for ever. Amen.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "that ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "knowing this first, that there shall come in the last days scoffers, walking after their own lusts,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "and saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "whereby the world that then was, being overflowed with water, perished:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "but the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "as also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

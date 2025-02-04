@@ -1,0 +1,2200 @@
+{
+  "book_usfm": "ECC",
+  "name": "Ecclesiastes",
+  "local_title": "King James Version",
+  "local_abbreviation": "KJV",
+  "version_id": 1,
+  "publisher": {
+    "name": "Cambridge Univ. Press & BFBS"
+  },
+  "copyright": {
+    "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+    "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "ECC.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.1"
+        ],
+        "human": "Ecclesiastes 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.2"
+        ],
+        "human": "Ecclesiastes 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "PRO.31"
+        ],
+        "human": "Proverbs 31",
+        "toc": true
+      },
+      "chapter_text": "The words of the Preacher, the son of David, king in Jerusalem. Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity. What profit hath a man of all his labour which he taketh under the sun? One generation passeth away, and another generation cometh: but the earth abideth for ever. The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose. The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits. All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again. All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing. The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun. Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us. There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.\n\nI the Preacher was king over Israel in Jerusalem. And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith. I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit. That which is crooked cannot be made straight: and that which is wanting cannot be numbered. I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge. And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit. For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch1\" data-usfm=\"ECC.1\">\n         <div class=\"label\">1</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.1.1\"><span class=\"label\">1</span><span class=\"content\">The words of the Preacher, the son of David, king in Jerusalem. </span></span><span class=\"verse v2\" data-usfm=\"ECC.1.2\"><span class=\"label\">2</span><span class=\"content\">Vanity of vanities, saith the Preacher, vanity of vanities; all </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v3\" data-usfm=\"ECC.1.3\"><span class=\"label\">3</span><span class=\"content\">What profit hath a man of all his labour which he taketh under the sun? </span></span><span class=\"verse v4\" data-usfm=\"ECC.1.4\"><span class=\"label\">4</span><span class=\"add\"><span class=\"content\">One</span></span><span class=\"content\"> generation passeth away, and </span><span class=\"add\"><span class=\"content\">another</span></span><span class=\"content\"> generation cometh: but the earth abideth for ever. </span></span><span class=\"verse v5\" data-usfm=\"ECC.1.5\"><span class=\"label\">5</span><span class=\"content\">The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose. </span></span><span class=\"verse v6\" data-usfm=\"ECC.1.6\"><span class=\"label\">6</span><span class=\"content\">The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits. </span></span><span class=\"verse v7\" data-usfm=\"ECC.1.7\"><span class=\"label\">7</span><span class=\"content\">All the rivers run into the sea; yet the sea </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> not full; unto the place from whence the rivers come, thither they return again. </span></span><span class=\"verse v8\" data-usfm=\"ECC.1.8\"><span class=\"label\">8</span><span class=\"content\">All things </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> full of labour; man cannot utter </span><span class=\"add\"><span class=\"content\">it:</span></span><span class=\"content\"> the eye is not satisfied with seeing, nor the ear filled with hearing. </span></span><span class=\"verse v9\" data-usfm=\"ECC.1.9\"><span class=\"label\">9</span><span class=\"content\">The thing that hath been, it </span><span class=\"add\"><span class=\"content\">is that</span></span><span class=\"content\"> which shall be; and that which is done </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> that which shall be done: and </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no new </span><span class=\"add\"><span class=\"content\">thing</span></span><span class=\"content\"> under the sun. </span></span><span class=\"verse v10\" data-usfm=\"ECC.1.10\"><span class=\"label\">10</span><span class=\"content\">Is there </span><span class=\"add\"><span class=\"content\">any</span></span><span class=\"content\"> thing whereof it may be said, See, this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> new? it hath been already of old time, which was before us. </span></span><span class=\"verse v11\" data-usfm=\"ECC.1.11\"><span class=\"label\">11</span><span class=\"add\"><span class=\"content\">There is</span></span><span class=\"content\"> no remembrance of former </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\">; neither shall there be </span><span class=\"add\"><span class=\"content\">any</span></span><span class=\"content\"> remembrance of </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> that are to come with </span><span class=\"add\"><span class=\"content\">those</span></span><span class=\"content\"> that shall come after.</span></span></div><div class=\"s2\"><span class=\"heading\">The Vanity of Knowledge</span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"ECC.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ECC.1.12\"><span class=\"label\">12</span><span class=\"content\">I the Preacher was king over Israel in Jerusalem. </span></span><span class=\"verse v13\" data-usfm=\"ECC.1.13\"><span class=\"label\">13</span><span class=\"content\">And I gave my heart to seek and search out by wisdom concerning all </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith. </span></span><span class=\"verse v14\" data-usfm=\"ECC.1.14\"><span class=\"label\">14</span><span class=\"content\">I have seen all the works that are done under the sun; and, behold, all </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity and vexation of spirit. </span></span><span class=\"verse v15\" data-usfm=\"ECC.1.15\"><span class=\"label\">15</span><span class=\"add\"><span class=\"content\">That which is</span></span><span class=\"content\"> crooked cannot be made straight: and that which is wanting cannot be numbered. </span></span><span class=\"verse v16\" data-usfm=\"ECC.1.16\"><span class=\"label\">16</span><span class=\"content\">I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all </span><span class=\"add\"><span class=\"content\">they</span></span><span class=\"content\"> that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge. </span></span><span class=\"verse v17\" data-usfm=\"ECC.1.17\"><span class=\"label\">17</span><span class=\"content\">And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit. </span></span><span class=\"verse v18\" data-usfm=\"ECC.1.18\"><span class=\"label\">18</span><span class=\"content\">For in much wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> much grief: and he that increaseth knowledge increaseth sorrow.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The words of the Preacher, the son of David, king in Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "What profit hath a man of all his labour which he taketh under the sun?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "One generation passeth away, and another generation cometh: but the earth abideth for ever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Vanity of Knowledge"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I the Preacher was king over Israel in Jerusalem."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "That which is crooked cannot be made straight: and that which is wanting cannot be numbered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.2"
+        ],
+        "human": "Ecclesiastes 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.3"
+        ],
+        "human": "Ecclesiastes 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.1"
+        ],
+        "human": "Ecclesiastes 1",
+        "toc": true
+      },
+      "chapter_text": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity. I said of laughter, It is mad: and of mirth, What doeth it? I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life. I made me great works; I builded me houses; I planted me vineyards: I made me gardens and orchards, and I planted trees in them of all kind of fruits: I made me pools of water, to water therewith the wood that bringeth forth trees: I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me: I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts. So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me. And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour. Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.\nAnd I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done. Then I saw that wisdom excelleth folly, as far as light excelleth darkness. The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all. Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity. For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool. Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.\n\nYea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me. And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity. Therefore I went about to cause my heart to despair of all the labour which I took under the sun. For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil. For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun? For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.\nThere is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God. For who can eat, or who else can hasten hereunto, more than I? For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch2\" data-usfm=\"ECC.2\">\n         <div class=\"label\">2</div><div class=\"s2\"><span class=\"heading\">The Vanity of Pleasure</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.2.1\"><span class=\"label\">1</span><span class=\"content\">I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v2\" data-usfm=\"ECC.2.2\"><span class=\"label\">2</span><span class=\"content\">I said of laughter, </span><span class=\"add\"><span class=\"content\">It is</span></span><span class=\"content\"> mad: and of mirth, What doeth it? </span></span><span class=\"verse v3\" data-usfm=\"ECC.2.3\"><span class=\"label\">3</span><span class=\"content\">I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> that good for the sons of men, which they should do under the heaven all the days of their life. </span></span><span class=\"verse v4\" data-usfm=\"ECC.2.4\"><span class=\"label\">4</span><span class=\"content\">I made me great works; I builded me houses; I planted me vineyards: </span></span><span class=\"verse v5\" data-usfm=\"ECC.2.5\"><span class=\"label\">5</span><span class=\"content\">I made me gardens and orchards, and I planted trees in them of all </span><span class=\"add\"><span class=\"content\">kind of</span></span><span class=\"content\"> fruits: </span></span><span class=\"verse v6\" data-usfm=\"ECC.2.6\"><span class=\"label\">6</span><span class=\"content\">I made me pools of water, to water therewith the wood that bringeth forth trees: </span></span><span class=\"verse v7\" data-usfm=\"ECC.2.7\"><span class=\"label\">7</span><span class=\"content\">I got </span><span class=\"add\"><span class=\"content\">me</span></span><span class=\"content\"> servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me: </span></span><span class=\"verse v8\" data-usfm=\"ECC.2.8\"><span class=\"label\">8</span><span class=\"content\">I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> musical instruments, and that of all sorts. </span></span><span class=\"verse v9\" data-usfm=\"ECC.2.9\"><span class=\"label\">9</span><span class=\"content\">So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me. </span></span><span class=\"verse v10\" data-usfm=\"ECC.2.10\"><span class=\"label\">10</span><span class=\"content\">And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour. </span></span><span class=\"verse v11\" data-usfm=\"ECC.2.11\"><span class=\"label\">11</span><span class=\"content\">Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> vanity and vexation of spirit, and </span><span class=\"add\"><span class=\"content\">there was</span></span><span class=\"content\"> no profit under the sun.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"ECC.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ECC.2.12\"><span class=\"label\">12</span><span class=\"content\">And I turned myself to behold wisdom, and madness, and folly: for what </span><span class=\"add\"><span class=\"content\">can</span></span><span class=\"content\"> the man </span><span class=\"add\"><span class=\"content\">do</span></span><span class=\"content\"> that cometh after the king? </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> that which hath been already done. </span></span><span class=\"verse v13\" data-usfm=\"ECC.2.13\"><span class=\"label\">13</span><span class=\"content\">Then I saw that wisdom excelleth folly, as far as light excelleth darkness. </span></span><span class=\"verse v14\" data-usfm=\"ECC.2.14\"><span class=\"label\">14</span><span class=\"content\">The wise man's eyes </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all. </span></span><span class=\"verse v15\" data-usfm=\"ECC.2.15\"><span class=\"label\">15</span><span class=\"content\">Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v16\" data-usfm=\"ECC.2.16\"><span class=\"label\">16</span><span class=\"content\">For </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no remembrance of the wise more than of the fool for ever; seeing that which now </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in the days to come shall all be forgotten. And how dieth the wise </span><span class=\"add\"><span class=\"content\">man?</span></span><span class=\"content\"> as the fool. </span></span><span class=\"verse v17\" data-usfm=\"ECC.2.17\"><span class=\"label\">17</span><span class=\"content\">Therefore I hated life; because the work that is wrought under the sun </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> grievous unto me: for all </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity and vexation of spirit.</span></span></div><div class=\"s2\"><span class=\"heading\">The Vanity of Work and Riches</span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"ECC.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"ECC.2.18\"><span class=\"label\">18</span><span class=\"content\">Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me. </span></span><span class=\"verse v19\" data-usfm=\"ECC.2.19\"><span class=\"label\">19</span><span class=\"content\">And who knoweth whether he shall be a wise </span><span class=\"add\"><span class=\"content\">man</span></span><span class=\"content\"> or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> also vanity. </span></span><span class=\"verse v20\" data-usfm=\"ECC.2.20\"><span class=\"label\">20</span><span class=\"content\">Therefore I went about to cause my heart to despair of all the labour which I took under the sun. </span></span><span class=\"verse v21\" data-usfm=\"ECC.2.21\"><span class=\"label\">21</span><span class=\"content\">For there is a man whose labour </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it </span><span class=\"add\"><span class=\"content\">for</span></span><span class=\"content\"> his portion. This also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity and a great evil. </span></span><span class=\"verse v22\" data-usfm=\"ECC.2.22\"><span class=\"label\">22</span><span class=\"content\">For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun? </span></span><span class=\"verse v23\" data-usfm=\"ECC.2.23\"><span class=\"label\">23</span><span class=\"content\">For all his days </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.</span></span></div><div class=\"p\"><span class=\"verse v23\" data-usfm=\"ECC.2.23\"><span class=\"content\">  </span></span><span class=\"verse v24\" data-usfm=\"ECC.2.24\"><span class=\"label\">24</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">There is</span></span><span class=\"content\"> nothing better for a man, </span><span class=\"add\"><span class=\"content\">than</span></span><span class=\"content\"> that he should eat and drink, and </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> he should make his soul enjoy good in his labour. This also I saw, that it </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> from the hand of God. </span></span><span class=\"verse v25\" data-usfm=\"ECC.2.25\"><span class=\"label\">25</span><span class=\"content\">For who can eat, or who else can hasten </span><span class=\"add\"><span class=\"content\">hereunto</span></span><span class=\"content\">, more than I? </span></span><span class=\"verse v26\" data-usfm=\"ECC.2.26\"><span class=\"label\">26</span><span class=\"content\">For </span><span class=\"add\"><span class=\"content\">God</span></span><span class=\"content\"> giveth to a man that </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to </span><span class=\"add\"><span class=\"content\">him that is</span></span><span class=\"content\"> good before God. This also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity and vexation of spirit.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Vanity of Pleasure"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I said of laughter, It is mad: and of mirth, What doeth it?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I made me great works; I builded me houses; I planted me vineyards:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I made me gardens and orchards, and I planted trees in them of all kind of fruits:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I made me pools of water, to water therewith the wood that bringeth forth trees:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Then I saw that wisdom excelleth folly, as far as light excelleth darkness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Vanity of Work and Riches"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Therefore I went about to cause my heart to despair of all the labour which I took under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "For who can eat, or who else can hasten hereunto, more than I?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.3"
+        ],
+        "human": "Ecclesiastes 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.4"
+        ],
+        "human": "Ecclesiastes 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.2"
+        ],
+        "human": "Ecclesiastes 2",
+        "toc": true
+      },
+      "chapter_text": "To every thing there is a season, and a time to every purpose under the heaven: a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted; a time to kill, and a time to heal; a time to break down, and a time to build up; a time to weep, and a time to laugh; a time to mourn, and a time to dance; a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; a time to get, and a time to lose; a time to keep, and a time to cast away; a time to rend, and a time to sew; a time to keep silence, and a time to speak; a time to love, and a time to hate; a time of war, and a time of peace. What profit hath he that worketh in that wherein he laboureth? I have seen the travail, which God hath given to the sons of men to be exercised in it. He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end. I know that there is no good in them, but for a man to rejoice, and to do good in his life. And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God. I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him. That which hath been is now; and that which is to be hath already been; and God requireth that which is past.\nAnd moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there. I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work. I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts. For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity. All go unto one place; all are of the dust, and all turn to dust again. Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth? Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n    <div class=\"book bkECC\">\n        <div class=\"chapter ch3\" data-usfm=\"ECC.3\">\n            <div class=\"label\">3</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.3.1\"><span class=\"label\">1</span><span class=\"content\">To every </span><span class=\"add\"><span class=\"content\">thing there is</span></span><span class=\"content\"> a season, and a time to every purpose under the heaven: </span></span><span class=\"verse v2\" data-usfm=\"ECC.3.2\"><span class=\"label\">2</span><span class=\"content\">a time to be born, and a time to die; a time to plant, and a time to pluck up </span><span class=\"add\"><span class=\"content\">that which is</span></span><span class=\"content\"> planted; </span></span><span class=\"verse v3\" data-usfm=\"ECC.3.3\"><span class=\"label\">3</span><span class=\"content\">a time to kill, and a time to heal; a time to break down, and a time to build up; </span></span><span class=\"verse v4\" data-usfm=\"ECC.3.4\"><span class=\"label\">4</span><span class=\"content\">a time to weep, and a time to laugh; a time to mourn, and a time to dance; </span></span><span class=\"verse v5\" data-usfm=\"ECC.3.5\"><span class=\"label\">5</span><span class=\"content\">a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing; </span></span><span class=\"verse v6\" data-usfm=\"ECC.3.6\"><span class=\"label\">6</span><span class=\"content\">a time to get, and a time to lose; a time to keep, and a time to cast away; </span></span><span class=\"verse v7\" data-usfm=\"ECC.3.7\"><span class=\"label\">7</span><span class=\"content\">a time to rend, and a time to sew; a time to keep silence, and a time to speak; </span></span><span class=\"verse v8\" data-usfm=\"ECC.3.8\"><span class=\"label\">8</span><span class=\"content\">a time to love, and a time to hate; a time of war, and a time of peace. </span></span><span class=\"verse v9\" data-usfm=\"ECC.3.9\"><span class=\"label\">9</span><span class=\"content\">What profit hath he that worketh in that wherein he laboureth? </span></span><span class=\"verse v10\" data-usfm=\"ECC.3.10\"><span class=\"label\">10</span><span class=\"content\">I have seen the travail, which God hath given to the sons of men to be exercised in it. </span></span><span class=\"verse v11\" data-usfm=\"ECC.3.11\"><span class=\"label\">11</span><span class=\"content\">He hath made every </span><span class=\"add\"><span class=\"content\">thing</span></span><span class=\"content\"> beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end. </span></span><span class=\"verse v12\" data-usfm=\"ECC.3.12\"><span class=\"label\">12</span><span class=\"content\">I know that </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no good in them, but for </span><span class=\"add\"><span class=\"content\">a man</span></span><span class=\"content\"> to rejoice, and to do good in his life. </span></span><span class=\"verse v13\" data-usfm=\"ECC.3.13\"><span class=\"label\">13</span><span class=\"content\">And also that every man should eat and drink, and enjoy the good of all his labour, it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the gift of God. </span></span><span class=\"verse v14\" data-usfm=\"ECC.3.14\"><span class=\"label\">14</span><span class=\"content\">I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">, that </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\"> should fear before him. </span></span><span class=\"verse v15\" data-usfm=\"ECC.3.15\"><span class=\"label\">15</span><span class=\"content\">That which hath been is now; and that which is to be hath already been; and God requireth that which is past.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"ECC.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ECC.3.16\"><span class=\"label\">16</span><span class=\"content\">And moreover I saw under the sun the place of judgment, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> wickedness </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> there; and the place of righteousness, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> iniquity </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> there. </span></span><span class=\"verse v17\" data-usfm=\"ECC.3.17\"><span class=\"label\">17</span><span class=\"content\">I said in mine heart, God shall judge the righteous and the wicked: for </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> a time there for every purpose and for every work. </span></span><span class=\"verse v18\" data-usfm=\"ECC.3.18\"><span class=\"label\">18</span><span class=\"content\">I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts. </span></span><span class=\"verse v19\" data-usfm=\"ECC.3.19\"><span class=\"label\">19</span><span class=\"content\">For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v20\" data-usfm=\"ECC.3.20\"><span class=\"label\">20</span><span class=\"content\">All go unto one place; all are of the dust, and all turn to dust again. </span></span><span class=\"verse v21\" data-usfm=\"ECC.3.21\"><span class=\"label\">21</span><span class=\"content\">Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth? </span></span><span class=\"verse v22\" data-usfm=\"ECC.3.22\"><span class=\"label\">22</span><span class=\"content\">Wherefore I perceive that </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> nothing better, than that a man should rejoice in his own works; for that </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> his portion: for who shall bring him to see what shall be after him?</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "To every thing there is a season, and a time to every purpose under the heaven:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "a time to kill, and a time to heal; a time to break down, and a time to build up;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "a time to weep, and a time to laugh; a time to mourn, and a time to dance;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "a time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "a time to get, and a time to lose; a time to keep, and a time to cast away;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "a time to rend, and a time to sew; a time to keep silence, and a time to speak;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "a time to love, and a time to hate; a time of war, and a time of peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "What profit hath he that worketh in that wherein he laboureth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "I have seen the travail, which God hath given to the sons of men to be exercised in it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I know that there is no good in them, but for a man to rejoice, and to do good in his life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "That which hath been is now; and that which is to be hath already been; and God requireth that which is past."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "All go unto one place; all are of the dust, and all turn to dust again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.4"
+        ],
+        "human": "Ecclesiastes 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.5"
+        ],
+        "human": "Ecclesiastes 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.3"
+        ],
+        "human": "Ecclesiastes 3",
+        "toc": true
+      },
+      "chapter_text": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter. Wherefore I praised the dead which are already dead more than the living which are yet alive. Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.\nAgain, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit. The fool foldeth his hands together, and eateth his own flesh. Better is an handful with quietness, than both the hands full with travail and vexation of spirit.\nThen I returned, and I saw vanity under the sun. There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail. Two are better than one; because they have a good reward for their labour. For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up. Again, if two lie together, then they have heat: but how can one be warm alone? And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.\nBetter is a poor and a wise child than an old and foolish king, who will no more be admonished. For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor. I considered all the living which walk under the sun, with the second child that shall stand up in his stead. There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch4\" data-usfm=\"ECC.4\">\n         <div class=\"label\">4</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.4.1\"><span class=\"label\">1</span><span class=\"content\">So I returned, and considered all the oppressions that are done under the sun: and behold the tears of </span><span class=\"add\"><span class=\"content\">such as were</span></span><span class=\"content\"> oppressed, and they had no comforter; and on the side of their oppressors </span><span class=\"add\"><span class=\"content\">there was</span></span><span class=\"content\"> power; but they had no comforter. </span></span><span class=\"verse v2\" data-usfm=\"ECC.4.2\"><span class=\"label\">2</span><span class=\"content\">Wherefore I praised the dead which are already dead more than the living which are yet alive. </span></span><span class=\"verse v3\" data-usfm=\"ECC.4.3\"><span class=\"label\">3</span><span class=\"content\">Yea, better </span><span class=\"add\"><span class=\"content\">is he</span></span><span class=\"content\"> than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"ECC.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ECC.4.4\"><span class=\"label\">4</span><span class=\"content\">Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> also vanity and vexation of spirit. </span></span><span class=\"verse v5\" data-usfm=\"ECC.4.5\"><span class=\"label\">5</span><span class=\"content\">The fool foldeth his hands together, and eateth his own flesh. </span></span><span class=\"verse v6\" data-usfm=\"ECC.4.6\"><span class=\"label\">6</span><span class=\"content\">Better </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> an handful </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> quietness, than both the hands full </span><span class=\"add\"><span class=\"content\">with</span></span><span class=\"content\"> travail and vexation of spirit.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"ECC.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ECC.4.7\"><span class=\"label\">7</span><span class=\"content\">Then I returned, and I saw vanity under the sun. </span></span><span class=\"verse v8\" data-usfm=\"ECC.4.8\"><span class=\"label\">8</span><span class=\"content\">There is one </span><span class=\"add\"><span class=\"content\">alone</span></span><span class=\"content\">, and </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> not a second; yea, he hath neither child nor brother: yet </span><span class=\"add\"><span class=\"content\">is there</span></span><span class=\"content\"> no end of all his labour; neither is his eye satisfied with riches; neither </span><span class=\"add\"><span class=\"content\">saith he</span></span><span class=\"content\">, For whom do I labour, and bereave my soul of good? This </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> also vanity, yea, it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a sore travail. </span></span><span class=\"verse v9\" data-usfm=\"ECC.4.9\"><span class=\"label\">9</span><span class=\"content\">Two </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> better than one; because they have a good reward for their labour. </span></span><span class=\"verse v10\" data-usfm=\"ECC.4.10\"><span class=\"label\">10</span><span class=\"content\">For if they fall, the one will lift up his fellow: but woe to him </span><span class=\"add\"><span class=\"content\">that is</span></span><span class=\"content\"> alone when he falleth; for </span><span class=\"add\"><span class=\"content\">he hath</span></span><span class=\"content\"> not another to help him up. </span></span><span class=\"verse v11\" data-usfm=\"ECC.4.11\"><span class=\"label\">11</span><span class=\"content\">Again, if two lie together, then they have heat: but how can one be warm </span><span class=\"add\"><span class=\"content\">alone?</span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ECC.4.12\"><span class=\"label\">12</span><span class=\"content\">And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"ECC.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ECC.4.13\"><span class=\"label\">13</span><span class=\"content\">Better </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a poor and a wise child than an old and foolish king, who will no more be admonished. </span></span><span class=\"verse v14\" data-usfm=\"ECC.4.14\"><span class=\"label\">14</span><span class=\"content\">For out of prison he cometh to reign; whereas also </span><span class=\"add\"><span class=\"content\">he that is</span></span><span class=\"content\"> born in his kingdom becometh poor. </span></span><span class=\"verse v15\" data-usfm=\"ECC.4.15\"><span class=\"label\">15</span><span class=\"content\">I considered all the living which walk under the sun, with the second child that shall stand up in his stead. </span></span><span class=\"verse v16\" data-usfm=\"ECC.4.16\"><span class=\"label\">16</span><span class=\"add\"><span class=\"content\">There is</span></span><span class=\"content\"> no end of all the people, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> of all that have been before them: they also that come after shall not rejoice in him. Surely this also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity and vexation of spirit.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Wherefore I praised the dead which are already dead more than the living which are yet alive."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The fool foldeth his hands together, and eateth his own flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Better is an handful with quietness, than both the hands full with travail and vexation of spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Then I returned, and I saw vanity under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Two are better than one; because they have a good reward for their labour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Again, if two lie together, then they have heat: but how can one be warm alone?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Better is a poor and a wise child than an old and foolish king, who will no more be admonished."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "I considered all the living which walk under the sun, with the second child that shall stand up in his stead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.5"
+        ],
+        "human": "Ecclesiastes 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.6"
+        ],
+        "human": "Ecclesiastes 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.4"
+        ],
+        "human": "Ecclesiastes 4",
+        "toc": true
+      },
+      "chapter_text": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil. Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few. For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words. When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed. Better is it that thou shouldest not vow, than that thou shouldest vow and not pay. Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands? For in the multitude of dreams and many words there are also divers vanities: but fear thou God.\nIf thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they. Moreover the profit of the earth is for all: the king himself is served by the field.\nHe that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity. When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes? The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.\nThere is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt. But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand. As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand. And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind? All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.\nBehold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion. Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God. For he shall not much remember the days of his life; because God answereth him in the joy of his heart.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch5\" data-usfm=\"ECC.5\">\n         <div class=\"label\">5</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.5.1\"><span class=\"label\">1</span><span class=\"content\">Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil. </span></span><span class=\"verse v2\" data-usfm=\"ECC.5.2\"><span class=\"label\">2</span><span class=\"content\">Be not rash with thy mouth, and let not thine heart be hasty to utter </span><span class=\"add\"><span class=\"content\">any</span></span><span class=\"content\"> thing before God: for God </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in heaven, and thou upon earth: therefore let thy words be few. </span></span><span class=\"verse v3\" data-usfm=\"ECC.5.3\"><span class=\"label\">3</span><span class=\"content\">For a dream cometh through the multitude of business; and a fool's voice </span><span class=\"add\"><span class=\"content\">is known</span></span><span class=\"content\"> by multitude of words. </span></span><span class=\"verse v4\" data-usfm=\"ECC.5.4\"><span class=\"label\">4</span><span class=\"content\">When thou vowest a vow unto God, defer not to pay it; for </span><span class=\"add\"><span class=\"content\">he hath</span></span><span class=\"content\"> no pleasure in fools: pay that which thou hast vowed. </span></span><span class=\"verse v5\" data-usfm=\"ECC.5.5\"><span class=\"label\">5</span><span class=\"content\">Better </span><span class=\"add\"><span class=\"content\">is it</span></span><span class=\"content\"> that thou shouldest not vow, than that thou shouldest vow and not pay. </span></span><span class=\"verse v6\" data-usfm=\"ECC.5.6\"><span class=\"label\">6</span><span class=\"content\">Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> an error: wherefore should God be angry at thy voice, and destroy the work of thine hands? </span></span><span class=\"verse v7\" data-usfm=\"ECC.5.7\"><span class=\"label\">7</span><span class=\"content\">For in the multitude of dreams and many words </span><span class=\"add\"><span class=\"content\">there are</span></span><span class=\"content\"> also </span><span class=\"add\"><span class=\"content\">divers</span></span><span class=\"content\"> vanities: but fear thou God.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"ECC.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ECC.5.8\"><span class=\"label\">8</span><span class=\"content\">If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for </span><span class=\"add\"><span class=\"content\">he that is</span></span><span class=\"content\"> higher than the highest regardeth; and </span><span class=\"add\"><span class=\"content\">there be</span></span><span class=\"content\"> higher than they. </span></span><span class=\"verse v9\" data-usfm=\"ECC.5.9\"><span class=\"label\">9</span><span class=\"content\">Moreover the profit of the earth is for all: the king </span><span class=\"add\"><span class=\"content\">himself</span></span><span class=\"content\"> is served by the field.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"ECC.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ECC.5.10\"><span class=\"label\">10</span><span class=\"content\">He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> also vanity. </span></span><span class=\"verse v11\" data-usfm=\"ECC.5.11\"><span class=\"label\">11</span><span class=\"content\">When goods increase, they are increased that eat them: and what good </span><span class=\"add\"><span class=\"content\">is there</span></span><span class=\"content\"> to the owners thereof, saving the beholding </span><span class=\"add\"><span class=\"content\">of them</span></span><span class=\"content\"> with their eyes? </span></span><span class=\"verse v12\" data-usfm=\"ECC.5.12\"><span class=\"label\">12</span><span class=\"content\">The sleep of a labouring man </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"ECC.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ECC.5.13\"><span class=\"label\">13</span><span class=\"content\">There is a sore evil </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> I have seen under the sun, </span><span class=\"add\"><span class=\"content\">namely</span></span><span class=\"content\">, riches kept for the owners thereof to their hurt. </span></span><span class=\"verse v14\" data-usfm=\"ECC.5.14\"><span class=\"label\">14</span><span class=\"content\">But those riches perish by evil travail: and he begetteth a son, and </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> nothing in his hand. </span></span><span class=\"verse v15\" data-usfm=\"ECC.5.15\"><span class=\"label\">15</span><span class=\"content\">As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand. </span></span><span class=\"verse v16\" data-usfm=\"ECC.5.16\"><span class=\"label\">16</span><span class=\"content\">And this also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a sore evil, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind? </span></span><span class=\"verse v17\" data-usfm=\"ECC.5.17\"><span class=\"label\">17</span><span class=\"content\">All his days also he eateth in darkness, and </span><span class=\"add\"><span class=\"content\">he hath</span></span><span class=\"content\"> much sorrow and wrath with his sickness.</span></span></div><div class=\"p\"><span class=\"verse v17\" data-usfm=\"ECC.5.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"ECC.5.18\"><span class=\"label\">18</span><span class=\"content\">Behold </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> which I have seen: </span><span class=\"add\"><span class=\"content\">it is</span></span><span class=\"content\"> good and comely </span><span class=\"add\"><span class=\"content\">for one</span></span><span class=\"content\"> to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> his portion. </span></span><span class=\"verse v19\" data-usfm=\"ECC.5.19\"><span class=\"label\">19</span><span class=\"content\">Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the gift of God. </span></span><span class=\"verse v20\" data-usfm=\"ECC.5.20\"><span class=\"label\">20</span><span class=\"content\">For he shall not much remember the days of his life; because God answereth </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\"> in the joy of his heart.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For in the multitude of dreams and many words there are also divers vanities: but fear thou God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Moreover the profit of the earth is for all: the king himself is served by the field."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For he shall not much remember the days of his life; because God answereth him in the joy of his heart."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.6"
+        ],
+        "human": "Ecclesiastes 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.7"
+        ],
+        "human": "Ecclesiastes 7",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.5"
+        ],
+        "human": "Ecclesiastes 5",
+        "toc": true
+      },
+      "chapter_text": "There is an evil which I have seen under the sun, and it is common among men: a man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease. If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he. For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness. Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other. Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?\nAll the labour of man is for his mouth, and yet the appetite is not filled. For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living? Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.\nThat which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he. Seeing there be many things that increase vanity, what is man the better? For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch6\" data-usfm=\"ECC.6\">\n         <div class=\"label\">6</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.6.1\"><span class=\"label\">1</span><span class=\"content\">There is an evil which I have seen under the sun, and it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> common among men: </span></span><span class=\"verse v2\" data-usfm=\"ECC.6.2\"><span class=\"label\">2</span><span class=\"content\">a man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity, and it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> an evil disease. </span></span><span class=\"verse v3\" data-usfm=\"ECC.6.3\"><span class=\"label\">3</span><span class=\"content\">If a man beget an hundred </span><span class=\"add\"><span class=\"content\">children</span></span><span class=\"content\">, and live many years, so that the days of his years be many, and his soul be not filled with good, and also </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> he have no burial; I say, </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> an untimely birth </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than he. </span></span><span class=\"verse v4\" data-usfm=\"ECC.6.4\"><span class=\"label\">4</span><span class=\"content\">For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness. </span></span><span class=\"verse v5\" data-usfm=\"ECC.6.5\"><span class=\"label\">5</span><span class=\"content\">Moreover he hath not seen the sun, nor known </span><span class=\"add\"><span class=\"content\">any thing:</span></span><span class=\"content\"> this hath more rest than the other. </span></span><span class=\"verse v6\" data-usfm=\"ECC.6.6\"><span class=\"label\">6</span><span class=\"content\">Yea, though he live a thousand years twice </span><span class=\"add\"><span class=\"content\">told</span></span><span class=\"content\">, yet hath he seen no good: do not all go to one place?</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"ECC.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ECC.6.7\"><span class=\"label\">7</span><span class=\"content\">All the labour of man </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> for his mouth, and yet the appetite is not filled. </span></span><span class=\"verse v8\" data-usfm=\"ECC.6.8\"><span class=\"label\">8</span><span class=\"content\">For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living? </span></span><span class=\"verse v9\" data-usfm=\"ECC.6.9\"><span class=\"label\">9</span><span class=\"content\">Better </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the sight of the eyes than the wandering of the desire: this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> also vanity and vexation of spirit.</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"ECC.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"ECC.6.10\"><span class=\"label\">10</span><span class=\"content\">That which hath been is named already, and it is known that it </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> man: neither may he contend with him that is mightier than he. </span></span><span class=\"verse v11\" data-usfm=\"ECC.6.11\"><span class=\"label\">11</span><span class=\"content\">Seeing there be many things that increase vanity, what </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> man the better? </span></span><span class=\"verse v12\" data-usfm=\"ECC.6.12\"><span class=\"label\">12</span><span class=\"content\">For who knoweth what </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> good for man in </span><span class=\"add\"><span class=\"content\">this</span></span><span class=\"content\"> life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "There is an evil which I have seen under the sun, and it is common among men:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "a man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "All the labour of man is for his mouth, and yet the appetite is not filled."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Seeing there be many things that increase vanity, what is man the better?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.7",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.7"
+        ],
+        "human": "Ecclesiastes 7"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.8"
+        ],
+        "human": "Ecclesiastes 8",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.6"
+        ],
+        "human": "Ecclesiastes 6",
+        "toc": true
+      },
+      "chapter_text": "A good name is better than precious ointment; and the day of death than the day of one's birth. It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart. Sorrow is better than laughter: for by the sadness of the countenance the heart is made better. The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.\nIt is better to hear the rebuke of the wise, than for a man to hear the song of fools. For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity. Surely oppression maketh a wise man mad; and a gift destroyeth the heart.\nBetter is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit. Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools. Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.\nWisdom is good with an inheritance: and by it there is profit to them that see the sun. For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it. Consider the work of God: for who can make that straight, which he hath made crooked? In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.\nAll things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness. Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself? Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time? It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.\nWisdom strengtheneth the wise more than ten mighty men which are in the city. For there is not a just man upon earth, that doeth good, and sinneth not. Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee: for oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.\n\nAll this have I proved by wisdom: I said, I will be wise; but it was far from me. That which is far off, and exceeding deep, who can find it out? I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness: and I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her. Behold, this have I found, saith the Preacher, counting one by one, to find out the account: which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found. Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch7\" data-usfm=\"ECC.7\">\n         <div class=\"label\">7</div><div class=\"s2\"><span class=\"heading\">The Vanity of Fame</span></div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.7.1\"><span class=\"label\">1</span><span class=\"content\">A good name </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than precious ointment; and the day of death than the day of one's birth. </span></span><span class=\"verse v2\" data-usfm=\"ECC.7.2\"><span class=\"label\">2</span><span class=\"add\"><span class=\"content\">It is</span></span><span class=\"content\"> better to go to the house of mourning, than to go to the house of feasting: for that </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the end of all men; and the living will lay </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> to his heart. </span></span><span class=\"verse v3\" data-usfm=\"ECC.7.3\"><span class=\"label\">3</span><span class=\"content\">Sorrow </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than laughter: for by the sadness of the countenance the heart is made better. </span></span><span class=\"verse v4\" data-usfm=\"ECC.7.4\"><span class=\"label\">4</span><span class=\"content\">The heart of the wise </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in the house of mourning; but the heart of fools </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in the house of mirth.</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"ECC.7.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"ECC.7.5\"><span class=\"label\">5</span><span class=\"content\">  </span><span class=\"add\"><span class=\"content\">It is</span></span><span class=\"content\"> better to hear the rebuke of the wise, than for a man to hear the song of fools. </span></span><span class=\"verse v6\" data-usfm=\"ECC.7.6\"><span class=\"label\">6</span><span class=\"content\">For as the crackling of thorns under a pot, so </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the laughter of the fool: this also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v7\" data-usfm=\"ECC.7.7\"><span class=\"label\">7</span><span class=\"content\">Surely oppression maketh a wise man mad; and a gift destroyeth the heart.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"ECC.7.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ECC.7.8\"><span class=\"label\">8</span><span class=\"content\">Better </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the end of a thing than the beginning thereof: </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> the patient in spirit </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than the proud in spirit. </span></span><span class=\"verse v9\" data-usfm=\"ECC.7.9\"><span class=\"label\">9</span><span class=\"content\">Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools. </span></span><span class=\"verse v10\" data-usfm=\"ECC.7.10\"><span class=\"label\">10</span><span class=\"content\">Say not thou, What is </span><span class=\"add\"><span class=\"content\">the cause</span></span><span class=\"content\"> that the former days were better than these? for thou dost not enquire wisely concerning this.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"ECC.7.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ECC.7.11\"><span class=\"label\">11</span><span class=\"content\">Wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> good with an inheritance: and </span><span class=\"add\"><span class=\"content\">by it there is</span></span><span class=\"content\"> profit to them that see the sun. </span></span><span class=\"verse v12\" data-usfm=\"ECC.7.12\"><span class=\"label\">12</span><span class=\"content\">For wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a defence, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> money </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a defence: but the excellency of knowledge </span><span class=\"add\"><span class=\"content\">is, that</span></span><span class=\"content\"> wisdom giveth life to them that have it. </span></span><span class=\"verse v13\" data-usfm=\"ECC.7.13\"><span class=\"label\">13</span><span class=\"content\">Consider the work of God: for who can make </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> straight, which he hath made crooked? </span></span><span class=\"verse v14\" data-usfm=\"ECC.7.14\"><span class=\"label\">14</span><span class=\"content\">In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"ECC.7.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"ECC.7.15\"><span class=\"label\">15</span><span class=\"content\">All </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> have I seen in the days of my vanity: there is a just </span><span class=\"add\"><span class=\"content\">man</span></span><span class=\"content\"> that perisheth in his righteousness, and there is a wicked </span><span class=\"add\"><span class=\"content\">man</span></span><span class=\"content\"> that prolongeth </span><span class=\"add\"><span class=\"content\">his life</span></span><span class=\"content\"> in his wickedness. </span></span><span class=\"verse v16\" data-usfm=\"ECC.7.16\"><span class=\"label\">16</span><span class=\"content\">Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself? </span></span><span class=\"verse v17\" data-usfm=\"ECC.7.17\"><span class=\"label\">17</span><span class=\"content\">Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time? </span></span><span class=\"verse v18\" data-usfm=\"ECC.7.18\"><span class=\"label\">18</span><span class=\"add\"><span class=\"content\">It is</span></span><span class=\"content\"> good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.</span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"ECC.7.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"ECC.7.19\"><span class=\"label\">19</span><span class=\"content\">Wisdom strengtheneth the wise more than ten mighty </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\"> which are in the city. </span></span><span class=\"verse v20\" data-usfm=\"ECC.7.20\"><span class=\"label\">20</span><span class=\"content\">For </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> not a just man upon earth, that doeth good, and sinneth not. </span></span><span class=\"verse v21\" data-usfm=\"ECC.7.21\"><span class=\"label\">21</span><span class=\"content\">Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee: </span></span><span class=\"verse v22\" data-usfm=\"ECC.7.22\"><span class=\"label\">22</span><span class=\"content\">for oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.</span></span></div><div class=\"s2\"><span class=\"heading\">The Quest for Wisdom</span></div><div class=\"p\"><span class=\"verse v22\" data-usfm=\"ECC.7.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"ECC.7.23\"><span class=\"label\">23</span><span class=\"content\">All this have I proved by wisdom: I said, I will be wise; but it </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> far from me. </span></span><span class=\"verse v24\" data-usfm=\"ECC.7.24\"><span class=\"label\">24</span><span class=\"content\">That which is far off, and exceeding deep, who can find it out? </span></span><span class=\"verse v25\" data-usfm=\"ECC.7.25\"><span class=\"label\">25</span><span class=\"content\">I applied mine heart to know, and to search, and to seek out wisdom, and the reason </span><span class=\"add\"><span class=\"content\">of things</span></span><span class=\"content\">, and to know the wickedness of folly, even of foolishness </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> madness: </span></span><span class=\"verse v26\" data-usfm=\"ECC.7.26\"><span class=\"label\">26</span><span class=\"content\">and I find more bitter than death the woman, whose heart </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> snares and nets, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> her hands </span><span class=\"add\"><span class=\"content\">as</span></span><span class=\"content\"> bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her. </span></span><span class=\"verse v27\" data-usfm=\"ECC.7.27\"><span class=\"label\">27</span><span class=\"content\">Behold, this have I found, saith the Preacher, </span><span class=\"add\"><span class=\"content\">counting</span></span><span class=\"content\"> one by one, to find out the account: </span></span><span class=\"verse v28\" data-usfm=\"ECC.7.28\"><span class=\"label\">28</span><span class=\"content\">which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found. </span></span><span class=\"verse v29\" data-usfm=\"ECC.7.29\"><span class=\"label\">29</span><span class=\"content\">Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Vanity of Fame"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "A good name is better than precious ointment; and the day of death than the day of one's birth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "It is better to hear the rebuke of the wise, than for a man to hear the song of fools."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Surely oppression maketh a wise man mad; and a gift destroyeth the heart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Wisdom is good with an inheritance: and by it there is profit to them that see the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Consider the work of God: for who can make that straight, which he hath made crooked?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Wisdom strengtheneth the wise more than ten mighty men which are in the city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For there is not a just man upon earth, that doeth good, and sinneth not."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "for oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading2",
+          "verse_number": -1,
+          "lines": [
+            "The Quest for Wisdom"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "All this have I proved by wisdom: I said, I will be wise; but it was far from me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "That which is far off, and exceeding deep, who can find it out?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 26,
+          "lines": [
+            "and I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 27,
+          "lines": [
+            "Behold, this have I found, saith the Preacher, counting one by one, to find out the account:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 28,
+          "lines": [
+            "which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 29,
+          "lines": [
+            "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.8",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.8"
+        ],
+        "human": "Ecclesiastes 8"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.9"
+        ],
+        "human": "Ecclesiastes 9",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.7"
+        ],
+        "human": "Ecclesiastes 7",
+        "toc": true
+      },
+      "chapter_text": "Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed. I counsel thee to keep the king's commandment, and that in regard of the oath of God. Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him. Where the word of a king is, there is power: and who may say unto him, What doest thou? Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment. Because to every purpose there is time and judgment, therefore the misery of man is great upon him. For he knoweth not that which shall be: for who can tell him when it shall be? There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.\nAll this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt. And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity. Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him: but it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.\nThere is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity. Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.\nWhen I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:) then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch8\" data-usfm=\"ECC.8\">\n         <div class=\"label\">8</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.8.1\"><span class=\"label\">1</span><span class=\"content\">Who </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> as the wise </span><span class=\"add\"><span class=\"content\">man?</span></span><span class=\"content\"> and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed. </span></span><span class=\"verse v2\" data-usfm=\"ECC.8.2\"><span class=\"label\">2</span><span class=\"content\">I </span><span class=\"add\"><span class=\"content\">counsel thee</span></span><span class=\"content\"> to keep the king's commandment, and </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> in regard of the oath of God. </span></span><span class=\"verse v3\" data-usfm=\"ECC.8.3\"><span class=\"label\">3</span><span class=\"content\">Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him. </span></span><span class=\"verse v4\" data-usfm=\"ECC.8.4\"><span class=\"label\">4</span><span class=\"content\">Where the word of a king </span><span class=\"add\"><span class=\"content\">is, there is</span></span><span class=\"content\"> power: and who may say unto him, What doest thou? </span></span><span class=\"verse v5\" data-usfm=\"ECC.8.5\"><span class=\"label\">5</span><span class=\"content\">Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment. </span></span><span class=\"verse v6\" data-usfm=\"ECC.8.6\"><span class=\"label\">6</span><span class=\"content\">Because to every purpose there is time and judgment, therefore the misery of man </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> great upon him. </span></span><span class=\"verse v7\" data-usfm=\"ECC.8.7\"><span class=\"label\">7</span><span class=\"content\">For he knoweth not that which shall be: for who can tell him when it shall be? </span></span><span class=\"verse v8\" data-usfm=\"ECC.8.8\"><span class=\"label\">8</span><span class=\"add\"><span class=\"content\">There is</span></span><span class=\"content\"> no man that hath power over the spirit to retain the spirit; neither </span><span class=\"add\"><span class=\"content\">hath he</span></span><span class=\"content\"> power in the day of death: and </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no discharge in </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> war; neither shall wickedness deliver those that are given to it.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"ECC.8.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ECC.8.9\"><span class=\"label\">9</span><span class=\"content\">All this have I seen, and applied my heart unto every work that is done under the sun: </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> a time wherein one man ruleth over another to his own hurt. </span></span><span class=\"verse v10\" data-usfm=\"ECC.8.10\"><span class=\"label\">10</span><span class=\"content\">And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> also vanity. </span></span><span class=\"verse v11\" data-usfm=\"ECC.8.11\"><span class=\"label\">11</span><span class=\"content\">Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. </span></span><span class=\"verse v12\" data-usfm=\"ECC.8.12\"><span class=\"label\">12</span><span class=\"content\">Though a sinner do evil an hundred times, and his </span><span class=\"add\"><span class=\"content\">days</span></span><span class=\"content\"> be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him: </span></span><span class=\"verse v13\" data-usfm=\"ECC.8.13\"><span class=\"label\">13</span><span class=\"content\">but it shall not be well with the wicked, neither shall he prolong </span><span class=\"add\"><span class=\"content\">his</span></span><span class=\"content\"> days, </span><span class=\"add\"><span class=\"content\">which are</span></span><span class=\"content\"> as a shadow; because he feareth not before God.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"ECC.8.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"ECC.8.14\"><span class=\"label\">14</span><span class=\"content\">There is a vanity which is done upon the earth; that there be just </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\">, unto whom it happeneth according to the work of the wicked; again, there be wicked </span><span class=\"add\"><span class=\"content\">men</span></span><span class=\"content\">, to whom it happeneth according to the work of the righteous: I said that this also </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v15\" data-usfm=\"ECC.8.15\"><span class=\"label\">15</span><span class=\"content\">Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"ECC.8.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ECC.8.16\"><span class=\"label\">16</span><span class=\"content\">When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also </span><span class=\"add\"><span class=\"content\">there is that</span></span><span class=\"content\"> neither day nor night seeth sleep with his eyes:) </span></span><span class=\"verse v17\" data-usfm=\"ECC.8.17\"><span class=\"label\">17</span><span class=\"content\">then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> out, yet he shall not find </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">; yea farther; though a wise </span><span class=\"add\"><span class=\"content\">man</span></span><span class=\"content\"> think to know </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">, yet shall he not be able to find </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\">.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I counsel thee to keep the king's commandment, and that in regard of the oath of God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Where the word of a king is, there is power: and who may say unto him, What doest thou?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Because to every purpose there is time and judgment, therefore the misery of man is great upon him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For he knoweth not that which shall be: for who can tell him when it shall be?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "but it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea farther; though a wise man think to know it, yet shall he not be able to find it."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.9",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.9"
+        ],
+        "human": "Ecclesiastes 9"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.10"
+        ],
+        "human": "Ecclesiastes 10",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.8"
+        ],
+        "human": "Ecclesiastes 8",
+        "toc": true
+      },
+      "chapter_text": "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.\nAll things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath. This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.\nFor to him that is joined to all the living there is hope: for a living dog is better than a dead lion. For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten. Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.\nGo thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works. Let thy garments be always white; and let thy head lack no ointment. Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun. Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.\nI returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all. For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them.\nThis wisdom have I seen also under the sun, and it seemed great unto me: there was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it: now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man. Then said I, Wisdom is better than strength: nevertheless the poor man's wisdom is despised, and his words are not heard. The words of wise men are heard in quiet more than the cry of him that ruleth among fools. Wisdom is better than weapons of war: but one sinner destroyeth much good.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch9\" data-usfm=\"ECC.9\">\n         <div class=\"label\">9</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.9.1\"><span class=\"label\">1</span><span class=\"content\">For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> in the hand of God: no man knoweth either love or hatred </span><span class=\"add\"><span class=\"content\">by</span></span><span class=\"content\"> all </span><span class=\"add\"><span class=\"content\">that is</span></span><span class=\"content\"> before them.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"ECC.9.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"ECC.9.2\"><span class=\"label\">2</span><span class=\"content\">All </span><span class=\"add\"><span class=\"content\">things come</span></span><span class=\"content\"> alike to all: </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the good, so </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the sinner; </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> he that sweareth, as </span><span class=\"add\"><span class=\"content\">he</span></span><span class=\"content\"> that feareth an oath. </span></span><span class=\"verse v3\" data-usfm=\"ECC.9.3\"><span class=\"label\">3</span><span class=\"content\">This </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> an evil among all </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> that are done under the sun, that </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> one event unto all: yea, also the heart of the sons of men is full of evil, and madness </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> in their heart while they live, and after that </span><span class=\"add\"><span class=\"content\">they go</span></span><span class=\"content\"> to the dead.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"ECC.9.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"ECC.9.4\"><span class=\"label\">4</span><span class=\"content\">For to him that is joined to all the living there is hope: for a living dog is better than a dead lion. </span></span><span class=\"verse v5\" data-usfm=\"ECC.9.5\"><span class=\"label\">5</span><span class=\"content\">For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten. </span></span><span class=\"verse v6\" data-usfm=\"ECC.9.6\"><span class=\"label\">6</span><span class=\"content\">Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any </span><span class=\"add\"><span class=\"content\">thing</span></span><span class=\"content\"> that is done under the sun.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"ECC.9.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"ECC.9.7\"><span class=\"label\">7</span><span class=\"content\">Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works. </span></span><span class=\"verse v8\" data-usfm=\"ECC.9.8\"><span class=\"label\">8</span><span class=\"content\">Let thy garments be always white; and let thy head lack no ointment. </span></span><span class=\"verse v9\" data-usfm=\"ECC.9.9\"><span class=\"label\">9</span><span class=\"content\">Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> thy portion in </span><span class=\"add\"><span class=\"content\">this</span></span><span class=\"content\"> life, and in thy labour which thou takest under the sun. </span></span><span class=\"verse v10\" data-usfm=\"ECC.9.10\"><span class=\"label\">10</span><span class=\"content\">Whatsoever thy hand findeth to do, do </span><span class=\"add\"><span class=\"content\">it</span></span><span class=\"content\"> with thy might; for </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"ECC.9.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ECC.9.11\"><span class=\"label\">11</span><span class=\"content\">I returned, and saw under the sun, that the race </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all. </span></span><span class=\"verse v12\" data-usfm=\"ECC.9.12\"><span class=\"label\">12</span><span class=\"content\">For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> the sons of men snared in an evil time, when it falleth suddenly upon them.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"ECC.9.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ECC.9.13\"><span class=\"label\">13</span><span class=\"content\">This wisdom have I seen also under the sun, and it </span><span class=\"add\"><span class=\"content\">seemed</span></span><span class=\"content\"> great unto me: </span></span><span class=\"verse v14\" data-usfm=\"ECC.9.14\"><span class=\"label\">14</span><span class=\"add\"><span class=\"content\">there was</span></span><span class=\"content\"> a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it: </span></span><span class=\"verse v15\" data-usfm=\"ECC.9.15\"><span class=\"label\">15</span><span class=\"content\">now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man. </span></span><span class=\"verse v16\" data-usfm=\"ECC.9.16\"><span class=\"label\">16</span><span class=\"content\">Then said I, Wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than strength: nevertheless the poor man's wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> despised, and his words are not heard. </span></span><span class=\"verse v17\" data-usfm=\"ECC.9.17\"><span class=\"label\">17</span><span class=\"content\">The words of wise </span><span class=\"add\"><span class=\"content\">men are</span></span><span class=\"content\"> heard in quiet more than the cry of him that ruleth among fools. </span></span><span class=\"verse v18\" data-usfm=\"ECC.9.18\"><span class=\"label\">18</span><span class=\"content\">Wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> better than weapons of war: but one sinner destroyeth much good.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For to him that is joined to all the living there is hope: for a living dog is better than a dead lion."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Let thy garments be always white; and let thy head lack no ointment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "This wisdom have I seen also under the sun, and it seemed great unto me:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "there was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Then said I, Wisdom is better than strength: nevertheless the poor man's wisdom is despised, and his words are not heard."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The words of wise men are heard in quiet more than the cry of him that ruleth among fools."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Wisdom is better than weapons of war: but one sinner destroyeth much good."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.10",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.10"
+        ],
+        "human": "Ecclesiastes 10"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.11"
+        ],
+        "human": "Ecclesiastes 11",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.9"
+        ],
+        "human": "Ecclesiastes 9",
+        "toc": true
+      },
+      "chapter_text": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour. A wise man's heart is at his right hand; but a fool's heart at his left. Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool. If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences. There is an evil which I have seen under the sun, as an error which proceedeth from the ruler: folly is set in great dignity, and the rich sit in low place. I have seen servants upon horses, and princes walking as servants upon the earth.\nHe that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby. If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct. Surely the serpent will bite without enchantment; and a babbler is no better.\nThe words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself. The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness. A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him? The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.\nWoe to thee, O land, when thy king is a child, and thy princes eat in the morning! Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness! By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through. A feast is made for laughter, and wine maketh merry: but money answereth all things. Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch10\" data-usfm=\"ECC.10\">\n         <div class=\"label\">10</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.10.1\"><span class=\"label\">1</span><span class=\"content\">Dead flies cause the ointment of the apothecary to send forth a stinking savour: </span><span class=\"add\"><span class=\"content\">so doth</span></span><span class=\"content\"> a little folly him that is in reputation for wisdom </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> honour. </span></span><span class=\"verse v2\" data-usfm=\"ECC.10.2\"><span class=\"label\">2</span><span class=\"content\">A wise man's heart </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> at his right hand; but a fool's heart at his left. </span></span><span class=\"verse v3\" data-usfm=\"ECC.10.3\"><span class=\"label\">3</span><span class=\"content\">Yea also, when he that is a fool walketh by the way, his wisdom faileth </span><span class=\"add\"><span class=\"content\">him</span></span><span class=\"content\">, and he saith to every one </span><span class=\"add\"><span class=\"content\">that</span></span><span class=\"content\"> he </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a fool. </span></span><span class=\"verse v4\" data-usfm=\"ECC.10.4\"><span class=\"label\">4</span><span class=\"content\">If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences. </span></span><span class=\"verse v5\" data-usfm=\"ECC.10.5\"><span class=\"label\">5</span><span class=\"content\">There is an evil </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> I have seen under the sun, as an error </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> proceedeth from the ruler: </span></span><span class=\"verse v6\" data-usfm=\"ECC.10.6\"><span class=\"label\">6</span><span class=\"content\">folly is set in great dignity, and the rich sit in low place. </span></span><span class=\"verse v7\" data-usfm=\"ECC.10.7\"><span class=\"label\">7</span><span class=\"content\">I have seen servants upon horses, and princes walking as servants upon the earth.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"ECC.10.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"ECC.10.8\"><span class=\"label\">8</span><span class=\"content\">He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him. </span></span><span class=\"verse v9\" data-usfm=\"ECC.10.9\"><span class=\"label\">9</span><span class=\"content\">Whoso removeth stones shall be hurt therewith; </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> he that cleaveth wood shall be endangered thereby. </span></span><span class=\"verse v10\" data-usfm=\"ECC.10.10\"><span class=\"label\">10</span><span class=\"content\">If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> profitable to direct. </span></span><span class=\"verse v11\" data-usfm=\"ECC.10.11\"><span class=\"label\">11</span><span class=\"content\">Surely the serpent will bite without enchantment; and a babbler is no better.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"ECC.10.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"ECC.10.12\"><span class=\"label\">12</span><span class=\"content\">The words of a wise man's mouth </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> gracious; but the lips of a fool will swallow up himself. </span></span><span class=\"verse v13\" data-usfm=\"ECC.10.13\"><span class=\"label\">13</span><span class=\"content\">The beginning of the words of his mouth </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> foolishness: and the end of his talk </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> mischievous madness. </span></span><span class=\"verse v14\" data-usfm=\"ECC.10.14\"><span class=\"label\">14</span><span class=\"content\">A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him? </span></span><span class=\"verse v15\" data-usfm=\"ECC.10.15\"><span class=\"label\">15</span><span class=\"content\">The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.</span></span></div><div class=\"p\"><span class=\"verse v15\" data-usfm=\"ECC.10.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"ECC.10.16\"><span class=\"label\">16</span><span class=\"content\">Woe to thee, O land, when thy king </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a child, and thy princes eat in the morning! </span></span><span class=\"verse v17\" data-usfm=\"ECC.10.17\"><span class=\"label\">17</span><span class=\"content\">Blessed </span><span class=\"add\"><span class=\"content\">art</span></span><span class=\"content\"> thou, O land, when thy king </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness! </span></span><span class=\"verse v18\" data-usfm=\"ECC.10.18\"><span class=\"label\">18</span><span class=\"content\">By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through. </span></span><span class=\"verse v19\" data-usfm=\"ECC.10.19\"><span class=\"label\">19</span><span class=\"content\">A feast is made for laughter, and wine maketh merry: but money answereth all </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\">. </span></span><span class=\"verse v20\" data-usfm=\"ECC.10.20\"><span class=\"label\">20</span><span class=\"content\">Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "A wise man's heart is at his right hand; but a fool's heart at his left."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "folly is set in great dignity, and the rich sit in low place."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I have seen servants upon horses, and princes walking as servants upon the earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Surely the serpent will bite without enchantment; and a babbler is no better."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "A feast is made for laughter, and wine maketh merry: but money answereth all things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.11",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.11"
+        ],
+        "human": "Ecclesiastes 11"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Ecclesiastes 12",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.10"
+        ],
+        "human": "Ecclesiastes 10",
+        "toc": true
+      },
+      "chapter_text": "Cast thy bread upon the waters: for thou shalt find it after many days. Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be. He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap. As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all. In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good. Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun: but if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.\nRejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment. Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n    <div class=\"book bkECC\">\n        <div class=\"chapter ch11\" data-usfm=\"ECC.11\">\n            <div class=\"label\">11</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.11.1\"><span class=\"label\">1</span><span class=\"content\">Cast thy bread upon the waters: for thou shalt find it after many days. </span></span><span class=\"verse v2\" data-usfm=\"ECC.11.2\"><span class=\"label\">2</span><span class=\"content\">Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth. </span></span><span class=\"verse v3\" data-usfm=\"ECC.11.3\"><span class=\"label\">3</span><span class=\"content\">If the clouds be full of rain, they empty </span><span class=\"add\"><span class=\"content\">themselves</span></span><span class=\"content\"> upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be. </span></span><span class=\"verse v4\" data-usfm=\"ECC.11.4\"><span class=\"label\">4</span><span class=\"content\">He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap. </span></span><span class=\"verse v5\" data-usfm=\"ECC.11.5\"><span class=\"label\">5</span><span class=\"content\">As thou knowest not what </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the way of the spirit, </span><span class=\"add\"><span class=\"content\">nor</span></span><span class=\"content\"> how the bones </span><span class=\"add\"><span class=\"content\">do grow</span></span><span class=\"content\"> in the womb of her that is with child: even so thou knowest not the works of God who maketh all. </span></span><span class=\"verse v6\" data-usfm=\"ECC.11.6\"><span class=\"label\">6</span><span class=\"content\">In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> alike good. </span></span><span class=\"verse v7\" data-usfm=\"ECC.11.7\"><span class=\"label\">7</span><span class=\"content\">Truly the light </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> sweet, and a pleasant </span><span class=\"add\"><span class=\"content\">thing it is</span></span><span class=\"content\"> for the eyes to behold the sun: </span></span><span class=\"verse v8\" data-usfm=\"ECC.11.8\"><span class=\"label\">8</span><span class=\"content\">but if a man live many years, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"ECC.11.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"ECC.11.9\"><span class=\"label\">9</span><span class=\"content\">Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these </span><span class=\"add\"><span class=\"content\">things</span></span><span class=\"content\"> God will bring thee into judgment. </span></span><span class=\"verse v10\" data-usfm=\"ECC.11.10\"><span class=\"label\">10</span><span class=\"content\">Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> vanity.</span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Cast thy bread upon the waters: for thou shalt find it after many days."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "but if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "ECC.12",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "ECC.12"
+        ],
+        "human": "Ecclesiastes 12"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "SNG.1"
+        ],
+        "human": "Song of Solomon 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "ECC.11"
+        ],
+        "human": "Ecclesiastes 11",
+        "toc": true
+      },
+      "chapter_text": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; while the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain: in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened, and the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low; also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets: or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern. Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it. Vanity of vanities, saith the Preacher; all is vanity. And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs. The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.\nThe words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd. And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.\nLet us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man. For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+      "chapter_html": "<div class=\"version vid1 iso6393eng\" data-vid=\"1\" data-iso6393=\"eng\">\n   <div class=\"book bkECC\">\n      <div class=\"chapter ch12\" data-usfm=\"ECC.12\">\n         <div class=\"label\">12</div><div class=\"p\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"ECC.12.1\"><span class=\"label\">1</span><span class=\"content\">Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them; </span></span><span class=\"verse v2\" data-usfm=\"ECC.12.2\"><span class=\"label\">2</span><span class=\"content\">while the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain: </span></span><span class=\"verse v3\" data-usfm=\"ECC.12.3\"><span class=\"label\">3</span><span class=\"content\">in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened, </span></span><span class=\"verse v4\" data-usfm=\"ECC.12.4\"><span class=\"label\">4</span><span class=\"content\">and the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low; </span></span><span class=\"verse v5\" data-usfm=\"ECC.12.5\"><span class=\"label\">5</span><span class=\"content\">also </span><span class=\"add\"><span class=\"content\">when</span></span><span class=\"content\"> they shall be afraid of </span><span class=\"add\"><span class=\"content\">that which is</span></span><span class=\"content\"> high, and fears </span><span class=\"add\"><span class=\"content\">shall be</span></span><span class=\"content\"> in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets: </span></span><span class=\"verse v6\" data-usfm=\"ECC.12.6\"><span class=\"label\">6</span><span class=\"content\">or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern. </span></span><span class=\"verse v7\" data-usfm=\"ECC.12.7\"><span class=\"label\">7</span><span class=\"content\">Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it. </span></span><span class=\"verse v8\" data-usfm=\"ECC.12.8\"><span class=\"label\">8</span><span class=\"content\">Vanity of vanities, saith the Preacher; all </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> vanity. </span></span><span class=\"verse v9\" data-usfm=\"ECC.12.9\"><span class=\"label\">9</span><span class=\"content\">And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, </span><span class=\"add\"><span class=\"content\">and</span></span><span class=\"content\"> set in order many proverbs. </span></span><span class=\"verse v10\" data-usfm=\"ECC.12.10\"><span class=\"label\">10</span><span class=\"content\">The preacher sought to find out acceptable words: and </span><span class=\"add\"><span class=\"content\">that which was</span></span><span class=\"content\"> written </span><span class=\"add\"><span class=\"content\">was</span></span><span class=\"content\"> upright, </span><span class=\"add\"><span class=\"content\">even</span></span><span class=\"content\"> words of truth.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"ECC.12.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"ECC.12.11\"><span class=\"label\">11</span><span class=\"content\">The words of the wise </span><span class=\"add\"><span class=\"content\">are</span></span><span class=\"content\"> as goads, and as nails fastened </span><span class=\"add\"><span class=\"content\">by</span></span><span class=\"content\"> the masters of assemblies, </span><span class=\"add\"><span class=\"content\">which</span></span><span class=\"content\"> are given from one shepherd. </span></span><span class=\"verse v12\" data-usfm=\"ECC.12.12\"><span class=\"label\">12</span><span class=\"content\">And further, by these, my son, be admonished: of making many books </span><span class=\"add\"><span class=\"content\">there is</span></span><span class=\"content\"> no end; and much study </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> a weariness of the flesh.</span></span></div><div class=\"p\"><span class=\"verse v12\" data-usfm=\"ECC.12.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"ECC.12.13\"><span class=\"label\">13</span><span class=\"content\">Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this </span><span class=\"add\"><span class=\"content\">is</span></span><span class=\"content\"> the whole </span><span class=\"add\"><span class=\"content\">duty</span></span><span class=\"content\"> of man. </span></span><span class=\"verse v14\" data-usfm=\"ECC.12.14\"><span class=\"label\">14</span><span class=\"content\">For God shall bring every work into judgment, with every secret thing, whether </span><span class=\"add\"><span class=\"content\">it be</span></span><span class=\"content\"> good, or whether </span><span class=\"add\"><span class=\"content\">it be</span></span><span class=\"content\"> evil.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "while the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "in the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "and the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Vanity of vanities, saith the Preacher; all is vanity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
