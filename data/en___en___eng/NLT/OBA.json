@@ -22,6 +22,7 @@
   "chapters": [
     {
       "chapter_usfm": "OBA.1",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "OBA.1"
@@ -51,19 +52,26 @@
           "type": "verse",
           "verse_number": 1,
           "lines": [
-            "This is the vision that the Sovereign Lord revealed to Obadiah concerning the land of Edom.",
-            "We have heard a message from the Lord",
-            "that an ambassador was sent to the nations to say,",
-            "“Get ready, everyone!",
-            "Let’s assemble our armies and attack Edom!”"
+            "This is the vision that the Sovereign Lord revealed to Obadiah concerning the land of Edom."
           ],
           "rlw_lines": []
         },
         {
-          "type": "heading",
+          "type": "heading1",
           "verse_number": -1,
           "lines": [
             "Edom’s Judgment Announced"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "We have heard a message from the Lord",
+            "that an ambassador was sent to the nations to say,",
+            "“Get ready, everyone!",
+            "Let’s assemble our armies and attack Edom!”"
           ],
           "rlw_lines": []
         },
@@ -160,7 +168,7 @@
           "rlw_lines": []
         },
         {
-          "type": "heading",
+          "type": "heading1",
           "verse_number": -1,
           "lines": [
             "Reasons for Edom’s Punishment"
@@ -228,7 +236,7 @@
           "rlw_lines": []
         },
         {
-          "type": "heading",
+          "type": "heading1",
           "verse_number": -1,
           "lines": [
             "Edom Destroyed, Israel Restored"

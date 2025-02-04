@@ -22,6 +22,7 @@
   "chapters": [
     {
       "chapter_usfm": "SNG.1",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.1"
@@ -56,6 +57,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 2,
           "lines": [
@@ -79,9 +88,39 @@
           "verse_number": 4,
           "lines": [
             "Take me with you; come, let’s run!",
-            "The king has brought me into his bedroom.",
+            "The king has brought me into his bedroom."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
             "How happy we are for you, O king.",
-            "We praise your love even more than wine.",
+            "We praise your love even more than wine."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
             "How right they are to adore you."
           ],
           "rlw_lines": []
@@ -117,6 +156,14 @@
             "Where will you rest your sheep at noon?",
             "For why should I wander like a prostitute",
             "among your friends and their flocks?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
           ],
           "rlw_lines": []
         },
@@ -160,6 +207,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 12,
           "lines": [
@@ -187,12 +242,28 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 15,
           "lines": [
             "How beautiful you are, my darling,",
             "how beautiful!",
             "Your eyes are like doves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -219,6 +290,7 @@
     },
     {
       "chapter_usfm": "SNG.2",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.2"
@@ -245,6 +317,14 @@
       "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch2\" data-usfm=\"SNG.2\">\n         <div class=\"label\">2</div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"label\">1</span><span class=\"content\">I am the spring crocus blooming on the Sharon Plain,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:1 </span><span class=\"ft\">Traditionally rendered </span><span class=\"fqa\">I am the rose of Sharon. </span><span class=\"ft\">Sharon Plain is a region in the coastal plain of Palestine.</span></span></span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"content\">the lily of the valley.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"label\">2</span><span class=\"content\">Like a lily among thistles</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"content\">is my darling among young women.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"label\">3</span><span class=\"content\">Like the finest apple tree in the orchard</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">is my lover among other young men.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">I sit in his delightful shade</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">and taste his delicious fruit.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"label\">4</span><span class=\"content\">He escorts me to the banquet hall;</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"content\">it&#8217;s obvious how much he loves me.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"label\">5</span><span class=\"content\">Strengthen me with raisin cakes,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">refresh me with apples,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">for I am weak with love.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"label\">6</span><span class=\"content\">His left arm is under my head,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"content\">and his right arm embraces me.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"label\">7</span><span class=\"content\">Promise me, O women of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">by the gazelles and wild deer,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">not to awaken love until the time is right.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:7 </span><span class=\"ft\">Or </span><span class=\"fqa\">not to awaken love until it is ready.</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"label\">8</span><span class=\"content\">Ah, I hear my lover coming!</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">He is leaping over the mountains,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">bounding over the hills.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"label\">9</span><span class=\"content\">My lover is like a swift gazelle</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">or a young stag.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">Look, there he is behind the wall,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">looking through the window,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">peering into the room.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"label\">10</span><span class=\"content\">My lover said to me,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">&#8220;Rise up, my darling!</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">Come away with me, my fair one!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"label\">11</span><span class=\"content\">Look, the winter is past,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"content\">and the rains are over and gone.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"label\">12</span><span class=\"content\">The flowers are springing up,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">the season of singing birds</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:12 </span><span class=\"ft\">Or </span><span class=\"fqa\">the season of pruning vines.</span></span></span><span class=\"content\"> has come,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">and the cooing of turtledoves fills the air.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"label\">13</span><span class=\"content\">The fig trees are forming young fruit,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">and the fragrant grapevines are blossoming.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">Rise up, my darling!</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">Come away with me, my fair one!&#8221;</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"label\">14</span><span class=\"content\">My dove is hiding behind the rocks,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">behind an outcrop on the cliff.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">Let me see your face;</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">let me hear your voice.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">For your voice is pleasant,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">and your face is lovely.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"label\">15</span><span class=\"content\">Catch all the foxes,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">those little foxes,</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">before they ruin the vineyard of love,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">for the grapevines are blossoming!</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"label\">16</span><span class=\"content\">My lover is mine, and I am his.</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"content\">He browses among the lilies.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"label\">17</span><span class=\"content\">Before the dawn breezes blow</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">and the night shadows flee,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">return to me, my love, like a gazelle</span></span></div><div class=\"q2\"><span class=\"verse v17\" data-usfm=\"SNG.2.17\"><span class=\"content\">or a young stag on the rugged mountains.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">2:17 </span><span class=\"ft\">Or </span><span class=\"fqa\">on the hills of Bether.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
       "items": [
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 1,
           "lines": [
@@ -254,11 +334,27 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 2,
           "lines": [
             "Like a lily among thistles",
             "is my darling among young women."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -374,6 +470,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 14,
           "lines": [
@@ -387,6 +491,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 15,
           "lines": [
@@ -394,6 +506,14 @@
             "those little foxes,",
             "before they ruin the vineyard of love,",
             "for the grapevines are blossoming!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -421,6 +541,7 @@
     },
     {
       "chapter_usfm": "SNG.3",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.3"
@@ -446,6 +567,14 @@
       "chapter_text": "One night as I lay in bed, I yearned for my lover.\nI yearned for him, but he did not come.\nSo I said to myself, “I will get up and roam the city,\nsearching in all its streets and squares.\nI will search for the one I love.”\nSo I searched everywhere but did not find him.\nThe watchmen stopped me as they made their rounds,\nand I asked, “Have you seen the one I love?”\nThen scarcely had I left them\nwhen I found my love!\nI caught and held him tightly,\nthen I brought him to my mother’s house,\ninto my mother’s bed, where I had been conceived.\n\nPromise me, O women of Jerusalem,\nby the gazelles and wild deer,\nnot to awaken love until the time is right.\n\n\nWho is this sweeping in from the wilderness\nlike a cloud of smoke?\nWho is it, fragrant with myrrh and frankincense\nand every kind of spice?\nLook, it is Solomon’s carriage,\nsurrounded by sixty heroic men,\nthe best of Israel’s soldiers.\nThey are all skilled swordsmen,\nexperienced warriors.\nEach wears a sword on his thigh,\nready to defend the king against an attack in the night.\nKing Solomon’s carriage is built\nof wood imported from Lebanon.\nIts posts are silver,\nits canopy gold;\nits cushions are purple.\nIt was decorated with love\nby the young women of Jerusalem.\n\n\nCome out to see King Solomon,\nyoung women of Jerusalem.\nHe wears the crown his mother gave him on his wedding day,\nhis most joyous day.",
       "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch3\" data-usfm=\"SNG.3\">\n         <div class=\"label\">3</div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"label\">1</span><span class=\"content\">One night as I lay in bed, I yearned for my lover.</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">I yearned for him, but he did not come.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"label\">2</span><span class=\"content\">So I said to myself, &#8220;I will get up and roam the city,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">searching in all its streets and squares.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">I will search for the one I love.&#8221;</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">So I searched everywhere but did not find him.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"label\">3</span><span class=\"content\">The watchmen stopped me as they made their rounds,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">and I asked, &#8220;Have you seen the one I love?&#8221;</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"label\">4</span><span class=\"content\">Then scarcely had I left them</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">when I found my love!</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">I caught and held him tightly,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">then I brought him to my mother&#8217;s house,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">into my mother&#8217;s bed, where I had been conceived.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"label\">5</span><span class=\"content\">Promise me, O women of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">by the gazelles and wild deer,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">not to awaken love until the time is right.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:5 </span><span class=\"ft\">Or </span><span class=\"fqa\">not to awaken love until it is ready.</span></span></span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"label\">6</span><span class=\"content\">Who is this sweeping in from the wilderness</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">like a cloud of smoke?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">Who is it, fragrant with myrrh and frankincense</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">and every kind of spice?</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"label\">7</span><span class=\"content\">Look, it is Solomon&#8217;s carriage,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">surrounded by sixty heroic men,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">the best of Israel&#8217;s soldiers.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"label\">8</span><span class=\"content\">They are all skilled swordsmen,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">experienced warriors.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">Each wears a sword on his thigh,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">ready to defend the king against an attack in the night.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"label\">9</span><span class=\"content\">King Solomon&#8217;s carriage is built</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"content\">of wood imported from Lebanon.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"label\">10</span><span class=\"content\">Its posts are silver,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">its canopy gold;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">its cushions are purple.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">It was decorated with love</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">by the young women of Jerusalem.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"label\">11</span><span class=\"content\">Come out to see King Solomon,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">young women of Jerusalem.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">3:11 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">of Zion.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">He wears the crown his mother gave him on his wedding day,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.3.11\"><span class=\"content\">his most joyous day.</span></span></div>\n      </div>\n   </div>\n</div>",
       "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "verse",
           "verse_number": 1,
@@ -494,6 +623,14 @@
             "Promise me, O women of Jerusalem,",
             "by the gazelles and wild deer,",
             "not to awaken love until the time is right."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
           ],
           "rlw_lines": []
         },
@@ -551,6 +688,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 11,
           "lines": [
@@ -565,6 +710,7 @@
     },
     {
       "chapter_usfm": "SNG.4",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.4"
@@ -590,6 +736,14 @@
       "chapter_text": "You are beautiful, my darling,\nbeautiful beyond words.\nYour eyes are like doves\nbehind your veil.\nYour hair falls in waves,\nlike a flock of goats winding down the slopes of Gilead.\nYour teeth are as white as sheep,\nrecently shorn and freshly washed.\nYour smile is flawless,\neach tooth matched with its twin.\nYour lips are like scarlet ribbon;\nyour mouth is inviting.\nYour cheeks are like rosy pomegranates\nbehind your veil.\nYour neck is as beautiful as the tower of David,\njeweled with the shields of a thousand heroes.\nYour breasts are like two fawns,\ntwin fawns of a gazelle grazing among the lilies.\nBefore the dawn breezes blow\nand the night shadows flee,\nI will hurry to the mountain of myrrh\nand to the hill of frankincense.\nYou are altogether beautiful, my darling,\nbeautiful in every way.\n\nCome with me from Lebanon, my bride,\ncome with me from Lebanon.\nCome down from Mount Amana,\nfrom the peaks of Senir and Hermon,\nwhere the lions have their dens\nand leopards live among the hills.\n\nYou have captured my heart,\nmy treasure, my bride.\nYou hold it hostage with one glance of your eyes,\nwith a single jewel of your necklace.\nYour love delights me,\nmy treasure, my bride.\nYour love is better than wine,\nyour perfume more fragrant than spices.\nYour lips are as sweet as nectar, my bride.\nHoney and milk are under your tongue.\nYour clothes are scented\nlike the cedars of Lebanon.\n\nYou are my private garden, my treasure, my bride,\na secluded spring, a hidden fountain.\nYour thighs shelter a paradise of pomegranates\nwith rare spices—\nhenna with nard,\nnard and saffron,\nfragrant calamus and cinnamon,\nwith all the trees of frankincense, myrrh, and aloes,\nand every other lovely spice.\nYou are a garden fountain,\na well of fresh water\nstreaming down from Lebanon’s mountains.\n\n\nAwake, north wind!\nRise up, south wind!\nBlow on my garden\nand spread its fragrance all around.\nCome into your garden, my love;\ntaste its finest fruits.",
       "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch4\" data-usfm=\"SNG.4\">\n         <div class=\"label\">4</div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"label\">1</span><span class=\"content\">You are beautiful, my darling,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">beautiful beyond words.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Your eyes are like doves</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">behind your veil.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">Your hair falls in waves,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">like a flock of goats winding down the slopes of Gilead.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.4.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"label\">2</span><span class=\"content\">Your teeth are as white as sheep,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">recently shorn and freshly washed.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">Your smile is flawless,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">each tooth matched with its twin.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:2 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">Not one is missing; each has a twin.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.4.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"label\">3</span><span class=\"content\">Your lips are like scarlet ribbon;</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">your mouth is inviting.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">Your cheeks are like rosy pomegranates</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">behind your veil.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"label\">4</span><span class=\"content\">Your neck is as beautiful as the tower of David,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">jeweled with the shields of a thousand heroes.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"label\">5</span><span class=\"content\">Your breasts are like two fawns,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">twin fawns of a gazelle grazing among the lilies.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"label\">6</span><span class=\"content\">Before the dawn breezes blow</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">and the night shadows flee,</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">I will hurry to the mountain of myrrh</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">and to the hill of frankincense.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.4.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"label\">7</span><span class=\"content\">You are altogether beautiful, my darling,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">beautiful in every way.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"label\">8</span><span class=\"content\">Come with me from Lebanon, my bride,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">come with me from Lebanon.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">Come down</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">Look down.</span></span></span><span class=\"content\"> from Mount Amana,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">from the peaks of Senir and Hermon,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">where the lions have their dens</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">and leopards live among the hills.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"label\">9</span><span class=\"content\">You have captured my heart,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">my treasure,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">4:9 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">my sister; </span><span class=\"ft\">also in 4:10, 12.</span></span></span><span class=\"content\"> my bride.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">You hold it hostage with one glance of your eyes,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">with a single jewel of your necklace.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"label\">10</span><span class=\"content\">Your love delights me,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">my treasure, my bride.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">Your love is better than wine,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">your perfume more fragrant than spices.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"label\">11</span><span class=\"content\">Your lips are as sweet as nectar, my bride.</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">Honey and milk are under your tongue.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">Your clothes are scented</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">like the cedars of Lebanon.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.4.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"label\">12</span><span class=\"content\">You are my private garden, my treasure, my bride,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">a secluded spring, a hidden fountain.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.4.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"label\">13</span><span class=\"content\">Your thighs shelter a paradise of pomegranates</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">with rare spices&#8212;</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">henna with nard,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.4.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"label\">14</span><span class=\"content\">nard and saffron,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">fragrant calamus and cinnamon,</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">with all the trees of frankincense, myrrh, and aloes,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">and every other lovely spice.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.4.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"label\">15</span><span class=\"content\">You are a garden fountain,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">a well of fresh water</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">streaming down from Lebanon&#8217;s mountains.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.4.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"label\">16</span><span class=\"content\">Awake, north wind!</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Rise up, south wind!</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Blow on my garden</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">and spread its fragrance all around.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">Come into your garden, my love;</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.4.16\"><span class=\"content\">taste its finest fruits.</span></span></div>\n      </div>\n   </div>\n</div>",
       "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "verse",
           "verse_number": 1,
@@ -750,6 +904,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 16,
           "lines": [
@@ -766,6 +928,7 @@
     },
     {
       "chapter_usfm": "SNG.5",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.5"
@@ -792,15 +955,46 @@
       "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch5\" data-usfm=\"SNG.5\">\n         <div class=\"label\">5</div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"label\">1</span><span class=\"content\">I have entered my garden, my treasure,</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">5:1 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">my sister; </span><span class=\"ft\">also in 5:2.</span></span></span><span class=\"content\"> my bride!</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">I gather myrrh with my spices</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">and eat honeycomb with my honey.</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">I drink wine with my milk.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">Oh, lover and beloved, eat and drink!</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">Yes, drink deeply of your love!</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.5.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"label\">2</span><span class=\"content\">I slept, but my heart was awake,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">when I heard my lover knocking and calling:</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">&#8220;Open to me, my treasure, my darling,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">my dove, my perfect one.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">My head is drenched with dew,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">my hair with the dampness of the night.&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"label\">3</span><span class=\"content\">But I responded,</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">&#8220;I have taken off my robe.</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">Should I get dressed again?</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">I have washed my feet.</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">Should I get them soiled?&#8221;</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.5.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"label\">4</span><span class=\"content\">My lover tried to unlatch the door,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">and my heart thrilled within me.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.5.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"label\">5</span><span class=\"content\">I jumped up to open the door for my love,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">and my hands dripped with perfume.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">My fingers dripped with lovely myrrh</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">as I pulled back the bolt.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.5.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"label\">6</span><span class=\"content\">I opened to my lover,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">but he was gone!</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">My heart sank.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">I searched for him</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">but could not find him anywhere.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">I called to him,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">but there was no reply.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.5.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"label\">7</span><span class=\"content\">The night watchmen found me</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">as they made their rounds.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">They beat and bruised me</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">and stripped off my veil,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">those watchmen on the walls.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.5.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"label\">8</span><span class=\"content\">Make this promise, O women of Jerusalem&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">If you find my lover,</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">tell him I am weak with love.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"label\">9</span><span class=\"content\">Why is your lover better than all others,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">O woman of rare beauty?</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">What makes your lover so special</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">that we must promise this?</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.5.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"label\">10</span><span class=\"content\">My lover is dark and dazzling,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"content\">better than ten thousand others!</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.5.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"label\">11</span><span class=\"content\">His head is finest gold,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">his wavy hair is black as a raven.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.5.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"label\">12</span><span class=\"content\">His eyes sparkle like doves</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">beside springs of water;</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">they are set like jewels</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">washed in milk.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.5.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"label\">13</span><span class=\"content\">His cheeks are like gardens of spices</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">giving off fragrance.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">His lips are like lilies,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">perfumed with myrrh.</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.5.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"label\">14</span><span class=\"content\">His arms are like rounded bars of gold,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">set with beryl.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">His body is like bright ivory,</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">glowing with lapis lazuli.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"SNG.5.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"label\">15</span><span class=\"content\">His legs are like marble pillars</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">set in sockets of finest gold.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">His posture is stately,</span></span></div><div class=\"q2\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">like the noble cedars of Lebanon.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"SNG.5.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"label\">16</span><span class=\"content\">His mouth is sweetness itself;</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">he is desirable in every way.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">Such, O women of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v16\" data-usfm=\"SNG.5.16\"><span class=\"content\">is my lover, my friend.</span></span></div>\n      </div>\n   </div>\n</div>",
       "items": [
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 1,
           "lines": [
             "I have entered my garden, my treasure, my bride!",
             "I gather myrrh with my spices",
             "and eat honeycomb with my honey.",
-            "I drink wine with my milk.",
+            "I drink wine with my milk."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
             "Oh, lover and beloved, eat and drink!",
             "Yes, drink deeply of your love!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -886,6 +1080,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 9,
           "lines": [
@@ -893,6 +1095,14 @@
             "O woman of rare beauty?",
             "What makes your lover so special",
             "that we must promise this?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -973,6 +1183,7 @@
     },
     {
       "chapter_usfm": "SNG.6",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.6"
@@ -999,6 +1210,14 @@
       "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch6\" data-usfm=\"SNG.6\">\n         <div class=\"label\">6</div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"label\">1</span><span class=\"content\">Where has your lover gone,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">O woman of rare beauty?</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">Which way did he turn</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">so we can help you find him?</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.6.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"label\">2</span><span class=\"content\">My lover has gone down to his garden,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">to his spice beds,</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">to browse in the gardens</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">and gather the lilies.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.6.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"label\">3</span><span class=\"content\">I am my lover&#8217;s, and my lover is mine.</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"content\">He browses among the lilies.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.6.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"label\">4</span><span class=\"content\">You are beautiful, my darling,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">like the lovely city of Tirzah.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">Yes, as beautiful as Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">as majestic as an army with billowing banners.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.6.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"label\">5</span><span class=\"content\">Turn your eyes away,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">for they overpower me.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">Your hair falls in waves,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">like a flock of goats winding down the slopes of Gilead.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.6.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"label\">6</span><span class=\"content\">Your teeth are as white as sheep</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">that are freshly washed.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">Your smile is flawless,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">each tooth matched with its twin.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:6 </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">Not one is missing; each has a twin.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.6.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"label\">7</span><span class=\"content\">Your cheeks are like rosy pomegranates</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"content\">behind your veil.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.6.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"label\">8</span><span class=\"content\">Even among sixty queens</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">and eighty concubines</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">and countless young women,</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.6.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"label\">9</span><span class=\"content\">I would still choose my dove, my perfect one&#8212;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">the favorite of her mother,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">dearly loved by the one who bore her.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">The young women see her and praise her;</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">even queens and royal concubines sing her praises:</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.6.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"label\">10</span><span class=\"content\">&#8220;Who is this, arising like the dawn,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">as fair as the moon,</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">as bright as the sun,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">as majestic as an army with billowing banners?&#8221;</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"label\">11</span><span class=\"content\">I went down to the grove of walnut trees</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">and out to the valley to see the new spring growth,</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">to see whether the grapevines had budded</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">or the pomegranates were in bloom.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.6.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"label\">12</span><span class=\"content\">Before I realized it,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"content\">my strong desires had taken me to the chariot of a noble man.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:12 </span><span class=\"ft\">Or </span><span class=\"fqa\">to the royal chariots of my people, </span><span class=\"ft\">or </span><span class=\"fqa\">to the chariots of Amminadab. </span><span class=\"ft\">The meaning of the Hebrew is uncertain.</span></span></span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.6.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"label\">13</span><span class=\"content\">  </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:13a </span><span class=\"ft\">  </span><span class=\"ft\">Verse 6:13 is numbered 7:1 in Hebrew text.</span><span class=\"ft\">  </span></span></span><span class=\"content\">Return, return to us, O maid of Shulam.</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">Come back, come back, that we may see you again.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">Why do you stare at this young woman of Shulam,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.6.13\"><span class=\"content\">as she moves so gracefully between two lines of dancers?</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">6:13b </span><span class=\"ft\">Or </span><span class=\"fqa\">as you would at the movements of two armies? </span><span class=\"ft\">or </span><span class=\"fqa\">as you would at the dance of Mahanaim? </span><span class=\"ft\">The meaning of the Hebrew is uncertain.</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
       "items": [
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 1,
           "lines": [
@@ -1006,6 +1225,14 @@
             "O woman of rare beauty?",
             "Which way did he turn",
             "so we can help you find him?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -1026,6 +1253,14 @@
           "lines": [
             "I am my lover’s, and my lover is mine.",
             "He browses among the lilies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
           ],
           "rlw_lines": []
         },
@@ -1105,6 +1340,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 11,
           "lines": [
@@ -1125,11 +1368,34 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 13,
           "lines": [
             "Return, return to us, O maid of Shulam.",
-            "Come back, come back, that we may see you again.",
+            "Come back, come back, that we may see you again."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
             "Why do you stare at this young woman of Shulam,",
             "as she moves so gracefully between two lines of dancers?"
           ],
@@ -1139,6 +1405,7 @@
     },
     {
       "chapter_usfm": "SNG.7",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.7"
@@ -1250,7 +1517,22 @@
           "type": "verse",
           "verse_number": 9,
           "lines": [
-            "May your kisses be as exciting as the best wine—",
+            "May your kisses be as exciting as the best wine—"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
             "Yes, wine that goes down smoothly for my lover,",
             "flowing gently over lips and teeth."
           ],
@@ -1301,6 +1583,7 @@
     },
     {
       "chapter_usfm": "SNG.8",
+      "is_chapter": true,
       "current": {
         "usfm": [
           "SNG.8"
@@ -1326,6 +1609,14 @@
       "chapter_text": "Oh, I wish you were my brother,\nwho nursed at my mother’s breasts.\nThen I could kiss you no matter who was watching,\nand no one would criticize me.\nI would bring you to my childhood home,\nand there you would teach me.\nI would give you spiced wine to drink,\nmy sweet pomegranate wine.\nYour left arm would be under my head,\nand your right arm would embrace me.\n\nPromise me, O women of Jerusalem,\nnot to awaken love until the time is right.\n\n\nWho is this sweeping in from the desert,\nleaning on her lover?\n\n\nI aroused you under the apple tree,\nwhere your mother gave you birth,\nwhere in great pain she delivered you.\nPlace me like a seal over your heart,\nlike a seal on your arm.\nFor love is as strong as death,\nits jealousy as enduring as the grave.\nLove flashes like fire,\nthe brightest kind of flame.\nMany waters cannot quench love,\nnor can rivers drown it.\nIf a man tried to buy love\nwith all his wealth,\nhis offer would be utterly scorned.\n\n\nWe have a little sister\ntoo young to have breasts.\nWhat will we do for our sister\nif someone asks to marry her?\nIf she is a virgin, like a wall,\nwe will protect her with a silver tower.\nBut if she is promiscuous, like a swinging door,\nwe will block her door with a cedar bar.\n\n\nI was a virgin, like a wall;\nnow my breasts are like towers.\nWhen my lover looks at me,\nhe is delighted with what he sees.\n\nSolomon has a vineyard at Baal-hamon,\nwhich he leases out to tenant farmers.\nEach of them pays a thousand pieces of silver\nfor harvesting its fruit.\nBut my vineyard is mine to give,\nand Solomon need not pay a thousand pieces of silver.\nBut I will give two hundred pieces\nto those who care for its vines.\n\n\nO my darling, lingering in the gardens,\nyour companions are fortunate to hear your voice.\nLet me hear it, too!\n\n\nCome away, my love! Be like a gazelle\nor a young stag on the mountains of spices.",
       "chapter_html": "<div class=\"version vid116 iso6393eng\" data-vid=\"116\" data-iso6393=\"eng\">\n   <div class=\"book bkSNG\">\n      <div class=\"chapter ch8\" data-usfm=\"SNG.8\">\n         <div class=\"label\">8</div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"label\">1</span><span class=\"content\">Oh, I wish you were my brother,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">who nursed at my mother&#8217;s breasts.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">Then I could kiss you no matter who was watching,</span></span></div><div class=\"q2\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">and no one would criticize me.</span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"SNG.8.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"label\">2</span><span class=\"content\">I would bring you to my childhood home,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">and there you would teach me.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">8:2 </span><span class=\"ft\">Or </span><span class=\"fqa\">there she will teach me.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">I would give you spiced wine to drink,</span></span></div><div class=\"q2\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">my sweet pomegranate wine.</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"SNG.8.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"label\">3</span><span class=\"content\">Your left arm would be under my head,</span></span></div><div class=\"q2\"><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"content\">and your right arm would embrace me.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"SNG.8.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"label\">4</span><span class=\"content\">Promise me, O women of Jerusalem,</span></span></div><div class=\"q2\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">not to awaken love until the time is right.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">8:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">not to awaken love until it is ready.</span></span></span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Women of Jerusalem</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"SNG.8.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"label\">5</span><span class=\"content\">Who is this sweeping in from the desert,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">leaning on her lover?</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">I aroused you under the apple tree,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">where your mother gave you birth,</span></span></div><div class=\"q2\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">where in great pain she delivered you.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"SNG.8.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"label\">6</span><span class=\"content\">Place me like a seal over your heart,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">like a seal on your arm.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">For love is as strong as death,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">its jealousy</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">8:6a </span><span class=\"ft\">Or </span><span class=\"fqa\">its passion.</span></span></span><span class=\"content\"> as enduring as the grave.</span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"fr\">8:6b </span><span class=\"ft\">Hebrew </span><span class=\"fqa\">as Sheol.</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">Love flashes like fire,</span></span></div><div class=\"q2\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">the brightest kind of flame.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"SNG.8.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"label\">7</span><span class=\"content\">Many waters cannot quench love,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">nor can rivers drown it.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">If a man tried to buy love</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">with all his wealth,</span></span></div><div class=\"q2\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">his offer would be utterly scorned.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">The Young Woman&#8217;s Brothers</span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"SNG.8.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"label\">8</span><span class=\"content\">We have a little sister</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">too young to have breasts.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">What will we do for our sister</span></span></div><div class=\"q2\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">if someone asks to marry her?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"SNG.8.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"label\">9</span><span class=\"content\">If she is a virgin, like a wall,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">we will protect her with a silver tower.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">But if she is promiscuous, like a swinging door,</span></span></div><div class=\"q2\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">we will block her door with a cedar bar.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"SNG.8.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"label\">10</span><span class=\"content\">I was a virgin, like a wall;</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">now my breasts are like towers.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">When my lover looks at me,</span></span></div><div class=\"q2\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">he is delighted with what he sees.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"SNG.8.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"label\">11</span><span class=\"content\">Solomon has a vineyard at Baal-hamon,</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">which he leases out to tenant farmers.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">Each of them pays a thousand pieces of silver</span></span></div><div class=\"q2\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">for harvesting its fruit.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"SNG.8.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"label\">12</span><span class=\"content\">But my vineyard is mine to give,</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">and Solomon need not pay a thousand pieces of silver.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">But I will give two hundred pieces</span></span></div><div class=\"q2\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">to those who care for its vines.</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Man</span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"SNG.8.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"label\">13</span><span class=\"content\">O my darling, lingering in the gardens,</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">your companions are fortunate to hear your voice.</span></span></div><div class=\"q2\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">Let me hear it, too!</span></span></div><div class=\"b\"></div><div class=\"sp\"><span class=\"heading\">Young Woman</span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"SNG.8.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"label\">14</span><span class=\"content\">Come away, my love! Be like a gazelle</span></span></div><div class=\"q2\"><span class=\"verse v14\" data-usfm=\"SNG.8.14\"><span class=\"content\">or a young stag on the mountains of spices.</span></span></div>\n      </div>\n   </div>\n</div>",
       "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
         {
           "type": "verse",
           "verse_number": 1,
@@ -1367,11 +1658,34 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Women of Jerusalem"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 5,
           "lines": [
             "Who is this sweeping in from the desert,",
-            "leaning on her lover?",
+            "leaning on her lover?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
             "I aroused you under the apple tree,",
             "where your mother gave you birth,",
             "where in great pain she delivered you."
@@ -1404,6 +1718,14 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Young Woman’s Brothers"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 8,
           "lines": [
@@ -1422,6 +1744,14 @@
             "we will protect her with a silver tower.",
             "But if she is promiscuous, like a swinging door,",
             "we will block her door with a cedar bar."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
@@ -1459,12 +1789,28 @@
           "rlw_lines": []
         },
         {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Man"
+          ],
+          "rlw_lines": []
+        },
+        {
           "type": "verse",
           "verse_number": 13,
           "lines": [
             "O my darling, lingering in the gardens,",
             "your companions are fortunate to hear your voice.",
             "Let me hear it, too!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Young Woman"
           ],
           "rlw_lines": []
         },
