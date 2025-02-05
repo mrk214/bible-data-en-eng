@@ -1,0 +1,583 @@
+{
+  "book_usfm": "JON",
+  "name": "Jonah",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "JON.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonah 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonah 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "OBA.1"
+        ],
+        "human": "Obadiah 1",
+        "toc": true
+      },
+      "chapter_text": "The word of the LORD came to Jonah son of Amittai:  “Get up!  Go to the great city  of Nineveh  and preach against it  because their evil  has come up before me.”  Jonah got up to flee to Tarshish  from the LORD’s presence.  He went down  to Joppa  and found a ship going to Tarshish. He paid the fare and went down into it to go with them to Tarshish from the LORD’s presence.\nBut the LORD threw  a great wind onto the sea,  and such a great storm arose on the sea that the ship threatened to break apart. The sailors were afraid, and each cried out to his god.  They threw the ship’s cargo into the sea to lighten the load.  Meanwhile, Jonah had gone down to the lowest part of the vessel and had stretched out and fallen into a deep sleep. \nThe captain approached him and said, “What are you doing sound asleep? Get up! Call to your god.  , Maybe this god will consider us,  and we won’t perish.”\n“Come on! ” the sailors said to each other. “Let’s cast lots.  Then we’ll know who is to blame for this trouble we’re in.” So they cast lots, and the lot singled out Jonah.  Then they said to him, “Tell us who is to blame for this trouble we’re in.  What is your business,  and where are you from? What is your country, and what people are you from? ”\nHe answered them, “I’m a Hebrew.  I worship  the LORD,  the God of the heavens,  who made the sea  and the dry land.”\nThen the men were seized by a great fear and said to him, “What have you done? ” The men knew he was fleeing from the LORD’s presence  because he had told them. So they said to him, “What should we do to you so that the sea will calm down for us? ” For the sea was getting worse and worse.\nHe answered them, “Pick me up and throw me into the sea so that it will calm down for you, for I know that I’m to blame  for this great storm that is against you.” Nevertheless, the men rowed hard to get back to dry land, but they couldn’t because the sea was raging against them more and more.\nSo they called out to the LORD,  “Please, LORD, don’t let us perish because of this man’s life, and don’t charge us with innocent blood! For you, LORD, have done just as you pleased.”  Then they picked up Jonah and threw him into the sea, and the sea stopped its raging.  The men were seized by great fear of the LORD,  and they offered a sacrifice to the LORD and made vows. \nThe LORD appointed a great fish  to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch1\" data-usfm=\"JON.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Jonah&#8217;s Flight</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.1.1\"><span class=\"label\">1</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came to Jonah son of Amittai:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">2Kg 14:25; Jnh 3:1; Mt 12:39&#8211;41; 16:4; Lk 11:29&#8211;30,32</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JON.1.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Get up!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Nm 22:20; Dt 10:11; Jos 7:10</span></span></span><span class=\"content\"> Go to the great city&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Jnh 3:2&#8211;3; 4:11</span></span></span><span class=\"content\"> of Nineveh&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Gn 10:11; 2Kg 19:36; Is 37:37; Nah 1:1; Zph 2:13</span></span></span><span class=\"content\"> and preach against it&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Dt 15:9; 24:15; 2Kg 23:17; Is 58:1</span></span></span><span class=\"content\"> because their evil&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Jnh 3:8</span></span></span><span class=\"content\"> has come up before me.&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Gn 18:20; Hs 7:2</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JON.1.3\"><span class=\"label\">3</span><span class=\"content\">Jonah got up to flee to Tarshish&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Is 23:1,6,10; Jr 10:9</span></span></span><span class=\"content\"> from the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s presence.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Gn 4:16; Ps 139:7,9&#8211;10</span></span></span><span class=\"content\"> He went down&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Jnh 2:6</span></span></span><span class=\"content\"> to Joppa&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">2Ch 2:16; Ezr 3:7; Ac 9:36,43</span></span></span><span class=\"content\"> and found a ship going to Tarshish. He paid the fare and went down into it to go with them to Tarshish from the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s presence.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JON.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JON.1.4\"><span class=\"label\">4</span><span class=\"content\">But the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> threw&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">1Sm 18:11; 20:33; Is 22:17; Jr 22:26&#8211;28</span></span></span><span class=\"content\"> a great wind onto the sea,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Ps 107:25&#8211;28; 135:7</span></span></span><span class=\"content\"> and such a great storm arose on the sea that the ship threatened to break apart. </span></span><span class=\"verse v5\" data-usfm=\"JON.1.5\"><span class=\"label\">5</span><span class=\"content\">The sailors were afraid, and each cried out to his god.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">1Kg 18:26</span></span></span><span class=\"content\"> They threw the ship&#8217;s cargo into the sea to lighten the load.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Ac 27:18&#8211;19,38</span></span></span><span class=\"content\"> Meanwhile, Jonah had gone down to the lowest part of the vessel and had stretched out and fallen into a deep sleep.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Gn 2:21; 15:12; Jdg 4:21; Dn 8:18; 10:9; 1Th 5:6</span></span></span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"JON.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JON.1.6\"><span class=\"label\">6</span><span class=\"content\">The captain approached him and said, &#8220;What are you doing sound asleep? Get up! Call to your god.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Or </span><span class=\"fqa\">God</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Ps 107:28</span></span></span><span class=\"content\"> Maybe this god will consider us,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">2Sm 12:22; Am 5:15; Jnh 3:9</span></span></span><span class=\"content\"> and we won&#8217;t perish.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"JON.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JON.1.7\"><span class=\"label\">7</span><span class=\"content\">&#8220;Come on!&#160;&#8221; the sailors said to each other. &#8220;Let&#8217;s cast lots.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:7 </span><span class=\"ft\">Jos 7:14&#8211;18; 1Sm 10:20&#8211;21; 14:41&#8211;42; Pr 16:33; Ac 1:23&#8211;26</span></span></span><span class=\"content\"> Then we&#8217;ll know who is to blame for this trouble we&#8217;re in.&#8221; So they cast lots, and the lot singled out Jonah.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:7 </span><span class=\"ft\">Nm 32:23; Pr 16:33</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JON.1.8\"><span class=\"label\">8</span><span class=\"content\">Then they said to him, &#8220;Tell us who is to blame for this trouble we&#8217;re in.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Jos 7:19; 1Sm 14:43</span></span></span><span class=\"content\"> What is your business,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Gn 47:3; 1Sm 30:13</span></span></span><span class=\"content\"> and where are you from? What is your country, and what people are you from?&#160;&#8221;</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JON.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.1.9\"><span class=\"label\">9</span><span class=\"content\">He answered them, &#8220;I&#8217;m a Hebrew.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Gn 14:13; 39:14; Ex 1:15; 2:13; 1Sm 4:6</span></span></span><span class=\"content\"> I worship&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">fear</span></span></span><span class=\"content\"> the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">2Kg 17:25,28,32&#8211;33</span></span></span><span class=\"content\"> the God of the heavens,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Gn 24:3,7; Ezr 1:2; Neh 1:4; Ps 136:26; Dn 2:18</span></span></span><span class=\"content\"> who made the sea&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Neh 9:6; Ps 95:5; 146:6</span></span></span><span class=\"content\"> and the dry land.&#8221;</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.1.10\"><span class=\"label\">10</span><span class=\"content\">Then the men were seized by a great fear and said to him, &#8220;What have you done?&#160;&#8221; The men knew he was fleeing from the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s presence&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Jnh 1:3</span></span></span><span class=\"content\"> because he had told them. </span></span><span class=\"verse v11\" data-usfm=\"JON.1.11\"><span class=\"label\">11</span><span class=\"content\">So they said to him, &#8220;What should we do to you so that the sea will calm down for us?&#160;&#8221; For the sea was getting worse and worse.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"JON.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"JON.1.12\"><span class=\"label\">12</span><span class=\"content\">He answered them, &#8220;Pick me up and throw me into the sea so that it will calm down for you, for I know that I&#8217;m to blame&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">2Sm 24:17; 1Ch 21:17</span></span></span><span class=\"content\"> for this great storm that is against you.&#8221; </span></span><span class=\"verse v13\" data-usfm=\"JON.1.13\"><span class=\"label\">13</span><span class=\"content\">Nevertheless, the men rowed hard to get back to dry land, but they couldn&#8217;t because the sea was raging against them more and more.</span></span></div><div class=\"p\"><span class=\"verse v13\" data-usfm=\"JON.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"JON.1.14\"><span class=\"label\">14</span><span class=\"content\">So they called out to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Ps 107:28</span></span></span><span class=\"content\"> &#8220;Please, </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, don&#8217;t let us perish because of this man&#8217;s life, and don&#8217;t charge us with innocent blood! For you, </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, have done just as you pleased.&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Ps 51:18; 115:3; 135:6; Pr 21:1; Is 55:11; Lm 3:37&#8211;39; Dn 4:34&#8211;35; Mt 11:25</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"JON.1.15\"><span class=\"label\">15</span><span class=\"content\">Then they picked up Jonah and threw him into the sea, and the sea stopped its raging.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">Ps 65:7; 93:3&#8211;4; 107:29</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"JON.1.16\"><span class=\"label\">16</span><span class=\"content\">The men were seized by great fear of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Is 59:19; Mc 7:17; Zph 2:11; Mal 1:14; Lk 8:22&#8211;25</span></span></span><span class=\"content\"> and they offered a sacrifice to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> and made vows.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Ps 50:14; 66:13&#8211;14; 76:11; 116:17&#8211;18</span></span></span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"JON.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"JON.1.17\"><span class=\"label\">17</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> appointed a great fish&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Gn 9:2; Nm 11:22; 1Kg 4:33; Ps 8:8</span></span></span><span class=\"content\"> to swallow Jonah, and Jonah was in the belly of the fish three days and three nights.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Mt 12:40; 16:4; Lk 11:29&#8211;30; Jn 11:6,14</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jonah’s Flight"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the Lord came to Jonah son of Amittai:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Get up! Go to the great city of Nineveh and preach against it because their evil has come up before me.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Jonah got up to flee to Tarshish from the Lord’s presence. He went down to Joppa and found a ship going to Tarshish. He paid the fare and went down into it to go with them to Tarshish from the Lord’s presence."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But the Lord threw a great wind onto the sea, and such a great storm arose on the sea that the ship threatened to break apart."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The sailors were afraid, and each cried out to his god. They threw the ship’s cargo into the sea to lighten the load. Meanwhile, Jonah had gone down to the lowest part of the vessel and had stretched out and fallen into a deep sleep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "The captain approached him and said, “What are you doing sound asleep? Get up! Call to your god. , Maybe this god will consider us, and we won’t perish.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "“Come on! ” the sailors said to each other. “Let’s cast lots. Then we’ll know who is to blame for this trouble we’re in.” So they cast lots, and the lot singled out Jonah."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Then they said to him, “Tell us who is to blame for this trouble we’re in. What is your business, and where are you from? What is your country, and what people are you from? ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "He answered them, “I’m a Hebrew. I worship the Lord, the God of the heavens, who made the sea and the dry land.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Then the men were seized by a great fear and said to him, “What have you done? ” The men knew he was fleeing from the Lord’s presence because he had told them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "So they said to him, “What should we do to you so that the sea will calm down for us? ” For the sea was getting worse and worse."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "He answered them, “Pick me up and throw me into the sea so that it will calm down for you, for I know that I’m to blame for this great storm that is against you.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Nevertheless, the men rowed hard to get back to dry land, but they couldn’t because the sea was raging against them more and more."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "So they called out to the Lord, “Please, Lord, don’t let us perish because of this man’s life, and don’t charge us with innocent blood! For you, Lord, have done just as you pleased.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Then they picked up Jonah and threw him into the sea, and the sea stopped its raging."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "The men were seized by great fear of the Lord, and they offered a sacrifice to the Lord and made vows."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The Lord appointed a great fish to swallow Jonah, and Jonah was in the belly of the fish three days and three nights."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonah 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonah 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.1"
+        ],
+        "human": "Jonah 1",
+        "toc": true
+      },
+      "chapter_text": "Jonah prayed to the LORD his God from the belly of the fish: \nI called to the LORD in my distress, \nand he answered me.\nI cried out for help from deep inside   Sheol; \nyou heard my voice. \nWhen you threw me into the depths, \ninto the heart of the seas, \nthe current  overcame me.\nAll your breakers and your billows swept over me. \nAnd I said, “I have been banished \nfrom your sight, \nyet I will look  once more\ntoward your holy temple.” \nThe water engulfed me up to the neck;  ,\nthe watery depths overcame me;\nseaweed was wrapped around my head. \nI sank to the foundations of the mountains, \nthe earth’s gates shut behind me forever! \nThen you raised my life  from the Pit, LORD  my God! \nAs my life was fading away, \nI remembered the LORD, \nand my prayer came to you, \nto your holy temple. \nThose who cherish worthless idols \nabandon their faithful love, \nbut as for me, I will sacrifice  to you\nwith a voice of thanksgiving. \nI will fulfill  what I have vowed.\nSalvation  belongs to the  LORD. \n\nThen the LORD commanded the fish,  and it vomited Jonah onto dry land.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch2\" data-usfm=\"JON.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Jonah&#8217;s Prayer</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.2.1\"><span class=\"label\">1</span><span class=\"content\">Jonah prayed to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> his God from the belly of the fish:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Jb 13:15; Ps 130:1&#8211;2; Lm 3:53&#8211;56</span></span></span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"JON.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"label\">2</span><span class=\"content\">I called to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> in&#160;my&#160;distress,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">1Sm 30:6; Ps 18:4&#8211;6; 22:24; 120:1</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">and he answered&#160;me.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">I cried out for&#160;help from&#160;deep&#160;inside&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Lit </span><span class=\"fqa\">from the stomach of</span></span></span><span class=\"content\"> &#160;Sheol;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Ps 18:5&#8211;6; 86:13; 88:1&#8211;7; Is 28:15; 38:18</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">you heard my&#160;voice.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Ps 34:7</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"JON.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"label\">3</span><span class=\"content\">When you threw me into&#160;the&#160;depths,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Ps 69:1&#8211;2,14&#8211;15; Lm 3:54</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">into the heart of&#160;the&#160;seas,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Neh 9:11</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">the current&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Lit </span><span class=\"fqa\">river</span></span></span><span class=\"content\"> overcame&#160;me.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">All your breakers and&#160;your&#160;billows swept&#160;over&#160;me.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Ps 42:7</span></span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"JON.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"label\">4</span><span class=\"content\">And I said, &#8220;I&#160;have&#160;been&#160;banished&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Lv 21:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"content\">from your sight,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Ps 31:22&#8211;23; Jr 7:15</span></span></span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"content\">yet I will look&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">LXX reads </span><span class=\"fqa\">sight. Will I look .&#160;.&#160;.&#160;?</span></span></span><span class=\"content\"> once&#160;more</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"content\">toward your&#160;holy&#160;temple.&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">1Kg 8:38; 2Ch 6:38; Ps 5:7; 138:2</span></span></span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"JON.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"label\">5</span><span class=\"content\">The water engulfed me up to&#160;the&#160;neck;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Or </span><span class=\"fqa\">me, threatening my life</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Ps 69:1&#8211;2; 105:18; Pr 23:2; Lm 3:54</span></span></span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"content\">the watery depths overcame&#160;me;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"content\">seaweed was wrapped around&#160;my&#160;head.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Ps 18:4&#8211;5</span></span></span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"JON.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"label\">6</span><span class=\"content\">I sank to&#160;the&#160;foundations of&#160;the&#160;mountains,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Ps 116:3</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">the earth&#8217;s&#160;gates shut behind&#160;me&#160;forever!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Jb 38:10; Ps 9:13; Is 38:10; Mt 16:18</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">Then you raised my&#160;life&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Jb 33:28; Ps 16:10; 30:3; Is 38:17</span></span></span><span class=\"content\"> from&#160;the&#160;Pit, </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> &#160;my&#160;God!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Ps 30:3; 86:13</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"JON.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"label\">7</span><span class=\"content\">As my life was&#160;fading&#160;away,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Ps 142:3</span></span></span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">I remembered the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">2Sm 14:11; Ps 77:10&#8211;11; 143:5</span></span></span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">and my prayer came to&#160;you,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">2Ch 30:27; Ps 18:6</span></span></span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">to your holy&#160;temple.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Ps 11:4; 65:4; 88:2; Mc 1:2; Hab 2:20</span></span></span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"JON.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JON.2.8\"><span class=\"label\">8</span><span class=\"content\">Those who cherish&#160;worthless&#160;idols&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">2Kg 17:15; Ps 31:6; Jr 16:18</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"JON.2.8\"><span class=\"content\">abandon their faithful&#160;love,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Ps 31:6</span></span></span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"JON.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"label\">9</span><span class=\"content\">but as for me, I&#160;will&#160;sacrifice&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Ps 50:14,23; Jr 33:11; Hs 14:2</span></span></span><span class=\"content\"> to&#160;you</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">with a voice of&#160;thanksgiving.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Ps 26:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">I will fulfill&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Jb 22:27; Ps 22:25; 116:14,18; Ec 5:4&#8211;5</span></span></span><span class=\"content\"> what&#160;I&#160;have&#160;vowed.</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">Salvation&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">Deliverance</span></span></span><span class=\"content\"> belongs to&#160;the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Ps 3:8; Is 12:2; 45:17; Rv 7:10</span></span></span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.2.10\"><span class=\"label\">10</span><span class=\"content\">Then the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> commanded the fish,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10 </span><span class=\"ft\">Jnh 1:17</span></span></span><span class=\"content\"> and it vomited Jonah onto dry land.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jonah’s Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Jonah prayed to the Lord his God from the belly of the fish:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "I called to the Lord in my distress,",
+            "and he answered me.",
+            "I cried out for help from deep inside Sheol;",
+            "you heard my voice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "When you threw me into the depths,",
+            "into the heart of the seas,",
+            "the current overcame me.",
+            "All your breakers and your billows swept over me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "And I said, “I have been banished",
+            "from your sight,",
+            "yet I will look once more",
+            "toward your holy temple.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The water engulfed me up to the neck; ,",
+            "the watery depths overcame me;",
+            "seaweed was wrapped around my head."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I sank to the foundations of the mountains,",
+            "the earth’s gates shut behind me forever!",
+            "Then you raised my life from the Pit, Lord my God!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "As my life was fading away,",
+            "I remembered the Lord,",
+            "and my prayer came to you,",
+            "to your holy temple."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Those who cherish worthless idols",
+            "abandon their faithful love,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "but as for me, I will sacrifice to you",
+            "with a voice of thanksgiving.",
+            "I will fulfill what I have vowed.",
+            "Salvation belongs to the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Then the Lord commanded the fish, and it vomited Jonah onto dry land."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonah 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonah 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.2"
+        ],
+        "human": "Jonah 2",
+        "toc": true
+      },
+      "chapter_text": "The word of the LORD came to Jonah a second time:  “Get up! Go to the great city of Nineveh  and preach  the message that I tell you.” Jonah got up and went to Nineveh according to the LORD’s command.\nNow Nineveh was an extremely great city,  , a three-day walk. Jonah set out on the first day of his walk in the city and proclaimed,  “In forty days Nineveh will be demolished! ” Then the people of Nineveh believed God. They proclaimed a fast  and dressed in sackcloth #— #from the greatest of them to the least.\nWhen word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth,  and sat in ashes. Then he issued a decree  in Nineveh:\nBy order of the king and his nobles: No person or animal, herd or flock, is to taste anything at all. They must not eat or drink water. Furthermore, both people and animals must be covered with sackcloth, and everyone must call out earnestly to God.  Each must turn from his evil ways  and from his wrongdoing.  Who knows?  God may turn and relent; he may turn from his burning anger so that we will not perish. \n\nGod saw their actions #— #that they had turned from their evil ways   #— #so God relented from the disaster  he had threatened them with. And he did not do it.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch3\" data-usfm=\"JON.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Jonah&#8217;s Preaching</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.3.1\"><span class=\"label\">1</span><span class=\"content\">The word of the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> came to Jonah a second time:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Jnh 1:1</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JON.3.2\"><span class=\"label\">2</span><span class=\"content\">&#8220;Get up! Go to the great city of Nineveh&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Zph 2:13&#8211;15</span></span></span><span class=\"content\"> and preach&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Jr 1:17; Ezk 2:7</span></span></span><span class=\"content\"> the message that I tell you.&#8221; </span></span><span class=\"verse v3\" data-usfm=\"JON.3.3\"><span class=\"label\">3</span><span class=\"content\">Jonah got up and went to Nineveh according to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s command.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JON.3.3\"><span class=\"content\">Now Nineveh was an extremely great city,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">Or </span><span class=\"fqa\">was a great city to God</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">Gn 10:11&#8211;12; Jnh 1:2; 4:11</span></span></span><span class=\"content\"> a three-day walk. </span></span><span class=\"verse v4\" data-usfm=\"JON.3.4\"><span class=\"label\">4</span><span class=\"content\">Jonah set out on the first day of his walk in the city and proclaimed,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:4 </span><span class=\"ft\">2Kg 18:26&#8211;28; Mt 12:41; Lk 11:32</span></span></span><span class=\"content\"> &#8220;In forty days Nineveh will be demolished!&#160;&#8221; </span></span><span class=\"verse v5\" data-usfm=\"JON.3.5\"><span class=\"label\">5</span><span class=\"content\">Then the people of Nineveh believed God. They proclaimed a fast&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:5 </span><span class=\"ft\">Dn 9:3; Jl 1:14</span></span></span><span class=\"content\"> and dressed in sackcloth&#160;#&#8212;&#160;#from the greatest of them to the least.</span></span></div><div class=\"p\"><span class=\"verse v5\" data-usfm=\"JON.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"JON.3.6\"><span class=\"label\">6</span><span class=\"content\">When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">1Kg 21:27; Est 4:1&#8211;4; Jr 6:26; Ezk 27:30&#8211;31</span></span></span><span class=\"content\"> and sat in ashes. </span></span><span class=\"verse v7\" data-usfm=\"JON.3.7\"><span class=\"label\">7</span><span class=\"content\">Then he issued a decree&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:7 </span><span class=\"ft\">2Ch 20:3; Ezr 8:21</span></span></span><span class=\"content\"> in Nineveh:</span></span></div><div class=\"pi\"><span class=\"verse v7\" data-usfm=\"JON.3.7\"><span class=\"content\">By order of the king and his nobles: No person or animal, herd or flock, is to taste anything at all. They must not eat or drink water. </span></span><span class=\"verse v8\" data-usfm=\"JON.3.8\"><span class=\"label\">8</span><span class=\"content\">Furthermore, both people and animals must be covered with sackcloth, and everyone must call out earnestly to God.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Ps 130:1; Jnh 1:6,14</span></span></span><span class=\"content\"> Each must turn from his evil ways&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Is 1:16&#8211;19; 55:6&#8211;7; Jr 18:11</span></span></span><span class=\"content\"> and from his wrongdoing.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">injustice</span><span class=\"ft\">, or </span><span class=\"fqa\">violence</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.3.9\"><span class=\"label\">9</span><span class=\"content\">Who knows?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">2Sm 12:22; Jl 2:14</span></span></span><span class=\"content\"> God may turn and relent; he may turn from his burning anger so that we will not perish.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Jr 18:7&#8211;8</span></span></span></span></div><div class=\"b\"></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.3.10\"><span class=\"label\">10</span><span class=\"content\">God saw their actions&#160;#&#8212;&#160;#that they had turned from their evil ways&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">1Kg 21:27&#8211;29; 2Kg 17:13; 2Ch 7:14; Jr 18:11; 31:18</span></span></span><span class=\"content\"> &#160;#&#8212;&#160;#so God relented from the disaster&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Ex 32:14; Am 7:3,6</span></span></span><span class=\"content\"> he had threatened them with. And he did not do it.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jonah’s Preaching"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The word of the Lord came to Jonah a second time:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "“Get up! Go to the great city of Nineveh and preach the message that I tell you.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Jonah got up and went to Nineveh according to the Lord’s command.",
+            "Now Nineveh was an extremely great city, , a three-day walk."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Jonah set out on the first day of his walk in the city and proclaimed, “In forty days Nineveh will be demolished! ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Then the people of Nineveh believed God. They proclaimed a fast and dressed in sackcloth #— #from the greatest of them to the least."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Then he issued a decree in Nineveh:",
+            "By order of the king and his nobles: No person or animal, herd or flock, is to taste anything at all. They must not eat or drink water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Furthermore, both people and animals must be covered with sackcloth, and everyone must call out earnestly to God. Each must turn from his evil ways and from his wrongdoing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Who knows? God may turn and relent; he may turn from his burning anger so that we will not perish."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "God saw their actions #— #that they had turned from their evil ways #— #so God relented from the disaster he had threatened them with. And he did not do it."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "JON.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "JON.4"
+        ],
+        "human": "Jonah 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "MIC.1"
+        ],
+        "human": "Micah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "JON.3"
+        ],
+        "human": "Jonah 3",
+        "toc": true
+      },
+      "chapter_text": "Jonah was greatly displeased and became furious.  He prayed to the LORD,  “Please, LORD, isn’t this what I said while I was still in my own country? That’s why I fled toward Tarshish in the first place.  I knew that you are a gracious and compassionate God,  slow to anger, abounding in faithful love, and one who relents from sending disaster.  And now, LORD, take my life from me,  for it is better for me to die than to live.” \nThe LORD asked, “Is it right for you to be angry? ”\nJonah left the city and found a place east of it.  He made himself a shelter there and sat in its shade to see what would happen to the city. Then the LORD God appointed a plant, and it grew over Jonah to provide shade for his head to rescue him from his trouble.  Jonah was greatly pleased with the plant. When dawn came the next day, God appointed a worm that attacked the plant, and it withered. \nAs the sun was rising, God appointed a scorching east wind.  The sun beat down on Jonah’s head  so much that he almost fainted, and he wanted to die. He said, “It’s better for me to die than to live.” \nThen God asked Jonah, “Is it right for you to be angry about the plant? ”\n“Yes, it’s right! ” he replied. “I’m angry enough to die! ”\nAnd the LORD said, “You cared about the plant, which you did not labor over and did not grow. It appeared in a night and perished in a night. So may I not care about the great city of Nineveh,  which has more than a hundred twenty thousand people who cannot distinguish between their right and their left,  as well as many animals? ”",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkJON\">\n      <div class=\"chapter ch4\" data-usfm=\"JON.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Jonah&#8217;s Anger</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"JON.4.1\"><span class=\"label\">1</span><span class=\"content\">Jonah was greatly displeased and became furious.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">Jnh 4:9; Mt 20:15; Lk 15:28</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"JON.4.2\"><span class=\"label\">2</span><span class=\"content\">He prayed to the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:2 </span><span class=\"ft\">Jr 20:7</span></span></span><span class=\"content\"> &#8220;Please, </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, isn&#8217;t this what I said while I was still in my own country? That&#8217;s why I fled toward Tarshish in the first place.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:2 </span><span class=\"ft\">Jnh 1:3</span></span></span><span class=\"content\"> I knew that you are a gracious and compassionate God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:2 </span><span class=\"ft\">Ex 34:6; Nm 14:18; Ps 86:5,15; Jl 2:13</span></span></span><span class=\"content\"> slow to anger, abounding in faithful love, and one who relents from sending disaster.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:2 </span><span class=\"ft\">Neh 9:17</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"JON.4.3\"><span class=\"label\">3</span><span class=\"content\">And now, </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, take my life from me,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:3 </span><span class=\"ft\">1Kg 19:4; Jb 6:8&#8211;9</span></span></span><span class=\"content\"> for it is better for me to die than to live.&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:3 </span><span class=\"ft\">Jb 7:15&#8211;16; Ec 7:1</span></span></span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"JON.4.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"JON.4.4\"><span class=\"label\">4</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> asked, &#8220;Is it right for you to be angry?&#160;&#8221;</span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"JON.4.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"JON.4.5\"><span class=\"label\">5</span><span class=\"content\">Jonah left the city and found a place east of it.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:5 </span><span class=\"ft\">1Kg 19:9,13</span></span></span><span class=\"content\"> He made himself a shelter there and sat in its shade to see what would happen to the city. </span></span><span class=\"verse v6\" data-usfm=\"JON.4.6\"><span class=\"label\">6</span><span class=\"content\">Then the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> God appointed a plant, and it grew over Jonah to provide shade for his head to rescue him from his trouble.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:6 </span><span class=\"ft\">Or </span><span class=\"fqa\">disaster</span><span class=\"ft\">, or </span><span class=\"fqa\">evil</span></span></span><span class=\"content\"> Jonah was greatly pleased with the plant. </span></span><span class=\"verse v7\" data-usfm=\"JON.4.7\"><span class=\"label\">7</span><span class=\"content\">When dawn came the next day, God appointed a worm that attacked the plant, and it withered.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:7 </span><span class=\"ft\">Jl 1:12</span></span></span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"JON.4.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"JON.4.8\"><span class=\"label\">8</span><span class=\"content\">As the sun was rising, God appointed a scorching east wind.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:8 </span><span class=\"ft\">Ezk 19:12; Hs 13:15</span></span></span><span class=\"content\"> The sun beat down on Jonah&#8217;s head&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:8 </span><span class=\"ft\">Ps 121:6; Is 49:10</span></span></span><span class=\"content\"> so much that he almost fainted, and he wanted to die. He said, &#8220;It&#8217;s better for me to die than to live.&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:8 </span><span class=\"ft\">Jnh 4:3</span></span></span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"JON.4.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"label\">9</span><span class=\"content\">Then God asked Jonah, &#8220;Is it right for you to be angry about the plant?&#160;&#8221;</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"content\">&#8220;Yes, it&#8217;s right!&#160;&#8221; he replied. &#8220;I&#8217;m angry enough to die!&#160;&#8221;</span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"JON.4.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"JON.4.10\"><span class=\"label\">10</span><span class=\"content\">And the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> said, &#8220;You cared about the plant, which you did not labor over and did not grow. It appeared in a night and perished in a night. </span></span><span class=\"verse v11\" data-usfm=\"JON.4.11\"><span class=\"label\">11</span><span class=\"content\">So may I not care about the great city of Nineveh,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:11 </span><span class=\"ft\">Jnh 3:10</span></span></span><span class=\"content\"> which has more than a hundred twenty thousand people who cannot distinguish between their right and their left,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:11 </span><span class=\"ft\">Dt 1:39; Is 7:16</span></span></span><span class=\"content\"> as well as many animals?&#160;&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:11 </span><span class=\"ft\">Ps 36:6</span></span></span></span></div><div class=\"p\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Jonah’s Anger"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Jonah was greatly displeased and became furious."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "He prayed to the Lord, “Please, Lord, isn’t this what I said while I was still in my own country? That’s why I fled toward Tarshish in the first place. I knew that you are a gracious and compassionate God, slow to anger, abounding in faithful love, and one who relents from sending disaster."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "And now, Lord, take my life from me, for it is better for me to die than to live.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "The Lord asked, “Is it right for you to be angry? ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Jonah left the city and found a place east of it. He made himself a shelter there and sat in its shade to see what would happen to the city."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Then the Lord God appointed a plant, and it grew over Jonah to provide shade for his head to rescue him from his trouble. Jonah was greatly pleased with the plant."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "When dawn came the next day, God appointed a worm that attacked the plant, and it withered."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "As the sun was rising, God appointed a scorching east wind. The sun beat down on Jonah’s head so much that he almost fainted, and he wanted to die. He said, “It’s better for me to die than to live.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Then God asked Jonah, “Is it right for you to be angry about the plant? ”",
+            "“Yes, it’s right! ” he replied. “I’m angry enough to die! ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "And the Lord said, “You cared about the plant, which you did not labor over and did not grow. It appeared in a night and perished in a night."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "So may I not care about the great city of Nineveh, which has more than a hundred twenty thousand people who cannot distinguish between their right and their left, as well as many animals? ”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

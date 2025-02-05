@@ -1,0 +1,1279 @@
+{
+  "book_usfm": "1TI",
+  "name": "1 Timothy",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "1TI.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timothy 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.2"
+        ],
+        "human": "1 Timothy 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2TH.3"
+        ],
+        "human": "2 Thessalonians 3",
+        "toc": true
+      },
+      "chapter_text": "Paul,  an apostle of Christ Jesus by the command  of God our Savior  and of Christ Jesus our hope: \nTo Timothy,  my true son in the faith.\nGrace, mercy, and peace from God the  Father and Christ Jesus our Lord.\n\nAs I urged you when I went to Macedonia,  remain in Ephesus  so that you may instruct certain people  not to teach false doctrine or to pay attention to myths  and endless genealogies. These promote empty speculations rather than God’s plan,  which operates by faith. Now the goal of our instruction is love  that comes from a pure heart,  a good conscience,  and a sincere faith.  Some have departed from these and turned aside to fruitless discussion. They want to be teachers of the law, although they don’t understand what they are saying or what they are insisting on. But we know that the law is good,  provided one uses it legitimately. We know that the law is not meant for a righteous person, but for the lawless and rebellious,  for the ungodly and sinful, for the unholy and irreverent, for those who kill their fathers and mothers, for murderers, for the sexually immoral  and males who have sex with males,  for slave traders, liars,  perjurers, and for whatever else is contrary to the sound teaching  that conforms to the gospel  concerning the glory of the blessed God,  which was entrusted to me. \n\nI give thanks to Christ Jesus our Lord who has strengthened  me, because he considered me faithful, appointing me to the ministry #— # even though I was formerly a blasphemer,  a persecutor,  and an arrogant man.  But I received mercy because I acted out of ignorance in unbelief, and the grace of our Lord overflowed, along with the faith and love that are in Christ Jesus. This saying is trustworthy  and deserving of full acceptance: “Christ Jesus came into the world  to save sinners”   #— #and I am the worst of them.  But I received mercy  for this reason, so that in me, the worst of them, Christ Jesus might demonstrate his extraordinary patience  as an example to those who would believe in him for eternal life.  Now to the King  eternal,  immortal,  invisible, the only  God,  be honor  and glory  forever and ever. Amen. \n\nTimothy, my son, I am giving you this instruction in keeping with the prophecies  previously made about you, so that by recalling them you may fight the good fight, having faith  and a good conscience,  which some  have rejected and have shipwrecked the faith. Among them are Hymenaeus  and Alexander,  whom I have delivered to Satan,  so that they may be taught not to blaspheme.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch1\" data-usfm=\"1TI.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greeting</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Ac 13:9</span></span></span><span class=\"content\"> an apostle of Christ Jesus by the command&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Rm 16:26; Ti 1:3</span></span></span><span class=\"content\"> of God our Savior&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">1Tm 2:3; Ti 1:3; 2:10; 3:4; Jd 25</span></span></span><span class=\"content\"> and of Christ Jesus our hope:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">1Co 15:19; Col 1:27; 1Th 1:3; 1Pt 1:3,13</span></span></span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"1TI.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"1TI.1.2\"><span class=\"label\">2</span><span class=\"content\">To Timothy,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Ac 16:1; 20:4; 1Co 4:17; 16:10</span></span></span><span class=\"content\"> my true son in the faith.</span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"1TI.1.2\"><span class=\"content\">Grace, mercy, and peace from God the&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">our</span></span></span><span class=\"content\"> Father and Christ Jesus our Lord.</span></span></div><div class=\"s1\"><span class=\"heading\">False Doctrine and Misuse of the Law</span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"1TI.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TI.1.3\"><span class=\"label\">3</span><span class=\"content\">As I urged you when I went to Macedonia,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Ac 16:9</span></span></span><span class=\"content\"> remain in Ephesus&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Eph 1:1</span></span></span><span class=\"content\"> so that you may instruct certain people&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Jd 4</span></span></span><span class=\"content\"> not to teach false doctrine </span></span><span class=\"verse v4\" data-usfm=\"1TI.1.4\"><span class=\"label\">4</span><span class=\"content\">or to pay attention to myths&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">1Tm 4:7; 2Tm 4:4; Ti 1:14; 2Pt 1:16</span></span></span><span class=\"content\"> and endless genealogies. These promote empty speculations rather than God&#8217;s plan,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Eph 1:10; 3:2,9; Col 1:25</span></span></span><span class=\"content\"> which operates by faith. </span></span><span class=\"verse v5\" data-usfm=\"1TI.1.5\"><span class=\"label\">5</span><span class=\"content\">Now the goal of our instruction is love&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Rm 13:10</span></span></span><span class=\"content\"> that comes from a pure heart,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Ps 24:4; 2Tm 2:22; 1Pt 1:22</span></span></span><span class=\"content\"> a good conscience,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Ac 23:1; 24:16; Rm 9:1; 2Co 1:12; 1Tm 1:19; 3:9; Heb 10:22; 1Pt 3:21</span></span></span><span class=\"content\"> and a sincere faith.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">2Tm 1:5</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TI.1.6\"><span class=\"label\">6</span><span class=\"content\">Some have departed from these and turned aside to fruitless discussion. </span></span><span class=\"verse v7\" data-usfm=\"1TI.1.7\"><span class=\"label\">7</span><span class=\"content\">They want to be teachers of the law, although they don&#8217;t understand what they are saying or what they are insisting on. </span></span><span class=\"verse v8\" data-usfm=\"1TI.1.8\"><span class=\"label\">8</span><span class=\"content\">But we know that the law is good,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Rm 7:12,16</span></span></span><span class=\"content\"> provided one uses it legitimately. </span></span><span class=\"verse v9\" data-usfm=\"1TI.1.9\"><span class=\"label\">9</span><span class=\"content\">We know that the law is not meant for a righteous person, but for the lawless and rebellious,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Ti 1:6,10; Heb 2:8</span></span></span><span class=\"content\"> for the ungodly and sinful, for the unholy and irreverent, for those who kill their fathers and mothers, for murderers, </span></span><span class=\"verse v10\" data-usfm=\"1TI.1.10\"><span class=\"label\">10</span><span class=\"content\">for the sexually immoral&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">1Co 5:9</span></span></span><span class=\"content\"> and males who have sex with males,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Gn 19:5; Rm 1:27; 1Co 6:9</span></span></span><span class=\"content\"> for slave traders, liars,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Jn 8:44</span></span></span><span class=\"content\"> perjurers, and for whatever else is contrary to the sound teaching&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">1Tm 6:3; 2Tm 1:13; Ti 1:9; 2:1</span></span></span><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TI.1.11\"><span class=\"label\">11</span><span class=\"content\">that conforms to the gospel&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">2Co 4:4</span></span></span><span class=\"content\"> concerning the glory of the blessed God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">1Tm 6:15</span></span></span><span class=\"content\"> which was entrusted to me.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">Lv 6:4; Lk 12:48; 1Co 9:17; Gl 2:7; 1Th 2:4; 1Tm 1:11; 6:20; 2Tm 1:12,14; Ti 1:3</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Paul&#8217;s Testimony</span></div><div class=\"m\"><span class=\"verse v11\" data-usfm=\"1TI.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1TI.1.12\"><span class=\"label\">12</span><span class=\"content\">I give thanks to Christ Jesus our Lord who has strengthened&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Ac 9:22; Php 4:13</span></span></span><span class=\"content\"> me, because he considered me faithful, appointing me to the ministry&#160;#&#8212;&#160;# </span></span><span class=\"verse v13\" data-usfm=\"1TI.1.13\"><span class=\"label\">13</span><span class=\"content\">even though I was formerly a blasphemer,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">Ac 6:11; 2Tm 3:2; 2Pt 2:11</span></span></span><span class=\"content\"> a persecutor,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">Php 3:6</span></span></span><span class=\"content\"> and an arrogant man.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">1Co 15:8</span></span></span><span class=\"content\"> But I received mercy because I acted out of ignorance in unbelief, </span></span><span class=\"verse v14\" data-usfm=\"1TI.1.14\"><span class=\"label\">14</span><span class=\"content\">and the grace of our Lord overflowed, along with the faith and love that are in Christ Jesus. </span></span><span class=\"verse v15\" data-usfm=\"1TI.1.15\"><span class=\"label\">15</span><span class=\"content\">This saying is trustworthy&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">1Tm 3:1; 4:9; 2Tm 2:11; Ti 3:8</span></span></span><span class=\"content\"> and deserving of full acceptance: &#8220;Christ Jesus came into the world&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">Jn 3:17; 12:46; 18:37; 1Jn 4:9</span></span></span><span class=\"content\"> to save sinners&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">Mk 2:17; Lk 19:10; Rm 11:4</span></span></span><span class=\"content\"> &#160;#&#8212;&#160;#and I am the worst of them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">1Co 15:9</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1TI.1.16\"><span class=\"label\">16</span><span class=\"content\">But I received mercy&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Lk 1:50</span></span></span><span class=\"content\"> for this reason, so that in me, the worst of them, Christ Jesus might demonstrate his extraordinary patience&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Ex 34:6; Rm 2:4</span></span></span><span class=\"content\"> as an example to those who would believe in him for eternal life.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Jn 12:25; Ac 13:48</span></span></span><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TI.1.17\"><span class=\"label\">17</span><span class=\"content\">Now to the King&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Ps 47:7</span></span></span><span class=\"content\"> eternal,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Ps 90:2</span></span></span><span class=\"content\"> immortal,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">1Co 9:25</span></span></span><span class=\"content\"> invisible, the only&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">wise</span></span></span><span class=\"content\"> God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Jn 5:44; 1Co 8:6; Eph 4:6; 1Tm 2:5; 6:15; Jd 25</span></span></span><span class=\"content\"> be honor&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">2Pt 1:17; Rv 5:12</span></span></span><span class=\"content\"> and glory&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Mk 10:37</span></span></span><span class=\"content\"> forever and ever. Amen.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Php 4:20; 1Tm 6:16; Rv 22:21</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Engage in Battle</span></div><div class=\"m\"><span class=\"verse v17\" data-usfm=\"1TI.1.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"1TI.1.18\"><span class=\"label\">18</span><span class=\"content\">Timothy, my son, I am giving you this instruction in keeping with the prophecies&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:18 </span><span class=\"ft\">1Co 13:2; 1Tm 4:14; 2Tm 1:6</span></span></span><span class=\"content\"> previously made about you, so that by recalling them you may fight the good fight, </span></span><span class=\"verse v19\" data-usfm=\"1TI.1.19\"><span class=\"label\">19</span><span class=\"content\">having faith&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:19 </span><span class=\"ft\">Eph 3:12; 6:16; Col 1:23; 2:5; 1Th 5:8; 1Tm 3:13; 6:12; 2Tm 4:7; 1Jn 5:4</span></span></span><span class=\"content\"> and a good conscience,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:19 </span><span class=\"ft\">Heb 10:22</span></span></span><span class=\"content\"> which some&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:19 </span><span class=\"ft\">2Tm 2:18; Jd 4</span></span></span><span class=\"content\"> have rejected and have shipwrecked the faith. </span></span><span class=\"verse v20\" data-usfm=\"1TI.1.20\"><span class=\"label\">20</span><span class=\"content\">Among them are Hymenaeus&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:20 </span><span class=\"ft\">2Tm 2:17</span></span></span><span class=\"content\"> and Alexander,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:20 </span><span class=\"ft\">2Tm 4:14</span></span></span><span class=\"content\"> whom I have delivered to Satan,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:20 </span><span class=\"ft\">1Co 5:5</span></span></span><span class=\"content\"> so that they may be taught not to blaspheme.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope:"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "To Timothy, my true son in the faith.",
+            "Grace, mercy, and peace from God the Father and Christ Jesus our Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "False Doctrine and Misuse of the Law"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "As I urged you when I went to Macedonia, remain in Ephesus so that you may instruct certain people not to teach false doctrine"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "or to pay attention to myths and endless genealogies. These promote empty speculations rather than God’s plan, which operates by faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Now the goal of our instruction is love that comes from a pure heart, a good conscience, and a sincere faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Some have departed from these and turned aside to fruitless discussion."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They want to be teachers of the law, although they don’t understand what they are saying or what they are insisting on."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But we know that the law is good, provided one uses it legitimately."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "We know that the law is not meant for a righteous person, but for the lawless and rebellious, for the ungodly and sinful, for the unholy and irreverent, for those who kill their fathers and mothers, for murderers,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "for the sexually immoral and males who have sex with males, for slave traders, liars, perjurers, and for whatever else is contrary to the sound teaching"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "that conforms to the gospel concerning the glory of the blessed God, which was entrusted to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Paul’s Testimony"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I give thanks to Christ Jesus our Lord who has strengthened me, because he considered me faithful, appointing me to the ministry #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "even though I was formerly a blasphemer, a persecutor, and an arrogant man. But I received mercy because I acted out of ignorance in unbelief,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "and the grace of our Lord overflowed, along with the faith and love that are in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "This saying is trustworthy and deserving of full acceptance: “Christ Jesus came into the world to save sinners” #— #and I am the worst of them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "But I received mercy for this reason, so that in me, the worst of them, Christ Jesus might demonstrate his extraordinary patience as an example to those who would believe in him for eternal life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Now to the King eternal, immortal, invisible, the only God, be honor and glory forever and ever. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Engage in Battle"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Timothy, my son, I am giving you this instruction in keeping with the prophecies previously made about you, so that by recalling them you may fight the good fight,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "having faith and a good conscience, which some have rejected and have shipwrecked the faith."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Among them are Hymenaeus and Alexander, whom I have delivered to Satan, so that they may be taught not to blaspheme."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.2"
+        ],
+        "human": "1 Timothy 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.3"
+        ],
+        "human": "1 Timothy 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.1"
+        ],
+        "human": "1 Timothy 1",
+        "toc": true
+      },
+      "chapter_text": "First of all, then, I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone, for kings and all those who are in authority,  so that we may lead a tranquil and quiet life in all godliness  and dignity.  This is good, and it pleases God our Savior,  who wants everyone  to be saved  and to come to the knowledge of the truth. \nFor there is one God  and one mediator  between God and mankind, the man  Christ Jesus, who gave himself as a ransom for all,  a testimony at the proper time.\nFor this I was appointed a herald, an apostle  (I am telling the truth;  I am not lying), and a teacher of the Gentiles  in faith and truth.\n\nTherefore, I want the men in every place to pray, lifting up holy hands without anger or argument.  Also, the women are to dress themselves in modest clothing,  with decency and good sense, not with elaborate hairstyles, gold,  pearls, or expensive apparel, but with good works,  as is proper for women who profess to worship God. A woman is to learn quietly with full submission.  I do not allow a woman to teach or to have authority over a man; instead, she is to remain quiet. For Adam was formed first, then Eve.  And Adam was not deceived, but the woman was deceived and transgressed.  But she will be saved through childbearing, if they continue in faith, love, and holiness,  with good sense.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch2\" data-usfm=\"1TI.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Instructions on Prayer</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.2.1\"><span class=\"label\">1</span><span class=\"content\">First of all, then, I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone, </span></span><span class=\"verse v2\" data-usfm=\"1TI.2.2\"><span class=\"label\">2</span><span class=\"content\">for kings and all those who are in authority,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Ezr 6:10; Rm 13:1; 1Co 2:1</span></span></span><span class=\"content\"> so that we may lead a tranquil and quiet life in all godliness&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">2Pt 1:3</span></span></span><span class=\"content\"> and dignity.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">1Tm 3:4; Ti 2:7</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TI.2.3\"><span class=\"label\">3</span><span class=\"content\">This is good, and it pleases God our Savior,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">1Tm 1:1</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TI.2.4\"><span class=\"label\">4</span><span class=\"content\">who wants everyone&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Ti 2:11</span></span></span><span class=\"content\"> to be saved&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Ezk 18:23,32; Jn 3:17; 1Tm 4:10; Ti 2:11; 2Pt 3:9</span></span></span><span class=\"content\"> and to come to the knowledge of the truth.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Jn 14:6,17</span></span></span></span></div><div class=\"p\"><span class=\"verse v4\" data-usfm=\"1TI.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"1TI.2.5\"><span class=\"label\">5</span><span class=\"content\">For there is one God&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Dt 6:4; Gl 3:20</span></span></span><span class=\"content\"> and one mediator&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Heb 8:6</span></span></span><span class=\"content\"> between God and mankind, the man&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Jn 1:14; Php 2:7; 3:3; 1Jn 4:2; 5:20</span></span></span><span class=\"content\"> Christ Jesus, </span></span><span class=\"verse v6\" data-usfm=\"1TI.2.6\"><span class=\"label\">6</span><span class=\"content\">who gave himself as a ransom for all,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Mt 20:28; Gl 1:4</span></span></span><span class=\"content\"> a testimony at the proper time.</span></span></div><div class=\"p\"><span class=\"verse v6\" data-usfm=\"1TI.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TI.2.7\"><span class=\"label\">7</span><span class=\"content\">For this I was appointed a herald, an apostle&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Eph 3:7&#8211;8; 1Tm 1:11; 2Tm 1:11</span></span></span><span class=\"content\"> (I am telling the truth;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">in Christ</span></span></span><span class=\"content\"> I am not lying), and a teacher of the Gentiles&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Ac 9:15</span></span></span><span class=\"content\"> in faith and truth.</span></span></div><div class=\"s1\"><span class=\"heading\">Instructions to Men and Women</span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"1TI.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1TI.2.8\"><span class=\"label\">8</span><span class=\"content\">Therefore, I want the men in every place to pray, lifting up holy hands without anger or argument.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Mk 7:21; Lk 9:46&#8211;47; 24:38; Rm 14:1; Php 2:14</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TI.2.9\"><span class=\"label\">9</span><span class=\"content\">Also, the women are to dress themselves in modest clothing,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">1Pt 3:3</span></span></span><span class=\"content\"> with decency and good sense, not with elaborate hairstyles, gold,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Rv 3:18</span></span></span><span class=\"content\"> pearls, or expensive apparel, </span></span><span class=\"verse v10\" data-usfm=\"1TI.2.10\"><span class=\"label\">10</span><span class=\"content\">but with good works,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10 </span><span class=\"ft\">2Co 9:8; Gl 3:10</span></span></span><span class=\"content\"> as is proper for women who profess to worship God. </span></span><span class=\"verse v11\" data-usfm=\"1TI.2.11\"><span class=\"label\">11</span><span class=\"content\">A woman is to learn quietly with full submission.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:11 </span><span class=\"ft\">1Co 14:34; Ti 2:5</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1TI.2.12\"><span class=\"label\">12</span><span class=\"content\">I do not allow a woman to teach or to have authority over a man; instead, she is to remain quiet. </span></span><span class=\"verse v13\" data-usfm=\"1TI.2.13\"><span class=\"label\">13</span><span class=\"content\">For Adam was formed first, then Eve.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Gn 2:7,22; 3:16; 1Co 11:8&#8211;12</span></span></span><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"1TI.2.14\"><span class=\"label\">14</span><span class=\"content\">And Adam was not deceived, but the woman was deceived and transgressed.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:14 </span><span class=\"ft\">Gn 3:6,13; 2Co 11:3</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"1TI.2.15\"><span class=\"label\">15</span><span class=\"content\">But she will be saved through childbearing, if they continue in faith, love, and holiness,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15 </span><span class=\"ft\">1Th 3:12&#8211;4:10</span></span></span><span class=\"content\"> with good sense.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instructions on Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "First of all, then, I urge that petitions, prayers, intercessions, and thanksgivings be made for everyone,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "for kings and all those who are in authority, so that we may lead a tranquil and quiet life in all godliness and dignity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "This is good, and it pleases God our Savior,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "who wants everyone to be saved and to come to the knowledge of the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For there is one God and one mediator between God and mankind, the man Christ Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "who gave himself as a ransom for all, a testimony at the proper time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For this I was appointed a herald, an apostle (I am telling the truth; I am not lying), and a teacher of the Gentiles in faith and truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instructions to Men and Women"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Therefore, I want the men in every place to pray, lifting up holy hands without anger or argument."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Also, the women are to dress themselves in modest clothing, with decency and good sense, not with elaborate hairstyles, gold, pearls, or expensive apparel,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "but with good works, as is proper for women who profess to worship God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "A woman is to learn quietly with full submission."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I do not allow a woman to teach or to have authority over a man; instead, she is to remain quiet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For Adam was formed first, then Eve."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "And Adam was not deceived, but the woman was deceived and transgressed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "But she will be saved through childbearing, if they continue in faith, love, and holiness, with good sense."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.3"
+        ],
+        "human": "1 Timothy 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.4"
+        ],
+        "human": "1 Timothy 4",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.2"
+        ],
+        "human": "1 Timothy 2",
+        "toc": true
+      },
+      "chapter_text": "This saying is trustworthy:  “If anyone aspires to be an overseer,  , he desires a noble work.” An overseer,  therefore, must be above reproach, the husband of one wife, self-controlled, sensible,  respectable, hospitable,  able to teach, not an excessive drinker, not a bully but gentle, not quarrelsome, not greedy.  He must manage his own household competently and have his children under control with all dignity. (If anyone does not know how to manage his own household, how will he take care of God’s church?) He must not be a new convert, or he might become conceited and incur the same condemnation as the devil.  Furthermore, he must have a good reputation among outsiders, so that he does not fall into disgrace and the devil’s  trap.\nDeacons,  likewise, should be worthy of respect, not hypocritical, not drinking a lot of wine, not greedy for money, holding the mystery of the faith  with a clear conscience.  They must also be tested first; if they prove blameless, then they can serve as deacons. Wives,  , likewise, should be worthy of respect, not slanderers, self-controlled,  faithful in everything. Deacons are to be husbands of one wife, managing their children and their own households competently. For those who have served well as deacons acquire a good standing for themselves and great boldness in the faith that is in Christ Jesus.\n\nI write these things to you, hoping to come  to you soon. But if I should be delayed, I have written so that you will know how people ought to conduct themselves in God’s household,  which is the church of the living God,  the pillar and foundation of the truth.  And most certainly, the mystery of godliness  is great:\nHe  was manifested in the flesh, \nvindicated in the Spirit, \nseen by angels,\npreached among the nations,\nbelieved  on in the world,\ntaken up in glory.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n    <div class=\"book bk1TI\">\n        <div class=\"chapter ch3\" data-usfm=\"1TI.3\">\n            <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Qualifications for Overseers and Deacons</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.3.1\"><span class=\"label\">1</span><span class=\"content\">This saying is trustworthy:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">1Tm 1:15; 4:9</span></span></span><span class=\"content\"> &#8220;If anyone aspires to be an overseer,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Or </span><span class=\"fqa\">bishop</span><span class=\"ft\">, or </span><span class=\"fqa\">pastor</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Ac 20:28; Php 1:1; Ti 1:7</span></span></span><span class=\"content\"> he desires a noble work.&#8221; </span></span><span class=\"verse v2\" data-usfm=\"1TI.3.2\"><span class=\"label\">2</span><span class=\"content\">An overseer,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2&#8211;4 </span><span class=\"ft\">Ti 1:6&#8211;8</span></span></span><span class=\"content\"> therefore, must be above reproach, the husband of one wife, self-controlled, sensible,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Ti 2:2,5</span></span></span><span class=\"content\"> respectable, hospitable,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Lv 19:34; 1Pt 4:9; 2Jn 10</span></span></span><span class=\"content\"> able to teach, </span></span><span class=\"verse v3\" data-usfm=\"1TI.3.3\"><span class=\"label\">3</span><span class=\"content\">not an excessive drinker, not a bully but gentle, not quarrelsome, not greedy.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">1Tm 6:10</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TI.3.4\"><span class=\"label\">4</span><span class=\"content\">He must manage his own household competently and have his children under control with all dignity. </span></span><span class=\"verse v5\" data-usfm=\"1TI.3.5\"><span class=\"label\">5</span><span class=\"content\">(If anyone does not know how to manage his own household, how will he take care of God&#8217;s church?) </span></span><span class=\"verse v6\" data-usfm=\"1TI.3.6\"><span class=\"label\">6</span><span class=\"content\">He must not be a new convert, or he might become conceited and incur the same condemnation as the devil.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">1Tm 5:12; 2Pt 2:3; Rv 20:1&#8211;15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TI.3.7\"><span class=\"label\">7</span><span class=\"content\">Furthermore, he must have a good reputation among outsiders, so that he does not fall into disgrace and the devil&#8217;s&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:7 </span><span class=\"ft\">Ac 13:10</span></span></span><span class=\"content\"> trap.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"1TI.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1TI.3.8\"><span class=\"label\">8</span><span class=\"content\">Deacons,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Php 1:1</span></span></span><span class=\"content\"> likewise, should be worthy of respect, not hypocritical, not drinking a lot of wine, not greedy for money, </span></span><span class=\"verse v9\" data-usfm=\"1TI.3.9\"><span class=\"label\">9</span><span class=\"content\">holding the mystery of the faith&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Php 1:27; 1Tm 1:2,19; Jd 3</span></span></span><span class=\"content\"> with a clear conscience.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Heb 13:18</span></span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"1TI.3.10\"><span class=\"label\">10</span><span class=\"content\">They must also be tested first; if they prove blameless, then they can serve as deacons. </span></span><span class=\"verse v11\" data-usfm=\"1TI.3.11\"><span class=\"label\">11</span><span class=\"content\">Wives,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">Women</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">1Pt 3:1&#8211;6</span></span></span><span class=\"content\"> likewise, should be worthy of respect, not slanderers, self-controlled,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">Ti 2:2</span></span></span><span class=\"content\"> faithful in everything. </span></span><span class=\"verse v12\" data-usfm=\"1TI.3.12\"><span class=\"label\">12</span><span class=\"content\">Deacons are to be husbands of one wife, managing their children and their own households competently. </span></span><span class=\"verse v13\" data-usfm=\"1TI.3.13\"><span class=\"label\">13</span><span class=\"content\">For those who have served well as deacons acquire a good standing for themselves and great boldness in the faith that is in Christ Jesus.</span></span></div><div class=\"s1\"><span class=\"heading\">The Mystery of Godliness</span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"1TI.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"1TI.3.14\"><span class=\"label\">14</span><span class=\"content\">I write these things to you, hoping to come&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:14 </span><span class=\"ft\">1Tm 4:13</span></span></span><span class=\"content\"> to you soon. </span></span><span class=\"verse v15\" data-usfm=\"1TI.3.15\"><span class=\"label\">15</span><span class=\"content\">But if I should be delayed, I have written so that you will know how people ought to conduct themselves in God&#8217;s household,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:15 </span><span class=\"ft\">1Co 3:16; 2Co 6:16; Eph 2:21&#8211;22; 1Pt 2:5; 4:17</span></span></span><span class=\"content\"> which is the church of the living God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:15 </span><span class=\"ft\">Mt 16:16; 1Tm 4:10</span></span></span><span class=\"content\"> the pillar and foundation of the truth.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:15 </span><span class=\"ft\">Ps 119:142; 2Co 11:10; 2Th 2:10</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"label\">16</span><span class=\"content\">And most certainly, the mystery of godliness&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">2Pt 1:3</span></span></span><span class=\"content\"> is great:</span></span></div><div class=\"qc\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">He&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">God</span></span></span><span class=\"content\"> was manifested in&#160;the&#160;flesh,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Jn 1:14; Php 2:7; 1Jn 4:2; 5:20</span></span></span></span></div><div class=\"qc\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">vindicated in&#160;the&#160;Spirit,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Rm 1:3&#8211;4; 2:28&#8211;29; 7:5&#8211;6; 8:4; 1Co 5:5; 6:16&#8211;17; Gl 3:3; 4:29; 5:16&#8211;24; 6:8; Php 3:3; Col 2:5; Rv 1:10</span></span></span></span></div><div class=\"qc\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">seen by&#160;angels,</span></span></div><div class=\"qc\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">preached among&#160;the&#160;nations,</span></span></div><div class=\"qc\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">believed&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Mt 11:24; Jn 3:16; Ac 10:43; Rm 10:9; 1Pt 1:8&#8211;10</span></span></span><span class=\"content\"> on in&#160;the&#160;world,</span></span></div><div class=\"qc\"><span class=\"verse v16\" data-usfm=\"1TI.3.16\"><span class=\"content\">taken up in&#160;glory.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Mk 16:19; Jn 20:17; 1Pt 3:22</span></span></span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Qualifications for Overseers and Deacons"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "This saying is trustworthy: “If anyone aspires to be an overseer, , he desires a noble work.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "An overseer, therefore, must be above reproach, the husband of one wife, self-controlled, sensible, respectable, hospitable, able to teach,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "not an excessive drinker, not a bully but gentle, not quarrelsome, not greedy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "He must manage his own household competently and have his children under control with all dignity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "(If anyone does not know how to manage his own household, how will he take care of God’s church?)"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "He must not be a new convert, or he might become conceited and incur the same condemnation as the devil."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Furthermore, he must have a good reputation among outsiders, so that he does not fall into disgrace and the devil’s trap."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Deacons, likewise, should be worthy of respect, not hypocritical, not drinking a lot of wine, not greedy for money,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "holding the mystery of the faith with a clear conscience."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "They must also be tested first; if they prove blameless, then they can serve as deacons."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Wives, , likewise, should be worthy of respect, not slanderers, self-controlled, faithful in everything."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Deacons are to be husbands of one wife, managing their children and their own households competently."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For those who have served well as deacons acquire a good standing for themselves and great boldness in the faith that is in Christ Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Mystery of Godliness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I write these things to you, hoping to come to you soon."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "But if I should be delayed, I have written so that you will know how people ought to conduct themselves in God’s household, which is the church of the living God, the pillar and foundation of the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "And most certainly, the mystery of godliness is great:",
+            "He was manifested in the flesh,",
+            "vindicated in the Spirit,",
+            "seen by angels,",
+            "preached among the nations,",
+            "believed on in the world,",
+            "taken up in glory."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.4",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.4"
+        ],
+        "human": "1 Timothy 4"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.5"
+        ],
+        "human": "1 Timothy 5",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.3"
+        ],
+        "human": "1 Timothy 3",
+        "toc": true
+      },
+      "chapter_text": "Now the Spirit  explicitly says that in later times  some will depart from the faith,  paying attention to deceitful spirits  and the teachings of demons,  through the hypocrisy  of liars whose consciences  are seared. They forbid marriage  and demand abstinence  from foods that God created  to be received with gratitude by those who believe and know the truth. For everything created by God is good,  and nothing is to be rejected if it is received with thanksgiving,  since it is sanctified by the word of God  and by prayer.\n\nIf you point these things out to the brothers and sisters, you will be a good servant of Christ Jesus, nourished by the words of the faith  and the good teaching that you have followed.  But have nothing to do with pointless and silly myths.  Rather, train yourself in godliness.  For the training of the body has limited benefit,  but godliness is beneficial in every way, since it holds promise for the present life and also for the life to come.  This saying is trustworthy and deserves full acceptance.  For this reason we labor and strive,  because we have put our hope in the living God,  who is the Savior  of all people,  especially of those who believe.\n\nCommand and teach these things. Don’t let anyone despise your youth, but set an example for the believers in speech,  in conduct,  in love,  , in faith, and in purity.  Until I come,  give your attention to public reading, exhortation, and teaching. Don’t neglect the gift that is in you; it was given to you through prophecy,  with the laying on of hands  by the council of elders. Practice these things; be committed to them, so that your progress may be evident to all. Pay close attention to your life and your teaching; persevere in these things, for in doing this you will save  both yourself and your hearers.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch4\" data-usfm=\"1TI.4\">\n         <div class=\"label\">4</div><div class=\"s1\"><span class=\"heading\">Demonic Influence</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.4.1\"><span class=\"label\">1</span><span class=\"content\">Now the Spirit&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">Jn 14:17; 16:13; Ac 20:23; 21:11; 1Co 2:10&#8211;11</span></span></span><span class=\"content\"> explicitly says that in later times&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">2Th 2:3&#8211;9; 2Tm 3:1; 2Pt 3:3; Jd 18</span></span></span><span class=\"content\"> some will depart from the faith,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">Php 1:27; 1Tm 1:2; Jd 3</span></span></span><span class=\"content\"> paying attention to deceitful spirits&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">Mt 7:15; 1Jn 4:6</span></span></span><span class=\"content\"> and the teachings of demons,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:1 </span><span class=\"ft\">Jms 3:15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"1TI.4.2\"><span class=\"label\">2</span><span class=\"content\">through the hypocrisy&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:2 </span><span class=\"ft\">Mk 12:15</span></span></span><span class=\"content\"> of liars whose consciences&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:2 </span><span class=\"ft\">Heb 13:18</span></span></span><span class=\"content\"> are seared. </span></span><span class=\"verse v3\" data-usfm=\"1TI.4.3\"><span class=\"label\">3</span><span class=\"content\">They forbid marriage&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:3 </span><span class=\"ft\">1Tm 5:14; Heb 13:4</span></span></span><span class=\"content\"> and demand abstinence&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:3 </span><span class=\"ft\">Rm 14:6; Col 2:16,23; 1Th 4:3; 5:22; 1Pt 2:11</span></span></span><span class=\"content\"> from foods that God created&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:3 </span><span class=\"ft\">Gn 1:29; 9:3</span></span></span><span class=\"content\"> to be received with gratitude by those who believe and know the truth. </span></span><span class=\"verse v4\" data-usfm=\"1TI.4.4\"><span class=\"label\">4</span><span class=\"content\">For everything created by God is good,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:4 </span><span class=\"ft\">Gn 1:31</span></span></span><span class=\"content\"> and nothing is to be rejected if it is received with thanksgiving,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:4 </span><span class=\"ft\">Ac 10:15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"1TI.4.5\"><span class=\"label\">5</span><span class=\"content\">since it is sanctified by the word of God&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:5 </span><span class=\"ft\">Lk 8:21; 1Tm 2:1; Heb 4:12</span></span></span><span class=\"content\"> and by prayer.</span></span></div><div class=\"s1\"><span class=\"heading\">A Good Servant of Jesus Christ</span></div><div class=\"m\"><span class=\"verse v5\" data-usfm=\"1TI.4.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TI.4.6\"><span class=\"label\">6</span><span class=\"content\">If you point these things out to the brothers and sisters, you will be a good servant of Christ Jesus, nourished by the words of the faith&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:6 </span><span class=\"ft\">Php 1:27; 1Tm 1:2; Jd 3</span></span></span><span class=\"content\"> and the good teaching that you have followed.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:6 </span><span class=\"ft\">2Tm 3:10&#8211;15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TI.4.7\"><span class=\"label\">7</span><span class=\"content\">But have nothing to do with pointless and silly myths.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:7 </span><span class=\"ft\">1Tm 1:4; 2Tm 4:4; Ti 1:14; 2Pt 1:16</span></span></span><span class=\"content\"> Rather, train yourself in godliness.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:7 </span><span class=\"ft\">2Pt 1:3</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1TI.4.8\"><span class=\"label\">8</span><span class=\"content\">For the training of the body has limited benefit,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:8 </span><span class=\"ft\">Col 2:23</span></span></span><span class=\"content\"> but godliness is beneficial in every way, since it holds promise for the present life and also for the life to come.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:8 </span><span class=\"ft\">Ps 37:9,11; Pr 19:23; 22:4; Mt 6:33; Mk 10:30; Jn 12:25; Ac 13:48; 1Pt 3:9</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TI.4.9\"><span class=\"label\">9</span><span class=\"content\">This saying is trustworthy and deserves full acceptance.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:9 </span><span class=\"ft\">1Tm 1:15; 3:1; 2Tm 2:11</span></span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"1TI.4.10\"><span class=\"label\">10</span><span class=\"content\">For this reason we labor and strive,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:10 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">and suffer reproach</span></span></span><span class=\"content\"> because we have put our hope in the living God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:10 </span><span class=\"ft\">Dt 5:26; Jos 3:10; 1Sm 17:26; Ps 42:2; Jr 10:10; Dn 6:20; Ac 14:15; 1Tm 3:15</span></span></span><span class=\"content\"> who is the Savior&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:10 </span><span class=\"ft\">1Tm 1:1</span></span></span><span class=\"content\"> of all people,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:10 </span><span class=\"ft\">1Tm 2:4; Ti 2:11</span></span></span><span class=\"content\"> especially of those who believe.</span></span></div><div class=\"s1\"><span class=\"heading\">Instructions for Ministry</span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"1TI.4.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TI.4.11\"><span class=\"label\">11</span><span class=\"content\">Command and teach these things. </span></span><span class=\"verse v12\" data-usfm=\"1TI.4.12\"><span class=\"label\">12</span><span class=\"content\">Don&#8217;t let anyone despise your youth, but set an example for the believers in speech,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:12 </span><span class=\"ft\">Pr 12:6</span></span></span><span class=\"content\"> in conduct,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:12 </span><span class=\"ft\">2Pt 3:11</span></span></span><span class=\"content\"> in love,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:12 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">in spirit,</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:12 </span><span class=\"ft\">1Co 13:1</span></span></span><span class=\"content\"> in faith, and in purity.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:12 </span><span class=\"ft\">1Tm 5:2</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"1TI.4.13\"><span class=\"label\">13</span><span class=\"content\">Until I come,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:13 </span><span class=\"ft\">1Tm 3:14</span></span></span><span class=\"content\"> give your attention to public reading, exhortation, and teaching. </span></span><span class=\"verse v14\" data-usfm=\"1TI.4.14\"><span class=\"label\">14</span><span class=\"content\">Don&#8217;t neglect the gift that is in you; it was given to you through prophecy,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:14 </span><span class=\"ft\">1Co 13:2; 1Tm 1:18; 2Tm 1:6</span></span></span><span class=\"content\"> with the laying on of hands&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:14 </span><span class=\"ft\">1Tm 5:22</span></span></span><span class=\"content\"> by the council of elders. </span></span><span class=\"verse v15\" data-usfm=\"1TI.4.15\"><span class=\"label\">15</span><span class=\"content\">Practice these things; be committed to them, so that your progress may be evident to all. </span></span><span class=\"verse v16\" data-usfm=\"1TI.4.16\"><span class=\"label\">16</span><span class=\"content\">Pay close attention to your life and your teaching; persevere in these things, for in doing this you will save&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:16 </span><span class=\"ft\">Eph 2:8; Jd 23</span></span></span><span class=\"content\"> both yourself and your hearers.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4:16 </span><span class=\"ft\">Ezk 33:9; Ac 20:28; Rm 11:14</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Demonic Influence"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Now the Spirit explicitly says that in later times some will depart from the faith, paying attention to deceitful spirits and the teachings of demons,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "through the hypocrisy of liars whose consciences are seared."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "They forbid marriage and demand abstinence from foods that God created to be received with gratitude by those who believe and know the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For everything created by God is good, and nothing is to be rejected if it is received with thanksgiving,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "since it is sanctified by the word of God and by prayer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "A Good Servant of Jesus Christ"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "If you point these things out to the brothers and sisters, you will be a good servant of Christ Jesus, nourished by the words of the faith and the good teaching that you have followed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "But have nothing to do with pointless and silly myths. Rather, train yourself in godliness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For the training of the body has limited benefit, but godliness is beneficial in every way, since it holds promise for the present life and also for the life to come."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "This saying is trustworthy and deserves full acceptance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For this reason we labor and strive, because we have put our hope in the living God, who is the Savior of all people, especially of those who believe."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instructions for Ministry"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Command and teach these things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Don’t let anyone despise your youth, but set an example for the believers in speech, in conduct, in love, , in faith, and in purity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Until I come, give your attention to public reading, exhortation, and teaching."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Don’t neglect the gift that is in you; it was given to you through prophecy, with the laying on of hands by the council of elders."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Practice these things; be committed to them, so that your progress may be evident to all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "Pay close attention to your life and your teaching; persevere in these things, for in doing this you will save both yourself and your hearers."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.5",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.5"
+        ],
+        "human": "1 Timothy 5"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timothy 6",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.4"
+        ],
+        "human": "1 Timothy 4",
+        "toc": true
+      },
+      "chapter_text": "Don’t rebuke an older man, but exhort him as a father, younger men as brothers, older women as mothers, and the younger women as sisters with all purity.\n\nSupport  widows  who are genuinely in need. But if any widow has children or grandchildren, let them learn to practice godliness toward their own family first and to repay their parents, for this pleases God. The widow who is truly in need and left all alone has put her hope in God  and continues night and day in her petitions and prayers; however, she who is self-indulgent is dead even while she lives.  Command this also, so that they will be above reproach. But if anyone does not provide  for his own family, especially for his own household, he has denied the faith  and is worse than an unbeliever.\nNo widow is to be enrolled on the list for support unless she is at least sixty years old, has been the wife of one husband, and is well known for good works   #— #that is, if she has brought up children, shown hospitality,  washed the saints’ feet,  helped the afflicted,  and devoted herself to every good work.  But refuse to enroll younger widows, for when they are drawn away from Christ by desire, they want to marry  and will therefore receive condemnation  because they have renounced their original pledge. At the same time, they also learn to be idle, going from house to house; they are not only idle, but are also gossips  and busybodies, saying things they shouldn’t say. Therefore, I want younger women to marry,  have children, manage their households, and give the adversary no opportunity to accuse us.  For some have already turned away  to follow Satan. If any  believing woman has widows in her family, let her help them. Let the church not be burdened, so that it can help widows in genuine need.\n\nThe elders who are good leaders are to be considered worthy of double honor,  especially those who work hard  at preaching and teaching. For the Scripture says: Do not muzzle an ox while it is treading out the grain,   , and, “The worker is worthy of his wages.”  \nDon’t accept an accusation against an elder unless it is supported by two or three witnesses.  Publicly rebuke those who sin, so that the rest will be afraid. I solemnly charge you before God and Christ Jesus and the elect angels to observe  these things without prejudice, doing nothing out of favoritism. Don’t be too quick to appoint  , anyone as an elder, and don’t share in the sins of others. Keep yourself pure.  Don’t continue drinking only water, but use a little wine because of your stomach and your frequent illnesses. Some people’s sins are obvious, preceding them to judgment,  but the sins of others surface  later. Likewise, good works are obvious, and those that are not obvious cannot remain hidden.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch5\" data-usfm=\"1TI.5\">\n         <div class=\"label\">5</div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.5.1\"><span class=\"label\">1</span><span class=\"content\">Don&#8217;t rebuke an older man, but exhort him as a father, younger men as brothers, </span></span><span class=\"verse v2\" data-usfm=\"1TI.5.2\"><span class=\"label\">2</span><span class=\"content\">older women as mothers, and the younger women as sisters with all purity.</span></span></div><div class=\"s1\"><span class=\"heading\">The Support of Widows</span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"1TI.5.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"1TI.5.3\"><span class=\"label\">3</span><span class=\"content\">Support&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:3 </span><span class=\"ft\">Lit </span><span class=\"fqa\">Honor</span></span></span><span class=\"content\"> widows&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:3 </span><span class=\"ft\">Ex 22:22; Jms 1:27</span></span></span><span class=\"content\"> who are genuinely in need. </span></span><span class=\"verse v4\" data-usfm=\"1TI.5.4\"><span class=\"label\">4</span><span class=\"content\">But if any widow has children or grandchildren, let them learn to practice godliness toward their own family first and to repay their parents, for this pleases God. </span></span><span class=\"verse v5\" data-usfm=\"1TI.5.5\"><span class=\"label\">5</span><span class=\"content\">The widow who is truly in need and left all alone has put her hope in God&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:5 </span><span class=\"ft\">1Co 7:34</span></span></span><span class=\"content\"> and continues night and day in her petitions and prayers; </span></span><span class=\"verse v6\" data-usfm=\"1TI.5.6\"><span class=\"label\">6</span><span class=\"content\">however, she who is self-indulgent is dead even while she lives.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:6 </span><span class=\"ft\">Lk 15:24; Eph 2:1,5; 5:14; Rv 3:1</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TI.5.7\"><span class=\"label\">7</span><span class=\"content\">Command this also, so that they will be above reproach. </span></span><span class=\"verse v8\" data-usfm=\"1TI.5.8\"><span class=\"label\">8</span><span class=\"content\">But if anyone does not provide&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:8 </span><span class=\"ft\">Rm 12:17; 2Co 8:21</span></span></span><span class=\"content\"> for his own family, especially for his own household, he has denied the faith&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:8 </span><span class=\"ft\">Mt 10:33; Php 1:27; 1Tm 1:2; 2Pt 2:1; Jd 4; Rv 2:13</span></span></span><span class=\"content\"> and is worse than an unbeliever.</span></span></div><div class=\"p\"><span class=\"verse v8\" data-usfm=\"1TI.5.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"1TI.5.9\"><span class=\"label\">9</span><span class=\"content\">No widow is to be enrolled on the list for support unless she is at least sixty years old, has been the wife of one husband, </span></span><span class=\"verse v10\" data-usfm=\"1TI.5.10\"><span class=\"label\">10</span><span class=\"content\">and is well known for good works&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:10 </span><span class=\"ft\">Mk 14:6; 2Co 9:8; Gl 3:10; Jms 2:14&#8211;26</span></span></span><span class=\"content\"> &#160;#&#8212;&#160;#that is, if she has brought up children, shown hospitality,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:10 </span><span class=\"ft\">2Jn 10</span></span></span><span class=\"content\"> washed the saints&#8217; feet,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:10 </span><span class=\"ft\">Lk 7:44; Jn 13:5&#8211;14</span></span></span><span class=\"content\"> helped the afflicted,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:10 </span><span class=\"ft\">Heb 11:37</span></span></span><span class=\"content\"> and devoted herself to every good work.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:10 </span><span class=\"ft\">2Co 9:8</span></span></span><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TI.5.11\"><span class=\"label\">11</span><span class=\"content\">But refuse to enroll younger widows, for when they are drawn away from Christ by desire, they want to marry&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:11 </span><span class=\"ft\">1Tm 5:14</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"1TI.5.12\"><span class=\"label\">12</span><span class=\"content\">and will therefore receive condemnation&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:12 </span><span class=\"ft\">Mk 12:40</span></span></span><span class=\"content\"> because they have renounced their original pledge. </span></span><span class=\"verse v13\" data-usfm=\"1TI.5.13\"><span class=\"label\">13</span><span class=\"content\">At the same time, they also learn to be idle, going from house to house; they are not only idle, but are also gossips&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:13 </span><span class=\"ft\">Pr 17:9; 3Jn 10</span></span></span><span class=\"content\"> and busybodies, saying things they shouldn&#8217;t say. </span></span><span class=\"verse v14\" data-usfm=\"1TI.5.14\"><span class=\"label\">14</span><span class=\"content\">Therefore, I want younger women to marry,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:14 </span><span class=\"ft\">Gn 2:18&#8211;25; 1Co 7:9&#8211;10; 1Tm 4:3; 5:11</span></span></span><span class=\"content\"> have children, manage their households, and give the adversary no opportunity to accuse us.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:14 </span><span class=\"ft\">Ti 2:4&#8211;5</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"1TI.5.15\"><span class=\"label\">15</span><span class=\"content\">For some have already turned away&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:15 </span><span class=\"ft\">Heb 12:13</span></span></span><span class=\"content\"> to follow Satan. </span></span><span class=\"verse v16\" data-usfm=\"1TI.5.16\"><span class=\"label\">16</span><span class=\"content\">If any&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:16 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">believing man or</span></span></span><span class=\"content\"> believing woman has widows in her family, let her help them. Let the church not be burdened, so that it can help widows in genuine need.</span></span></div><div class=\"s1\"><span class=\"heading\">Honoring the Elders</span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"1TI.5.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TI.5.17\"><span class=\"label\">17</span><span class=\"content\">The elders who are good leaders are to be considered worthy of double honor,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:17 </span><span class=\"ft\">Or </span><span class=\"fqa\">of respect and remuneration</span></span></span><span class=\"content\"> especially those who work hard&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:17 </span><span class=\"ft\">1Th 5:12</span></span></span><span class=\"content\"> at preaching and teaching. </span></span><span class=\"verse v18\" data-usfm=\"1TI.5.18\"><span class=\"label\">18</span><span class=\"content\">For the Scripture says: </span><span class=\"qt\"><span class=\"content\">Do not muzzle an ox while it is treading out the grain,</span></span><span class=\"content\"> &#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:18 </span><span class=\"ft\">Dt 25:4</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:18 </span><span class=\"ft\">Dt 25:4; 1Co 9:9</span></span></span><span class=\"content\"> and, </span><span class=\"wj\"><span class=\"content\">&#8220;The worker is worthy of his wages.&#8221;</span></span><span class=\"content\"> &#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:18 </span><span class=\"ft\">Lv 19:13; Dt 24:14&#8211;15; Mt 10:10; Lk 10:7; 1Co 9:4&#8211;14; 2Pt 2:13</span></span></span></span></div><div class=\"p\"><span class=\"verse v18\" data-usfm=\"1TI.5.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"1TI.5.19\"><span class=\"label\">19</span><span class=\"content\">Don&#8217;t accept an accusation against an elder unless it is supported by two or three witnesses.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:19 </span><span class=\"ft\">Dt 19:15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"1TI.5.20\"><span class=\"label\">20</span><span class=\"content\">Publicly rebuke those who sin, so that the rest will be afraid. </span></span><span class=\"verse v21\" data-usfm=\"1TI.5.21\"><span class=\"label\">21</span><span class=\"content\">I solemnly charge you before God and Christ Jesus and the elect angels to observe&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:21 </span><span class=\"ft\">Lk 11:28</span></span></span><span class=\"content\"> these things without prejudice, doing nothing out of favoritism. </span></span><span class=\"verse v22\" data-usfm=\"1TI.5.22\"><span class=\"label\">22</span><span class=\"content\">Don&#8217;t be too quick to appoint&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:22 </span><span class=\"ft\">Lit </span><span class=\"fqa\">to lay hands on</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:22 </span><span class=\"ft\">Ex 29:10; Lv 4:15; Lk 4:40; Ac 6:6; 28:8; 1Tm 4:14; Heb 6:2</span></span></span><span class=\"content\"> anyone as an elder, and don&#8217;t share in the sins of others. Keep yourself pure.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:22 </span><span class=\"ft\">Php 4:8</span></span></span><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"1TI.5.23\"><span class=\"label\">23</span><span class=\"content\">Don&#8217;t continue drinking only water, but use a little wine because of your stomach and your frequent illnesses. </span></span><span class=\"verse v24\" data-usfm=\"1TI.5.24\"><span class=\"label\">24</span><span class=\"content\">Some people&#8217;s sins are obvious, preceding them to judgment,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:24 </span><span class=\"ft\">Mt 12:41; Jn 5:22&#8211;30; Heb 9:27</span></span></span><span class=\"content\"> but the sins of others surface&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5:24 </span><span class=\"ft\">Lit </span><span class=\"fqa\">follow</span></span></span><span class=\"content\"> later. </span></span><span class=\"verse v25\" data-usfm=\"1TI.5.25\"><span class=\"label\">25</span><span class=\"content\">Likewise, good works are obvious, and those that are not obvious cannot remain hidden.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Don’t rebuke an older man, but exhort him as a father, younger men as brothers,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "older women as mothers, and the younger women as sisters with all purity."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Support of Widows"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Support widows who are genuinely in need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "But if any widow has children or grandchildren, let them learn to practice godliness toward their own family first and to repay their parents, for this pleases God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The widow who is truly in need and left all alone has put her hope in God and continues night and day in her petitions and prayers;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "however, she who is self-indulgent is dead even while she lives."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Command this also, so that they will be above reproach."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But if anyone does not provide for his own family, especially for his own household, he has denied the faith and is worse than an unbeliever."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "No widow is to be enrolled on the list for support unless she is at least sixty years old, has been the wife of one husband,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "and is well known for good works #— #that is, if she has brought up children, shown hospitality, washed the saints’ feet, helped the afflicted, and devoted herself to every good work."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "But refuse to enroll younger widows, for when they are drawn away from Christ by desire, they want to marry"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "and will therefore receive condemnation because they have renounced their original pledge."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "At the same time, they also learn to be idle, going from house to house; they are not only idle, but are also gossips and busybodies, saying things they shouldn’t say."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Therefore, I want younger women to marry, have children, manage their households, and give the adversary no opportunity to accuse us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "For some have already turned away to follow Satan."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "If any believing woman has widows in her family, let her help them. Let the church not be burdened, so that it can help widows in genuine need."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Honoring the Elders"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "The elders who are good leaders are to be considered worthy of double honor, especially those who work hard at preaching and teaching."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For the Scripture says: Do not muzzle an ox while it is treading out the grain, , and, “The worker is worthy of his wages.”"
+          ],
+          "rlw_lines": [
+            [
+              {
+                "text": "For the Scripture says: Do not muzzle an ox while it is treading out the grain, , and,",
+                "rl": false
+              },
+              {
+                "text": "“The worker is worthy of his wages.”",
+                "rl": true
+              }
+            ]
+          ]
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Don’t accept an accusation against an elder unless it is supported by two or three witnesses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Publicly rebuke those who sin, so that the rest will be afraid."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "I solemnly charge you before God and Christ Jesus and the elect angels to observe these things without prejudice, doing nothing out of favoritism."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Don’t be too quick to appoint , anyone as an elder, and don’t share in the sins of others. Keep yourself pure."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Don’t continue drinking only water, but use a little wine because of your stomach and your frequent illnesses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Some people’s sins are obvious, preceding them to judgment, but the sins of others surface later."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "Likewise, good works are obvious, and those that are not obvious cannot remain hidden."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "1TI.6",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "1TI.6"
+        ],
+        "human": "1 Timothy 6"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2TI.1"
+        ],
+        "human": "2 Timothy 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1TI.5"
+        ],
+        "human": "1 Timothy 5",
+        "toc": true
+      },
+      "chapter_text": "All who are under the yoke as slaves should regard their own masters  as worthy of all respect, so that God’s name  and his teaching will not be blasphemed. Let those who have believing masters not be disrespectful to them because they are brothers, but serve them even better, since those who benefit from their service are believers and dearly loved.  ,\n\nTeach and encourage these things. If anyone teaches false doctrine and does not agree with the sound teaching of our Lord  Jesus Christ and with the teaching that promotes godliness,  he is conceited and understands nothing, but has an unhealthy interest in disputes and arguments over words.  From these come envy,  quarreling,  slander,  evil suspicions, and constant disagreement among people whose minds are depraved and deprived of the truth, who imagine that godliness is a way to material gain.  , But godliness with contentment is great gain.  For we brought nothing into the world, and  we can take nothing out.  If we have food and clothing,  we will be content with these. But those who want to be rich fall into temptation, a trap, and many foolish and harmful desires, which plunge people into ruin and destruction. For the love of money is a root  of all kinds of evil, and by craving it, some have wandered away from the faith  and pierced themselves with many griefs.\n\nBut you, man of God, flee from these things, and pursue righteousness, godliness, faith, love,  endurance,  and gentleness. Fight the good fight  of the faith. Take hold of eternal life  to which you were called and about which you have made a good confession in the presence of many witnesses. In the presence of God, who gives life to all,  and of Christ Jesus, who gave a good confession before Pontius Pilate,  I charge you to keep this command without fault or failure until the appearing  of our Lord  Jesus Christ. God will bring this about in his own time.  He is the blessed and only  Sovereign, the King of kings,  and the Lord of lords,  who alone is immortal and who lives in unapproachable light,  whom no one has seen or can see,  to him be honor and eternal power.  Amen. \n\nInstruct those who are rich in the present age not to be arrogant  or to set their hope on the uncertainty of wealth, but on God,  who richly provides us with all things  to enjoy. Instruct them to do what is good, to be rich in good works,  to be generous and willing to share,  storing up treasure for themselves as a good foundation for the coming age,  so that they may take hold of what is truly life.\n\nTimothy, guard what has been entrusted to you,  avoiding  irreverent and empty speech and contradictions from what is falsely called knowledge.  By professing it, some  people have departed from the faith. \nGrace be with you all.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk1TI\">\n      <div class=\"chapter ch6\" data-usfm=\"1TI.6\">\n         <div class=\"label\">6</div><div class=\"s1\"><span class=\"heading\">Honoring Masters</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"1TI.6.1\"><span class=\"label\">1</span><span class=\"content\">All who are under the yoke as slaves should regard their own masters&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:1 </span><span class=\"ft\">Or </span><span class=\"fqa\">owners</span></span></span><span class=\"content\"> as worthy of all respect, so that God&#8217;s name&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:1 </span><span class=\"ft\">Jn 10:25; Ac 15:14; Rv 14:1</span></span></span><span class=\"content\"> and his teaching will not be blasphemed. </span></span><span class=\"verse v2\" data-usfm=\"1TI.6.2\"><span class=\"label\">2</span><span class=\"content\">Let those who have believing masters not be disrespectful to them because they are brothers, but serve them even better, since those who benefit from their service are believers and dearly loved.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:2 </span><span class=\"ft\">Or </span><span class=\"fqa\">because, as believers who are dearly loved, they are devoted to others&#8217; welfare</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:2 </span><span class=\"ft\">2Th 2:12; 1Jn 4:16</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">False Doctrine and Human Greed</span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"1TI.6.2\"><span class=\"content\">Teach and encourage these things. </span></span><span class=\"verse v3\" data-usfm=\"1TI.6.3\"><span class=\"label\">3</span><span class=\"content\">If anyone teaches false doctrine and does not agree with the sound teaching of our Lord&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:3 </span><span class=\"ft\">Rv 11:8</span></span></span><span class=\"content\"> Jesus Christ and with the teaching that promotes godliness,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:3 </span><span class=\"ft\">2Pt 1:3</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"1TI.6.4\"><span class=\"label\">4</span><span class=\"content\">he is conceited and understands nothing, but has an unhealthy interest in disputes and arguments over words.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:4 </span><span class=\"ft\">2Tm 2:14,23; Ti 3:9</span></span></span><span class=\"content\"> From these come envy,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:4 </span><span class=\"ft\">Ps 37:1</span></span></span><span class=\"content\"> quarreling,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:4 </span><span class=\"ft\">Ti 3:9</span></span></span><span class=\"content\"> slander,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:4 </span><span class=\"ft\">Rv 13:6</span></span></span><span class=\"content\"> evil suspicions, </span></span><span class=\"verse v5\" data-usfm=\"1TI.6.5\"><span class=\"label\">5</span><span class=\"content\">and constant disagreement among people whose minds are depraved and deprived of the truth, who imagine that godliness is a way to material gain.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:5 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">From such people withdraw yourself.</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:5 </span><span class=\"ft\">Eph 4:22; 2Tm 3:8; Ti 1:11,15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"1TI.6.6\"><span class=\"label\">6</span><span class=\"content\">But godliness with contentment is great gain.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:6 </span><span class=\"ft\">Ps 37:16; Pr 15:16; 16:8; Php 4:11; Heb 13:5</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"1TI.6.7\"><span class=\"label\">7</span><span class=\"content\">For we brought nothing into the world, and&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:7 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">it is clear that</span></span></span><span class=\"content\"> we can take nothing out.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:7 </span><span class=\"ft\">Jb 1:21; Ps 49:17; Ec 5:15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"1TI.6.8\"><span class=\"label\">8</span><span class=\"content\">If we have food and clothing,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">food and shelter</span></span></span><span class=\"content\"> we will be content with these. </span></span><span class=\"verse v9\" data-usfm=\"1TI.6.9\"><span class=\"label\">9</span><span class=\"content\">But those who want to be rich fall into temptation, a trap, and many foolish and harmful desires, which plunge people into ruin and destruction. </span></span><span class=\"verse v10\" data-usfm=\"1TI.6.10\"><span class=\"label\">10</span><span class=\"content\">For the love of money is a root&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:10 </span><span class=\"ft\">Or </span><span class=\"fqa\">is the root</span></span></span><span class=\"content\"> of all kinds of evil, and by craving it, some have wandered away from the faith&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:10 </span><span class=\"ft\">Php 1:27; 1Tm 1:2; Jd 3</span></span></span><span class=\"content\"> and pierced themselves with many griefs.</span></span></div><div class=\"s1\"><span class=\"heading\">Fight the Good Fight</span></div><div class=\"m\"><span class=\"verse v10\" data-usfm=\"1TI.6.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"1TI.6.11\"><span class=\"label\">11</span><span class=\"content\">But you, man of God, flee from these things, and pursue righteousness, godliness, faith, love,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:11 </span><span class=\"ft\">1Co 13:1</span></span></span><span class=\"content\"> endurance,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:11 </span><span class=\"ft\">Rv 13:10</span></span></span><span class=\"content\"> and gentleness. </span></span><span class=\"verse v12\" data-usfm=\"1TI.6.12\"><span class=\"label\">12</span><span class=\"content\">Fight the good fight&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:12 </span><span class=\"ft\">2Tm 4:7; Jd 3</span></span></span><span class=\"content\"> of the faith. Take hold of eternal life&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:12 </span><span class=\"ft\">1Jn 5:12</span></span></span><span class=\"content\"> to which you were called and about which you have made a good confession in the presence of many witnesses. </span></span><span class=\"verse v13\" data-usfm=\"1TI.6.13\"><span class=\"label\">13</span><span class=\"content\">In the presence of God, who gives life to all,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:13 </span><span class=\"ft\">Mk 13:19; Rm 1:25</span></span></span><span class=\"content\"> and of Christ Jesus, who gave a good confession before Pontius Pilate,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:13 </span><span class=\"ft\">Mt 27:11&#8211;14</span></span></span><span class=\"content\"> I charge you </span></span><span class=\"verse v14\" data-usfm=\"1TI.6.14\"><span class=\"label\">14</span><span class=\"content\">to keep this command without fault or failure until the appearing&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:14 </span><span class=\"ft\">Ti 2:13; 1Jn 2:28</span></span></span><span class=\"content\"> of our Lord&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:14 </span><span class=\"ft\">Rv 11:8</span></span></span><span class=\"content\"> Jesus Christ. </span></span><span class=\"verse v15\" data-usfm=\"1TI.6.15\"><span class=\"label\">15</span><span class=\"content\">God will bring this about in his own time.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:15 </span><span class=\"ft\">Lk 21:8</span></span></span><span class=\"content\"> He is the blessed and only&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:15 </span><span class=\"ft\">Rm 16:27</span></span></span><span class=\"content\"> Sovereign, the King of kings,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:15 </span><span class=\"ft\">Rv 17:14</span></span></span><span class=\"content\"> and the Lord of lords,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:15 </span><span class=\"ft\">Dt 10:17; Ps 136:2&#8211;3; Rv 17:14; 19:16</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"1TI.6.16\"><span class=\"label\">16</span><span class=\"content\">who alone is immortal and who lives in unapproachable light,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:16 </span><span class=\"ft\">Ps 36:9; 104:2; Jn 12:46</span></span></span><span class=\"content\"> whom no one has seen or can see,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:16 </span><span class=\"ft\">Ex 33:20; Jn 1:18</span></span></span><span class=\"content\"> to him be honor and eternal power.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:16 </span><span class=\"ft\">Jd 25</span></span></span><span class=\"content\"> Amen.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:16 </span><span class=\"ft\">1Tm 1:17; Rv 22:21</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Instructions to the Rich</span></div><div class=\"m\"><span class=\"verse v16\" data-usfm=\"1TI.6.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"1TI.6.17\"><span class=\"label\">17</span><span class=\"content\">Instruct those who are rich in the present age not to be arrogant&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:17 </span><span class=\"ft\">1Sm 2:3; Ec 7:8; Rm 11:20; 12:16</span></span></span><span class=\"content\"> or to set their hope on the uncertainty of wealth, but on God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:17 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">on the living God</span></span></span><span class=\"content\"> who richly provides us with all things&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:17 </span><span class=\"ft\">Ac 17:25</span></span></span><span class=\"content\"> to enjoy. </span></span><span class=\"verse v18\" data-usfm=\"1TI.6.18\"><span class=\"label\">18</span><span class=\"content\">Instruct them to do what is good, to be rich in good works,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:18 </span><span class=\"ft\">Mk 14:6; Gl 3:10; Jms 2:14&#8211;26; 1Pt 2:12</span></span></span><span class=\"content\"> to be generous and willing to share,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:18 </span><span class=\"ft\">Rm 12:8,13; Eph 4:28</span></span></span><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"1TI.6.19\"><span class=\"label\">19</span><span class=\"content\">storing up treasure for themselves as a good foundation for the coming age,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:19 </span><span class=\"ft\">Mt 6:20</span></span></span><span class=\"content\"> so that they may take hold of what is truly life.</span></span></div><div class=\"s1\"><span class=\"heading\">Guard the Heritage</span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"1TI.6.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"1TI.6.20\"><span class=\"label\">20</span><span class=\"content\">Timothy, guard what has been entrusted to you,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:20 </span><span class=\"ft\">1Tm 1:11; 2Tm 1:12,14; Ti 1:3</span></span></span><span class=\"content\"> avoiding&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:20 </span><span class=\"ft\">Heb 12:13</span></span></span><span class=\"content\"> irreverent and empty speech and contradictions from what is falsely called knowledge.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:20 </span><span class=\"ft\">Col 2:8; 2Tm 2:16; 4:4; Ti 1:14</span></span></span><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"1TI.6.21\"><span class=\"label\">21</span><span class=\"content\">By professing it, some&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:21 </span><span class=\"ft\">2Tm 2:18</span></span></span><span class=\"content\"> people have departed from the faith.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6:21 </span><span class=\"ft\">Php 1:27; 1Tm 1:2</span></span></span></span></div><div class=\"p\"><span class=\"verse v21\" data-usfm=\"1TI.6.21\"><span class=\"content\">Grace be with you all.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Honoring Masters"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "All who are under the yoke as slaves should regard their own masters as worthy of all respect, so that God’s name and his teaching will not be blasphemed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Let those who have believing masters not be disrespectful to them because they are brothers, but serve them even better, since those who benefit from their service are believers and dearly loved. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "False Doctrine and Human Greed"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Teach and encourage these things."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "If anyone teaches false doctrine and does not agree with the sound teaching of our Lord Jesus Christ and with the teaching that promotes godliness,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "he is conceited and understands nothing, but has an unhealthy interest in disputes and arguments over words. From these come envy, quarreling, slander, evil suspicions,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "and constant disagreement among people whose minds are depraved and deprived of the truth, who imagine that godliness is a way to material gain. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "But godliness with contentment is great gain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For we brought nothing into the world, and we can take nothing out."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "If we have food and clothing, we will be content with these."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "But those who want to be rich fall into temptation, a trap, and many foolish and harmful desires, which plunge people into ruin and destruction."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For the love of money is a root of all kinds of evil, and by craving it, some have wandered away from the faith and pierced themselves with many griefs."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Fight the Good Fight"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "But you, man of God, flee from these things, and pursue righteousness, godliness, faith, love, endurance, and gentleness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Fight the good fight of the faith. Take hold of eternal life to which you were called and about which you have made a good confession in the presence of many witnesses."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "In the presence of God, who gives life to all, and of Christ Jesus, who gave a good confession before Pontius Pilate, I charge you"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "to keep this command without fault or failure until the appearing of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "God will bring this about in his own time. He is the blessed and only Sovereign, the King of kings, and the Lord of lords,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "who alone is immortal and who lives in unapproachable light, whom no one has seen or can see, to him be honor and eternal power. Amen."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Instructions to the Rich"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Instruct those who are rich in the present age not to be arrogant or to set their hope on the uncertainty of wealth, but on God, who richly provides us with all things to enjoy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "Instruct them to do what is good, to be rich in good works, to be generous and willing to share,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "storing up treasure for themselves as a good foundation for the coming age, so that they may take hold of what is truly life."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Guard the Heritage"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Timothy, guard what has been entrusted to you, avoiding irreverent and empty speech and contradictions from what is falsely called knowledge."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "By professing it, some people have departed from the faith.",
+            "Grace be with you all."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

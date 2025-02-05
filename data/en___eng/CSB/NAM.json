@@ -1,0 +1,693 @@
+{
+  "book_usfm": "NAM",
+  "name": "Nahum",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "NAM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahum 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahum 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "MIC.7"
+        ],
+        "human": "Micah 7",
+        "toc": true
+      },
+      "chapter_text": "The pronouncement  concerning Nineveh.  The book of the vision of Nahum the Elkoshite.\n\nThe LORD is a jealous and avenging God;\nthe LORD takes vengeance\nand is fierce in   wrath.\nThe LORD takes vengeance against his foes; \nhe is furious with his enemies. \nThe LORD is slow to anger but great in power;\nthe LORD will never leave the guilty unpunished. \nHis path is in the whirlwind and storm, \nand clouds are the dust beneath his feet. \nHe rebukes the sea and dries it up,\nand he makes all the rivers run dry. \nBashan and Carmel wither; \neven the flower of Lebanon withers.\nThe mountains quake before him,\nand the hills melt;\nthe earth trembles  , at his presence —\nthe world and all who live in it. \nWho can withstand his indignation?\nWho can endure his burning anger? \nHis wrath is poured out like fire; \neven rocks are shattered before him.\n\nThe LORD is good,\na stronghold in a day of distress;\nhe cares for those who take refuge  in him.\nBut he will completely destroy Nineveh \nwith an overwhelming flood, \nand he will chase his enemies into darkness.\n\nWhatever you  plot against the  LORD,\nhe will bring it to complete destruction; \noppression will not rise up a second time.\nFor they will be consumed\nlike entangled thorns, \nlike the drink of a drunkard\nand like straw that is fully dry. \nOne has gone out from you, \nwho plots evil against the LORD,\nand is a wicked counselor.\n\nThis is what the LORD says:\nThough they are strong  and numerous,\nthey will still be mowed down,\nand he  will pass away.\nThough I have punished you,  ,\nI will punish you no longer. \nFor I will now break off his yoke from you\nand tear off your shackles.\n\nThe LORD has issued an order concerning you:\nThere will be no offspring\nto carry on your name.  ,\nI will eliminate the carved idol and cast image\nfrom the house of your gods; \nI will prepare your grave,\nfor you are contemptible.\n\nLook to the mountains —\nthe feet of the herald, \nwho proclaims peace.\nCelebrate your festivals, Judah;\nfulfill your vows.\nFor the wicked one will never again\nmarch through you;\nhe will be entirely wiped out.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch1\" data-usfm=\"NAM.1\">\n         <div class=\"label\">1</div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.1.1\"><span class=\"label\">1</span><span class=\"content\">The pronouncement&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Is 13:1; 30:6; Jr 18:18; Ezk 12:10; Hab 1:1; Zch 9:1; 12:1; Mal 1:1</span></span></span><span class=\"content\"> concerning Nineveh.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Jnh 3:3&#8211;4; 4:11; Nah 2:8; Zph 2:13</span></span></span><span class=\"content\"> The book of the vision of Nahum the Elkoshite.</span></span></div><div class=\"s1\"><span class=\"heading\">God&#8217;s Vengeance</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"label\">2</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is a&#160;jealous and&#160;avenging&#160;God;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> takes&#160;vengeance</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">and is fierce in&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Lit </span><span class=\"fqa\">is a master of</span></span></span><span class=\"content\"> &#160;wrath.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> takes vengeance against&#160;his&#160;foes;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Dt 32:35,41,43; Ps 94:1; 149:7; Is 1:24; 59:17; Jr 5:9,29; 9:9; 46:10; 50:15; 51:6,11,36; Ezk 25:14&#8211;17; Mc 5:15; 2Th 1:8; Heb 10:30</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">he is furious with&#160;his&#160;enemies.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Dt 6:15; Ps 94:1; Is 63:1&#8211;6; Jr 46:10; 50:28&#8211;29; Mc 5:15; Zph 1:18</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"label\">3</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is slow&#160;to&#160;anger but&#160;great in&#160;power;</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will never&#160;leave the&#160;guilty&#160;unpunished.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Ex 34:6&#8211;7; Nm 14:18</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">His path is in&#160;the&#160;whirlwind and&#160;storm,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Pr 1:27; 10:25; Is 66:15; Jr 4:13; Hs 8:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">and clouds are the&#160;dust beneath&#160;his&#160;feet.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Dt 33:26; Ps 68:4; 104:3; Mt 24:30; 26:64</span></span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"label\">4</span><span class=\"content\">He rebukes the&#160;sea and&#160;dries&#160;it&#160;up,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">and he makes all&#160;the&#160;rivers run&#160;dry.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">2Sm 22:16; Ps 106:9; Is 50:2; Mt 8:26</span></span></span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">Bashan and&#160;Carmel&#160;wither;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Is 33:9; Jr 50:19</span></span></span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">even the flower of&#160;Lebanon&#160;withers.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"label\">5</span><span class=\"content\">The mountains quake before&#160;him,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">and the hills melt;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">the earth trembles&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Some emend to </span><span class=\"fqa\">earth is laid waste</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Lit </span><span class=\"fqa\">lifts</span></span></span><span class=\"content\"> at&#160;his&#160;presence&#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">the world and all who&#160;live in&#160;it.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Jdg 5:5; Ps 18:7; 46:2&#8211;3; 97:5; Is 5:25; 64:1,3; Jr 4:24; Am 8:8; Mc 1:4</span></span></span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"label\">6</span><span class=\"content\">Who can withstand his&#160;indignation?</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">Who can endure his&#160;burning&#160;anger?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Ps 7:11; 69:24; 78:49; Jl 2:11; Mal 3:2</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">His wrath is poured&#160;out like&#160;fire;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Ps 21:9; Is 9:19; 30:30; Jr 4:4; Lm 4:11; Ezk 22:20; Zph 1:18</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">even rocks are&#160;shattered before&#160;him.</span></span></div><div class=\"s1\"><span class=\"heading\">Destruction of Nineveh</span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"label\">7</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is&#160;good,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">a stronghold in&#160;a&#160;day of&#160;distress;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">he cares for&#160;those who&#160;take&#160;refuge&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:7 </span><span class=\"ft\">2Sm 22:3; Ps 17:7; 34:8</span></span></span><span class=\"content\"> in&#160;him.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"label\">8</span><span class=\"content\">But he will completely destroy&#160;Nineveh&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Lit </span><span class=\"fqa\">her place</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">with an&#160;overwhelming&#160;flood,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Nah 2:6</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">and he will chase his&#160;enemies into&#160;darkness.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"label\">9</span><span class=\"content\">Whatever you&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">= Nineveh</span></span></span><span class=\"content\"> plot against&#160;the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"content\">he will bring it to&#160;complete&#160;destruction;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Ps 2:1&#8211;4</span></span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"content\">oppression will not rise&#160;up a&#160;second&#160;time.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"label\">10</span><span class=\"content\">For they will&#160;be&#160;consumed</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">like entangled&#160;thorns,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Mal 4:1</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">like the drink of a&#160;drunkard</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">and like straw that&#160;is fully&#160;dry.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Hb obscure</span></span></span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"label\">11</span><span class=\"content\">One has gone&#160;out from&#160;you,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">Possibly Nineveh</span></span></span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"content\">who plots evil against&#160;the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"content\">and is a&#160;wicked&#160;counselor.</span></span></div><div class=\"s1\"><span class=\"heading\">Promise of Judah&#8217;s Deliverance</span></div><div class=\"m\"><span class=\"verse v11\" data-usfm=\"NAM.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"label\">12</span><span class=\"content\">This is what the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> says:</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">Though they are&#160;strong&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Lit</span><span class=\"fqa\">intact</span></span></span><span class=\"content\"> and&#160;numerous,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">they will still be mowed&#160;down,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">and he&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Either the king of Assyria or his army</span></span></span><span class=\"content\"> will pass&#160;away.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">Though I have punished&#160;you,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">= Judah</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Is 10:5&#8211;34</span></span></span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">I will punish you no&#160;longer.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Ps 30:5; 103:9; Is 54:8</span></span></span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.1.13\"><span class=\"label\">13</span><span class=\"content\">For I will now break&#160;off his&#160;yoke from&#160;you</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.1.13\"><span class=\"content\">and tear off your&#160;shackles.</span></span></div><div class=\"s1\"><span class=\"heading\">The Assyrian King&#8217;s Demise</span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"NAM.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"label\">14</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> has issued an order concerning you:</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">There will be no&#160;offspring</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">to carry on your&#160;name.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Lit</span><span class=\"fqa\">It will not be sown from your name any longer</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Lv 20:3; 1Sm 24:21; Ps 89:4; Is 48:19; 66:22</span></span></span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">I will eliminate the&#160;carved&#160;idol and&#160;cast&#160;image</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">from the house of&#160;your&#160;gods;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Dt 27:15; Jdg 18:14</span></span></span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">I will prepare your&#160;grave,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">for you are&#160;contemptible.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"label\">15</span><span class=\"content\">Look to&#160;the&#160;mountains&#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">the feet of the&#160;herald,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">Is 52:7; 61:1; Rm 10:15</span></span></span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">who proclaims&#160;peace.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">Celebrate your&#160;festivals,&#160;Judah;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">fulfill your&#160;vows.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">For the wicked one will&#160;never&#160;again</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">march through&#160;you;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.1.15\"><span class=\"content\">he will be entirely wiped&#160;out.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The pronouncement concerning Nineveh. The book of the vision of Nahum the Elkoshite."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "God’s Vengeance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The Lord is a jealous and avenging God;",
+            "the Lord takes vengeance",
+            "and is fierce in wrath.",
+            "The Lord takes vengeance against his foes;",
+            "he is furious with his enemies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "The Lord is slow to anger but great in power;",
+            "the Lord will never leave the guilty unpunished.",
+            "His path is in the whirlwind and storm,",
+            "and clouds are the dust beneath his feet."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "He rebukes the sea and dries it up,",
+            "and he makes all the rivers run dry.",
+            "Bashan and Carmel wither;",
+            "even the flower of Lebanon withers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "The mountains quake before him,",
+            "and the hills melt;",
+            "the earth trembles , at his presence —",
+            "the world and all who live in it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Who can withstand his indignation?",
+            "Who can endure his burning anger?",
+            "His wrath is poured out like fire;",
+            "even rocks are shattered before him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Destruction of Nineveh"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "The Lord is good,",
+            "a stronghold in a day of distress;",
+            "he cares for those who take refuge in him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "But he will completely destroy Nineveh",
+            "with an overwhelming flood,",
+            "and he will chase his enemies into darkness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Whatever you plot against the Lord,",
+            "he will bring it to complete destruction;",
+            "oppression will not rise up a second time."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "For they will be consumed",
+            "like entangled thorns,",
+            "like the drink of a drunkard",
+            "and like straw that is fully dry."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "One has gone out from you,",
+            "who plots evil against the Lord,",
+            "and is a wicked counselor."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Promise of Judah’s Deliverance"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "This is what the Lord says:",
+            "Though they are strong and numerous,",
+            "they will still be mowed down,",
+            "and he will pass away.",
+            "Though I have punished you, ,",
+            "I will punish you no longer."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "For I will now break off his yoke from you",
+            "and tear off your shackles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Assyrian King’s Demise"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "The Lord has issued an order concerning you:",
+            "There will be no offspring",
+            "to carry on your name. ,",
+            "I will eliminate the carved idol and cast image",
+            "from the house of your gods;",
+            "I will prepare your grave,",
+            "for you are contemptible."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Look to the mountains —",
+            "the feet of the herald,",
+            "who proclaims peace.",
+            "Celebrate your festivals, Judah;",
+            "fulfill your vows.",
+            "For the wicked one will never again",
+            "march through you;",
+            "he will be entirely wiped out."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahum 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.1"
+        ],
+        "human": "Nahum 1",
+        "toc": true
+      },
+      "chapter_text": "One who scatters is coming up against you. \nMan the fortifications!\nWatch the road!\nBrace  yourself!\nSummon all your strength! \n\nFor the LORD will restore the majesty of Jacob, \nyes,  the majesty of Israel,\nthough ravagers have ravaged them \nand ruined their vine branches. \n\nThe shields of his   warriors are dyed red;\nthe valiant men are dressed in scarlet. \nThe fittings of the chariot flash like fire \non the day of its battle preparations,\nand the spears are brandished.\nThe chariots dash madly through the streets;\nthey rush around in the plazas.\nThey look like torches;\nthey dart back and forth like lightning.\nHe gives orders to his officers;\nthey stumble as they advance.\nThey race to its wall;\nthe protective shield is set in place.\nThe river gates are opened,\nand the palace erodes away. \n\nBeauty  is stripped; \nshe is carried away;\nher ladies-in-waiting moan\nlike the sound of doves \nand beat their breasts. \nNineveh has been like a pool of water\nfrom her first days, \nbut they are fleeing.\n“Stop! Stop! ” they cry,\nbut no one turns back.\n“Plunder the silver! Plunder the gold! ” \nThere is no end to the treasure,\nan abundance of every precious thing. \nDesolation, decimation, devastation!\nHearts melt, \nknees tremble, \ninsides churn, \nevery face grows pale! \n\nWhere is the lions’ lair, \nor the feeding ground of the young lions,\nwhere the lion and lioness prowled,\nand the lion’s cub,\nwith nothing to frighten them away? \nThe lion mauled whatever its cubs needed\nand strangled prey for its lionesses.\nIt filled up its dens with the kill,\nand its lairs with mauled prey. \nBeware, I am against you. \nThis is the declaration of the  LORD of Armies.\nI will make your chariots go up in smoke, \nand the sword will devour your young lions. \nI will cut off your prey from the earth,\nand the sound of your messengers\nwill never be heard again.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch2\" data-usfm=\"NAM.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Attack against Nineveh</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"label\">1</span><span class=\"content\">One who scatters is&#160;coming&#160;up against&#160;you.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Ezk 29:12&#8211;13; 30:23,26</span></span></span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">Man the&#160;fortifications!</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">Watch the&#160;road!</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">Brace&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Lit </span><span class=\"fqa\">Strengthen</span></span></span><span class=\"content\"> yourself!</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">Summon all your&#160;strength!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Pr 24:5; Am 2:14</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"label\">2</span><span class=\"content\">For the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> will&#160;restore the&#160;majesty of&#160;Jacob,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Ps 47:4; Am 6:8; 8:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">yes,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Or </span><span class=\"fqa\">like</span></span></span><span class=\"content\"> the&#160;majesty of&#160;Israel,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">though ravagers have&#160;ravaged&#160;them&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Is 24:1,3</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">and ruined their&#160;vine&#160;branches.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Ps 80:12&#8211;15; Jr 12:10</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"label\">3</span><span class=\"content\">The shields of&#160;his&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">= the army commander attacking Nineveh</span></span></span><span class=\"content\"> &#160;warriors are&#160;dyed&#160;red;</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">the valiant men are&#160;dressed in&#160;scarlet.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Ezk 23:14</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">The fittings of&#160;the&#160;chariot&#160;flash like&#160;fire&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">2Kg 2:11; 6:17; Is 66:15</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">on the day of&#160;its&#160;battle&#160;preparations,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">and the spears are&#160;brandished.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"label\">4</span><span class=\"content\">The chariots dash&#160;madly through&#160;the&#160;streets;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">they rush around in&#160;the&#160;plazas.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">They look like&#160;torches;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">they dart back and&#160;forth like&#160;lightning.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"label\">5</span><span class=\"content\">He gives orders to&#160;his&#160;officers;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">they stumble as&#160;they&#160;advance.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">They race to&#160;its&#160;wall;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">the protective shield is&#160;set in&#160;place.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"label\">6</span><span class=\"content\">The river gates are&#160;opened,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">and the palace erodes&#160;away.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Nah 1:8</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"label\">7</span><span class=\"content\">Beauty&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Text emended; MT reads </span><span class=\"fqa\">Huzzab</span></span></span><span class=\"content\"> is&#160;stripped;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Hb obscure</span></span></span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">she is carried&#160;away;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">her ladies-in-waiting&#160;moan</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">like the&#160;sound of&#160;doves&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Is 38:14; 59:11</span></span></span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">and beat their&#160;breasts.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Is 32:12</span></span></span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"label\">8</span><span class=\"content\">Nineveh has been like&#160;a&#160;pool of&#160;water</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">from her&#160;first&#160;days,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Hb obscure</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">but they are&#160;fleeing.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">&#8220;Stop! Stop!&#160;&#8221; they&#160;cry,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">but no one turns&#160;back.</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"label\">9</span><span class=\"content\">&#8220;Plunder the silver! Plunder&#160;the&#160;gold!&#160;&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Ezk 38:13</span></span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">There is no end to&#160;the&#160;treasure,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">an abundance of&#160;every&#160;precious&#160;thing.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">2Ch 32:27; 36:10; Dn 11:8; Nah 3:3</span></span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"label\">10</span><span class=\"content\">Desolation, decimation, devastation!</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">Hearts melt,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10 </span><span class=\"ft\">Dt 20:8; Jos 7:5; Is 13:7; 19:1; Ezk 21:7,15</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">knees tremble,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10 </span><span class=\"ft\">Is 35:3</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">insides churn,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10 </span><span class=\"ft\">Ps 69:23</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">every face grows&#160;pale!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10 </span><span class=\"ft\">Is 21:3; Jl 2:6</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"label\">11</span><span class=\"content\">Where is the&#160;lions&#8217;&#160;lair,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:11 </span><span class=\"ft\">Is 2:15; 5:26&#8211;29; Jr 4:7; 5:6; 50:17; 51:38; Jl 1:6; Am 3:12</span></span></span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">or the feeding ground of&#160;the&#160;young&#160;lions,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">where the lion and&#160;lioness&#160;prowled,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">and the lion&#8217;s&#160;cub,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">with nothing to&#160;frighten them&#160;away?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:11 </span><span class=\"ft\">Lv 26:6; Dt 28:26; Jr 7:33</span></span></span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"label\">12</span><span class=\"content\">The lion mauled whatever its&#160;cubs&#160;needed</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">and strangled prey for&#160;its&#160;lionesses.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">It filled up its&#160;dens with&#160;the&#160;kill,</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">and its lairs with&#160;mauled&#160;prey.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:12 </span><span class=\"ft\">Jb 38:39&#8211;40</span></span></span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"label\">13</span><span class=\"content\">Beware, I am against&#160;you.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Jr 21:13; 23:30&#8211;32; 50:31; 51:25; Ezk 5:8; 13:8; 21:3; 26:3; 28:22; 29:3,10; 38:3; 39:1; Nah 3:5</span></span></span></span></div><div class=\"qr\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">This&#160;is the&#160;declaration of&#160;the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of&#160;Armies.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">I will make your&#160;chariots go&#160;up in&#160;smoke,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Lit </span><span class=\"fqa\">will burn her chariots in smoke</span></span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">and the sword will&#160;devour your&#160;young&#160;lions.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Is 31:8; Jr 46:10</span></span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">I will cut off your&#160;prey from&#160;the&#160;earth,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">and the sound of&#160;your&#160;messengers</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.2.13\"><span class=\"content\">will never be&#160;heard&#160;again.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Rv 18:22&#8211;23</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Attack against Nineveh"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "One who scatters is coming up against you.",
+            "Man the fortifications!",
+            "Watch the road!",
+            "Brace yourself!",
+            "Summon all your strength!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "For the Lord will restore the majesty of Jacob,",
+            "yes, the majesty of Israel,",
+            "though ravagers have ravaged them",
+            "and ruined their vine branches."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "The shields of his warriors are dyed red;",
+            "the valiant men are dressed in scarlet.",
+            "The fittings of the chariot flash like fire",
+            "on the day of its battle preparations,",
+            "and the spears are brandished."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "The chariots dash madly through the streets;",
+            "they rush around in the plazas.",
+            "They look like torches;",
+            "they dart back and forth like lightning."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "He gives orders to his officers;",
+            "they stumble as they advance.",
+            "They race to its wall;",
+            "the protective shield is set in place."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "The river gates are opened,",
+            "and the palace erodes away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Beauty is stripped;",
+            "she is carried away;",
+            "her ladies-in-waiting moan",
+            "like the sound of doves",
+            "and beat their breasts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Nineveh has been like a pool of water",
+            "from her first days,",
+            "but they are fleeing.",
+            "“Stop! Stop! ” they cry,",
+            "but no one turns back."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "“Plunder the silver! Plunder the gold! ”",
+            "There is no end to the treasure,",
+            "an abundance of every precious thing."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Desolation, decimation, devastation!",
+            "Hearts melt,",
+            "knees tremble,",
+            "insides churn,",
+            "every face grows pale!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Where is the lions’ lair,",
+            "or the feeding ground of the young lions,",
+            "where the lion and lioness prowled,",
+            "and the lion’s cub,",
+            "with nothing to frighten them away?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "The lion mauled whatever its cubs needed",
+            "and strangled prey for its lionesses.",
+            "It filled up its dens with the kill,",
+            "and its lairs with mauled prey."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Beware, I am against you.",
+            "This is the declaration of the Lord of Armies.",
+            "I will make your chariots go up in smoke,",
+            "and the sword will devour your young lions.",
+            "I will cut off your prey from the earth,",
+            "and the sound of your messengers",
+            "will never be heard again."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "NAM.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.2"
+        ],
+        "human": "Nahum 2",
+        "toc": true
+      },
+      "chapter_text": "Woe to the city of blood, \ntotally deceitful,\nfull of plunder,\nnever without prey. \nThe crack of the whip\nand rumble of the wheel,\ngalloping horse\nand jolting chariot! \nCharging horseman,\nflashing sword,\nshining spear;\nheaps of slain,\nmounds of corpses, \ndead bodies without end   —\nthey stumble over their dead.\nBecause of the continual prostitution of the prostitute,\nthe attractive mistress of sorcery,\nwho treats nations and clans like merchandise\nby her prostitution and sorcery, \nI am against you. \nThis is the declaration of the  LORD of Armies.\nI will lift your skirts over your face\nand display your nakedness to nations,\nyour shame to kingdoms. \nI will throw filth on you\nand treat you with contempt; \nI will make a spectacle of you.\nThen all who see you will recoil from you, saying, \n“Nineveh is devastated;\nwho will show sympathy to her? ”\nWhere can I find anyone to comfort you?\n\nAre you better than Thebes  ,\nthat sat along the Nile\nwith water surrounding her,\nwhose rampart was the sea,\nthe river  , her wall?\nCush and Egypt were her endless source of strength;\nPut and Libya were among her   allies.\nYet she became an exile;\nshe went into captivity.\nHer children were also dashed to pieces \nat the head of every street.\nThey cast lots for her dignitaries, \nand all her nobles were bound in chains.\nYou  also will become drunk;\nyou will hide. \nYou also will seek refuge from the enemy.\n\nAll your fortresses are fig trees\nwith figs that ripened first;\nwhen shaken, they fall —\nright into the mouth of the eater!\n\nLook, your troops are like women among you;\nyour land’s city gates\nare wide open to your enemies.\nFire will devour the bars of your gates.\n\nDraw water for the siege;\nstrengthen your fortresses.\nStep into the clay and tread the mortar;\ntake hold of the brick-mold!\nThe fire will devour you there;\nthe sword will cut you down.\nIt will devour you like the young locust. \nMultiply yourselves like the young locust;\nmultiply like the swarming locust!\nYou have made your merchants \nmore numerous than the stars of the sky.\nThe young locust strips  the land\nand flies away.\nYour court officials are like the swarming locust,\nand your scribes like clouds of locusts,\nwhich settle on the walls on a cold day;\nwhen the sun rises, they take off,\nand no one knows where they are.\n\nKing of Assyria, your shepherds slumber; \nyour officers sleep.\nYour people are scattered across the mountains \nwith no one to gather them together. \nThere is no remedy for your injury;\nyour wound is severe. \nAll who hear the news about you\nwill clap their hands because of you, \nfor who has not experienced\nyour constant cruelty?",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkNAM\">\n      <div class=\"chapter ch3\" data-usfm=\"NAM.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Nineveh&#8217;s Downfall</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"label\">1</span><span class=\"content\">Woe to the city&#160;of&#160;blood,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Ezk 7:23; 9:9; 22:2&#8211;3; 24:6,9; Hab 2:12</span></span></span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">totally deceitful,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">full of plunder,</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">never without&#160;prey.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Nah 2:9</span></span></span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"NAM.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"label\">2</span><span class=\"content\">The crack of&#160;the&#160;whip</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">and rumble of&#160;the&#160;wheel,</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">galloping horse</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">and jolting chariot!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Jdg 5:22; Jb 39:24; Jr 47:3</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"NAM.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"label\">3</span><span class=\"content\">Charging horseman,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">flashing sword,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">shining spear;</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">heaps of slain,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">mounds of&#160;corpses,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">Lv 26:30; Ps 110:6; Is 66:24; Jr 41:9; Ezk 6:5</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">dead bodies without&#160;end&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">Nah 2:9</span></span></span><span class=\"content\"> &#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">they stumble over&#160;their&#160;dead.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"NAM.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"label\">4</span><span class=\"content\">Because of the continual&#160;prostitution of&#160;the&#160;prostitute,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">the attractive mistress of&#160;sorcery,</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">who treats nations and&#160;clans&#160;like&#160;merchandise</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">by her&#160;prostitution&#160;and&#160;sorcery,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:4 </span><span class=\"ft\">2Kg 9:22; Pr 7:10&#8211;23; Ezk 16:15; 23:1&#8211;21; Rv 17:3&#8211;6</span></span></span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"NAM.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"label\">5</span><span class=\"content\">I am against&#160;you.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:5 </span><span class=\"ft\">Nah 2:13</span></span></span></span></div><div class=\"qr\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">This&#160;is the&#160;declaration of&#160;the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of&#160;Armies.</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">I will lift your&#160;skirts over&#160;your&#160;face</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">and display your&#160;nakedness to&#160;nations,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">your shame to&#160;kingdoms.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:5 </span><span class=\"ft\">Is 47:3; Jr 13:22,26; Ezk 16:37; 23:29</span></span></span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"NAM.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"label\">6</span><span class=\"content\">I will throw filth on&#160;you</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">and treat you with&#160;contempt;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">Ps 107:40; Is 16:14; Dn 12:2; Mc 6:16; Mal 2:3</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">I will make a&#160;spectacle of&#160;you.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"NAM.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"label\">7</span><span class=\"content\">Then all who&#160;see&#160;you will&#160;recoil from&#160;you,&#160;saying,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:7 </span><span class=\"ft\">Dt 28:25,37; 2Ch 29:8; 30:7; Ps 31:11; Is 66:24; Jr 15:4; 24:9; 50:23</span></span></span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">&#8220;Nineveh is&#160;devastated;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">who will show sympathy to&#160;her?&#160;&#8221;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">Where can I find&#160;anyone to&#160;comfort&#160;you?</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"NAM.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"label\">8</span><span class=\"content\">Are you better than&#160;Thebes&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Hb <span class=\"tl\">No-amon</span></span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Jr 46:25; Ezk 30:14&#8211;16</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">that sat along&#160;the&#160;Nile</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">with water surrounding&#160;her,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">whose rampart was&#160;the&#160;sea,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">the river&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">LXX, Syr, Vg read </span><span class=\"fqa\">water</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Lit </span><span class=\"fqa\">sea from sea</span></span></span><span class=\"content\"> her&#160;wall?</span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"NAM.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"NAM.3.9\"><span class=\"label\">9</span><span class=\"content\">Cush and Egypt were her&#160;endless&#160;source of&#160;strength;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"NAM.3.9\"><span class=\"content\">Put and Libya were among&#160;her&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Lit </span><span class=\"fqa\">your</span></span></span><span class=\"content\"> &#160;allies.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"NAM.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"label\">10</span><span class=\"content\">Yet she became an&#160;exile;</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">she went into&#160;captivity.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">Her children were also dashed to&#160;pieces&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">2Kg 8:12; Is 13:16; Hs 10:14</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">at the head of&#160;every&#160;street.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">They cast lots for&#160;her&#160;dignitaries,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Ob 11</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">and all her nobles were&#160;bound in&#160;chains.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"NAM.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"label\">11</span><span class=\"content\">You&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">= Nineveh</span></span></span><span class=\"content\"> also will&#160;become&#160;drunk;</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">you will hide.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">will be overcome</span></span></span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">You also will seek&#160;refuge from&#160;the&#160;enemy.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"NAM.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"label\">12</span><span class=\"content\">All your fortresses are fig&#160;trees</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">with figs that&#160;ripened&#160;first;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">when shaken, they&#160;fall&#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">right into the mouth of&#160;the&#160;eater!</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"NAM.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"label\">13</span><span class=\"content\">Look, your troops are&#160;like&#160;women among&#160;you;</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">your land&#8217;s&#160;city&#160;gates</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">are wide open to&#160;your&#160;enemies.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">Fire will devour the&#160;bars of&#160;your&#160;gates.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"NAM.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"label\">14</span><span class=\"content\">Draw water for&#160;the&#160;siege;</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">strengthen your&#160;fortresses.</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">Step into the clay and&#160;tread the&#160;mortar;</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">take hold of&#160;the&#160;brick-mold!</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"NAM.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"label\">15</span><span class=\"content\">The fire will devour you&#160;there;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">the sword will cut you&#160;down.</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">It will devour you like&#160;the&#160;young&#160;locust.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:15 </span><span class=\"ft\">Jl 1:4</span></span></span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">Multiply yourselves like&#160;the&#160;young&#160;locust;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">multiply like the&#160;swarming&#160;locust!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"NAM.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"label\">16</span><span class=\"content\">You have made your&#160;merchants&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Ezk 16:29; 17:4; 27:3,13,20,23&#8211;24; Zph 1:11; Rv 18:3,&#160;11,&#160;15,&#160;23</span></span></span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"content\">more numerous than the&#160;stars of&#160;the&#160;sky.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"content\">The young locust strips&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Or </span><span class=\"fqa\">sheds its skin</span></span></span><span class=\"content\"> the&#160;land</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"content\">and flies away.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"NAM.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"label\">17</span><span class=\"content\">Your court officials are like&#160;the&#160;swarming&#160;locust,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">and your scribes like&#160;clouds of&#160;locusts,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">which settle on&#160;the&#160;walls on&#160;a&#160;cold&#160;day;</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">when the sun rises, they&#160;take&#160;off,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">and no one knows where&#160;they&#160;are.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"NAM.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"label\">18</span><span class=\"content\">King of Assyria, your&#160;shepherds&#160;slumber;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">Jr 23:1&#8211;2; 50:6</span></span></span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">your officers sleep.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">Your people are&#160;scattered across&#160;the&#160;mountains&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">Ezk 34:6</span></span></span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">with no one to&#160;gather them&#160;together.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">1Kg 22:17</span></span></span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"NAM.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"label\">19</span><span class=\"content\">There is no remedy for&#160;your&#160;injury;</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">your wound is&#160;severe.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:19 </span><span class=\"ft\">Jr 10:19; 14:17; 30:12</span></span></span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">All who hear the&#160;news about&#160;you</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">will clap their&#160;hands because&#160;of&#160;you,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:19 </span><span class=\"ft\">Ps 47:1; 98:8; Lm 2:15; Ezk 22:13</span></span></span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">for who has&#160;not&#160;experienced</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"NAM.3.19\"><span class=\"content\">your constant cruelty?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Nineveh’s Downfall"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Woe to the city of blood,",
+            "totally deceitful,",
+            "full of plunder,",
+            "never without prey."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The crack of the whip",
+            "and rumble of the wheel,",
+            "galloping horse",
+            "and jolting chariot!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Charging horseman,",
+            "flashing sword,",
+            "shining spear;",
+            "heaps of slain,",
+            "mounds of corpses,",
+            "dead bodies without end —",
+            "they stumble over their dead."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Because of the continual prostitution of the prostitute,",
+            "the attractive mistress of sorcery,",
+            "who treats nations and clans like merchandise",
+            "by her prostitution and sorcery,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "I am against you.",
+            "This is the declaration of the Lord of Armies.",
+            "I will lift your skirts over your face",
+            "and display your nakedness to nations,",
+            "your shame to kingdoms."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I will throw filth on you",
+            "and treat you with contempt;",
+            "I will make a spectacle of you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Then all who see you will recoil from you, saying,",
+            "“Nineveh is devastated;",
+            "who will show sympathy to her? ”",
+            "Where can I find anyone to comfort you?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Are you better than Thebes ,",
+            "that sat along the Nile",
+            "with water surrounding her,",
+            "whose rampart was the sea,",
+            "the river , her wall?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Cush and Egypt were her endless source of strength;",
+            "Put and Libya were among her allies."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Yet she became an exile;",
+            "she went into captivity.",
+            "Her children were also dashed to pieces",
+            "at the head of every street.",
+            "They cast lots for her dignitaries,",
+            "and all her nobles were bound in chains."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "You also will become drunk;",
+            "you will hide.",
+            "You also will seek refuge from the enemy."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "All your fortresses are fig trees",
+            "with figs that ripened first;",
+            "when shaken, they fall —",
+            "right into the mouth of the eater!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Look, your troops are like women among you;",
+            "your land’s city gates",
+            "are wide open to your enemies.",
+            "Fire will devour the bars of your gates."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Draw water for the siege;",
+            "strengthen your fortresses.",
+            "Step into the clay and tread the mortar;",
+            "take hold of the brick-mold!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The fire will devour you there;",
+            "the sword will cut you down.",
+            "It will devour you like the young locust.",
+            "Multiply yourselves like the young locust;",
+            "multiply like the swarming locust!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "You have made your merchants",
+            "more numerous than the stars of the sky.",
+            "The young locust strips the land",
+            "and flies away."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Your court officials are like the swarming locust,",
+            "and your scribes like clouds of locusts,",
+            "which settle on the walls on a cold day;",
+            "when the sun rises, they take off,",
+            "and no one knows where they are."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "King of Assyria, your shepherds slumber;",
+            "your officers sleep.",
+            "Your people are scattered across the mountains",
+            "with no one to gather them together."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "There is no remedy for your injury;",
+            "your wound is severe.",
+            "All who hear the news about you",
+            "will clap their hands because of you,",
+            "for who has not experienced",
+            "your constant cruelty?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

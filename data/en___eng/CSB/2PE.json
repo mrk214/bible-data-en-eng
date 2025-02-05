@@ -1,0 +1,652 @@
+{
+  "book_usfm": "2PE",
+  "name": "2 Peter",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "2PE.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "1PE.5"
+        ],
+        "human": "1 Peter 5",
+        "toc": true
+      },
+      "chapter_text": "Simeon  Peter,  a servant and an apostle  of Jesus Christ:\nTo those who have received a faith equal to ours through the righteousness  of our God and Savior  Jesus Christ.\nMay grace and peace be multiplied to you through the knowledge of God  and of Jesus our Lord.\n\nHis  divine power  has given us everything required for life and godliness through the knowledge  of him who called  us by  his own glory and goodness. By these he has given us very great and precious promises,  so that through them you may share in the divine nature,  escaping the corruption that is in the world because of evil desire. For this very reason, make every effort to supplement your faith with goodness, goodness with knowledge, knowledge with self-control,  self-control with endurance, endurance with godliness, godliness with brotherly affection,  and brotherly affection with love. For if you possess these qualities in increasing measure, they will keep you from being useless  or unfruitful  in the knowledge of our Lord Jesus Christ. The person who lacks these things is blind and shortsighted and has forgotten the cleansing from his past sins. Therefore, brothers and sisters, make every effort to confirm your calling and election,  because if you do these things you will never stumble. For in this way, entry into the eternal kingdom  of our Lord and Savior Jesus Christ will be richly provided for you.\nTherefore I will always remind you about these things, even though you know them and are established in the truth  you now have. I think it is right, as long as I am in this bodily tent,  to wake you up with a reminder, since I know that I will soon lay aside my tent, as our Lord Jesus Christ has indeed made clear to me.  And I will also make every effort so that you are able to recall these things at any time after my departure. \n\nFor we did not follow cleverly contrived myths when we made known to you the power and coming of our Lord Jesus Christ;  instead, we were eyewitnesses of his majesty.  For he received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying “This is my beloved Son,  with whom I am well-pleased! ”  We ourselves heard this voice when it came from heaven while we were with him on the holy mountain.  We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place,  until the day dawns  and the morning star  rises in your hearts. Above all, you know this: No prophecy of Scripture comes from the prophet’s own interpretation, because no prophecy ever came by the will of man;  instead, men spoke from God as they were carried along by the Holy Spirit.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch1\" data-usfm=\"2PE.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greeting</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"label\">1</span><span class=\"content\">Simeon&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">Simon</span></span></span><span class=\"content\"> Peter,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Mt 16:17; Lk 6:14; Ac 10:32; 15:14</span></span></span><span class=\"content\"> a servant and an apostle&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Rm 1:1; Ti 1:1</span></span></span><span class=\"content\"> of Jesus Christ:</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"content\">To those who have received a faith equal to ours through the righteousness&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Rm 5:17,21; Php 1:11</span></span></span><span class=\"content\"> of our God and Savior&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Ti 2:13</span></span></span><span class=\"content\"> Jesus Christ.</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"2PE.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"label\">2</span><span class=\"content\">May grace and peace be multiplied to you through the knowledge of God&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Jn 17:3; Php 3:8; 2Pt 1:3,8; 2:20; 3:18</span></span></span><span class=\"content\"> and of Jesus our Lord.</span></span></div><div class=\"s1\"><span class=\"heading\">Growth in the Faith</span></div><div class=\"m\"><span class=\"verse v2\" data-usfm=\"2PE.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2PE.1.3\"><span class=\"label\">3</span><span class=\"content\">His&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Lit </span><span class=\"fqa\">As his</span></span></span><span class=\"content\"> divine power&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">1Pt 1:5</span></span></span><span class=\"content\"> has given us everything required for life and godliness through the knowledge&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Jn 17:3; Php 3:8; 2Pt 1:2,8; 2:20; 3:18</span></span></span><span class=\"content\"> of him who called&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">1Th 2:12; 2Th 2:14; 1Pt 5:10</span></span></span><span class=\"content\"> us by&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Or </span><span class=\"fqa\">to</span></span></span><span class=\"content\"> his own glory and goodness. </span></span><span class=\"verse v4\" data-usfm=\"2PE.1.4\"><span class=\"label\">4</span><span class=\"content\">By these he has given us very great and precious promises,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Jos 21:45; 1Kg 8:56; Is 38:16; Jr 33:14; Rm 9:4; 15:8; 2Co 7:1</span></span></span><span class=\"content\"> so that through them you may share in the divine nature,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Eph 4:24; Heb 12:10; 1Jn 3:2</span></span></span><span class=\"content\"> escaping the corruption that is in the world because of evil desire. </span></span><span class=\"verse v5\" data-usfm=\"2PE.1.5\"><span class=\"label\">5</span><span class=\"content\">For this very reason, make every effort to supplement your faith with goodness, goodness with knowledge, </span></span><span class=\"verse v6\" data-usfm=\"2PE.1.6\"><span class=\"label\">6</span><span class=\"content\">knowledge with self-control,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Ac 24:25; Gl 5:23</span></span></span><span class=\"content\"> self-control with endurance, endurance with godliness, </span></span><span class=\"verse v7\" data-usfm=\"2PE.1.7\"><span class=\"label\">7</span><span class=\"content\">godliness with brotherly affection,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:7 </span><span class=\"ft\">Rm 12:10; Heb 13:1; 1Pt 1:22</span></span></span><span class=\"content\"> and brotherly affection with love. </span></span><span class=\"verse v8\" data-usfm=\"2PE.1.8\"><span class=\"label\">8</span><span class=\"content\">For if you possess these qualities in increasing measure, they will keep you from being useless&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Jms 2:20</span></span></span><span class=\"content\"> or unfruitful&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Mt 7:16&#8211;21; Gl 5:22; Ti 3:14</span></span></span><span class=\"content\"> in the knowledge of our Lord Jesus Christ. </span></span><span class=\"verse v9\" data-usfm=\"2PE.1.9\"><span class=\"label\">9</span><span class=\"content\">The person who lacks these things is blind and shortsighted and has forgotten the cleansing from his past sins. </span></span><span class=\"verse v10\" data-usfm=\"2PE.1.10\"><span class=\"label\">10</span><span class=\"content\">Therefore, brothers and sisters, make every effort to confirm your calling and election,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Mt 22:14; Rm 11:29; 2Pt 1:3</span></span></span><span class=\"content\"> because if you do these things you will never stumble. </span></span><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"label\">11</span><span class=\"content\">For in this way, entry into the eternal kingdom&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">Col 1:13; 2Tm 4:18</span></span></span><span class=\"content\"> of our Lord and Savior Jesus Christ will be richly provided for you.</span></span></div><div class=\"p\"><span class=\"verse v11\" data-usfm=\"2PE.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2PE.1.12\"><span class=\"label\">12</span><span class=\"content\">Therefore I will always remind you about these things, even though you know them and are established in the truth&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">2Co 11:10; Col 1:5&#8211;6; 2Jn 2; 3Jn 3&#8211;4</span></span></span><span class=\"content\"> you now have. </span></span><span class=\"verse v13\" data-usfm=\"2PE.1.13\"><span class=\"label\">13</span><span class=\"content\">I think it is right, as long as I am in this bodily tent,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">2Co 5:1&#8211;4</span></span></span><span class=\"content\"> to wake you up with a reminder, </span></span><span class=\"verse v14\" data-usfm=\"2PE.1.14\"><span class=\"label\">14</span><span class=\"content\">since I know that I will soon lay aside my tent, as our Lord Jesus Christ has indeed made clear to me.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Jn 21:18&#8211;23</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"label\">15</span><span class=\"content\">And I will also make every effort so that you are able to recall these things at any time after my departure.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">Or </span><span class=\"fqa\">death</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">The Trustworthy Prophetic Word</span></div><div class=\"m\"><span class=\"verse v15\" data-usfm=\"2PE.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2PE.1.16\"><span class=\"label\">16</span><span class=\"content\">For we did not follow cleverly contrived myths when we made known to you the power and coming of our Lord Jesus Christ;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Mk 13:26; 14:62; 1Th 2:19</span></span></span><span class=\"content\"> instead, we were eyewitnesses of his majesty.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Mt 17:1&#8211;6</span></span></span><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.1.17\"><span class=\"label\">17</span><span class=\"content\">For he received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying &#8220;This is my beloved Son,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Or </span><span class=\"fqa\">my Son, my beloved</span></span></span><span class=\"content\"> with whom I am well-pleased!&#160;&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:17 </span><span class=\"ft\">Is 42:1; Mt 3:17; 17:5; Mk 1:11; 9:7; Lk 3:22</span></span></span><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2PE.1.18\"><span class=\"label\">18</span><span class=\"content\">We ourselves heard this voice when it came from heaven while we were with him on the holy mountain.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:18 </span><span class=\"ft\">Ps 2:6; Mt 17:1; Mk 9:2; Lk 9:28</span></span></span><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"2PE.1.19\"><span class=\"label\">19</span><span class=\"content\">We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:19 </span><span class=\"ft\">Ps 119:105</span></span></span><span class=\"content\"> until the day dawns&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:19 </span><span class=\"ft\">Mal 4:2; Rm 13:12; 2Pt 3:18</span></span></span><span class=\"content\"> and the morning star&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:19 </span><span class=\"ft\">Nm 24:17; Rv 22:16</span></span></span><span class=\"content\"> rises in your hearts. </span></span><span class=\"verse v20\" data-usfm=\"2PE.1.20\"><span class=\"label\">20</span><span class=\"content\">Above all, you know this: No prophecy of Scripture comes from the prophet&#8217;s own interpretation, </span></span><span class=\"verse v21\" data-usfm=\"2PE.1.21\"><span class=\"label\">21</span><span class=\"content\">because no prophecy ever came by the will of man;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:21 </span><span class=\"ft\">Jr 23:26; 2Tm 3:16</span></span></span><span class=\"content\"> instead, men spoke from God as they were carried along by the Holy Spirit.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:21 </span><span class=\"ft\">2Sm 23:2; Lk 1:70; Ac 1:16; 3:18; 1Pt 1:11</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Simeon Peter, a servant and an apostle of Jesus Christ:",
+            "To those who have received a faith equal to ours through the righteousness of our God and Savior Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "May grace and peace be multiplied to you through the knowledge of God and of Jesus our Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Growth in the Faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "His divine power has given us everything required for life and godliness through the knowledge of him who called us by his own glory and goodness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "By these he has given us very great and precious promises, so that through them you may share in the divine nature, escaping the corruption that is in the world because of evil desire."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "For this very reason, make every effort to supplement your faith with goodness, goodness with knowledge,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "knowledge with self-control, self-control with endurance, endurance with godliness,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "godliness with brotherly affection, and brotherly affection with love."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For if you possess these qualities in increasing measure, they will keep you from being useless or unfruitful in the knowledge of our Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The person who lacks these things is blind and shortsighted and has forgotten the cleansing from his past sins."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "Therefore, brothers and sisters, make every effort to confirm your calling and election, because if you do these things you will never stumble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For in this way, entry into the eternal kingdom of our Lord and Savior Jesus Christ will be richly provided for you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Therefore I will always remind you about these things, even though you know them and are established in the truth you now have."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I think it is right, as long as I am in this bodily tent, to wake you up with a reminder,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "since I know that I will soon lay aside my tent, as our Lord Jesus Christ has indeed made clear to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "And I will also make every effort so that you are able to recall these things at any time after my departure."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Trustworthy Prophetic Word"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "For we did not follow cleverly contrived myths when we made known to you the power and coming of our Lord Jesus Christ; instead, we were eyewitnesses of his majesty."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For he received honor and glory from God the Father when the voice came to him from the Majestic Glory, saying “This is my beloved Son, with whom I am well-pleased! ”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "We ourselves heard this voice when it came from heaven while we were with him on the holy mountain."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "We also have the prophetic word strongly confirmed, and you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Above all, you know this: No prophecy of Scripture comes from the prophet’s own interpretation,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "because no prophecy ever came by the will of man; instead, men spoke from God as they were carried along by the Holy Spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Peter 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.1"
+        ],
+        "human": "2 Peter 1",
+        "toc": true
+      },
+      "chapter_text": "There were indeed false prophets  among the people, just as there will be false teachers  among you. They will bring in destructive heresies, even denying the Master who bought  them, and will bring swift destruction on themselves. Many will follow their depraved ways, and the way of truth will be maligned because of them.  They will exploit  you in their greed  with made-up stories. Their condemnation,  pronounced long ago, is not idle, and their destruction does not sleep.\nFor if God didn’t spare  the angels who sinned but cast them into hell  , and delivered them in chains  of utter darkness to be kept for judgment;  and if he didn’t spare the ancient world, but protected Noah,  a preacher of righteousness, and seven others,  , when he brought the flood on the world of the ungodly; and if he reduced the cities of Sodom and Gomorrah  to ashes and condemned them to extinction,  making them an example of what is coming to the ungodly;  and if he rescued righteous Lot,  distressed by the depraved behavior of the immoral (for as that righteous man lived among them day by day, his righteous soul was tormented by the lawless deeds he saw and heard  ) #— # then the Lord knows how to rescue  the godly from trials and to keep the unrighteous under punishment for the day of judgment,  especially those who follow the polluting desires of the flesh and despise authority. \nBold, arrogant people! They are not afraid to slander the glorious ones; however, angels, who are greater in might and power, do not bring a slanderous charge against them before the Lord.  But these people, like irrational animals #— #creatures of instinct born to be caught and destroyed #— #slander what they do not understand, and in their destruction they too will be destroyed. They will be paid back with harm for the harm they have done. They consider it a pleasure to carouse in broad daylight. They are spots and blemishes, delighting in their deceptions  while they feast with you. They have eyes full of adultery  that never stop looking for sin. They seduce unstable people and have hearts trained in greed. Children under a curse!  They have gone astray by abandoning the straight path  and have followed the path of Balaam,  the son of Bosor,  who loved the wages of wickedness  but received a rebuke for his lawlessness: A speechless donkey spoke with a human voice and restrained the prophet’s madness. \nThese people are springs without water, mists driven by a storm. The gloom of darkness has been reserved for them.  For by uttering boastful, empty words,  they seduce, with fleshly desires and debauchery, people who have barely escaped  from those who live in error. They promise them freedom, but they themselves are slaves of corruption, since people are enslaved to whatever defeats them.  For if, having escaped the world’s impurity through the knowledge of the Lord  and Savior Jesus Christ,  they are again entangled in these things and defeated, the last state is worse for them than the first.  For it would have been better for them not to have known the way of righteousness  than, after knowing it, to turn back from the holy command  delivered  to them.  It has happened to them according to the true proverb: A dog returns to its own vomit,   , and, “A washed sow returns to wallowing in the mud.”",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk2PE\">\n      <div class=\"chapter ch2\" data-usfm=\"2PE.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">The Judgment of False Teachers</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.2.1\"><span class=\"label\">1</span><span class=\"content\">There were indeed false prophets&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Dt 13:1&#8211;5; Mt 7:15</span></span></span><span class=\"content\"> among the people, just as there will be false teachers&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Ac 20:29; 2Co 11:13&#8211;15; Gl 2:4; 1Tm 4:1; 2Tm 4:3</span></span></span><span class=\"content\"> among you. They will bring in destructive heresies, even denying the Master who bought&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">1Co 6:20; 7:23</span></span></span><span class=\"content\"> them, and will bring swift destruction on themselves. </span></span><span class=\"verse v2\" data-usfm=\"2PE.2.2\"><span class=\"label\">2</span><span class=\"content\">Many will follow their depraved ways, and the way of truth will be maligned because of them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Rm 2:24</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"label\">3</span><span class=\"content\">They will exploit&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Jms 4:13</span></span></span><span class=\"content\"> you in their greed&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Eph 5:3</span></span></span><span class=\"content\"> with made-up stories. Their condemnation,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Mt 12:41; 23:33; Rm 3:8</span></span></span><span class=\"content\"> pronounced long ago, is not idle, and their destruction does not sleep.</span></span></div><div class=\"p\"><span class=\"verse v3\" data-usfm=\"2PE.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"2PE.2.4\"><span class=\"label\">4</span><span class=\"content\">For if God didn&#8217;t spare&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Rm 8:32; Jd 6</span></span></span><span class=\"content\"> the angels who sinned but cast them into hell&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Gk </span><span class=\"fqa\">Tartarus</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Rv 20:2&#8211;3,10</span></span></span><span class=\"content\"> and delivered them in chains&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">in pits</span></span></span><span class=\"content\"> of utter darkness to be kept for judgment;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Mt 25:41</span></span></span><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"2PE.2.5\"><span class=\"label\">5</span><span class=\"content\">and if he didn&#8217;t spare the ancient world, but protected Noah,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Gn 5:29</span></span></span><span class=\"content\"> a preacher of righteousness, and seven others,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Lit </span><span class=\"fqa\">Noah, the eighth, a preacher of righteousness</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">1Pt 3:20</span></span></span><span class=\"content\"> when he brought the flood on the world of the ungodly; </span></span><span class=\"verse v6\" data-usfm=\"2PE.2.6\"><span class=\"label\">6</span><span class=\"content\">and if he reduced the cities of Sodom and Gomorrah&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Gn 19:24; Jd 7</span></span></span><span class=\"content\"> to ashes and condemned them to extinction,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Other mss omit </span><span class=\"fqa\">to extinction</span></span></span><span class=\"content\"> making them an example of what is coming to the ungodly;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Is 1:9; Jd 15</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2PE.2.7\"><span class=\"label\">7</span><span class=\"content\">and if he rescued righteous Lot,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">Gn 19:16</span></span></span><span class=\"content\"> distressed by the depraved behavior of the immoral </span></span><span class=\"verse v8\" data-usfm=\"2PE.2.8\"><span class=\"label\">8</span><span class=\"content\">(for as that righteous man lived among them day by day, his righteous soul was tormented by the lawless deeds he saw and heard&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Ps 119:136,158; Ezk 9:4</span></span></span><span class=\"content\">)&#160;#&#8212;&#160;# </span></span><span class=\"verse v9\" data-usfm=\"2PE.2.9\"><span class=\"label\">9</span><span class=\"content\">then the Lord knows how to rescue&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">1Co 10:13</span></span></span><span class=\"content\"> the godly from trials and to keep the unrighteous under punishment for the day of judgment,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Mt 10:15; Jd 6</span></span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"label\">10</span><span class=\"content\">especially those who follow the polluting desires of the flesh and despise authority.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:10&#8211;13 </span><span class=\"ft\">Jd 8&#8211;12</span></span></span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"2PE.2.10\"><span class=\"content\">Bold, arrogant people! They are not afraid to slander the glorious ones; </span></span><span class=\"verse v11\" data-usfm=\"2PE.2.11\"><span class=\"label\">11</span><span class=\"content\">however, angels, who are greater in might and power, do not bring a slanderous charge against them before the Lord.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:11 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">them from the Lord</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"2PE.2.12\"><span class=\"label\">12</span><span class=\"content\">But these people, like irrational animals&#160;#&#8212;&#160;#creatures of instinct born to be caught and destroyed&#160;#&#8212;&#160;#slander what they do not understand, and in their destruction they too will be destroyed. </span></span><span class=\"verse v13\" data-usfm=\"2PE.2.13\"><span class=\"label\">13</span><span class=\"content\">They will be paid back with harm for the harm they have done. They consider it a pleasure to carouse in broad daylight. They are spots and blemishes, delighting in their deceptions&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">delighting in the love feasts</span></span></span><span class=\"content\"> while they feast with you. </span></span><span class=\"verse v14\" data-usfm=\"2PE.2.14\"><span class=\"label\">14</span><span class=\"content\">They have eyes full of adultery&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:14 </span><span class=\"ft\">Mt 5:27&#8211;28</span></span></span><span class=\"content\"> that never stop looking for sin. They seduce unstable people and have hearts trained in greed. Children under a curse!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:14 </span><span class=\"ft\">Jr 23:14; Hs 4:2; Eph 2:3; Heb 2:13</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2PE.2.15\"><span class=\"label\">15</span><span class=\"content\">They have gone astray by abandoning the straight path&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15 </span><span class=\"ft\">Ac 13:10</span></span></span><span class=\"content\"> and have followed the path of Balaam,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15 </span><span class=\"ft\">Nm 22:5&#8211;7; Dt 23:4; Neh 13:2; Jd 11; Rv 2:14</span></span></span><span class=\"content\"> the son of Bosor,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">Beor</span></span></span><span class=\"content\"> who loved the wages of wickedness&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15 </span><span class=\"ft\">Hs 9:1; Mc 1:7; Ac 1:18</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"label\">16</span><span class=\"content\">but received a rebuke for his lawlessness: A speechless donkey spoke with a human voice and restrained the prophet&#8217;s madness.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:16 </span><span class=\"ft\">Nm 22:22&#8211;35</span></span></span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.2.17\"><span class=\"label\">17</span><span class=\"content\">These people are springs without water, mists driven by a storm. The gloom of darkness has been reserved for them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:17 </span><span class=\"ft\">Jd 13</span></span></span><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"2PE.2.18\"><span class=\"label\">18</span><span class=\"content\">For by uttering boastful, empty words,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:18 </span><span class=\"ft\">Jd 16</span></span></span><span class=\"content\"> they seduce, with fleshly desires and debauchery, people who have barely escaped&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:18 </span><span class=\"ft\">Or </span><span class=\"fqa\">people who are actually escaping</span></span></span><span class=\"content\"> from those who live in error. </span></span><span class=\"verse v19\" data-usfm=\"2PE.2.19\"><span class=\"label\">19</span><span class=\"content\">They promise them freedom, but they themselves are slaves of corruption, since people are enslaved to whatever defeats them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:19 </span><span class=\"ft\">Jn 8:34; Rm 6:16; 7:5</span></span></span><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"2PE.2.20\"><span class=\"label\">20</span><span class=\"content\">For if, having escaped the world&#8217;s impurity through the knowledge of the Lord&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:20 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">our Lord</span></span></span><span class=\"content\"> and Savior Jesus Christ,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:20 </span><span class=\"ft\">2Pt 1:2</span></span></span><span class=\"content\"> they are again entangled in these things and defeated, the last state is worse for them than the first.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:20 </span><span class=\"ft\">Mt 12:45; Lk 11:26</span></span></span><span class=\"content\">  </span></span><span class=\"verse v21\" data-usfm=\"2PE.2.21\"><span class=\"label\">21</span><span class=\"content\">For it would have been better for them not to have known the way of righteousness&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:21 </span><span class=\"ft\">Pr 8:20; 12:28; 16:31; 21:21; Mt 21:32</span></span></span><span class=\"content\"> than, after knowing it, to turn back from the holy command&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:21 </span><span class=\"ft\">Rm 7:12; 1Tm 6:14</span></span></span><span class=\"content\"> delivered&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:21 </span><span class=\"ft\">Jd 3</span></span></span><span class=\"content\"> to them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:21 </span><span class=\"ft\">Ezk 18:1&#8211;32; Heb 6:4&#8211;6; 10:26&#8211;27</span></span></span><span class=\"content\">  </span></span><span class=\"verse v22\" data-usfm=\"2PE.2.22\"><span class=\"label\">22</span><span class=\"content\">It has happened to them according to the true proverb: </span><span class=\"qt\"><span class=\"content\">A dog returns to its own vomit,</span></span><span class=\"content\"> &#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:22 </span><span class=\"ft\">Pr 26:11</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:22 </span><span class=\"ft\">Pr 26:11</span></span></span><span class=\"content\"> and, &#8220;A washed sow returns to wallowing in the mud.&#8221;</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Judgment of False Teachers"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "There were indeed false prophets among the people, just as there will be false teachers among you. They will bring in destructive heresies, even denying the Master who bought them, and will bring swift destruction on themselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Many will follow their depraved ways, and the way of truth will be maligned because of them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "They will exploit you in their greed with made-up stories. Their condemnation, pronounced long ago, is not idle, and their destruction does not sleep."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "For if God didn’t spare the angels who sinned but cast them into hell , and delivered them in chains of utter darkness to be kept for judgment;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "and if he didn’t spare the ancient world, but protected Noah, a preacher of righteousness, and seven others, , when he brought the flood on the world of the ungodly;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "and if he reduced the cities of Sodom and Gomorrah to ashes and condemned them to extinction, making them an example of what is coming to the ungodly;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "and if he rescued righteous Lot, distressed by the depraved behavior of the immoral"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "(for as that righteous man lived among them day by day, his righteous soul was tormented by the lawless deeds he saw and heard ) #— #"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "then the Lord knows how to rescue the godly from trials and to keep the unrighteous under punishment for the day of judgment,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "especially those who follow the polluting desires of the flesh and despise authority.",
+            "Bold, arrogant people! They are not afraid to slander the glorious ones;"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "however, angels, who are greater in might and power, do not bring a slanderous charge against them before the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "But these people, like irrational animals #— #creatures of instinct born to be caught and destroyed #— #slander what they do not understand, and in their destruction they too will be destroyed."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "They will be paid back with harm for the harm they have done. They consider it a pleasure to carouse in broad daylight. They are spots and blemishes, delighting in their deceptions while they feast with you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "They have eyes full of adultery that never stop looking for sin. They seduce unstable people and have hearts trained in greed. Children under a curse!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "They have gone astray by abandoning the straight path and have followed the path of Balaam, the son of Bosor, who loved the wages of wickedness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "but received a rebuke for his lawlessness: A speechless donkey spoke with a human voice and restrained the prophet’s madness."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "These people are springs without water, mists driven by a storm. The gloom of darkness has been reserved for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "For by uttering boastful, empty words, they seduce, with fleshly desires and debauchery, people who have barely escaped from those who live in error."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "They promise them freedom, but they themselves are slaves of corruption, since people are enslaved to whatever defeats them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "For if, having escaped the world’s impurity through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in these things and defeated, the last state is worse for them than the first."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "For it would have been better for them not to have known the way of righteousness than, after knowing it, to turn back from the holy command delivered to them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "It has happened to them according to the true proverb: A dog returns to its own vomit, , and, “A washed sow returns to wallowing in the mud.”"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "2PE.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "2PE.3"
+        ],
+        "human": "2 Peter 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "1JN.1"
+        ],
+        "human": "1 John 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2PE.2"
+        ],
+        "human": "2 Peter 2",
+        "toc": true
+      },
+      "chapter_text": "Dear friends, this is now the second letter  I have written to you; in both letters, I want to stir up your sincere  understanding by way of reminder, so that you recall the words previously spoken by the holy prophets and the command of our Lord and Savior given through your apostles. Above all, be aware of this: Scoffers will come in the last days  scoffing and following their own evil desires, saying, “Where is his ‘coming’ that he promised?  Ever since our ancestors fell asleep,  all things continue as they have been since the beginning of creation.” They deliberately overlook this: By the word of God  the heavens came into being long ago and the earth was brought about from water and through water.  Through these the world of that time perished when it was flooded.  By the same word,  the present heavens and earth are stored up for fire, being kept for the day of judgment  and destruction of the ungodly.\nDear friends, don’t overlook this one fact: With the Lord one day is like a thousand years, and a thousand years like one day.  The Lord does not delay his promise,  as some understand delay, but is patient with you, not wanting any  to perish  but all to come to repentance. \nBut the day of the Lord  will come like a thief;  , on that day the heavens will pass away  with a loud noise, the elements will burn and be dissolved,  and the earth and the works on it will be disclosed.  , Since all these things are to be dissolved in this way, it is clear what sort of people you should be in holy conduct and godliness as you wait for the day of God and hasten its coming.  , Because of that day, the heavens will be dissolved with fire and the elements will melt with heat. But based on his promise, we wait for new heavens and a new earth,  where righteousness dwells. \n\nTherefore, dear friends, while you wait for these things, make every effort to be found without spot or blemish in his sight, at peace.  Also, regard the patience of our Lord as salvation, just as our dear brother Paul has written to you according to the wisdom given to him.  He speaks about these things in all his letters. There are some things hard to understand in them. The untaught and unstable will twist them to their own destruction,  as they also do with the rest of the Scriptures.\nTherefore, dear friends, since you know this in advance, be on your guard,  so that you are not led away by the error of lawless people and fall from your own stable position. But grow in the grace and knowledge  of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity.  ,",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n    <div class=\"book bk2PE\">\n        <div class=\"chapter ch3\" data-usfm=\"2PE.3\">\n            <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">The Day of the Lord</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"2PE.3.1\"><span class=\"label\">1</span><span class=\"content\">Dear friends, this is now the second letter&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">1Pt 1:1</span></span></span><span class=\"content\"> I have written to you; in both letters, I want to stir up your sincere&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Php 1:10</span></span></span><span class=\"content\"> understanding by way of reminder, </span></span><span class=\"verse v2\" data-usfm=\"2PE.3.2\"><span class=\"label\">2</span><span class=\"content\">so that you recall the words previously spoken by the holy prophets and the command of our Lord and Savior given through your apostles. </span></span><span class=\"verse v3\" data-usfm=\"2PE.3.3\"><span class=\"label\">3</span><span class=\"content\">Above all, be aware of this: Scoffers will come in the last days&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">2Tm 3:1; Heb 1:2; Jms 5:3; 1Pt 1:20</span></span></span><span class=\"content\"> scoffing and following their own evil desires, </span></span><span class=\"verse v4\" data-usfm=\"2PE.3.4\"><span class=\"label\">4</span><span class=\"content\">saying, &#8220;Where is his &#8216;coming&#8217; that he promised?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:4 </span><span class=\"ft\">1Th 2:19; 2Pt 3:12</span></span></span><span class=\"content\"> Ever since our ancestors fell asleep,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:4 </span><span class=\"ft\">Ac 7:60</span></span></span><span class=\"content\"> all things continue as they have been since the beginning of creation.&#8221; </span></span><span class=\"verse v5\" data-usfm=\"2PE.3.5\"><span class=\"label\">5</span><span class=\"content\">They deliberately overlook this: By the word of God&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:5 </span><span class=\"ft\">Gn 1:3&#8211;30; Ps 148:5; Jn 1:1&#8211;3; Heb 4:12; 11:3</span></span></span><span class=\"content\"> the heavens came into being long ago and the earth was brought about from water and through water.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:5 </span><span class=\"ft\">Ps 24:1&#8211;2; 33:6&#8211;7; 136:5&#8211;6; Pr 8:24&#8211;29</span></span></span><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"2PE.3.6\"><span class=\"label\">6</span><span class=\"content\">Through these the world of that time perished when it was flooded.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">2Pt 2:5</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"label\">7</span><span class=\"content\">By the same word,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:7 </span><span class=\"ft\">Is 66:15&#8211;16; Ezk 38:22; Am 7:4; Zph 1:18; Mal 4:1</span></span></span><span class=\"content\"> the present heavens and earth are stored up for fire, being kept for the day of judgment&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:7 </span><span class=\"ft\">Php 1:6; 2Th 1:5; 1Jn 4:17</span></span></span><span class=\"content\"> and destruction of the ungodly.</span></span></div><div class=\"p\"><span class=\"verse v7\" data-usfm=\"2PE.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"2PE.3.8\"><span class=\"label\">8</span><span class=\"content\">Dear friends, don&#8217;t overlook this one fact: With the Lord one day is like a thousand years, and a thousand years like one day.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Ps 90:4</span></span></span><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"label\">9</span><span class=\"content\">The Lord does not delay his promise,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Hab 2:3</span></span></span><span class=\"content\"> as some understand delay, but is patient with you, not wanting any&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Ti 2:11</span></span></span><span class=\"content\"> to perish&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Ezk 18:23,32; 33:11; 1Tm 2:4</span></span></span><span class=\"content\"> but all to come to repentance.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Jl 2:12&#8211;13; Jnh 3:10; 4:2; Ac 17:31; Rm 2:4</span></span></span></span></div><div class=\"p\"><span class=\"verse v9\" data-usfm=\"2PE.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"2PE.3.10\"><span class=\"label\">10</span><span class=\"content\">But the day of the Lord&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Php 1:6</span></span></span><span class=\"content\"> will come like a thief;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">in the night</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Mt 24:43; Lk 12:39; 1Th 5:2</span></span></span><span class=\"content\"> on that day the heavens will pass away&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Mt 5:18; 24:35; Rv 21:1</span></span></span><span class=\"content\"> with a loud noise, the elements will burn and be dissolved,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Is 24:19; Mc 1:4</span></span></span><span class=\"content\"> and the earth and the works on it will be disclosed.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">will be burned up</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Some Syriac and Coptic mss read </span><span class=\"fqa\">will not be found</span></span></span><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"2PE.3.11\"><span class=\"label\">11</span><span class=\"content\">Since all these things are to be dissolved in this way, it is clear what sort of people you should be in holy conduct and godliness </span></span><span class=\"verse v12\" data-usfm=\"2PE.3.12\"><span class=\"label\">12</span><span class=\"content\">as you wait for the day of God and hasten its coming.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:12 </span><span class=\"ft\">Or </span><span class=\"fqa\">and speed the coming</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:12 </span><span class=\"ft\">Lk 12:36; 1Co 1:7; 1Th 1:10; Ti 2:13; Jd 21</span></span></span><span class=\"content\"> Because of that day, the heavens will be dissolved with fire and the elements will melt with heat. </span></span><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"label\">13</span><span class=\"content\">But based on his promise, we wait for new heavens and a new earth,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:13 </span><span class=\"ft\">Is 65:17; 66:22; Mt 19:28; Rm 8:21; Rv 21:1</span></span></span><span class=\"content\"> where righteousness dwells.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:13 </span><span class=\"ft\">Is 32:16; Rm 14:17</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Conclusion</span></div><div class=\"m\"><span class=\"verse v13\" data-usfm=\"2PE.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"2PE.3.14\"><span class=\"label\">14</span><span class=\"content\">Therefore, dear friends, while you wait for these things, make every effort to be found without spot or blemish in his sight, at peace.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:14 </span><span class=\"ft\">Php 2:15; 1Th 5:23; 1Tm 6:14; Jms 1:27</span></span></span><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"2PE.3.15\"><span class=\"label\">15</span><span class=\"content\">Also, regard the patience of our Lord as salvation, just as our dear brother Paul has written to you according to the wisdom given to him.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:15 </span><span class=\"ft\">Ac 9:17; 15:25; 2Pt 3:2</span></span></span><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"label\">16</span><span class=\"content\">He speaks about these things in all his letters. There are some things hard to understand in them. The untaught and unstable will twist them to their own destruction,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Heb 5:11; 2Pt 2:14</span></span></span><span class=\"content\"> as they also do with the rest of the Scriptures.</span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"2PE.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"2PE.3.17\"><span class=\"label\">17</span><span class=\"content\">Therefore, dear friends, since you know this in advance, be on your guard,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:17 </span><span class=\"ft\">Lk 12:15; 2Tm 1:14; 4:15</span></span></span><span class=\"content\"> so that you are not led away by the error of lawless people and fall from your own stable position. </span></span><span class=\"verse v18\" data-usfm=\"2PE.3.18\"><span class=\"label\">18</span><span class=\"content\">But grow in the grace and knowledge&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">2Pt 1:2</span></span></span><span class=\"content\"> of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">Other mss add </span><span class=\"fqa\">Amen.</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">Rm 11:36; 2Tm 4:18; Rv 1:6</span></span></span></span></div>\n        </div>\n    </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Day of the Lord"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Dear friends, this is now the second letter I have written to you; in both letters, I want to stir up your sincere understanding by way of reminder,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "so that you recall the words previously spoken by the holy prophets and the command of our Lord and Savior given through your apostles."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Above all, be aware of this: Scoffers will come in the last days scoffing and following their own evil desires,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "saying, “Where is his ‘coming’ that he promised? Ever since our ancestors fell asleep, all things continue as they have been since the beginning of creation.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "They deliberately overlook this: By the word of God the heavens came into being long ago and the earth was brought about from water and through water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Through these the world of that time perished when it was flooded."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "By the same word, the present heavens and earth are stored up for fire, being kept for the day of judgment and destruction of the ungodly."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Dear friends, don’t overlook this one fact: With the Lord one day is like a thousand years, and a thousand years like one day."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "The Lord does not delay his promise, as some understand delay, but is patient with you, not wanting any to perish but all to come to repentance."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "But the day of the Lord will come like a thief; , on that day the heavens will pass away with a loud noise, the elements will burn and be dissolved, and the earth and the works on it will be disclosed. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Since all these things are to be dissolved in this way, it is clear what sort of people you should be in holy conduct and godliness"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "as you wait for the day of God and hasten its coming. , Because of that day, the heavens will be dissolved with fire and the elements will melt with heat."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "But based on his promise, we wait for new heavens and a new earth, where righteousness dwells."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Conclusion"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "Therefore, dear friends, while you wait for these things, make every effort to be found without spot or blemish in his sight, at peace."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Also, regard the patience of our Lord as salvation, just as our dear brother Paul has written to you according to the wisdom given to him."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "He speaks about these things in all his letters. There are some things hard to understand in them. The untaught and unstable will twist them to their own destruction, as they also do with the rest of the Scriptures."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Therefore, dear friends, since you know this in advance, be on your guard, so that you are not led away by the error of lawless people and fall from your own stable position."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. ,"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

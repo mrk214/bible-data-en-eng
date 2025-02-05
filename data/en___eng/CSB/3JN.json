@@ -1,0 +1,207 @@
+{
+  "book_usfm": "3JN",
+  "name": "3 John",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "3JN.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "3JN.1"
+        ],
+        "human": "3 John 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "JUD.1"
+        ],
+        "human": "Jude 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "2JN.1"
+        ],
+        "human": "2 John 1",
+        "toc": true
+      },
+      "chapter_text": "The elder: \nTo my dear friend Gaius, whom I love in the truth. \nDear friend, I pray that you are prospering in every way and are in good health,  just as your whole life is going well.  For I was very glad when fellow believers came and testified  to your fidelity to the truth #— #how you are walking in truth.  I have no greater joy  than this: to hear that my children  are walking in truth.\n\nDear friend, you are acting faithfully in whatever you do for the brothers and sisters, especially when they are strangers. They have testified to your love before the church.  You will do well to send them on their journey  in a manner worthy of God,  since they set out for the sake of the Name,  accepting nothing from pagans.  , Therefore, we ought to support such people so that we can be coworkers with the truth.\n\nI wrote something to the church, but Diotrephes, who loves to have first place among them,  does not receive our authority.  This is why, if I come, I will remind him of the works he is doing, slandering  us with malicious words. And he is not satisfied with that! He not only refuses to welcome fellow believers, but he even stops those who want to do so and expels them from the church.\nDear friend, do not imitate what is evil,  but what is good. The one who does good is of God;  the one who does evil has not seen God.  Everyone speaks well of Demetrius #— #even the truth itself. And we also speak well of him, and you know  that our testimony is true. \n\nI have many things to write you, but I don’t want to write to you with pen and ink. I hope to see you soon, and we will talk face to face.\nPeace to you. The friends send you greetings. Greet the friends by name.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bk3JN\">\n      <div class=\"chapter ch1\" data-usfm=\"3JN.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greeting</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"label\">1</span><span class=\"content\">The elder:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1 </span><span class=\"ft\">2Jn 1</span></span></span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"content\">To my dear friend Gaius, whom I love in the truth.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1 </span><span class=\"ft\">Jn 14:6; 1Jn 5:20</span></span></span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"3JN.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"3JN.1.2\"><span class=\"label\">2</span><span class=\"content\">Dear friend, I pray that you are prospering in every way and are in good health,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2 </span><span class=\"ft\">1Tm 1:10</span></span></span><span class=\"content\"> just as your whole life is going well.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2 </span><span class=\"ft\">Or </span><span class=\"fqa\">as your soul prospers</span></span></span><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"3JN.1.3\"><span class=\"label\">3</span><span class=\"content\">For I was very glad when fellow believers came and testified&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3 </span><span class=\"ft\">Jn 15:26; Ac 26:5</span></span></span><span class=\"content\"> to your fidelity to the truth&#160;#&#8212;&#160;#how you are walking in truth.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3 </span><span class=\"ft\">2Jn 4</span></span></span><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"label\">4</span><span class=\"content\">I have no greater joy&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4 </span><span class=\"ft\">Jn 15:11</span></span></span><span class=\"content\"> than this: to hear that my children&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">4 </span><span class=\"ft\">1Co 4:14; Gl 4:19; Php 2:22</span></span></span><span class=\"content\"> are walking in truth.</span></span></div><div class=\"s1\"><span class=\"heading\">Gaius Commended</span></div><div class=\"m\"><span class=\"verse v4\" data-usfm=\"3JN.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"3JN.1.5\"><span class=\"label\">5</span><span class=\"content\">Dear friend, you are acting faithfully in whatever you do for the brothers and sisters, especially when they are strangers. </span></span><span class=\"verse v6\" data-usfm=\"3JN.1.6\"><span class=\"label\">6</span><span class=\"content\">They have testified to your love before the church.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6 </span><span class=\"ft\">Mt 16:18; 1Co 14:4; Rv 1:4</span></span></span><span class=\"content\"> You will do well to send them on their journey&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6 </span><span class=\"ft\">Ac 15:3; 20:38; 21:5; Rm 15:24; 1Co 16:6; 2Co 1:16; Ti 3:13</span></span></span><span class=\"content\"> in a manner worthy of God,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6 </span><span class=\"ft\">1Co 10:31; 1Th 2:12</span></span></span><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"3JN.1.7\"><span class=\"label\">7</span><span class=\"content\">since they set out for the sake of the Name,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">7 </span><span class=\"ft\">Jn 10:25; Ac 15:14; Rv 14:1</span></span></span><span class=\"content\"> accepting nothing from pagans.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">7 </span><span class=\"ft\">Or </span><span class=\"fqa\">Gentiles</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">7 </span><span class=\"ft\">1Co 9:15&#8211;18</span></span></span><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"label\">8</span><span class=\"content\">Therefore, we ought to support such people so that we can be coworkers with the truth.</span></span></div><div class=\"s1\"><span class=\"heading\">Diotrephes and Demetrius</span></div><div class=\"m\"><span class=\"verse v8\" data-usfm=\"3JN.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"3JN.1.9\"><span class=\"label\">9</span><span class=\"content\">I wrote something to the church, but Diotrephes, who loves to have first place among them,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">9 </span><span class=\"ft\">Mt 20:25&#8211;28; 23:5&#8211;12; Col 1:18; 1Pt 5:2&#8211;3; 2Jn 9</span></span></span><span class=\"content\"> does not receive our authority.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">9 </span><span class=\"ft\">Ac 18:27; Rm 16:1&#8211;2; 2Co 3:1</span></span></span><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"label\">10</span><span class=\"content\">This is why, if I come, I will remind him of the works he is doing, slandering&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">10 </span><span class=\"ft\">1Tm 5:13</span></span></span><span class=\"content\"> us with malicious words. And he is not satisfied with that! He not only refuses to welcome fellow believers, but he even stops those who want to do so and expels them from the church.</span></span></div><div class=\"p\"><span class=\"verse v10\" data-usfm=\"3JN.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"3JN.1.11\"><span class=\"label\">11</span><span class=\"content\">Dear friend, do not imitate what is evil,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">11 </span><span class=\"ft\">1Pt 3:17</span></span></span><span class=\"content\"> but what is good. The one who does good is of God;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">11 </span><span class=\"ft\">1Jn 4:4</span></span></span><span class=\"content\"> the one who does evil has not seen God.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">11 </span><span class=\"ft\">Ex 33:20</span></span></span><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"label\">12</span><span class=\"content\">Everyone speaks well of Demetrius&#160;#&#8212;&#160;#even the truth itself. And we also speak well of him, and you know&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">12 </span><span class=\"ft\">1Jn 2:20&#8211;21</span></span></span><span class=\"content\"> that our testimony is true.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">12 </span><span class=\"ft\">Jn 21:24</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Farewell</span></div><div class=\"m\"><span class=\"verse v12\" data-usfm=\"3JN.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"3JN.1.13\"><span class=\"label\">13</span><span class=\"content\">I have many things to write you, but I don&#8217;t want to write to you with pen and ink. </span></span><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"label\">14</span><span class=\"content\">I hope to see you soon, and we will talk face to face.</span></span></div><div class=\"p\"><span class=\"verse v14\" data-usfm=\"3JN.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"3JN.1.15\"><span class=\"label\">15</span><span class=\"content\">Peace to you. The friends send you greetings. Greet the friends by name.</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The elder:",
+            "To my dear friend Gaius, whom I love in the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Dear friend, I pray that you are prospering in every way and are in good health, just as your whole life is going well."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For I was very glad when fellow believers came and testified to your fidelity to the truth #— #how you are walking in truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I have no greater joy than this: to hear that my children are walking in truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Gaius Commended"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Dear friend, you are acting faithfully in whatever you do for the brothers and sisters, especially when they are strangers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "They have testified to your love before the church. You will do well to send them on their journey in a manner worthy of God,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "since they set out for the sake of the Name, accepting nothing from pagans. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Therefore, we ought to support such people so that we can be coworkers with the truth."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Diotrephes and Demetrius"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I wrote something to the church, but Diotrephes, who loves to have first place among them, does not receive our authority."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "This is why, if I come, I will remind him of the works he is doing, slandering us with malicious words. And he is not satisfied with that! He not only refuses to welcome fellow believers, but he even stops those who want to do so and expels them from the church."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Dear friend, do not imitate what is evil, but what is good. The one who does good is of God; the one who does evil has not seen God."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Everyone speaks well of Demetrius #— #even the truth itself. And we also speak well of him, and you know that our testimony is true."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Farewell"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I have many things to write you, but I don’t want to write to you with pen and ink."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "I hope to see you soon, and we will talk face to face."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Peace to you. The friends send you greetings. Greet the friends by name."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

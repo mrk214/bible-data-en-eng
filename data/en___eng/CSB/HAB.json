@@ -1,0 +1,781 @@
+{
+  "book_usfm": "HAB",
+  "name": "Habakkuk",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "HAB.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "NAM.3"
+        ],
+        "human": "Nahum 3",
+        "toc": true
+      },
+      "chapter_text": "The pronouncement  that the prophet Habakkuk saw. \n\nHow long,  LORD, must I call for help \nand you do not listen\nor cry out to you about violence \nand you do not save?\nWhy do you force me to look at injustice? \nWhy do you tolerate   wrongdoing?\nOppression and violence are right in front of me.\nStrife is ongoing, and conflict escalates.\nThis is why the law is ineffective\nand justice never emerges.\nFor the wicked restrict  the righteous;\ntherefore, justice  comes out perverted.\n\nLook at the nations  , and observe   —\nbe utterly astounded! \nFor I am doing something in your days\nthat you will not believe \nwhen you hear about it. \nLook! I am raising up  the Chaldeans, \nthat bitter,  impetuous nation\nthat marches across the earth’s open spaces\nto seize territories not its own.\nThey are fierce  and terrifying;\ntheir views of justice and sovereignty\nstem from themselves.\nTheir horses are swifter  than leopards \nand more fierce  than wolves of the night.\nTheir horsemen charge ahead;\ntheir horsemen come from distant lands.\nThey fly like eagles, swooping to devour. \nAll of them come to do violence;\ntheir faces  are set in determination. \nThey gather  prisoners like sand. \nThey mock   kings,\nand rulers are a joke to them.\nThey laugh  at every fortress\nand build siege ramps to capture   it.\nThen they sweep  by like the wind\nand pass through.\nThey are guilty;  their strength is their god.\n\nAre you not from eternity, LORD  my God? \nMy Holy One,  you   will not die.\nLORD, you appointed them to execute judgment;\nmy Rock,  you destined them to punish us.\nYour eyes  are too pure  to look on evil,\nand you cannot tolerate wrongdoing.\nSo why do you tolerate those who are treacherous? \nWhy are you silent\nwhile one  who is wicked swallows up\none  who is more righteous than himself?\nYou have made mankind\nlike the fish of the sea, \nlike marine creatures that have no ruler.\nThe Chaldeans pull them all up with a hook,\ncatch them in their dragnet, \nand gather them in their fishing net;\nthat is why they are glad and rejoice.\nThat is why they sacrifice to their dragnet\nand burn incense to their fishing net,\nfor by these things their portion is rich\nand their food plentiful. \nWill they therefore empty their net\nand continually slaughter nations without mercy?",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch1\" data-usfm=\"HAB.1\">\n         <div class=\"label\">1</div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.1.1\"><span class=\"label\">1</span><span class=\"content\">The pronouncement&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Is 13:1; 30:6; Jr 18:18; Ezk 12:10; Hab 1:1; Zch 9:1; 12:1; Mal 1:1</span></span></span><span class=\"content\"> that the prophet Habakkuk saw.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:1 </span><span class=\"ft\">Nm 24:4; Jb 19:26; Is 13:1</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Habakkuk&#8217;s First Prayer</span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.1.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"label\">2</span><span class=\"content\">How long,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Ps 4:2; 6:3; 13:1</span></span></span><span class=\"content\">  </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, must&#160;I&#160;call for&#160;help&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Jb 19:7; Ps 5:2; Lm 3:8</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">and you do&#160;not&#160;listen</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">or cry out to&#160;you about&#160;violence&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:2 </span><span class=\"ft\">Jr 6:7; Ezk 7:11,23; 8:17; 12:19; 45:9; Mc 6:12; Hab 1:9; 2:8,17</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">and you do&#160;not&#160;save?</span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"label\">3</span><span class=\"content\">Why do you force&#160;me to&#160;look at&#160;injustice?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Jb 4:8; Ps 5:5; Is 5:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">Why do you tolerate&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:3 </span><span class=\"ft\">Lit </span><span class=\"fqa\">observe</span><span class=\"ft\">, also in v.&#160;13</span></span></span><span class=\"content\"> &#160;wrongdoing?</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">Oppression and violence are&#160;right in&#160;front&#160;of&#160;me.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">Strife is ongoing, and&#160;conflict&#160;escalates.</span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"label\">4</span><span class=\"content\">This is why the&#160;law is&#160;ineffective</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">and justice never&#160;emerges.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">For the wicked restrict&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Jdg 20:43; Ps 22:12</span></span></span><span class=\"content\"> the&#160;righteous;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">therefore, justice&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:4 </span><span class=\"ft\">Ex 23:6</span></span></span><span class=\"content\"> comes&#160;out&#160;perverted.</span></span></div><div class=\"s1\"><span class=\"heading\">God&#8217;s First Answer</span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.1.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"label\">5</span><span class=\"content\">Look at the nations&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">DSS, LXX, Syr read </span><span class=\"fqa\">Look, you treacherous people</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Ps 2:1</span></span></span><span class=\"content\"> and&#160;observe&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Gn 15:5</span></span></span><span class=\"content\"> &#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">be utterly astounded!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Gn 43:33; Ps 48:5; Ec 5:8</span></span></span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">For I am&#160;doing&#160;something in&#160;your&#160;days</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">that you will&#160;not&#160;believe&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Gn 15:6</span></span></span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">when you hear about&#160;it.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:5 </span><span class=\"ft\">Ac 13:41</span></span></span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.1.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"label\">6</span><span class=\"content\">Look! I am raising&#160;up&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Ru 4:5</span></span></span><span class=\"content\"> the&#160;Chaldeans,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">= the Babylonians</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">that bitter,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:6 </span><span class=\"ft\">Jdg 18:25</span></span></span><span class=\"content\"> impetuous&#160;nation</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">that marches across the&#160;earth&#8217;s&#160;open&#160;spaces</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">to seize territories not&#160;its&#160;own.</span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.1.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"label\">7</span><span class=\"content\">They are fierce&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:7 </span><span class=\"ft\">Sg 6:4,10</span></span></span><span class=\"content\"> and&#160;terrifying;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"content\">their views of justice and&#160;sovereignty</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"content\">stem from&#160;themselves.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"label\">8</span><span class=\"content\">Their horses are&#160;swifter&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">2Sm 1:23</span></span></span><span class=\"content\"> than&#160;leopards&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Is 11:6; Jr 5:6; 13:23; Hs 13:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">and more fierce&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Or </span><span class=\"fqa\">and quicker</span></span></span><span class=\"content\"> than&#160;wolves of&#160;the&#160;night.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">Their horsemen charge&#160;ahead;</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">their horsemen come from&#160;distant&#160;lands.</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">They fly like&#160;eagles, swooping&#160;to&#160;devour.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:8 </span><span class=\"ft\">Dt 28:49</span></span></span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.1.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"label\">9</span><span class=\"content\">All of them come to&#160;do&#160;violence;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">their faces&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Gn 48:11</span></span></span><span class=\"content\"> are&#160;set in&#160;determination.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Hb obscure</span></span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">They gather&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Dt 11:14</span></span></span><span class=\"content\"> prisoners like&#160;sand.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:9 </span><span class=\"ft\">Jos 11:4</span></span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.1.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"label\">10</span><span class=\"content\">They mock&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">2Kg 2:23</span></span></span><span class=\"content\"> &#160;kings,</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">and rulers are a&#160;joke to&#160;them.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">They laugh&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">2Ch 30:10</span></span></span><span class=\"content\"> at&#160;every&#160;fortress</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">and build siege ramps to&#160;capture&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:10 </span><span class=\"ft\">Nm 21:32</span></span></span><span class=\"content\"> &#160;it.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.1.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"label\">11</span><span class=\"content\">Then they sweep&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">Is 8:8</span></span></span><span class=\"content\"> by like&#160;the&#160;wind</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">and pass&#160;through.</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">They are guilty;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:11 </span><span class=\"ft\">Or </span><span class=\"fqa\">wind, and transgress and incur guilt</span></span></span><span class=\"content\"> their&#160;strength is&#160;their&#160;god.</span></span></div><div class=\"s1\"><span class=\"heading\">Habakkuk&#8217;s Second Prayer</span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.1.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"label\">12</span><span class=\"content\">Are you not from&#160;eternity, </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> &#160;my&#160;God?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">1Ch 29:10; Ps 90:2; 93:2; 103:17; Mc 5:2</span></span></span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">My Holy One,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Is 1:4</span></span></span><span class=\"content\"> you&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Alt Hb tradition reads </span><span class=\"fqa\">we</span></span></span><span class=\"content\"> &#160;will&#160;not&#160;die.</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">  </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, you appointed them to&#160;execute&#160;judgment;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">my Rock,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:12 </span><span class=\"ft\">Dt 32:4; Ps 18:2</span></span></span><span class=\"content\"> you destined them to&#160;punish&#160;us.</span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.1.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"label\">13</span><span class=\"content\">Your eyes&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">2Ch 6:20; 16:9</span></span></span><span class=\"content\"> are too&#160;pure&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">Ex 25:11; Ps 12:6; 19:9; 51:10; Pr 22:11; Ezk 36:25</span></span></span><span class=\"content\"> to&#160;look on&#160;evil,</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">and you cannot tolerate&#160;wrongdoing.</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">So why do you tolerate those who&#160;are&#160;treacherous?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">Jdg 9:23</span></span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">Why are you&#160;silent</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">while one&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">= Babylon</span></span></span><span class=\"content\"> who&#160;is&#160;wicked swallows&#160;up</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">one&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:13 </span><span class=\"ft\">= Judah</span></span></span><span class=\"content\"> who is more&#160;righteous than&#160;himself?</span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.1.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"label\">14</span><span class=\"content\">You have made&#160;mankind</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">like the fish of&#160;the&#160;sea,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:14 </span><span class=\"ft\">Ec 9:12</span></span></span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">like marine creatures that&#160;have no&#160;ruler.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.1.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"label\">15</span><span class=\"content\">The Chaldeans pull them all up with&#160;a&#160;hook,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">catch them in&#160;their&#160;dragnet,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:15 </span><span class=\"ft\">2Kg 19:28; 2Ch 33:11; Is 37:29; Jr 16:16; Ezk 19:4,9; 29:4; 38:4; Am 4:2</span></span></span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">and gather them in&#160;their&#160;fishing&#160;net;</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">that is why they&#160;are&#160;glad and&#160;rejoice.</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.1.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"label\">16</span><span class=\"content\">That is why they&#160;sacrifice to&#160;their&#160;dragnet</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">and burn incense to&#160;their&#160;fishing&#160;net,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">for by these things their&#160;portion is&#160;rich</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">and their&#160;food&#160;plentiful.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1:16 </span><span class=\"ft\">Dt 8:17; Is 10:13; 37:24&#8211;25</span></span></span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.1.17\"><span class=\"label\">17</span><span class=\"content\">Will they therefore empty their&#160;net</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.1.17\"><span class=\"content\">and continually slaughter nations without&#160;mercy?</span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "The pronouncement that the prophet Habakkuk saw."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Habakkuk’s First Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "How long, Lord, must I call for help",
+            "and you do not listen",
+            "or cry out to you about violence",
+            "and you do not save?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Why do you force me to look at injustice?",
+            "Why do you tolerate wrongdoing?",
+            "Oppression and violence are right in front of me.",
+            "Strife is ongoing, and conflict escalates."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "This is why the law is ineffective",
+            "and justice never emerges.",
+            "For the wicked restrict the righteous;",
+            "therefore, justice comes out perverted."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "God’s First Answer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Look at the nations , and observe —",
+            "be utterly astounded!",
+            "For I am doing something in your days",
+            "that you will not believe",
+            "when you hear about it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Look! I am raising up the Chaldeans,",
+            "that bitter, impetuous nation",
+            "that marches across the earth’s open spaces",
+            "to seize territories not its own."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "They are fierce and terrifying;",
+            "their views of justice and sovereignty",
+            "stem from themselves."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Their horses are swifter than leopards",
+            "and more fierce than wolves of the night.",
+            "Their horsemen charge ahead;",
+            "their horsemen come from distant lands.",
+            "They fly like eagles, swooping to devour."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "All of them come to do violence;",
+            "their faces are set in determination.",
+            "They gather prisoners like sand."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "They mock kings,",
+            "and rulers are a joke to them.",
+            "They laugh at every fortress",
+            "and build siege ramps to capture it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Then they sweep by like the wind",
+            "and pass through.",
+            "They are guilty; their strength is their god."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Habakkuk’s Second Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Are you not from eternity, Lord my God?",
+            "My Holy One, you will not die.",
+            "Lord, you appointed them to execute judgment;",
+            "my Rock, you destined them to punish us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Your eyes are too pure to look on evil,",
+            "and you cannot tolerate wrongdoing.",
+            "So why do you tolerate those who are treacherous?",
+            "Why are you silent",
+            "while one who is wicked swallows up",
+            "one who is more righteous than himself?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "You have made mankind",
+            "like the fish of the sea,",
+            "like marine creatures that have no ruler."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "The Chaldeans pull them all up with a hook,",
+            "catch them in their dragnet,",
+            "and gather them in their fishing net;",
+            "that is why they are glad and rejoice."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "That is why they sacrifice to their dragnet",
+            "and burn incense to their fishing net,",
+            "for by these things their portion is rich",
+            "and their food plentiful."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Will they therefore empty their net",
+            "and continually slaughter nations without mercy?"
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.2",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.1"
+        ],
+        "human": "Habakkuk 1",
+        "toc": true
+      },
+      "chapter_text": "I will stand at my guard post\nand station myself on the lookout tower. \nI will watch to see what he will say to me \nand what I should  reply about my complaint.\n\nThe LORD answered me:\nWrite down this vision; \nclearly inscribe it on tablets\nso one may easily read it. \nFor the vision is yet for the appointed time; \nit testifies about the end and will not lie.\nThough it delays, wait for it,\nsince it will certainly come and not be late. \nLook, his ego is inflated; \nhe is without integrity.\nBut the righteous one will live by his faith.  ,\nMoreover, wine   betrays;\nan arrogant man is never at rest. \nHe enlarges his appetite like Sheol,\nand like Death he is never satisfied. \nHe gathers all the nations to himself; \nhe collects all the peoples for himself.\n\nWon’t all of these take up a taunt against him, \nwith mockery and riddles about him?\nThey will say,\n“Woe to him who amasses what is not his —\nhow much longer?   —\nand loads himself with goods taken in pledge.” \nWon’t your creditors suddenly arise,\nand those who disturb you wake up?\nThen you will become spoil for them. \nSince you have plundered many nations, \nall the peoples who remain will plunder you   —\nbecause of human bloodshed\nand violence  against lands, cities,\nand all who live in them. \n\nWoe to him who dishonestly makes\nwealth for his house  ,\nto place his nest on high,\nto escape the grasp of disaster! \nYou have planned shame for your house\nby wiping out many peoples\nand sinning against your own self.\nFor the stones will cry out  from the wall,\nand the rafters will answer them\nfrom the woodwork.\n\nWoe to him who builds a city with bloodshed\nand founds a town with injustice! \nIs it not from the  LORD of Armies\nthat the peoples labor only to fuel the fire\nand countries exhaust themselves for nothing? \nFor the earth will be filled\nwith the knowledge of the  LORD’s glory,\nas the water covers the sea. \n\nWoe to him who gives his neighbors drink,\npouring out your wrath \nand even making them drunk,\nin order to look at their nakedness!\nYou will be filled with disgrace instead of glory.\nYou also #— #drink,\nand expose your uncircumcision! \nThe cup in the LORD’s right hand\nwill come around to you,\nand utter disgrace will cover your glory. \nFor your violence against Lebanon\nwill overwhelm you;\nthe destruction of animals will terrify you \nbecause of your human bloodshed and violence\nagainst lands, cities, and all who live in them.\n\nWhat use is a carved idol\nafter its craftsman carves it?\nIt is only a cast image, a teacher of lies.\nFor the one who crafts its shape trusts in it\nand makes worthless idols that cannot speak.\nWoe to him who says to wood: Wake up!\nor to mute stone: Come alive!\nCan it teach?\nLook! It may be plated with gold and silver,\nyet there is no breath  in it at all.\n\nBut the LORD is in his holy temple; \nlet the whole earth\nbe silent in his presence.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch2\" data-usfm=\"HAB.2\">\n         <div class=\"label\">2</div><div class=\"s1\"><span class=\"heading\">Habakkuk Waits for God&#8217;s Response</span></div><div class=\"q1\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"label\">1</span><span class=\"content\">I will stand at&#160;my&#160;guard&#160;post</span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">and station myself on&#160;the&#160;lookout&#160;tower.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">1Ch 9:27; 2Ch 8:14; Is 21:6&#8211;9</span></span></span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">I will watch to see what he&#160;will&#160;say to&#160;me&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Ps 85:8</span></span></span></span></div><div class=\"q\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">and what I should&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:1 </span><span class=\"ft\">Syr reads </span><span class=\"fqa\">what he will</span></span></span><span class=\"content\"> reply about&#160;my&#160;complaint.</span></span></div><div class=\"s1\"><span class=\"heading\">God&#8217;s Second Answer</span></div><div class=\"m\"><span class=\"verse v1\" data-usfm=\"HAB.2.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"label\">2</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> answered me:</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">Write down this&#160;vision;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">1Sm 3:1; Ps 89:19; Pr 29:18; Is 1:1</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">clearly inscribe it on&#160;tablets</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">so one may easily&#160;read&#160;it.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:2 </span><span class=\"ft\">Lit </span><span class=\"fqa\">one who reads in it may run</span></span></span></span></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.2.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"label\">3</span><span class=\"content\">For the vision is&#160;yet for&#160;the&#160;appointed&#160;time;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Gn 18:14; 21:2; 2Kg 4:16&#8211;17; Dn 8:19; 11:27,29,35</span></span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">it testifies about&#160;the&#160;end and&#160;will&#160;not&#160;lie.</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">Though it delays, wait&#160;for&#160;it,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">since it will certainly come and&#160;not be&#160;late.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:3 </span><span class=\"ft\">Dn 10:1,14; 11:35; Heb 10:36&#8211;37; 2Pt 3:9; Rv 22:10</span></span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.2.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"label\">4</span><span class=\"content\">Look, his ego is&#160;inflated;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Hb obscure</span></span></span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"content\">he is without&#160;integrity.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"content\">But the righteous one will&#160;live by&#160;his&#160;faith.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Or </span><span class=\"fqa\">faithfulness</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:4 </span><span class=\"ft\">Rm 1:17; Gl 3:11</span></span></span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.2.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"label\">5</span><span class=\"content\">Moreover, wine&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">DSS read </span><span class=\"fqa\">wealth</span></span></span><span class=\"content\"> &#160;betrays;</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">an arrogant man is&#160;never at&#160;rest.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Or </span><span class=\"fqa\">man does not endure</span><span class=\"ft\">; Hb obscure</span></span></span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">He enlarges his&#160;appetite like&#160;Sheol,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">and like Death he&#160;is never&#160;satisfied.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Pr 27:20; 30:15&#8211;16; Is 5:14</span></span></span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">He gathers all&#160;the&#160;nations to&#160;himself;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:5 </span><span class=\"ft\">Is 13:4; 43:9; 66:18; Jr 3:17; Hs 10:10; Jl 3:2,11; Zph 3:8; Zch 12:3; 14:2; Mt 25:32</span></span></span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">he collects all&#160;the&#160;peoples for&#160;himself.</span></span></div><div class=\"s1\"><span class=\"heading\">The Five Woe Oracles</span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.2.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"label\">6</span><span class=\"content\">Won&#8217;t all of these take up a&#160;taunt against&#160;him,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Is 14:4; Mc 2:4</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">with mockery and&#160;riddles about&#160;him?</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">They will say,</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">&#8220;Woe to him who&#160;amasses what&#160;is&#160;not&#160;his&#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">how much longer?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">1Kg 18:21; Ps 82:2; Pr 1:22; Jr 4:14,21; 23:26; 31:22; Hs 8:5</span></span></span><span class=\"content\"> &#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">and loads himself with&#160;goods taken&#160;in&#160;pledge.&#8221;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:6 </span><span class=\"ft\">Dt 24:10&#8211;13</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.2.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"label\">7</span><span class=\"content\">Won&#8217;t your creditors suddenly&#160;arise,</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"content\">and those who&#160;disturb&#160;you wake&#160;up?</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"content\">Then you will&#160;become&#160;spoil for&#160;them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:7 </span><span class=\"ft\">2Kg 21:14; Is 42:22,24; Jr 49:32</span></span></span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.2.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"label\">8</span><span class=\"content\">Since you have&#160;plundered many&#160;nations,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Is 10:13; Ezk 36:4</span></span></span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">all the peoples who&#160;remain will&#160;plunder&#160;you&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Zph 3:8</span></span></span><span class=\"content\"> &#160;&#8212;</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">because of human&#160;bloodshed</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">and violence&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Jr 6:7; Ezk 7:11,23; 8:17; 12:19; 45:9; Mc 6:12; Hab 1:2&#8211;3,9; 2:17</span></span></span><span class=\"content\"> against&#160;lands,&#160;cities,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">and all who&#160;live in&#160;them.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:8 </span><span class=\"ft\">Is 33:1; Jr 25:12,14; Hab 2:17; Rv 13:10</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.2.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"label\">9</span><span class=\"content\">Woe to him who&#160;dishonestly&#160;makes</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">wealth for&#160;his&#160;house&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">dynasty</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Pr 1:9; 15:27; Jr 6:13; 8:10; Ezk 22:27</span></span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">to place his nest on&#160;high,</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">to escape&#160;the&#160;grasp of&#160;disaster!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:9 </span><span class=\"ft\">Pr 11:28; Jr 22:13; 49:16; Ob 4; Rv 18:7</span></span></span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.2.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"label\">10</span><span class=\"content\">You have planned shame for&#160;your&#160;house</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"content\">by wiping out many&#160;peoples</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"content\">and sinning against your&#160;own&#160;self.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.2.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"label\">11</span><span class=\"content\">For the stones will&#160;cry&#160;out&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:11 </span><span class=\"ft\">Lk 19:40</span></span></span><span class=\"content\"> from&#160;the&#160;wall,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">and the rafters will&#160;answer&#160;them</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">from the woodwork.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.2.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"label\">12</span><span class=\"content\">Woe to him who&#160;builds a&#160;city with&#160;bloodshed</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"content\">and founds a&#160;town with&#160;injustice!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:12 </span><span class=\"ft\">Ezk 22:2&#8211;3; Mc 3:10</span></span></span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.2.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"label\">13</span><span class=\"content\">Is it not from&#160;the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> of&#160;Armies</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"content\">that the peoples labor only&#160;to&#160;fuel the&#160;fire</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"content\">and countries exhaust&#160;themselves for&#160;nothing?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:13 </span><span class=\"ft\">Jr 51:58</span></span></span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.2.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"label\">14</span><span class=\"content\">For the earth will&#160;be&#160;filled</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">with the knowledge of&#160;the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s&#160;glory,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">as the water covers the&#160;sea.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:14 </span><span class=\"ft\">Nm 14:21; Ps 33:5; 72:19; 119:64; Is 6:3; 11:9; Jr 23:24</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.2.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"label\">15</span><span class=\"content\">Woe to him who&#160;gives his&#160;neighbors&#160;drink,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">pouring out your&#160;wrath&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15 </span><span class=\"ft\">Or </span><span class=\"fqa\">venom</span></span></span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">and even making them&#160;drunk,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">in order to look at&#160;their&#160;nakedness!</span></span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.2.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"label\">16</span><span class=\"content\">You will be filled with&#160;disgrace instead&#160;of&#160;glory.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">You also&#160;#&#8212;&#160;#drink,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">and expose your&#160;uncircumcision!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:16 </span><span class=\"ft\">DSS, LXX, Aq, Syr, Vg read </span><span class=\"fqa\">and stagger</span></span></span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">The cup in the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">&#8217;s right&#160;hand</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">will come around to&#160;you,</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">and utter disgrace will&#160;cover your&#160;glory.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:15&#8211;16 </span><span class=\"ft\">Rv 14:8&#8211;10</span></span></span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.2.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"label\">17</span><span class=\"content\">For your violence against&#160;Lebanon</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">will overwhelm you;</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">the destruction of&#160;animals will&#160;terrify&#160;you&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:17 </span><span class=\"ft\">DSS, LXX, Aq, Syr, Tg, Vg; MT reads </span><span class=\"fqa\">them</span></span></span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">because of your human bloodshed and&#160;violence</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">against lands, cities, and&#160;all who&#160;live in&#160;them.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.2.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"label\">18</span><span class=\"content\">What use is a&#160;carved&#160;idol</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">after its craftsman carves&#160;it?</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">It is only a cast image, a&#160;teacher of&#160;lies.</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">For the one who&#160;crafts its&#160;shape trusts&#160;in&#160;it</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">and makes worthless&#160;idols that&#160;cannot&#160;speak.</span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.2.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"label\">19</span><span class=\"content\">Woe to him who&#160;says to&#160;wood: Wake&#160;up!</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">or to mute stone: Come&#160;alive!</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">Can it teach?</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">Look! It may be plated with&#160;gold and&#160;silver,</span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">yet there is no&#160;breath&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:19 </span><span class=\"ft\">Ex 32:4; Dt 27:15; Jdg 17:4; Is 30:22; 40:18&#8211;20; 44:9&#8211;20; Jr 10:14</span></span></span><span class=\"content\"> in&#160;it at&#160;all.</span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v19\" data-usfm=\"HAB.2.19\"><span class=\"content\">  </span></span><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"label\">20</span><span class=\"content\">But the </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> is in&#160;his&#160;holy&#160;temple;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:20 </span><span class=\"ft\">Ps 11:4</span></span></span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"content\">let the whole&#160;earth</span></span></div><div class=\"q\"><span class=\"verse v20\" data-usfm=\"HAB.2.20\"><span class=\"content\">be silent in&#160;his&#160;presence.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2:20 </span><span class=\"ft\">Zph 1:7; Zch 2:13</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Habakkuk Waits for God’s Response"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "I will stand at my guard post",
+            "and station myself on the lookout tower.",
+            "I will watch to see what he will say to me",
+            "and what I should reply about my complaint."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "God’s Second Answer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "The Lord answered me:",
+            "Write down this vision;",
+            "clearly inscribe it on tablets",
+            "so one may easily read it."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "For the vision is yet for the appointed time;",
+            "it testifies about the end and will not lie.",
+            "Though it delays, wait for it,",
+            "since it will certainly come and not be late."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "Look, his ego is inflated;",
+            "he is without integrity.",
+            "But the righteous one will live by his faith. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Moreover, wine betrays;",
+            "an arrogant man is never at rest.",
+            "He enlarges his appetite like Sheol,",
+            "and like Death he is never satisfied.",
+            "He gathers all the nations to himself;",
+            "he collects all the peoples for himself."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "The Five Woe Oracles"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "Won’t all of these take up a taunt against him,",
+            "with mockery and riddles about him?",
+            "They will say,",
+            "“Woe to him who amasses what is not his —",
+            "how much longer? —",
+            "and loads himself with goods taken in pledge.”"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "Won’t your creditors suddenly arise,",
+            "and those who disturb you wake up?",
+            "Then you will become spoil for them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Since you have plundered many nations,",
+            "all the peoples who remain will plunder you —",
+            "because of human bloodshed",
+            "and violence against lands, cities,",
+            "and all who live in them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "Woe to him who dishonestly makes",
+            "wealth for his house ,",
+            "to place his nest on high,",
+            "to escape the grasp of disaster!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "You have planned shame for your house",
+            "by wiping out many peoples",
+            "and sinning against your own self."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "For the stones will cry out from the wall,",
+            "and the rafters will answer them",
+            "from the woodwork."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "Woe to him who builds a city with bloodshed",
+            "and founds a town with injustice!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "Is it not from the Lord of Armies",
+            "that the peoples labor only to fuel the fire",
+            "and countries exhaust themselves for nothing?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "For the earth will be filled",
+            "with the knowledge of the Lord’s glory,",
+            "as the water covers the sea."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "Woe to him who gives his neighbors drink,",
+            "pouring out your wrath",
+            "and even making them drunk,",
+            "in order to look at their nakedness!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "You will be filled with disgrace instead of glory.",
+            "You also #— #drink,",
+            "and expose your uncircumcision!",
+            "The cup in the Lord’s right hand",
+            "will come around to you,",
+            "and utter disgrace will cover your glory."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "For your violence against Lebanon",
+            "will overwhelm you;",
+            "the destruction of animals will terrify you",
+            "because of your human bloodshed and violence",
+            "against lands, cities, and all who live in them."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "What use is a carved idol",
+            "after its craftsman carves it?",
+            "It is only a cast image, a teacher of lies.",
+            "For the one who crafts its shape trusts in it",
+            "and makes worthless idols that cannot speak."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "Woe to him who says to wood: Wake up!",
+            "or to mute stone: Come alive!",
+            "Can it teach?",
+            "Look! It may be plated with gold and silver,",
+            "yet there is no breath in it at all."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "But the Lord is in his holy temple;",
+            "let the whole earth",
+            "be silent in his presence."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    },
+    {
+      "chapter_usfm": "HAB.3",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "HAB.3"
+        ],
+        "human": "Habakkuk 3"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "ZEP.1"
+        ],
+        "human": "Zephaniah 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "HAB.2"
+        ],
+        "human": "Habakkuk 2",
+        "toc": true
+      },
+      "chapter_text": "A prayer of the prophet Habakkuk. According to Shigionoth .  ,\nLORD, I have heard the report about you;\nLORD, I stand in awe of your deeds. \nRevive your work in these years;\nmake it known in these years.\nIn your wrath remember mercy! \n\nGod comes from Teman,\nthe Holy One from Mount Paran.  Selah\nHis splendor covers the heavens,\nand the earth is full of his praise. \nHis brilliance is like light;\nrays are flashing from his hand.\nThis is where his power is hidden.\nPlague goes before him,\nand pestilence follows in his steps.\nHe stands and shakes  the earth; \nhe looks and startles the nations.\nThe age-old mountains break apart;\nthe ancient hills sink down. \nHis pathways are ancient. \nI see the tents of Cushan  in distress;\nthe tent curtains of the land of Midian tremble.\nAre you angry at the rivers,  LORD?\nIs your wrath against the rivers?\nOr is your fury against the sea\nwhen you ride on your horses,\nyour victorious chariot? \nYou took the sheath from your bow;\nthe arrows are ready  to be used with an oath.  , Selah\nYou split the earth with rivers.\nThe mountains see you and shudder; \na downpour of water sweeps by.\nThe deep roars with its voice \nand lifts its waves   high.\nSun and moon stand still in their lofty residence, \nat the flash of your flying arrows,\nat the brightness of your shining spear.\nYou march across the earth with indignation;\nyou trample down the nations in wrath. \nYou come out to save your people, \nto save your anointed. \nYou crush the leader of the house of the wicked\nand strip him from foot  to neck. Selah\nYou pierce his head\nwith his own spears;\nhis warriors storm out to scatter us,\ngloating as if ready to secretly devour the weak.\nYou tread the sea with your horses,\nstirring up the vast water. \n\nI heard, and I trembled within; \nmy lips quivered at the sound.\nRottenness entered my bones;\nI trembled where I stood.\nNow I must quietly wait for the day of distress \nto come against the people invading us.\nThough the fig tree does not bud\nand there is no fruit on the vines,\nthough the olive crop fails\nand the fields produce no food,\nthough the flocks disappear from the pen\nand there are no herds in the stalls,\nyet I will celebrate in the  LORD;\nI will rejoice in the God of my salvation! \nThe LORD my Lord is my strength; \nhe makes my feet like those of a deer \nand enables me to walk on mountain heights! \nFor the choir director: on  stringed instruments.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkHAB\">\n      <div class=\"chapter ch3\" data-usfm=\"HAB.3\">\n         <div class=\"label\">3</div><div class=\"s1\"><span class=\"heading\">Habakkuk&#8217;s Third Prayer</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"label\">1</span><span class=\"content\">A prayer of the prophet Habakkuk. According to </span><span class=\"em\"><span class=\"content\">Shigionoth</span></span><span class=\"content\">.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Perhaps a passionate song with rapid changes of rhythm, or a dirge</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:1 </span><span class=\"ft\">Ps 7 title</span></span></span></span></div><div class=\"q1\"><span class=\"verse v1\" data-usfm=\"HAB.3.1\"><span class=\"content\">  </span></span><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"label\">2</span><span class=\"content\">  </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, I have heard the&#160;report about&#160;you;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">  </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">, I stand in&#160;awe of&#160;your&#160;deeds.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Ps 44:1; 64:9; 77:12; 90:16; 92:4; 111:3; 143:5</span></span></span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">Revive your&#160;work in&#160;these&#160;years;</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">make it known in&#160;these&#160;years.</span></span></div><div class=\"q\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">In your wrath remember&#160;mercy!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:2 </span><span class=\"ft\">Is 60:10</span></span></span></span></div><div class=\"b\"></div><div class=\"q1\"><span class=\"verse v2\" data-usfm=\"HAB.3.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"label\">3</span><span class=\"content\">God comes from&#160;Teman,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">the Holy One from&#160;Mount&#160;Paran.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">Dt 33:2; Jdg 5:4&#8211;5</span></span></span><span class=\"content\">  </span><span class=\"qs\"><span class=\"content\">Selah</span></span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">His splendor covers the&#160;heavens,</span></span></div><div class=\"q\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">and the earth is&#160;full of&#160;his&#160;praise.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:3 </span><span class=\"ft\">1Ch 29:11; Jb 37:22; Ps 48:10; 72:19; 148:13; Is 42:10</span></span></span></span></div><div class=\"q1\"><span class=\"verse v3\" data-usfm=\"HAB.3.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"label\">4</span><span class=\"content\">His brilliance is like&#160;light;</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">rays are flashing from&#160;his&#160;hand.</span></span></div><div class=\"q\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">This is where his&#160;power is&#160;hidden.</span></span></div><div class=\"q1\"><span class=\"verse v4\" data-usfm=\"HAB.3.4\"><span class=\"content\">  </span></span><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"label\">5</span><span class=\"content\">Plague goes before&#160;him,</span></span></div><div class=\"q\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">and pestilence follows in&#160;his&#160;steps.</span></span></div><div class=\"q1\"><span class=\"verse v5\" data-usfm=\"HAB.3.5\"><span class=\"content\">  </span></span><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"label\">6</span><span class=\"content\">He stands and&#160;shakes&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">Or </span><span class=\"fqa\">surveys</span></span></span><span class=\"content\"> the&#160;earth;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">Jb 9:6; Is 13:13; 24:19; Jl 2:10; 3:16; Hg 2:6,21; Heb 12:26</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">he looks and&#160;startles the&#160;nations.</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">The age-old mountains break&#160;apart;</span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">the ancient hills sink&#160;down.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">Mc 1:4; Zch 14:4</span></span></span></span></div><div class=\"q\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">His pathways are&#160;ancient.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:6 </span><span class=\"ft\">Jr 6:16; 18:15</span></span></span></span></div><div class=\"q1\"><span class=\"verse v6\" data-usfm=\"HAB.3.6\"><span class=\"content\">  </span></span><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"label\">7</span><span class=\"content\">I see the tents of&#160;Cushan&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:7 </span><span class=\"ft\">= Midian</span></span></span><span class=\"content\"> in&#160;distress;</span></span></div><div class=\"q\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">the tent curtains of&#160;the&#160;land of&#160;Midian&#160;tremble.</span></span></div><div class=\"q1\"><span class=\"verse v7\" data-usfm=\"HAB.3.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"label\">8</span><span class=\"content\">Are you angry at&#160;the&#160;rivers,&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">?</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">Is your wrath against&#160;the&#160;rivers?</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">Or is your&#160;fury against&#160;the&#160;sea</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">when you ride on&#160;your&#160;horses,</span></span></div><div class=\"q\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">your victorious chariot?&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:8 </span><span class=\"ft\">Ps 68:17</span></span></span></span></div><div class=\"q1\"><span class=\"verse v8\" data-usfm=\"HAB.3.8\"><span class=\"content\">  </span></span><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"label\">9</span><span class=\"content\">You took the&#160;sheath from&#160;your&#160;bow;</span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">the arrows are ready&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Or </span><span class=\"fqa\">set</span></span></span><span class=\"content\"> to&#160;be&#160;used with&#160;an&#160;oath.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Hb obscure</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:9 </span><span class=\"ft\">Dt 32:40&#8211;43</span></span></span><span class=\"content\">  </span><span class=\"qs\"><span class=\"content\">Selah</span></span></span></div><div class=\"q\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">You split the earth with&#160;rivers.</span></span></div><div class=\"q1\"><span class=\"verse v9\" data-usfm=\"HAB.3.9\"><span class=\"content\">  </span></span><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"label\">10</span><span class=\"content\">The mountains see&#160;you and&#160;shudder;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Ps 77:16</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">a downpour of&#160;water sweeps&#160;by.</span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">The deep roars with&#160;its&#160;voice&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Ex 19:18; Ps 77:16</span></span></span></span></div><div class=\"q\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">and lifts its&#160;waves&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:10 </span><span class=\"ft\">Lit </span><span class=\"fqa\">hands</span></span></span><span class=\"content\"> &#160;high.</span></span></div><div class=\"q1\"><span class=\"verse v10\" data-usfm=\"HAB.3.10\"><span class=\"content\">  </span></span><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"label\">11</span><span class=\"content\">Sun and moon stand&#160;still in&#160;their&#160;lofty&#160;residence,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:11 </span><span class=\"ft\">Jos 10:12&#8211;13</span></span></span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">at the flash of&#160;your&#160;flying&#160;arrows,</span></span></div><div class=\"q\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">at the brightness of&#160;your&#160;shining&#160;spear.</span></span></div><div class=\"q1\"><span class=\"verse v11\" data-usfm=\"HAB.3.11\"><span class=\"content\">  </span></span><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"label\">12</span><span class=\"content\">You march across&#160;the&#160;earth with&#160;indignation;</span></span></div><div class=\"q\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">you trample down&#160;the&#160;nations in&#160;wrath.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:12 </span><span class=\"ft\">Ps 60:12; 68:30; 108:13; Is 25:10; 63:3; Mc 1:3</span></span></span></span></div><div class=\"q1\"><span class=\"verse v12\" data-usfm=\"HAB.3.12\"><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"label\">13</span><span class=\"content\">You come out to&#160;save your&#160;people,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:13 </span><span class=\"ft\">Dt 33:29; Jdg 2:18; Ps 28:9; Jr 15:20; Ezk 37:23; Zch 8:7; 9:16; Mt 1:21</span></span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">to save your&#160;anointed.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:13 </span><span class=\"ft\">The Davidic king or the nation of Israel</span></span></span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">You crush the&#160;leader of&#160;the&#160;house of&#160;the&#160;wicked</span></span></div><div class=\"q\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">and strip him from&#160;foot&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:13 </span><span class=\"ft\">Lit </span><span class=\"fqa\">foundation</span></span></span><span class=\"content\"> to&#160;neck. </span><span class=\"qs\"><span class=\"content\">Selah</span></span></span></div><div class=\"q1\"><span class=\"verse v13\" data-usfm=\"HAB.3.13\"><span class=\"content\">  </span></span><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"label\">14</span><span class=\"content\">You pierce his&#160;head</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">with his&#160;own&#160;spears;</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">his warriors storm out to&#160;scatter&#160;us,</span></span></div><div class=\"q\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">gloating as if ready to secretly&#160;devour the&#160;weak.</span></span></div><div class=\"q1\"><span class=\"verse v14\" data-usfm=\"HAB.3.14\"><span class=\"content\">  </span></span><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"label\">15</span><span class=\"content\">You tread the sea with&#160;your&#160;horses,</span></span></div><div class=\"q\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">stirring up the&#160;vast&#160;water.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:15 </span><span class=\"ft\">Ps 77:19</span></span></span></span></div><div class=\"s1\"><span class=\"heading\">Habakkuk&#8217;s Confidence in God Expressed</span></div><div class=\"q1\"><span class=\"verse v15\" data-usfm=\"HAB.3.15\"><span class=\"content\">  </span></span><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"label\">16</span><span class=\"content\">I heard, and&#160;I&#160;trembled&#160;within;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Dn 10:4&#8211;9; Rv 1:17</span></span></span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">my lips quivered at&#160;the&#160;sound.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Rottenness entered my&#160;bones;</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">I trembled where&#160;I&#160;stood.</span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">Now I must quietly wait for&#160;the&#160;day of&#160;distress&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:16 </span><span class=\"ft\">Is 37:3; Ob 12,14; Nah 1:7</span></span></span></span></div><div class=\"q\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">to come against&#160;the&#160;people invading&#160;us.</span></span></div><div class=\"q1\"><span class=\"verse v16\" data-usfm=\"HAB.3.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"label\">17</span><span class=\"content\">Though the fig tree does&#160;not&#160;bud</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">and there is no&#160;fruit on&#160;the&#160;vines,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">though the olive crop fails</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">and the fields produce no&#160;food,</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">though the flocks&#160;disappear from&#160;the&#160;pen</span></span></div><div class=\"q\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">and there are no herds in&#160;the&#160;stalls,</span></span></div><div class=\"q1\"><span class=\"verse v17\" data-usfm=\"HAB.3.17\"><span class=\"content\">  </span></span><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"label\">18</span><span class=\"content\">yet I will celebrate in the&#160; </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\">;</span></span></div><div class=\"q\"><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"content\">I will rejoice in&#160;the&#160;God of&#160;my&#160;salvation!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:18 </span><span class=\"ft\">1Sm 2:1; 1Ch 16:35; Ps 9:14; 40:16; 73:25; Is 25:9; 61:10</span></span></span></span></div><div class=\"q1\"><span class=\"verse v18\" data-usfm=\"HAB.3.18\"><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"label\">19</span><span class=\"content\">The </span><span class=\"nd\"><span class=\"content\">Lord</span></span><span class=\"content\"> my&#160;Lord is&#160;my&#160;strength;&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:19 </span><span class=\"ft\">1Sm 30:6; 1Ch 16:11; Ps 18:1; 22:19; 28:7&#8211;8; 29:11; 105:4; 118:14; Is 12:2; 33:2; 45:24; 49:5; 51:9; Jr 16:19; Eph 6:10</span></span></span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">he makes my&#160;feet like&#160;those of&#160;a&#160;deer&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:19 </span><span class=\"ft\">Ps 18:33</span></span></span></span></div><div class=\"q\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">and enables me to&#160;walk on&#160;mountain&#160;heights!&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:19 </span><span class=\"ft\">2Sm 22:34; Ps 18:33</span></span></span></span></div><div class=\"m\"><span class=\"verse v19\" data-usfm=\"HAB.3.19\"><span class=\"content\">For the choir director: on&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">3:19 </span><span class=\"ft\">Lit </span><span class=\"fqa\">on my</span></span></span><span class=\"content\"> stringed instruments.</span></span></div><div class=\"m\"></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Habakkuk’s Third Prayer"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "A prayer of the prophet Habakkuk. According to Shigionoth. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "Lord, I have heard the report about you;",
+            "Lord, I stand in awe of your deeds.",
+            "Revive your work in these years;",
+            "make it known in these years.",
+            "In your wrath remember mercy!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "God comes from Teman,",
+            "the Holy One from Mount Paran. Selah",
+            "His splendor covers the heavens,",
+            "and the earth is full of his praise."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "His brilliance is like light;",
+            "rays are flashing from his hand.",
+            "This is where his power is hidden."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "Plague goes before him,",
+            "and pestilence follows in his steps."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "He stands and shakes the earth;",
+            "he looks and startles the nations.",
+            "The age-old mountains break apart;",
+            "the ancient hills sink down.",
+            "His pathways are ancient."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "I see the tents of Cushan in distress;",
+            "the tent curtains of the land of Midian tremble."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "Are you angry at the rivers, Lord?",
+            "Is your wrath against the rivers?",
+            "Or is your fury against the sea",
+            "when you ride on your horses,",
+            "your victorious chariot?"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "You took the sheath from your bow;",
+            "the arrows are ready to be used with an oath. , Selah",
+            "You split the earth with rivers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "The mountains see you and shudder;",
+            "a downpour of water sweeps by.",
+            "The deep roars with its voice",
+            "and lifts its waves high."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Sun and moon stand still in their lofty residence,",
+            "at the flash of your flying arrows,",
+            "at the brightness of your shining spear."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "You march across the earth with indignation;",
+            "you trample down the nations in wrath."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "You come out to save your people,",
+            "to save your anointed.",
+            "You crush the leader of the house of the wicked",
+            "and strip him from foot to neck. Selah"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "You pierce his head",
+            "with his own spears;",
+            "his warriors storm out to scatter us,",
+            "gloating as if ready to secretly devour the weak."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "You tread the sea with your horses,",
+            "stirring up the vast water."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Habakkuk’s Confidence in God Expressed"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "I heard, and I trembled within;",
+            "my lips quivered at the sound.",
+            "Rottenness entered my bones;",
+            "I trembled where I stood.",
+            "Now I must quietly wait for the day of distress",
+            "to come against the people invading us."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "Though the fig tree does not bud",
+            "and there is no fruit on the vines,",
+            "though the olive crop fails",
+            "and the fields produce no food,",
+            "though the flocks disappear from the pen",
+            "and there are no herds in the stalls,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "yet I will celebrate in the Lord;",
+            "I will rejoice in the God of my salvation!"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "The Lord my Lord is my strength;",
+            "he makes my feet like those of a deer",
+            "and enables me to walk on mountain heights!",
+            "For the choir director: on stringed instruments."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}

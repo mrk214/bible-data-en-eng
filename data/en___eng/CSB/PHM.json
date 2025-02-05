@@ -1,0 +1,287 @@
+{
+  "book_usfm": "PHM",
+  "name": "Philemon",
+  "local_title": "Christian Standard Bible",
+  "local_abbreviation": "CSB",
+  "version_id": 1713,
+  "publisher": {
+    "name": "LifeWay Christian Resources"
+  },
+  "copyright": {
+    "html": "<p>© 2017 Holman Bible Publishers</p>",
+    "text": "© 2017 Holman Bible Publishers"
+  },
+  "language": {
+    "iso_639_1": "en",
+    "iso_639_3": "eng",
+    "language_tag": "eng",
+    "local_name": "English",
+    "text_direction": "ltr"
+  },
+  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "chapters": [
+    {
+      "chapter_usfm": "PHM.1",
+      "is_chapter": true,
+      "current": {
+        "usfm": [
+          "PHM.1"
+        ],
+        "human": "Philemon 1"
+      },
+      "next": {
+        "canonical": true,
+        "usfm": [
+          "HEB.1"
+        ],
+        "human": "Hebrews 1",
+        "toc": true
+      },
+      "previous": {
+        "canonical": true,
+        "usfm": [
+          "TIT.3"
+        ],
+        "human": "Titus 3",
+        "toc": true
+      },
+      "chapter_text": "Paul,  a prisoner  of Christ Jesus,  and Timothy  our brother:\nTo Philemon our dear friend and coworker, to Apphia our sister,  to Archippus  our fellow soldier,  and to the church that meets in your home. \nGrace to you and peace from God our Father and the Lord Jesus Christ.\n\nI always thank my God when I mention you in my prayers, because I hear of your love  for all the saints and the faith that you have in the Lord Jesus. I pray that your participation in the faith may become effective  through knowing every good thing  that is in us  for the glory of Christ. For I have great joy and encouragement from your love, because the hearts of the saints have been refreshed  through you, brother.\n\nFor this reason, although I have great boldness in Christ to command you to do what is right, I appeal to you, instead, on the basis of love. I, Paul, as an elderly man  and now also as a prisoner  of Christ Jesus, appeal to you for my son,  Onesimus.  , I became his father  while I was in chains. Once he was useless to you, but now he is useful both to you and to me. I am sending him back to you #— #I am sending my very own heart.  , I wanted to keep him with me, so that in my imprisonment for the gospel he might serve me in your place. But I didn’t want to do anything without your consent, so that your good deed might not be out of obligation, but of your own free will. For perhaps this is why he was separated from you for a brief time, so that you might get him back permanently, no longer as a slave, but more than a slave #— #as a dearly loved brother. He is especially so to me, but how much more to you, both in the flesh  and in the Lord. \nSo if you consider me a partner, welcome  him as you would me. And if he has wronged you in any way, or owes you anything, charge that to my account.  I, Paul, write this with my own hand:  I will repay it #— #not to mention to you that you owe me even your very self. Yes, brother, may I benefit from you in the Lord; refresh my heart in Christ. Since I am confident of your obedience, I am writing to you, knowing that you will do even more than I say. Meanwhile, also prepare a guest room for me, since I hope that through your prayers I will be restored to you.\n\nEpaphras,  my fellow prisoner in Christ Jesus, sends you greetings, and so do Mark,  Aristarchus,  Demas, and Luke,  my coworkers.\nThe grace of the Lord  , Jesus Christ be with your spirit.",
+      "chapter_html": "<div class=\"version vid1713 iso6393eng\" data-vid=\"1713\" data-iso6393=\"eng\">\n   <div class=\"book bkPHM\">\n      <div class=\"chapter ch1\" data-usfm=\"PHM.1\">\n         <div class=\"label\">1</div><div class=\"s1\"><span class=\"heading\">Greeting</span></div><div class=\"m\"><span class=\"content\">  </span><span class=\"verse v1\" data-usfm=\"PHM.1.1\"><span class=\"label\">1</span><span class=\"content\">Paul,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1 </span><span class=\"ft\">Ac 13:9</span></span></span><span class=\"content\"> a prisoner&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1 </span><span class=\"ft\">2Tm 1:8; Heb 13:3</span></span></span><span class=\"content\"> of Christ Jesus,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1 </span><span class=\"ft\">Rm 1:1</span></span></span><span class=\"content\"> and Timothy&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">1 </span><span class=\"ft\">Ac 16:1; 1Tm 1:2</span></span></span><span class=\"content\"> our brother:</span></span></div><div class=\"p\"><span class=\"verse v1\" data-usfm=\"PHM.1.1\"><span class=\"content\">To Philemon our dear friend and coworker, </span></span><span class=\"verse v2\" data-usfm=\"PHM.1.2\"><span class=\"label\">2</span><span class=\"content\">to Apphia our sister,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">our beloved</span></span></span><span class=\"content\"> to Archippus&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2 </span><span class=\"ft\">Col 4:17</span></span></span><span class=\"content\"> our fellow soldier,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2 </span><span class=\"ft\">Php 2:25</span></span></span><span class=\"content\"> and to the church that meets in your home.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">2 </span><span class=\"ft\">Ac 12:12; Rm 16:5</span></span></span></span></div><div class=\"p\"><span class=\"verse v2\" data-usfm=\"PHM.1.2\"><span class=\"content\">  </span></span><span class=\"verse v3\" data-usfm=\"PHM.1.3\"><span class=\"label\">3</span><span class=\"content\">Grace to you and peace from God our Father and the Lord Jesus Christ.</span></span></div><div class=\"s1\"><span class=\"heading\">Philemon&#8217;s Love and Faith</span></div><div class=\"m\"><span class=\"verse v3\" data-usfm=\"PHM.1.3\"><span class=\"content\">  </span></span><span class=\"verse v4\" data-usfm=\"PHM.1.4\"><span class=\"label\">4</span><span class=\"content\">I always thank my God when I mention you in my prayers, </span></span><span class=\"verse v5\" data-usfm=\"PHM.1.5\"><span class=\"label\">5</span><span class=\"content\">because I hear of your love&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">5 </span><span class=\"ft\">Dt 6:5; Mt 22:37; Gl 5:6,22; Eph 6:23; 1Th 1:3; 3:6; 5:8; 1Tm 1:14; 1Jn 4:20</span></span></span><span class=\"content\"> for all the saints and the faith that you have in the Lord Jesus. </span></span><span class=\"verse v6\" data-usfm=\"PHM.1.6\"><span class=\"label\">6</span><span class=\"content\">I pray that your participation in the faith may become effective&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6 </span><span class=\"ft\">Gl 5:6</span></span></span><span class=\"content\"> through knowing every good thing&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6 </span><span class=\"ft\">Gn 1:31; 18:18; 3Jn 11</span></span></span><span class=\"content\"> that is in us&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">6 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">in you</span></span></span><span class=\"content\"> for the glory of Christ. </span></span><span class=\"verse v7\" data-usfm=\"PHM.1.7\"><span class=\"label\">7</span><span class=\"content\">For I have great joy and encouragement from your love, because the hearts of the saints have been refreshed&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">7 </span><span class=\"ft\">Lk 12:19; 2Tm 1:16</span></span></span><span class=\"content\"> through you, brother.</span></span></div><div class=\"s1\"><span class=\"heading\">An Appeal for Onesimus</span></div><div class=\"m\"><span class=\"verse v7\" data-usfm=\"PHM.1.7\"><span class=\"content\">  </span></span><span class=\"verse v8\" data-usfm=\"PHM.1.8\"><span class=\"label\">8</span><span class=\"content\">For this reason, although I have great boldness in Christ to command you to do what is right, </span></span><span class=\"verse v9\" data-usfm=\"PHM.1.9\"><span class=\"label\">9</span><span class=\"content\">I appeal to you, instead, on the basis of love. I, Paul, as an elderly man&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">9 </span><span class=\"ft\">Or </span><span class=\"fqa\">an ambassador</span></span></span><span class=\"content\"> and now also as a prisoner&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">9 </span><span class=\"ft\">2Tm 1:8; Heb 13:3</span></span></span><span class=\"content\"> of Christ Jesus, </span></span><span class=\"verse v10\" data-usfm=\"PHM.1.10\"><span class=\"label\">10</span><span class=\"content\">appeal to you for my son,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">10 </span><span class=\"ft\">1Th 2:11</span></span></span><span class=\"content\"> Onesimus.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">10 </span><span class=\"ft\">In Gk, </span><span class=\"fqa\">Onesimus </span><span class=\"ft\">means &#8220;useful&#8221;</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">10 </span><span class=\"ft\">Col 4:9</span></span></span><span class=\"content\"> I became his father&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">10 </span><span class=\"ft\">1Co 4:15</span></span></span><span class=\"content\"> while I was in chains. </span></span><span class=\"verse v11\" data-usfm=\"PHM.1.11\"><span class=\"label\">11</span><span class=\"content\">Once he was useless to you, but now he is useful both to you and to me. </span></span><span class=\"verse v12\" data-usfm=\"PHM.1.12\"><span class=\"label\">12</span><span class=\"content\">I am sending him back to you&#160;#&#8212;&#160;#I am sending my very own heart.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">12 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">him back. Receive him, my own heart.</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">12 </span><span class=\"ft\">Lit </span><span class=\"fqa\">you&#160;#&#8212;&#160;#that is, my own heart</span></span></span><span class=\"content\">  </span></span><span class=\"verse v13\" data-usfm=\"PHM.1.13\"><span class=\"label\">13</span><span class=\"content\">I wanted to keep him with me, so that in my imprisonment for the gospel he might serve me in your place. </span></span><span class=\"verse v14\" data-usfm=\"PHM.1.14\"><span class=\"label\">14</span><span class=\"content\">But I didn&#8217;t want to do anything without your consent, so that your good deed might not be out of obligation, but of your own free will. </span></span><span class=\"verse v15\" data-usfm=\"PHM.1.15\"><span class=\"label\">15</span><span class=\"content\">For perhaps this is why he was separated from you for a brief time, so that you might get him back permanently, </span></span><span class=\"verse v16\" data-usfm=\"PHM.1.16\"><span class=\"label\">16</span><span class=\"content\">no longer as a slave, but more than a slave&#160;#&#8212;&#160;#as a dearly loved brother. He is especially so to me, but how much more to you, both in the flesh&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">16 </span><span class=\"ft\">Php 3:3</span></span></span><span class=\"content\"> and in the Lord.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">16 </span><span class=\"ft\">1Co 16:19; Rv 11:8</span></span></span></span></div><div class=\"p\"><span class=\"verse v16\" data-usfm=\"PHM.1.16\"><span class=\"content\">  </span></span><span class=\"verse v17\" data-usfm=\"PHM.1.17\"><span class=\"label\">17</span><span class=\"content\">So if you consider me a partner, welcome&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">17 </span><span class=\"ft\">Rm 14:1</span></span></span><span class=\"content\"> him as you would me. </span></span><span class=\"verse v18\" data-usfm=\"PHM.1.18\"><span class=\"label\">18</span><span class=\"content\">And if he has wronged you in any way, or owes you anything, charge that to my account.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">18 </span><span class=\"ft\">Rm 5:13</span></span></span><span class=\"content\">  </span></span><span class=\"verse v19\" data-usfm=\"PHM.1.19\"><span class=\"label\">19</span><span class=\"content\">I, Paul, write this with my own hand:&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">19 </span><span class=\"ft\">1Co 16:21</span></span></span><span class=\"content\"> I will repay it&#160;#&#8212;&#160;#not to mention to you that you owe me even your very self. </span></span><span class=\"verse v20\" data-usfm=\"PHM.1.20\"><span class=\"label\">20</span><span class=\"content\">Yes, brother, may I benefit from you in the Lord; refresh my heart in Christ. </span></span><span class=\"verse v21\" data-usfm=\"PHM.1.21\"><span class=\"label\">21</span><span class=\"content\">Since I am confident of your obedience, I am writing to you, knowing that you will do even more than I say. </span></span><span class=\"verse v22\" data-usfm=\"PHM.1.22\"><span class=\"label\">22</span><span class=\"content\">Meanwhile, also prepare a guest room for me, since I hope that through your prayers I will be restored to you.</span></span></div><div class=\"s1\"><span class=\"heading\">Final Greetings</span></div><div class=\"m\"><span class=\"verse v22\" data-usfm=\"PHM.1.22\"><span class=\"content\">  </span></span><span class=\"verse v23\" data-usfm=\"PHM.1.23\"><span class=\"label\">23</span><span class=\"content\">Epaphras,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">23 </span><span class=\"ft\">Col 1:7; 4:12</span></span></span><span class=\"content\"> my fellow prisoner in Christ Jesus, sends you greetings, and so do </span></span><span class=\"verse v24\" data-usfm=\"PHM.1.24\"><span class=\"label\">24</span><span class=\"content\">Mark,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">24 </span><span class=\"ft\">Ac 12:12,25; 15:37,39; Col 4:10; 2Tm 4:11; 1Pt 5:13</span></span></span><span class=\"content\"> Aristarchus,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">24 </span><span class=\"ft\">Ac 19:29</span></span></span><span class=\"content\"> Demas, and Luke,&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">24 </span><span class=\"ft\">Col 4:14; 2Tm 4:10&#8211;11</span></span></span><span class=\"content\"> my coworkers.</span></span></div><div class=\"p\"><span class=\"verse v24\" data-usfm=\"PHM.1.24\"><span class=\"content\">  </span></span><span class=\"verse v25\" data-usfm=\"PHM.1.25\"><span class=\"label\">25</span><span class=\"content\">The grace of the Lord&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">25 </span><span class=\"ft\">Other mss read </span><span class=\"fqa\">our Lord</span></span></span><span class=\"sup\"><span class=\"content\">,</span></span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">25 </span><span class=\"ft\">2Th 3:18; Rv 11:8</span></span></span><span class=\"content\"> Jesus Christ be with your spirit.&#160; </span><span class=\"note f\"><span class=\"label\">#</span><span class=\" body\"><span class=\"ft\">  </span><span class=\"fr\">25 </span><span class=\"ft\">Ps 51:12</span></span></span></span></div>\n      </div>\n   </div>\n</div>",
+      "items": [
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Greeting"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 1,
+          "lines": [
+            "Paul, a prisoner of Christ Jesus, and Timothy our brother:",
+            "To Philemon our dear friend and coworker,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 2,
+          "lines": [
+            "to Apphia our sister, to Archippus our fellow soldier, and to the church that meets in your home."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 3,
+          "lines": [
+            "Grace to you and peace from God our Father and the Lord Jesus Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Philemon’s Love and Faith"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 4,
+          "lines": [
+            "I always thank my God when I mention you in my prayers,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 5,
+          "lines": [
+            "because I hear of your love for all the saints and the faith that you have in the Lord Jesus."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 6,
+          "lines": [
+            "I pray that your participation in the faith may become effective through knowing every good thing that is in us for the glory of Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 7,
+          "lines": [
+            "For I have great joy and encouragement from your love, because the hearts of the saints have been refreshed through you, brother."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "An Appeal for Onesimus"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 8,
+          "lines": [
+            "For this reason, although I have great boldness in Christ to command you to do what is right,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 9,
+          "lines": [
+            "I appeal to you, instead, on the basis of love. I, Paul, as an elderly man and now also as a prisoner of Christ Jesus,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 10,
+          "lines": [
+            "appeal to you for my son, Onesimus. , I became his father while I was in chains."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 11,
+          "lines": [
+            "Once he was useless to you, but now he is useful both to you and to me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 12,
+          "lines": [
+            "I am sending him back to you #— #I am sending my very own heart. ,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 13,
+          "lines": [
+            "I wanted to keep him with me, so that in my imprisonment for the gospel he might serve me in your place."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 14,
+          "lines": [
+            "But I didn’t want to do anything without your consent, so that your good deed might not be out of obligation, but of your own free will."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 15,
+          "lines": [
+            "For perhaps this is why he was separated from you for a brief time, so that you might get him back permanently,"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 16,
+          "lines": [
+            "no longer as a slave, but more than a slave #— #as a dearly loved brother. He is especially so to me, but how much more to you, both in the flesh and in the Lord."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 17,
+          "lines": [
+            "So if you consider me a partner, welcome him as you would me."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 18,
+          "lines": [
+            "And if he has wronged you in any way, or owes you anything, charge that to my account."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 19,
+          "lines": [
+            "I, Paul, write this with my own hand: I will repay it #— #not to mention to you that you owe me even your very self."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 20,
+          "lines": [
+            "Yes, brother, may I benefit from you in the Lord; refresh my heart in Christ."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 21,
+          "lines": [
+            "Since I am confident of your obedience, I am writing to you, knowing that you will do even more than I say."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 22,
+          "lines": [
+            "Meanwhile, also prepare a guest room for me, since I hope that through your prayers I will be restored to you."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "heading1",
+          "verse_number": -1,
+          "lines": [
+            "Final Greetings"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 23,
+          "lines": [
+            "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings, and so do"
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 24,
+          "lines": [
+            "Mark, Aristarchus, Demas, and Luke, my coworkers."
+          ],
+          "rlw_lines": []
+        },
+        {
+          "type": "verse",
+          "verse_number": 25,
+          "lines": [
+            "The grace of the Lord , Jesus Christ be with your spirit."
+          ],
+          "rlw_lines": []
+        }
+      ]
+    }
+  ]
+}
