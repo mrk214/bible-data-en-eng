@@ -186,7 +186,7 @@ Some data is omitted for efficiency but can be easily derived. For example:
 
 You can also access static files using the following links:
 
-### New International Version (NIV)
+### New International Version (NIV) - review again
 
 | Name                 | ID (usfm) | Link                                                                              |
 | -------------------- | --------- | --------------------------------------------------------------------------------- |
@@ -257,7 +257,7 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/NIV/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/NIV/REV.json) |
 
-### King James Version (KJV)
+### King James Version (KJV) - review again
 
 | Name                 | ID (usfm) | Link                                                                              |
 | -------------------- | --------- | --------------------------------------------------------------------------------- |
@@ -399,7 +399,7 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/REV.json) |
 
-### New Living Translation (NLT)
+### New Living Translation (NLT) - review again
 
 | Name                 | ID (usfm) | Link                                                                              |
 | -------------------- | --------- | --------------------------------------------------------------------------------- |
