@@ -257,7 +257,7 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/NIV/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/NIV/REV.json) |
 
-### King James Version (KJV) - review again
+### King James Version (KJV)
 
 | Name                 | ID (usfm) | Link                                                                              |
 | -------------------- | --------- | --------------------------------------------------------------------------------- |
