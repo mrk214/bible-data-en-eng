@@ -186,7 +186,7 @@ Some data is omitted for efficiency but can be easily derived. For example:
 
 You can also access static files using the following links:
 
-### New International Version (NIV) - review again
+### New International Version (NIV)
 
 | Name                 | ID (usfm) | Link                                                                              |
 | -------------------- | --------- | --------------------------------------------------------------------------------- |
