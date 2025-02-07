@@ -399,7 +399,7 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/ESV/REV.json) |
 
-### New Living Translation (NLT) - review again
+### New Living Translation (NLT)
 
 | Name                 | ID (usfm) | Link                                                                              |
 | -------------------- | --------- | --------------------------------------------------------------------------------- |
