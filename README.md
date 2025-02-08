@@ -470,7 +470,7 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/NLT/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/NLT/REV.json) |
 
-### New American Standard Bible (NASB2020) - unchecked
+### New American Standard Bible (NASB2020)
 
 | Name                 | ID (usfm) | Link                                                                                   |
 | -------------------- | --------- | -------------------------------------------------------------------------------------- |
