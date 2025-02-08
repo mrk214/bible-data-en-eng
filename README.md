@@ -612,7 +612,7 @@ You can also access static files using the following links:
 | Jude                 | `JUD`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/CSB/JUD.json) |
 | Revelation           | `REV`     | [raw file](https://jsckdm.github.io/bible-data-en-eng/data/en___eng/CSB/REV.json) |
 
-### New King James Version (NKJV) - unchecked
+### New King James Version (NKJV)
 
 | Name                 | ID (usfm) | Link                                                                               |
 | -------------------- | --------- | ---------------------------------------------------------------------------------- |
