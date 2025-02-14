@@ -211,7 +211,7 @@ directly access the `JSON files hosted on GitHub`.
 Inside each version's folder, there is a `README.md` file that includes:
 
 - The **number of books** in that version.
-- And **direct links to the files hosted on GitHub**.
+- And **direct links to the JSON files hosted on GitHub**.
 
 | usfm       | name                        | link                                                                                             |
 | ---------- | --------------------------- | ------------------------------------------------------------------------------------------------ |
