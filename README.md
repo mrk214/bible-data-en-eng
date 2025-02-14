@@ -202,3 +202,23 @@ different ways.
 
 Thus, if you do not find a particular piece of data explicitly, it is very
 likely that it can be calculated with code (_you just need to program it_ 👨‍💻).
+
+## Hosted files on GitHub
+
+You can clone the repository and use it in the usual ways, or you can
+directly access the `JSON files hosted on GitHub`.
+
+Inside each version's folder, there is a `README.md` file that includes:
+
+- The **number of books** in that version.
+- And **direct links to the files hosted on GitHub**.
+
+| usfm       | name                        | link                                                                                             |
+| ---------- | --------------------------- | ------------------------------------------------------------------------------------------------ |
+| `CSB`      | Christian Standard Bible    | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/CSB/README.md)      |
+| `ESV`      | English Standard Version    | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/ESV/README.md)      |
+| `KJV`      | King James Version          | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/KJV/README.md)      |
+| `NASB2020` | New American Standard Bible | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NASB2020/README.md) |
+| `NIV`      | New International Version   | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NIV/README.md)      |
+| `NKJV`     | New King James Version      | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NKJV/README.md)     |
+| `NLT`      | New Living Translation      | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NLT/README.md)      |
