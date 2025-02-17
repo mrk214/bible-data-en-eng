@@ -222,3 +222,30 @@ Inside each version's folder, there is a `README.md` file that includes:
 | `NIV`      | New International Version   | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NIV/README.md)      |
 | `NKJV`     | New King James Version      | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NKJV/README.md)     |
 | `NLT`      | New Living Translation      | [readme](https://github.com/jsckdm/bible-data-en-eng/blob/main/data/en___eng/NLT/README.md)      |
+
+## Special Chapters
+
+In some versions, there are special cases of certain chapters (`Chapter`) that
+have a `chapter_usfm` in a different format from the others.
+
+For example, `PSA.42_1`, when the common format is `PSA.42`.
+
+To better understand their structure and how to handle them (_for example,
+in a search_), I recommend reviewing the following fields in each of those
+chapters:
+`chapter_usfm`, `next?.usfm?.[0]`, `chapter_text`, `chapter_html`, `items`.
+
+🔎 **CSB**
+
+All the chapters in Psalms (`PSA`) follow this format in their `chapter_usfm`:
+
+From `PSA.1_1`, `PSA.2_1`, `PSA.3_1` up to `PSA.148_1`, `PSA.149_1`,
+`PSA.150_1`.
+
+Except for these chapters:
+
+- `PSA.1`
+- `PSA.42`
+- `PSA.73`
+- `PSA.90`
+- `PSA.107`
