@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "HAB.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "HAB.1"
-        ],
+        "usfm": ["HAB.1"],
         "human": "Habakkuk 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "HAB.2"
-        ],
+        "usfm": ["HAB.2"],
         "human": "Habakkuk 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NAM.3"
-        ],
+        "usfm": ["NAM.3"],
         "human": "Nahum 3",
         "toc": true
       },
@@ -50,27 +44,19 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
-          "lines": [
-            "The burden which the prophet Habakkuk saw."
-          ],
+          "verse_numbers": [1],
+          "lines": ["The burden which the prophet Habakkuk saw."],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Prophet’s Question"
-          ],
+          "lines": ["The Prophet’s Question"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "O Lord, how long shall I cry,",
             "And You will not hear?",
@@ -81,9 +67,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Why do You show me iniquity,",
             "And cause me to see trouble?",
@@ -94,9 +78,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Therefore the law is powerless,",
             "And justice never goes forth.",
@@ -108,16 +90,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Lord’s Reply"
-          ],
+          "lines": ["The Lord’s Reply"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "“Look among the nations and watch—",
             "Be utterly astounded!",
@@ -128,9 +106,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "For indeed I am raising up the Chaldeans,",
             "A bitter and hasty nation",
@@ -141,9 +117,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "They are terrible and dreadful;",
             "Their judgment and their dignity proceed from themselves."
@@ -152,9 +126,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Their horses also are swifter than leopards,",
             "And more fierce than evening wolves.",
@@ -166,9 +138,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "“They all come for violence;",
             "Their faces are set like the east wind.",
@@ -178,9 +148,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "They scoff at kings,",
             "And princes are scorned by them.",
@@ -191,9 +159,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Then his mind changes, and he transgresses;",
             "He commits offense,",
@@ -204,16 +170,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Prophet’s Second Question"
-          ],
+          "lines": ["The Prophet’s Second Question"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Are You not from everlasting,",
             "O Lord my God, my Holy One?",
@@ -225,9 +187,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "You are of purer eyes than to behold evil,",
             "And cannot look on wickedness.",
@@ -239,9 +199,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Why do You make men like fish of the sea,",
             "Like creeping things that have no ruler over them?"
@@ -250,9 +208,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "They take up all of them with a hook,",
             "They catch them in their net,",
@@ -263,9 +219,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Therefore they sacrifice to their net,",
             "And burn incense to their dragnet;",
@@ -276,9 +230,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Shall they therefore empty their net,",
             "And continue to slay nations without pity?"
@@ -291,24 +243,18 @@
       "chapter_usfm": "HAB.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "HAB.2"
-        ],
+        "usfm": ["HAB.2"],
         "human": "Habakkuk 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "HAB.3"
-        ],
+        "usfm": ["HAB.3"],
         "human": "Habakkuk 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "HAB.1"
-        ],
+        "usfm": ["HAB.1"],
         "human": "Habakkuk 1",
         "toc": true
       },
@@ -317,9 +263,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "I will stand my watch",
             "And set myself on the rampart,",
@@ -331,16 +275,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Just Live by Faith"
-          ],
+          "lines": ["The Just Live by Faith"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Then the Lord answered me and said:",
             "“Write the vision",
@@ -351,9 +291,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For the vision is yet for an appointed time;",
             "But at the end it will speak, and it will not lie.",
@@ -365,9 +303,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "“Behold the proud,",
             "His soul is not upright in him;",
@@ -378,16 +314,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Woe to the Wicked"
-          ],
+          "lines": ["Woe to the Wicked"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "“Indeed, because he transgresses by wine,",
             "He is a proud man,",
@@ -401,9 +333,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "“Will not all these take up a proverb against him,",
             "And a taunting riddle against him, and say,",
@@ -415,9 +345,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Will not your creditors rise up suddenly?",
             "Will they not awaken who oppress you?",
@@ -427,9 +355,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Because you have plundered many nations,",
             "All the remnant of the people shall plunder you,",
@@ -441,9 +367,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "“Woe to him who covets evil gain for his house,",
             "That he may set his nest on high,",
@@ -453,9 +377,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "You give shameful counsel to your house,",
             "Cutting off many peoples,",
@@ -465,9 +387,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "For the stone will cry out from the wall,",
             "And the beam from the timbers will answer it."
@@ -476,9 +396,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "“Woe to him who builds a town with bloodshed,",
             "Who establishes a city by iniquity!"
@@ -487,9 +405,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Behold, is it not of the Lord of hosts",
             "That the peoples labor to feed the fire,",
@@ -499,9 +415,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For the earth will be filled",
             "With the knowledge of the glory of the Lord,",
@@ -511,9 +425,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "“Woe to him who gives drink to his neighbor,",
             "Pressing him to your bottle,",
@@ -524,9 +436,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "You are filled with shame instead of glory.",
             "You also—drink!",
@@ -538,9 +448,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "For the violence done to Lebanon will cover you,",
             "And the plunder of beasts which made them afraid,",
@@ -552,9 +460,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "“What profit is the image, that its maker should carve it,",
             "The molded image, a teacher of lies,",
@@ -565,9 +471,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Woe to him who says to wood, ‘Awake!’",
             "To silent stone, ‘Arise! It shall teach!’",
@@ -578,9 +482,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "“But the Lord is in His holy temple.",
             "Let all the earth keep silence before Him.”"
@@ -593,24 +495,18 @@
       "chapter_usfm": "HAB.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "HAB.3"
-        ],
+        "usfm": ["HAB.3"],
         "human": "Habakkuk 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ZEP.1"
-        ],
+        "usfm": ["ZEP.1"],
         "human": "Zephaniah 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "HAB.2"
-        ],
+        "usfm": ["HAB.2"],
         "human": "Habakkuk 2",
         "toc": true
       },
@@ -620,26 +516,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Prophet’s Prayer"
-          ],
+          "lines": ["The Prophet’s Prayer"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
-          "lines": [
-            "A prayer of Habakkuk the prophet, on Shigionoth."
-          ],
+          "verse_numbers": [1],
+          "lines": ["A prayer of Habakkuk the prophet, on Shigionoth."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "O Lord, I have heard Your speech and was afraid;",
             "O Lord, revive Your work in the midst of the years!",
@@ -650,9 +538,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "God came from Teman,",
             "The Holy One from Mount Paran.",
@@ -664,9 +550,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "His brightness was like the light;",
             "He had rays flashing from His hand,",
@@ -676,9 +560,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Before Him went pestilence,",
             "And fever followed at His feet."
@@ -687,9 +569,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "He stood and measured the earth;",
             "He looked and startled the nations.",
@@ -701,9 +581,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "I saw the tents of Cushan in affliction;",
             "The curtains of the land of Midian trembled."
@@ -712,9 +590,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "O Lord, were You displeased with the rivers,",
             "Was Your anger against the rivers,",
@@ -726,9 +602,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Your bow was made quite ready;",
             "Oaths were sworn over Your arrows.",
@@ -739,9 +613,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "The mountains saw You and trembled;",
             "The overflowing of the water passed by.",
@@ -752,9 +624,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "The sun and moon stood still in their habitation;",
             "At the light of Your arrows they went,",
@@ -764,9 +634,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "You marched through the land in indignation;",
             "You trampled the nations in anger."
@@ -775,9 +643,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "You went forth for the salvation of Your people,",
             "For salvation with Your Anointed.",
@@ -789,9 +655,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "You thrust through with his own arrows",
             "The head of his villages.",
@@ -802,9 +666,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "You walked through the sea with Your horses,",
             "Through the heap of great waters."
@@ -813,9 +675,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "When I heard, my body trembled;",
             "My lips quivered at the voice;",
@@ -830,16 +690,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "A Hymn of Faith"
-          ],
+          "lines": ["A Hymn of Faith"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Though the fig tree may not blossom,",
             "Nor fruit be on the vines;",
@@ -852,9 +708,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Yet I will rejoice in the Lord,",
             "I will joy in the God of my salvation."
@@ -863,9 +717,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "The Lord God is my strength;",
             "He will make my feet like deer’s feet,",

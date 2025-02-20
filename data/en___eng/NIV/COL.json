@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "COL.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "COL.INTRO1"
-        ],
+        "usfm": ["COL.INTRO1"],
         "human": "Colossians Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "COL.1"
-        ],
+        "usfm": ["COL.1"],
         "human": "Colossians 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "PHP.4"
-        ],
+        "usfm": ["PHP.4"],
         "human": "Philippians 4",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "COL.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "COL.1"
-        ],
+        "usfm": ["COL.1"],
         "human": "Colossians 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "COL.2"
-        ],
+        "usfm": ["COL.2"],
         "human": "Colossians 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "COL.INTRO1"
-        ],
+        "usfm": ["COL.INTRO1"],
         "human": "Colossians Intro",
         "toc": true
       },
@@ -79,9 +67,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,"
           ],
@@ -89,9 +75,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "To God’s holy people in Colossae, the faithful brothers and sisters in Christ:",
             "Grace and peace to you from God our Father."
@@ -101,16 +85,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Thanksgiving and Prayer"
-          ],
+          "lines": ["Thanksgiving and Prayer"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,"
           ],
@@ -118,9 +98,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "because we have heard of your faith in Christ Jesus and of the love you have for all God’s people—"
           ],
@@ -128,9 +106,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "the faith and love that spring from the hope stored up for you in heaven and about which you have already heard in the true message of the gospel"
           ],
@@ -138,9 +114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world—just as it has been doing among you since the day you heard it and truly understood God’s grace."
           ],
@@ -148,9 +122,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,"
           ],
@@ -158,19 +130,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
-          "lines": [
-            "and who also told us of your love in the Spirit."
-          ],
+          "verse_numbers": [8],
+          "lines": ["and who also told us of your love in the Spirit."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For this reason, since the day we heard about you, we have not stopped praying for you. We continually ask God to fill you with the knowledge of his will through all the wisdom and understanding that the Spirit gives,"
           ],
@@ -178,9 +144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work, growing in the knowledge of God,"
           ],
@@ -188,9 +152,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "being strengthened with all power according to his glorious might so that you may have great endurance and patience,"
           ],
@@ -198,9 +160,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "and giving joyful thanks to the Father, who has qualified you to share in the inheritance of his holy people in the kingdom of light."
           ],
@@ -208,9 +168,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "For he has rescued us from the dominion of darkness and brought us into the kingdom of the Son he loves,"
           ],
@@ -218,27 +176,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "in whom we have redemption, the forgiveness of sins."
-          ],
+          "verse_numbers": [14],
+          "lines": ["in whom we have redemption, the forgiveness of sins."],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Supremacy of the Son of God"
-          ],
+          "lines": ["The Supremacy of the Son of God"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "The Son is the image of the invisible God, the firstborn over all creation."
           ],
@@ -246,9 +196,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him."
           ],
@@ -256,9 +204,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "He is before all things, and in him all things hold together."
           ],
@@ -266,9 +212,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy."
           ],
@@ -276,9 +220,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "For God was pleased to have all his fullness dwell in him,"
           ],
@@ -286,9 +228,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross."
           ],
@@ -296,9 +236,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Once you were alienated from God and were enemies in your minds because of your evil behavior."
           ],
@@ -306,9 +244,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "But now he has reconciled you by Christ’s physical body through death to present you holy in his sight, without blemish and free from accusation—"
           ],
@@ -316,9 +252,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant."
           ],
@@ -327,16 +261,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Paul’s Labor for the Church"
-          ],
+          "lines": ["Paul’s Labor for the Church"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Now I rejoice in what I am suffering for you, and I fill up in my flesh what is still lacking in regard to Christ’s afflictions, for the sake of his body, which is the church."
           ],
@@ -344,9 +274,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "I have become its servant by the commission God gave me to present to you the word of God in its fullness—"
           ],
@@ -354,9 +282,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "the mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord’s people."
           ],
@@ -364,9 +290,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory."
           ],
@@ -374,9 +298,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ."
           ],
@@ -384,9 +306,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "To this end I strenuously contend with all the energy Christ so powerfully works in me."
           ],
@@ -398,24 +318,18 @@
       "chapter_usfm": "COL.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "COL.2"
-        ],
+        "usfm": ["COL.2"],
         "human": "Colossians 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "COL.3"
-        ],
+        "usfm": ["COL.3"],
         "human": "Colossians 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "COL.1"
-        ],
+        "usfm": ["COL.1"],
         "human": "Colossians 1",
         "toc": true
       },
@@ -424,9 +338,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "I want you to know how hard I am contending for you and for those at Laodicea, and for all who have not met me personally."
           ],
@@ -434,9 +346,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "My goal is that they may be encouraged in heart and united in love, so that they may have the full riches of complete understanding, in order that they may know the mystery of God, namely, Christ,"
           ],
@@ -444,9 +354,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "in whom are hidden all the treasures of wisdom and knowledge."
           ],
@@ -454,9 +362,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "I tell you this so that no one may deceive you by fine-sounding arguments."
           ],
@@ -464,9 +370,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For though I am absent from you in body, I am present with you in spirit and delight to see how disciplined you are and how firm your faith in Christ is."
           ],
@@ -475,16 +379,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Spiritual Fullness in Christ"
-          ],
+          "lines": ["Spiritual Fullness in Christ"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "So then, just as you received Christ Jesus as Lord, continue to live your lives in him,"
           ],
@@ -492,9 +392,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "rooted and built up in him, strengthened in the faith as you were taught, and overflowing with thankfulness."
           ],
@@ -502,9 +400,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "See to it that no one takes you captive through hollow and deceptive philosophy, which depends on human tradition and the elemental spiritual forces of this world rather than on Christ."
           ],
@@ -512,9 +408,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For in Christ all the fullness of the Deity lives in bodily form,"
           ],
@@ -522,9 +416,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "and in Christ you have been brought to fullness. He is the head over every power and authority."
           ],
@@ -532,9 +424,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "In him you were also circumcised with a circumcision not performed by human hands. Your whole self ruled by the flesh was put off when you were circumcised by Christ,"
           ],
@@ -542,9 +432,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "having been buried with him in baptism, in which you were also raised with him through your faith in the working of God, who raised him from the dead."
           ],
@@ -552,9 +440,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "When you were dead in your sins and in the uncircumcision of your flesh, God made you alive with Christ. He forgave us all our sins,"
           ],
@@ -562,9 +448,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "having canceled the charge of our legal indebtedness, which stood against us and condemned us; he has taken it away, nailing it to the cross."
           ],
@@ -572,9 +456,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "And having disarmed the powers and authorities, he made a public spectacle of them, triumphing over them by the cross."
           ],
@@ -583,16 +465,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Freedom From Human Rules"
-          ],
+          "lines": ["Freedom From Human Rules"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Therefore do not let anyone judge you by what you eat or drink, or with regard to a religious festival, a New Moon celebration or a Sabbath day."
           ],
@@ -600,9 +478,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "These are a shadow of the things that were to come; the reality, however, is found in Christ."
           ],
@@ -610,9 +486,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Do not let anyone who delights in false humility and the worship of angels disqualify you. Such a person also goes into great detail about what they have seen; they are puffed up with idle notions by their unspiritual mind."
           ],
@@ -620,9 +494,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "They have lost connection with the head, from whom the whole body, supported and held together by its ligaments and sinews, grows as God causes it to grow."
           ],
@@ -630,9 +502,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Since you died with Christ to the elemental spiritual forces of this world, why, as though you still belonged to the world, do you submit to its rules:"
           ],
@@ -640,19 +510,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "“Do not handle! Do not taste! Do not touch!”?"
-          ],
+          "verse_numbers": [21],
+          "lines": ["“Do not handle! Do not taste! Do not touch!”?"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "These rules, which have to do with things that are all destined to perish with use, are based on merely human commands and teachings."
           ],
@@ -660,9 +524,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Such regulations indeed have an appearance of wisdom, with their self-imposed worship, their false humility and their harsh treatment of the body, but they lack any value in restraining sensual indulgence."
           ],
@@ -674,24 +536,18 @@
       "chapter_usfm": "COL.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "COL.3"
-        ],
+        "usfm": ["COL.3"],
         "human": "Colossians 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "COL.4"
-        ],
+        "usfm": ["COL.4"],
         "human": "Colossians 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "COL.2"
-        ],
+        "usfm": ["COL.2"],
         "human": "Colossians 2",
         "toc": true
       },
@@ -701,16 +557,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Living as Those Made Alive in Christ"
-          ],
+          "lines": ["Living as Those Made Alive in Christ"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Since, then, you have been raised with Christ, set your hearts on things above, where Christ is, seated at the right hand of God."
           ],
@@ -718,19 +570,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
-          "lines": [
-            "Set your minds on things above, not on earthly things."
-          ],
+          "verse_numbers": [2],
+          "lines": ["Set your minds on things above, not on earthly things."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For you died, and your life is now hidden with Christ in God."
           ],
@@ -738,9 +584,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "When Christ, who is your life, appears, then you also will appear with him in glory."
           ],
@@ -748,9 +592,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry."
           ],
@@ -758,19 +600,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "Because of these, the wrath of God is coming."
-          ],
+          "verse_numbers": [6],
+          "lines": ["Because of these, the wrath of God is coming."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "You used to walk in these ways, in the life you once lived."
           ],
@@ -778,9 +614,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "But now you must also rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips."
           ],
@@ -788,9 +622,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Do not lie to each other, since you have taken off your old self with its practices"
           ],
@@ -798,9 +630,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "and have put on the new self, which is being renewed in knowledge in the image of its Creator."
           ],
@@ -808,9 +638,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Here there is no Gentile or Jew, circumcised or uncircumcised, barbarian, Scythian, slave or free, but Christ is all, and is in all."
           ],
@@ -818,9 +646,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience."
           ],
@@ -828,9 +654,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."
           ],
@@ -838,9 +662,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "And over all these virtues put on love, which binds them all together in perfect unity."
           ],
@@ -848,9 +670,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful."
           ],
@@ -858,9 +678,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Let the message of Christ dwell among you richly as you teach and admonish one another with all wisdom through psalms, hymns, and songs from the Spirit, singing to God with gratitude in your hearts."
           ],
@@ -868,9 +686,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him."
           ],
@@ -879,16 +695,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Instructions for Christian Households"
-          ],
+          "lines": ["Instructions for Christian Households"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Wives, submit yourselves to your husbands, as is fitting in the Lord."
           ],
@@ -896,19 +708,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
-          "lines": [
-            "Husbands, love your wives and do not be harsh with them."
-          ],
+          "verse_numbers": [19],
+          "lines": ["Husbands, love your wives and do not be harsh with them."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Children, obey your parents in everything, for this pleases the Lord."
           ],
@@ -916,9 +722,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Fathers, do not embitter your children, or they will become discouraged."
           ],
@@ -926,9 +730,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Slaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to curry their favor, but with sincerity of heart and reverence for the Lord."
           ],
@@ -936,9 +738,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,"
           ],
@@ -946,9 +746,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "since you know that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving."
           ],
@@ -956,9 +754,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Anyone who does wrong will be repaid for their wrongs, and there is no favoritism."
           ],
@@ -970,24 +766,18 @@
       "chapter_usfm": "COL.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "COL.4"
-        ],
+        "usfm": ["COL.4"],
         "human": "Colossians 4"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "1TH.INTRO1"
-        ],
+        "usfm": ["1TH.INTRO1"],
         "human": "1 Thessalonians Intro",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "COL.3"
-        ],
+        "usfm": ["COL.3"],
         "human": "Colossians 3",
         "toc": true
       },
@@ -996,9 +786,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven."
           ],
@@ -1007,16 +795,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Further Instructions"
-          ],
+          "lines": ["Further Instructions"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Devote yourselves to prayer, being watchful and thankful."
           ],
@@ -1024,9 +808,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains."
           ],
@@ -1034,19 +816,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "Pray that I may proclaim it clearly, as I should."
-          ],
+          "verse_numbers": [4],
+          "lines": ["Pray that I may proclaim it clearly, as I should."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Be wise in the way you act toward outsiders; make the most of every opportunity."
           ],
@@ -1054,9 +830,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Let your conversation be always full of grace, seasoned with salt, so that you may know how to answer everyone."
           ],
@@ -1065,16 +839,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Final Greetings"
-          ],
+          "lines": ["Final Greetings"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Tychicus will tell you all the news about me. He is a dear brother, a faithful minister and fellow servant in the Lord."
           ],
@@ -1082,9 +852,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "I am sending him to you for the express purpose that you may know about our circumstances and that he may encourage your hearts."
           ],
@@ -1092,9 +860,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "He is coming with Onesimus, our faithful and dear brother, who is one of you. They will tell you everything that is happening here."
           ],
@@ -1102,9 +868,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "My fellow prisoner Aristarchus sends you his greetings, as does Mark, the cousin of Barnabas. (You have received instructions about him; if he comes to you, welcome him.)"
           ],
@@ -1112,9 +876,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Jesus, who is called Justus, also sends greetings. These are the only Jews among my co-workers for the kingdom of God, and they have proved a comfort to me."
           ],
@@ -1122,9 +884,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Epaphras, who is one of you and a servant of Christ Jesus, sends greetings. He is always wrestling in prayer for you, that you may stand firm in all the will of God, mature and fully assured."
           ],
@@ -1132,9 +892,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I vouch for him that he is working hard for you and for those at Laodicea and Hierapolis."
           ],
@@ -1142,9 +900,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Our dear friend Luke, the doctor, and Demas send greetings."
           ],
@@ -1152,9 +908,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Give my greetings to the brothers and sisters at Laodicea, and to Nympha and the church in her house."
           ],
@@ -1162,9 +916,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "After this letter has been read to you, see that it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea."
           ],
@@ -1172,9 +924,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”"
           ],
@@ -1182,9 +932,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "I, Paul, write this greeting in my own hand. Remember my chains. Grace be with you."
           ],

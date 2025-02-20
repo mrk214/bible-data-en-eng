@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "NEH.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.1"
-        ],
+        "usfm": ["NEH.1"],
         "human": "Nehemiah 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.2"
-        ],
+        "usfm": ["NEH.2"],
         "human": "Nehemiah 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EZR.10"
-        ],
+        "usfm": ["EZR.10"],
         "human": "Ezra 10",
         "toc": true
       },
@@ -50,27 +44,19 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
-          "lines": [
-            "These are the memoirs of Nehemiah son of Hacaliah."
-          ],
+          "verse_numbers": [1],
+          "lines": ["These are the memoirs of Nehemiah son of Hacaliah."],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nehemiah’s Concern for Jerusalem"
-          ],
+          "lines": ["Nehemiah’s Concern for Jerusalem"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "In late autumn, in the month of Kislev, in the twentieth year of King Artaxerxes’ reign, I was at the fortress of Susa."
           ],
@@ -78,9 +64,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Hanani, one of my brothers, came to visit me with some other men who had just arrived from Judah. I asked them about the Jews who had returned there from captivity and about how things were going in Jerusalem."
           ],
@@ -88,9 +72,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "They said to me, “Things are not going well for those who returned to the province of Judah. They are in great trouble and disgrace. The wall of Jerusalem has been torn down, and the gates have been destroyed by fire.”"
           ],
@@ -98,9 +80,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "When I heard this, I sat down and wept. In fact, for days I mourned, fasted, and prayed to the God of heaven."
           ],
@@ -108,9 +88,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Then I said,",
             "“O Lord, God of heaven, the great and awesome God who keeps his covenant of unfailing love with those who love him and obey his commands,"
@@ -119,9 +97,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "listen to my prayer! Look down and see me praying night and day for your people Israel. I confess that we have sinned against you. Yes, even my own family and I have sinned!"
           ],
@@ -129,9 +105,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "We have sinned terribly by not obeying the commands, decrees, and regulations that you gave us through your servant Moses."
           ],
@@ -139,9 +113,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "“Please remember what you told your servant Moses: ‘If you are unfaithful to me, I will scatter you among the nations."
           ],
@@ -149,9 +121,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "But if you return to me and obey my commands and live by them, then even if you are exiled to the ends of the earth, I will bring you back to the place I have chosen for my name to be honored.’"
           ],
@@ -159,9 +129,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "“The people you rescued by your great power and strong hand are your servants."
           ],
@@ -169,9 +137,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "O Lord, please hear my prayer! Listen to the prayers of those of us who delight in honoring you. Please grant me success today by making the king favorable to me. Put it into his heart to be kind to me.”",
             "In those days I was the king’s cup-bearer."
@@ -184,24 +150,18 @@
       "chapter_usfm": "NEH.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.2"
-        ],
+        "usfm": ["NEH.2"],
         "human": "Nehemiah 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.3"
-        ],
+        "usfm": ["NEH.3"],
         "human": "Nehemiah 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.1"
-        ],
+        "usfm": ["NEH.1"],
         "human": "Nehemiah 1",
         "toc": true
       },
@@ -211,16 +171,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nehemiah Goes to Jerusalem"
-          ],
+          "lines": ["Nehemiah Goes to Jerusalem"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Early the following spring, in the month of Nisan, during the twentieth year of King Artaxerxes’ reign, I was serving the king his wine. I had never before appeared sad in his presence."
           ],
@@ -228,9 +184,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "So the king asked me, “Why are you looking so sad? You don’t look sick to me. You must be deeply troubled.”",
             "Then I was terrified,"
@@ -239,9 +193,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "but I replied, “Long live the king! How can I not be sad? For the city where my ancestors are buried is in ruins, and the gates have been destroyed by fire.”"
           ],
@@ -249,9 +201,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "The king asked, “Well, how can I help you?”",
             "With a prayer to the God of heaven,"
@@ -260,9 +210,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "I replied, “If it please the king, and if you are pleased with me, your servant, send me to Judah to rebuild the city where my ancestors are buried.”"
           ],
@@ -270,9 +218,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "The king, with the queen sitting beside him, asked, “How long will you be gone? When will you return?” After I told him how long I would be gone, the king agreed to my request."
           ],
@@ -280,9 +226,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "I also said to the king, “If it please the king, let me have letters addressed to the governors of the province west of the Euphrates River, instructing them to let me travel safely through their territories on my way to Judah."
           ],
@@ -290,9 +234,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "And please give me a letter addressed to Asaph, the manager of the king’s forest, instructing him to give me timber. I will need it to make beams for the gates of the Temple fortress, for the city walls, and for a house for myself.” And the king granted these requests, because the gracious hand of God was on me."
           ],
@@ -300,9 +242,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "When I came to the governors of the province west of the Euphrates River, I delivered the king’s letters to them. The king, I should add, had sent along army officers and horsemen to protect me."
           ],
@@ -310,9 +250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "But when Sanballat the Horonite and Tobiah the Ammonite official heard of my arrival, they were very displeased that someone had come to help the people of Israel."
           ],
@@ -321,26 +259,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nehemiah Inspects Jerusalem’s Wall"
-          ],
+          "lines": ["Nehemiah Inspects Jerusalem’s Wall"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
-          "lines": [
-            "So I arrived in Jerusalem. Three days later,"
-          ],
+          "verse_numbers": [11],
+          "lines": ["So I arrived in Jerusalem. Three days later,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "I slipped out during the night, taking only a few others with me. I had not told anyone about the plans God had put in my heart for Jerusalem. We took no pack animals with us except the donkey I was riding."
           ],
@@ -348,9 +278,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "After dark I went out through the Valley Gate, past the Jackal’s Well, and over to the Dung Gate to inspect the broken walls and burned gates."
           ],
@@ -358,9 +286,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Then I went to the Fountain Gate and to the King’s Pool, but my donkey couldn’t get through the rubble."
           ],
@@ -368,9 +294,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "So, though it was still dark, I went up the Kidron Valley instead, inspecting the wall before I turned back and entered again at the Valley Gate."
           ],
@@ -378,9 +302,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "The city officials did not know I had been out there or what I was doing, for I had not yet said anything to anyone about my plans. I had not yet spoken to the Jewish leaders—the priests, the nobles, the officials, or anyone else in the administration."
           ],
@@ -388,9 +310,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "But now I said to them, “You know very well what trouble we are in. Jerusalem lies in ruins, and its gates have been destroyed by fire. Let us rebuild the wall of Jerusalem and end this disgrace!”"
           ],
@@ -398,9 +318,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Then I told them about how the gracious hand of God had been on me, and about my conversation with the king.",
             "They replied at once, “Yes, let’s rebuild the wall!” So they began the good work."
@@ -409,9 +327,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "But when Sanballat, Tobiah, and Geshem the Arab heard of our plan, they scoffed contemptuously. “What are you doing? Are you rebelling against the king?” they asked."
           ],
@@ -419,9 +335,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "I replied, “The God of heaven will help us succeed. We, his servants, will start rebuilding this wall. But you have no share, legal right, or historic claim in Jerusalem.”"
           ],
@@ -433,24 +347,18 @@
       "chapter_usfm": "NEH.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.3"
-        ],
+        "usfm": ["NEH.3"],
         "human": "Nehemiah 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.4"
-        ],
+        "usfm": ["NEH.4"],
         "human": "Nehemiah 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.2"
-        ],
+        "usfm": ["NEH.2"],
         "human": "Nehemiah 2",
         "toc": true
       },
@@ -460,16 +368,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Rebuilding the Wall of Jerusalem"
-          ],
+          "lines": ["Rebuilding the Wall of Jerusalem"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Then Eliashib the high priest and the other priests started to rebuild at the Sheep Gate. They dedicated it and set up its doors, building the wall as far as the Tower of the Hundred, which they dedicated, and the Tower of Hananel."
           ],
@@ -477,9 +381,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "People from the town of Jericho worked next to them, and beyond them was Zaccur son of Imri."
           ],
@@ -487,9 +389,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "The Fish Gate was built by the sons of Hassenaah. They laid the beams, set up its doors, and installed its bolts and bars."
           ],
@@ -497,9 +397,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Meremoth son of Uriah and grandson of Hakkoz repaired the next section of wall. Beside him were Meshullam son of Berekiah and grandson of Meshezabel, and then Zadok son of Baana."
           ],
@@ -507,9 +405,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Next were the people from Tekoa, though their leaders refused to work with the construction supervisors."
           ],
@@ -517,9 +413,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "The Old City Gate was repaired by Joiada son of Paseah and Meshullam son of Besodeiah. They laid the beams, set up its doors, and installed its bolts and bars."
           ],
@@ -527,9 +421,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Next to them were Melatiah from Gibeon, Jadon from Meronoth, people from Gibeon, and people from Mizpah, the headquarters of the governor of the province west of the Euphrates River."
           ],
@@ -537,9 +429,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Next was Uzziel son of Harhaiah, a goldsmith by trade, who also worked on the wall. Beyond him was Hananiah, a manufacturer of perfumes. They left out a section of Jerusalem as they built the Broad Wall."
           ],
@@ -547,9 +437,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Rephaiah son of Hur, the leader of half the district of Jerusalem, was next to them on the wall."
           ],
@@ -557,9 +445,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Next Jedaiah son of Harumaph repaired the wall across from his own house, and next to him was Hattush son of Hashabneiah."
           ],
@@ -567,9 +453,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Then came Malkijah son of Harim and Hasshub son of Pahath-moab, who repaired another section of the wall and the Tower of the Ovens."
           ],
@@ -577,9 +461,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Shallum son of Hallohesh and his daughters repaired the next section. He was the leader of the other half of the district of Jerusalem."
           ],
@@ -587,9 +469,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "The Valley Gate was repaired by the people from Zanoah, led by Hanun. They set up its doors and installed its bolts and bars. They also repaired the 1,500 feet of wall to the Dung Gate."
           ],
@@ -597,9 +477,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "The Dung Gate was repaired by Malkijah son of Recab, the leader of the Beth-hakkerem district. He rebuilt it, set up its doors, and installed its bolts and bars."
           ],
@@ -607,9 +485,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "The Fountain Gate was repaired by Shallum son of Col-hozeh, the leader of the Mizpah district. He rebuilt it, roofed it, set up its doors, and installed its bolts and bars. Then he repaired the wall of the pool of Siloam near the king’s garden, and he rebuilt the wall as far as the stairs that descend from the City of David."
           ],
@@ -617,9 +493,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Next to him was Nehemiah son of Azbuk, the leader of half the district of Beth-zur. He rebuilt the wall from a place across from the tombs of David’s family as far as the water reservoir and the House of the Warriors."
           ],
@@ -627,9 +501,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Next to him, repairs were made by a group of Levites working under the supervision of Rehum son of Bani. Then came Hashabiah, the leader of half the district of Keilah, who supervised the building of the wall on behalf of his own district."
           ],
@@ -637,9 +509,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Next down the line were his countrymen led by Binnui son of Henadad, the leader of the other half of the district of Keilah."
           ],
@@ -647,9 +517,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Next to them, Ezer son of Jeshua, the leader of Mizpah, repaired another section of wall across from the ascent to the armory near the angle in the wall."
           ],
@@ -657,9 +525,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Next to him was Baruch son of Zabbai, who zealously repaired an additional section from the angle to the door of the house of Eliashib the high priest."
           ],
@@ -667,9 +533,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Meremoth son of Uriah and grandson of Hakkoz rebuilt another section of the wall extending from the door of Eliashib’s house to the end of the house."
           ],
@@ -677,9 +541,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "The next repairs were made by the priests from the surrounding region."
           ],
@@ -687,9 +549,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "After them, Benjamin and Hasshub repaired the section across from their house, and Azariah son of Maaseiah and grandson of Ananiah repaired the section across from his house."
           ],
@@ -697,9 +557,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Next was Binnui son of Henadad, who rebuilt another section of the wall from Azariah’s house to the angle and the corner."
           ],
@@ -707,9 +565,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Palal son of Uzai carried on the work from a point opposite the angle and the tower that projects up from the king’s upper house beside the court of the guard. Next to him were Pedaiah son of Parosh,"
           ],
@@ -717,9 +573,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "with the Temple servants living on the hill of Ophel, who repaired the wall as far as a point across from the Water Gate to the east and the projecting tower."
           ],
@@ -727,9 +581,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Then came the people of Tekoa, who repaired another section across from the great projecting tower and over to the wall of Ophel."
           ],
@@ -737,9 +589,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "Above the Horse Gate, the priests repaired the wall. Each one repaired the section immediately across from his own house."
           ],
@@ -747,9 +597,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Next Zadok son of Immer also rebuilt the wall across from his own house, and beyond him was Shemaiah son of Shecaniah, the gatekeeper of the East Gate."
           ],
@@ -757,9 +605,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "Next Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, repaired another section, while Meshullam son of Berekiah rebuilt the wall across from where he lived."
           ],
@@ -767,9 +613,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "Malkijah, one of the goldsmiths, repaired the wall as far as the housing for the Temple servants and merchants, across from the Inspection Gate. Then he continued as far as the upper room at the corner."
           ],
@@ -777,9 +621,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "The other goldsmiths and merchants repaired the wall from that corner to the Sheep Gate."
           ],
@@ -791,24 +633,18 @@
       "chapter_usfm": "NEH.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.4"
-        ],
+        "usfm": ["NEH.4"],
         "human": "Nehemiah 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.5"
-        ],
+        "usfm": ["NEH.5"],
         "human": "Nehemiah 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.3"
-        ],
+        "usfm": ["NEH.3"],
         "human": "Nehemiah 3",
         "toc": true
       },
@@ -818,16 +654,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Enemies Oppose the Rebuilding"
-          ],
+          "lines": ["Enemies Oppose the Rebuilding"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Sanballat was very angry when he learned that we were rebuilding the wall. He flew into a rage and mocked the Jews,"
           ],
@@ -835,9 +667,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "saying in front of his friends and the Samarian army officers, “What does this bunch of poor, feeble Jews think they’re doing? Do they think they can build the wall in a single day by just offering a few sacrifices? Do they actually think they can make something of stones from a rubbish heap—and charred ones at that?”"
           ],
@@ -845,9 +675,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Tobiah the Ammonite, who was standing beside him, remarked, “That stone wall would collapse if even a fox walked along the top of it!”"
           ],
@@ -855,9 +683,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Then I prayed, “Hear us, our God, for we are being mocked. May their scoffing fall back on their own heads, and may they themselves become captives in a foreign land!"
           ],
@@ -865,9 +691,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Do not ignore their guilt. Do not blot out their sins, for they have provoked you to anger here in front of the builders.”"
           ],
@@ -875,9 +699,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "At last the wall was completed to half its height around the entire city, for the people had worked with enthusiasm."
           ],
@@ -885,9 +707,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "But when Sanballat and Tobiah and the Arabs, Ammonites, and Ashdodites heard that the work was going ahead and that the gaps in the wall of Jerusalem were being repaired, they were furious."
           ],
@@ -895,9 +715,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "They all made plans to come and fight against Jerusalem and throw us into confusion."
           ],
@@ -905,9 +723,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "But we prayed to our God and guarded the city day and night to protect ourselves."
           ],
@@ -915,9 +731,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Then the people of Judah began to complain, “The workers are getting tired, and there is so much rubble to be moved. We will never be able to build the wall by ourselves.”"
           ],
@@ -925,9 +739,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Meanwhile, our enemies were saying, “Before they know what’s happening, we will swoop down on them and kill them and end their work.”"
           ],
@@ -935,9 +747,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "The Jews who lived near the enemy came and told us again and again, “They will come from all directions and attack us!”"
           ],
@@ -945,9 +755,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "So I placed armed guards behind the lowest parts of the wall in the exposed areas. I stationed the people to stand guard by families, armed with swords, spears, and bows."
           ],
@@ -955,9 +763,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Then as I looked over the situation, I called together the nobles and the rest of the people and said to them, “Don’t be afraid of the enemy! Remember the Lord, who is great and glorious, and fight for your brothers, your sons, your daughters, your wives, and your homes!”"
           ],
@@ -965,9 +771,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "When our enemies heard that we knew of their plans and that God had frustrated them, we all returned to our work on the wall."
           ],
@@ -975,9 +779,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "But from then on, only half my men worked while the other half stood guard with spears, shields, bows, and coats of mail. The leaders stationed themselves behind the people of Judah"
           ],
@@ -985,9 +787,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "who were building the wall. The laborers carried on their work with one hand supporting their load and one hand holding a weapon."
           ],
@@ -995,9 +795,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "All the builders had a sword belted to their side. The trumpeter stayed with me to sound the alarm."
           ],
@@ -1005,9 +803,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Then I explained to the nobles and officials and all the people, “The work is very spread out, and we are widely separated from each other along the wall."
           ],
@@ -1015,9 +811,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "When you hear the blast of the trumpet, rush to wherever it is sounding. Then our God will fight for us!”"
           ],
@@ -1025,9 +819,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "We worked early and late, from sunrise to sunset. And half the men were always on guard."
           ],
@@ -1035,9 +827,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "I also told everyone living outside the walls to stay in Jerusalem. That way they and their servants could help with guard duty at night and work during the day."
           ],
@@ -1045,9 +835,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "During this time, none of us—not I, nor my relatives, nor my servants, nor the guards who were with me—ever took off our clothes. We carried our weapons with us at all times, even when we went for water."
           ],
@@ -1059,24 +847,18 @@
       "chapter_usfm": "NEH.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.5"
-        ],
+        "usfm": ["NEH.5"],
         "human": "Nehemiah 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.6"
-        ],
+        "usfm": ["NEH.6"],
         "human": "Nehemiah 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.4"
-        ],
+        "usfm": ["NEH.4"],
         "human": "Nehemiah 4",
         "toc": true
       },
@@ -1086,16 +868,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nehemiah Defends the Oppressed"
-          ],
+          "lines": ["Nehemiah Defends the Oppressed"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "About this time some of the men and their wives raised a cry of protest against their fellow Jews."
           ],
@@ -1103,9 +881,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "They were saying, “We have such large families. We need more food to survive.”"
           ],
@@ -1113,9 +889,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Others said, “We have mortgaged our fields, vineyards, and homes to get food during the famine.”"
           ],
@@ -1123,9 +897,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "And others said, “We have had to borrow money on our fields and vineyards to pay our taxes."
           ],
@@ -1133,9 +905,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "We belong to the same family as those who are wealthy, and our children are just like theirs. Yet we must sell our children into slavery just to get enough money to live. We have already sold some of our daughters, and we are helpless to do anything about it, for our fields and vineyards are already mortgaged to others.”"
           ],
@@ -1143,19 +913,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "When I heard their complaints, I was very angry."
-          ],
+          "verse_numbers": [6],
+          "lines": ["When I heard their complaints, I was very angry."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "After thinking it over, I spoke out against these nobles and officials. I told them, “You are hurting your own relatives by charging interest when they borrow money!” Then I called a public meeting to deal with the problem."
           ],
@@ -1163,9 +927,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "At the meeting I said to them, “We are doing all we can to redeem our Jewish relatives who have had to sell themselves to pagan foreigners, but you are selling them back into slavery again. How often must we redeem them?” And they had nothing to say in their defense."
           ],
@@ -1173,9 +935,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Then I pressed further, “What you are doing is not right! Should you not walk in the fear of our God in order to avoid being mocked by enemy nations?"
           ],
@@ -1183,9 +943,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "I myself, as well as my brothers and my workers, have been lending the people money and grain, but now let us stop this business of charging interest."
           ],
@@ -1193,9 +951,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "You must restore their fields, vineyards, olive groves, and homes to them this very day. And repay the interest you charged when you lent them money, grain, new wine, and olive oil.”"
           ],
@@ -1203,9 +959,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "They replied, “We will give back everything and demand nothing more from the people. We will do as you say.” Then I called the priests and made the nobles and officials swear to do what they had promised."
           ],
@@ -1213,9 +967,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I shook out the folds of my robe and said, “If you fail to keep your promise, may God shake you like this from your homes and from your property!”",
             "The whole assembly responded, “Amen,” and they praised the Lord. And the people did as they had promised."
@@ -1224,9 +976,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For the entire twelve years that I was governor of Judah—from the twentieth year to the thirty-second year of the reign of King Artaxerxes—neither I nor my officials drew on our official food allowance."
           ],
@@ -1234,9 +984,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "The former governors, in contrast, had laid heavy burdens on the people, demanding a daily ration of food and wine, besides forty pieces of silver. Even their assistants took advantage of the people. But because I feared God, I did not act that way."
           ],
@@ -1244,9 +992,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "I also devoted myself to working on the wall and refused to acquire any land. And I required all my servants to spend time working on the wall."
           ],
@@ -1254,9 +1000,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "I asked for nothing, even though I regularly fed 150 Jewish officials at my table, besides all the visitors from other lands!"
           ],
@@ -1264,9 +1008,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "The provisions I paid for each day included one ox, six choice sheep or goats, and a large number of poultry. And every ten days we needed a large supply of all kinds of wine. Yet I refused to claim the governor’s food allowance because the people already carried a heavy burden."
           ],
@@ -1274,9 +1016,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Remember, O my God, all that I have done for these people, and bless me for it."
           ],
@@ -1288,24 +1028,18 @@
       "chapter_usfm": "NEH.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.6"
-        ],
+        "usfm": ["NEH.6"],
         "human": "Nehemiah 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.7"
-        ],
+        "usfm": ["NEH.7"],
         "human": "Nehemiah 7",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.5"
-        ],
+        "usfm": ["NEH.5"],
         "human": "Nehemiah 5",
         "toc": true
       },
@@ -1315,16 +1049,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Continued Opposition to Rebuilding"
-          ],
+          "lines": ["Continued Opposition to Rebuilding"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies found out that I had finished rebuilding the wall and that no gaps remained—though we had not yet set up the doors in the gates."
           ],
@@ -1332,9 +1062,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "So Sanballat and Geshem sent a message asking me to meet them at one of the villages in the plain of Ono.",
             "But I realized they were plotting to harm me,"
@@ -1343,9 +1071,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "so I replied by sending this message to them: “I am engaged in a great work, so I can’t come. Why should I stop working to come and meet with you?”"
           ],
@@ -1353,9 +1079,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Four times they sent the same message, and each time I gave the same reply."
           ],
@@ -1363,9 +1087,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "The fifth time, Sanballat’s servant came with an open letter in his hand,"
           ],
@@ -1373,9 +1095,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "and this is what it said:",
             "“There is a rumor among the surrounding nations, and Geshem tells me it is true, that you and the Jews are planning to rebel and that is why you are building the wall. According to his reports, you plan to be their king."
@@ -1384,9 +1104,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "He also reports that you have appointed prophets in Jerusalem to proclaim about you, ‘Look! There is a king in Judah!’",
             "“You can be very sure that this report will get back to the king, so I suggest that you come and talk it over with me.”"
@@ -1395,9 +1113,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "I replied, “There is no truth in any part of your story. You are making up the whole thing.”"
           ],
@@ -1405,9 +1121,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "They were just trying to intimidate us, imagining that they could discourage us and stop the work. So I continued the work with even greater determination."
           ],
@@ -1415,9 +1129,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Later I went to visit Shemaiah son of Delaiah and grandson of Mehetabel, who was confined to his home. He said, “Let us meet together inside the Temple of God and bolt the doors shut. Your enemies are coming to kill you tonight.”"
           ],
@@ -1425,9 +1137,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "But I replied, “Should someone in my position run from danger? Should someone in my position enter the Temple to save his life? No, I won’t do it!”"
           ],
@@ -1435,9 +1145,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "I realized that God had not spoken to him, but that he had uttered this prophecy against me because Tobiah and Sanballat had hired him."
           ],
@@ -1445,9 +1153,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "They were hoping to intimidate me and make me sin. Then they would be able to accuse and discredit me."
           ],
@@ -1455,9 +1161,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Remember, O my God, all the evil things that Tobiah and Sanballat have done. And remember Noadiah the prophet and all the prophets like her who have tried to intimidate me."
           ],
@@ -1466,16 +1170,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Builders Complete the Wall"
-          ],
+          "lines": ["The Builders Complete the Wall"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "So on October 2 the wall was finished—just fifty-two days after we had begun."
           ],
@@ -1483,9 +1183,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "When our enemies and the surrounding nations heard about it, they were frightened and humiliated. They realized this work had been done with the help of our God."
           ],
@@ -1493,9 +1191,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "During those fifty-two days, many letters went back and forth between Tobiah and the nobles of Judah."
           ],
@@ -1503,9 +1199,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "For many in Judah had sworn allegiance to him because his father-in-law was Shecaniah son of Arah, and his son Jehohanan was married to the daughter of Meshullam son of Berekiah."
           ],
@@ -1513,9 +1207,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "They kept telling me about Tobiah’s good deeds, and then they told him everything I said. And Tobiah kept sending threatening letters to intimidate me."
           ],
@@ -1527,24 +1219,18 @@
       "chapter_usfm": "NEH.7",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.7"
-        ],
+        "usfm": ["NEH.7"],
         "human": "Nehemiah 7"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.8"
-        ],
+        "usfm": ["NEH.8"],
         "human": "Nehemiah 8",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.6"
-        ],
+        "usfm": ["NEH.6"],
         "human": "Nehemiah 6",
         "toc": true
       },
@@ -1553,9 +1239,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "After the wall was finished and I had set up the doors in the gates, the gatekeepers, singers, and Levites were appointed."
           ],
@@ -1563,9 +1247,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "I gave the responsibility of governing Jerusalem to my brother Hanani, along with Hananiah, the commander of the fortress, for he was a faithful man who feared God more than most."
           ],
@@ -1573,9 +1255,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "I said to them, “Do not leave the gates open during the hottest part of the day. And even while the gatekeepers are on duty, have them shut and bar the doors. Appoint the residents of Jerusalem to act as guards, everyone on a regular watch. Some will serve at sentry posts and some in front of their own homes.”"
           ],
@@ -1584,16 +1264,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nehemiah Registers the People"
-          ],
+          "lines": ["Nehemiah Registers the People"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "At that time the city was large and spacious, but the population was small, and none of the houses had been rebuilt."
           ],
@@ -1601,9 +1277,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "So my God gave me the idea to call together all the nobles and leaders of the city, along with the ordinary citizens, for registration. I had found the genealogical record of those who had first returned to Judah. This is what was written there:"
           ],
@@ -1611,9 +1285,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Here is the list of the Jewish exiles of the provinces who returned from their captivity. King Nebuchadnezzar had deported them to Babylon, but now they returned to Jerusalem and the other towns in Judah where they originally lived."
           ],
@@ -1621,9 +1293,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Their leaders were Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Nahamani, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.",
             "This is the number of the men of Israel who returned from exile:"
@@ -1632,42 +1302,25 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
-          "lines": [
-            "The family of Parosh",
-            "2,172"
-          ],
+          "verse_numbers": [8],
+          "lines": ["The family of Parosh", "2,172"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
-          "lines": [
-            "The family of Shephatiah",
-            "372"
-          ],
+          "verse_numbers": [9],
+          "lines": ["The family of Shephatiah", "372"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
-          "lines": [
-            "The family of Arah",
-            "652"
-          ],
+          "verse_numbers": [10],
+          "lines": ["The family of Arah", "652"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "The family of Pahath-moab (descendants of Jeshua and Joab)",
             "2,818"
@@ -1676,196 +1329,109 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
-          "lines": [
-            "The family of Elam",
-            "1,254"
-          ],
+          "verse_numbers": [12],
+          "lines": ["The family of Elam", "1,254"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
-          "lines": [
-            "The family of Zattu",
-            "845"
-          ],
+          "verse_numbers": [13],
+          "lines": ["The family of Zattu", "845"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "The family of Zaccai",
-            "760"
-          ],
+          "verse_numbers": [14],
+          "lines": ["The family of Zaccai", "760"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
-          "lines": [
-            "The family of Bani",
-            "648"
-          ],
+          "verse_numbers": [15],
+          "lines": ["The family of Bani", "648"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
-          "lines": [
-            "The family of Bebai",
-            "628"
-          ],
+          "verse_numbers": [16],
+          "lines": ["The family of Bebai", "628"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
-          "lines": [
-            "The family of Azgad",
-            "2,322"
-          ],
+          "verse_numbers": [17],
+          "lines": ["The family of Azgad", "2,322"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
-          "lines": [
-            "The family of Adonikam",
-            "667"
-          ],
+          "verse_numbers": [18],
+          "lines": ["The family of Adonikam", "667"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
-          "lines": [
-            "The family of Bigvai",
-            "2,067"
-          ],
+          "verse_numbers": [19],
+          "lines": ["The family of Bigvai", "2,067"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
-          "lines": [
-            "The family of Adin",
-            "655"
-          ],
+          "verse_numbers": [20],
+          "lines": ["The family of Adin", "655"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "The family of Ater (descendants of Hezekiah)",
-            "98"
-          ],
+          "verse_numbers": [21],
+          "lines": ["The family of Ater (descendants of Hezekiah)", "98"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
-          "lines": [
-            "The family of Hashum",
-            "328"
-          ],
+          "verse_numbers": [22],
+          "lines": ["The family of Hashum", "328"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
-          "lines": [
-            "The family of Bezai",
-            "324"
-          ],
+          "verse_numbers": [23],
+          "lines": ["The family of Bezai", "324"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "The family of Jorah",
-            "112"
-          ],
+          "verse_numbers": [24],
+          "lines": ["The family of Jorah", "112"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
-          "lines": [
-            "The family of Gibbar",
-            "95"
-          ],
+          "verse_numbers": [25],
+          "lines": ["The family of Gibbar", "95"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
-          "lines": [
-            "The people of Bethlehem and Netophah",
-            "188"
-          ],
+          "verse_numbers": [26],
+          "lines": ["The people of Bethlehem and Netophah", "188"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
-          "lines": [
-            "The people of Anathoth",
-            "128"
-          ],
+          "verse_numbers": [27],
+          "lines": ["The people of Anathoth", "128"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
-          "lines": [
-            "The people of Beth-azmaveth",
-            "42"
-          ],
+          "verse_numbers": [28],
+          "lines": ["The people of Beth-azmaveth", "42"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "The people of Kiriath-jearim, Kephirah, and Beeroth",
             "743"
@@ -1874,108 +1440,61 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
-          "lines": [
-            "The people of Ramah and Geba",
-            "621"
-          ],
+          "verse_numbers": [30],
+          "lines": ["The people of Ramah and Geba", "621"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
-          "lines": [
-            "The people of Micmash",
-            "122"
-          ],
+          "verse_numbers": [31],
+          "lines": ["The people of Micmash", "122"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
-          "lines": [
-            "The people of Bethel and Ai",
-            "123"
-          ],
+          "verse_numbers": [32],
+          "lines": ["The people of Bethel and Ai", "123"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
-          "lines": [
-            "The people of West Nebo",
-            "52"
-          ],
+          "verse_numbers": [33],
+          "lines": ["The people of West Nebo", "52"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
-          "lines": [
-            "The citizens of West Elam",
-            "1,254"
-          ],
+          "verse_numbers": [34],
+          "lines": ["The citizens of West Elam", "1,254"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
-          "lines": [
-            "The citizens of Harim",
-            "320"
-          ],
+          "verse_numbers": [35],
+          "lines": ["The citizens of Harim", "320"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
-          "lines": [
-            "The citizens of Jericho",
-            "345"
-          ],
+          "verse_numbers": [36],
+          "lines": ["The citizens of Jericho", "345"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
-          "lines": [
-            "The citizens of Lod, Hadid, and Ono",
-            "721"
-          ],
+          "verse_numbers": [37],
+          "lines": ["The citizens of Lod, Hadid, and Ono", "721"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
-          "lines": [
-            "The citizens of Senaah",
-            "3,930"
-          ],
+          "verse_numbers": [38],
+          "lines": ["The citizens of Senaah", "3,930"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            39
-          ],
+          "verse_numbers": [39],
           "lines": [
             "These are the priests who returned from exile:",
             "The family of Jedaiah (through the line of Jeshua)",
@@ -1985,42 +1504,25 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            40
-          ],
-          "lines": [
-            "The family of Immer",
-            "1,052"
-          ],
+          "verse_numbers": [40],
+          "lines": ["The family of Immer", "1,052"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            41
-          ],
-          "lines": [
-            "The family of Pashhur",
-            "1,247"
-          ],
+          "verse_numbers": [41],
+          "lines": ["The family of Pashhur", "1,247"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            42
-          ],
-          "lines": [
-            "The family of Harim",
-            "1,017"
-          ],
+          "verse_numbers": [42],
+          "lines": ["The family of Harim", "1,017"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            43
-          ],
+          "verse_numbers": [43],
           "lines": [
             "These are the Levites who returned from exile:",
             "The families of Jeshua and Kadmiel (descendants of Hodaviah)",
@@ -2030,20 +1532,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            44
-          ],
-          "lines": [
-            "The singers of the family of Asaph",
-            "148"
-          ],
+          "verse_numbers": [44],
+          "lines": ["The singers of the family of Asaph", "148"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            45
-          ],
+          "verse_numbers": [45],
           "lines": [
             "The gatekeepers of the families of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai",
             "138"
@@ -2052,9 +1547,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            46
-          ],
+          "verse_numbers": [46],
           "lines": [
             "The descendants of the following Temple servants returned from exile:",
             "Ziha, Hasupha, Tabbaoth,"
@@ -2063,109 +1556,67 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            47
-          ],
-          "lines": [
-            "Keros, Siaha, Padon,"
-          ],
+          "verse_numbers": [47],
+          "lines": ["Keros, Siaha, Padon,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            48
-          ],
-          "lines": [
-            "Lebanah, Hagabah, Shalmai,"
-          ],
+          "verse_numbers": [48],
+          "lines": ["Lebanah, Hagabah, Shalmai,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            49
-          ],
-          "lines": [
-            "Hanan, Giddel, Gahar,"
-          ],
+          "verse_numbers": [49],
+          "lines": ["Hanan, Giddel, Gahar,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            50
-          ],
-          "lines": [
-            "Reaiah, Rezin, Nekoda,"
-          ],
+          "verse_numbers": [50],
+          "lines": ["Reaiah, Rezin, Nekoda,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            51
-          ],
-          "lines": [
-            "Gazzam, Uzza, Paseah,"
-          ],
+          "verse_numbers": [51],
+          "lines": ["Gazzam, Uzza, Paseah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            52
-          ],
-          "lines": [
-            "Besai, Meunim, Nephusim,"
-          ],
+          "verse_numbers": [52],
+          "lines": ["Besai, Meunim, Nephusim,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            53
-          ],
-          "lines": [
-            "Bakbuk, Hakupha, Harhur,"
-          ],
+          "verse_numbers": [53],
+          "lines": ["Bakbuk, Hakupha, Harhur,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            54
-          ],
-          "lines": [
-            "Bazluth, Mehida, Harsha,"
-          ],
+          "verse_numbers": [54],
+          "lines": ["Bazluth, Mehida, Harsha,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            55
-          ],
-          "lines": [
-            "Barkos, Sisera, Temah,"
-          ],
+          "verse_numbers": [55],
+          "lines": ["Barkos, Sisera, Temah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            56
-          ],
-          "lines": [
-            "Neziah, and Hatipha."
-          ],
+          "verse_numbers": [56],
+          "lines": ["Neziah, and Hatipha."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            57
-          ],
+          "verse_numbers": [57],
           "lines": [
             "The descendants of these servants of King Solomon returned from exile:",
             "Sotai, Hassophereth, Peruda,"
@@ -2174,29 +1625,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            58
-          ],
-          "lines": [
-            "Jaalah, Darkon, Giddel,"
-          ],
+          "verse_numbers": [58],
+          "lines": ["Jaalah, Darkon, Giddel,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            59
-          ],
-          "lines": [
-            "Shephatiah, Hattil, Pokereth-hazzebaim, and Ami."
-          ],
+          "verse_numbers": [59],
+          "lines": ["Shephatiah, Hattil, Pokereth-hazzebaim, and Ami."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            60
-          ],
+          "verse_numbers": [60],
           "lines": [
             "In all, the Temple servants and the descendants of Solomon’s servants numbered 392."
           ],
@@ -2204,9 +1645,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            61
-          ],
+          "verse_numbers": [61],
           "lines": [
             "Another group returned at this time from the towns of Tel-melah, Tel-harsha, Kerub, Addan, and Immer. However, they could not prove that they or their families were descendants of Israel."
           ],
@@ -2214,9 +1653,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            62
-          ],
+          "verse_numbers": [62],
           "lines": [
             "This group included the families of Delaiah, Tobiah, and Nekoda—a total of 642 people."
           ],
@@ -2224,9 +1661,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            63
-          ],
+          "verse_numbers": [63],
           "lines": [
             "Three families of priests—Hobaiah, Hakkoz, and Barzillai—also returned. (This Barzillai had married a woman who was a descendant of Barzillai of Gilead, and he had taken her family name.)"
           ],
@@ -2234,9 +1669,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            64
-          ],
+          "verse_numbers": [64],
           "lines": [
             "They searched for their names in the genealogical records, but they were not found, so they were disqualified from serving as priests."
           ],
@@ -2244,9 +1677,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            65
-          ],
+          "verse_numbers": [65],
           "lines": [
             "The governor told them not to eat the priests’ share of food from the sacrifices until a priest could consult the Lord about the matter by using the Urim and Thummim—the sacred lots."
           ],
@@ -2254,19 +1685,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            66
-          ],
-          "lines": [
-            "So a total of 42,360 people returned to Judah,"
-          ],
+          "verse_numbers": [66],
+          "lines": ["So a total of 42,360 people returned to Judah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            67
-          ],
+          "verse_numbers": [67],
           "lines": [
             "in addition to 7,337 servants and 245 singers, both men and women."
           ],
@@ -2274,29 +1699,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            68
-          ],
-          "lines": [
-            "They took with them 736 horses, 245 mules,"
-          ],
+          "verse_numbers": [68],
+          "lines": ["They took with them 736 horses, 245 mules,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            69
-          ],
-          "lines": [
-            "435 camels, and 6,720 donkeys."
-          ],
+          "verse_numbers": [69],
+          "lines": ["435 camels, and 6,720 donkeys."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            70
-          ],
+          "verse_numbers": [70],
           "lines": [
             "Some of the family leaders gave gifts for the work. The governor gave to the treasury 1,000 gold coins, 50 gold basins, and 530 robes for the priests."
           ],
@@ -2304,9 +1719,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            71
-          ],
+          "verse_numbers": [71],
           "lines": [
             "The other leaders gave to the treasury a total of 20,000 gold coins and some 2,750 pounds of silver for the work."
           ],
@@ -2314,9 +1727,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            72
-          ],
+          "verse_numbers": [72],
           "lines": [
             "The rest of the people gave 20,000 gold coins, about 2,500 pounds of silver, and 67 robes for the priests."
           ],
@@ -2324,9 +1735,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            73
-          ],
+          "verse_numbers": [73],
           "lines": [
             "So the priests, the Levites, the gatekeepers, the singers, the Temple servants, and some of the common people settled near Jerusalem. The rest of the people returned to their own towns throughout Israel."
           ],
@@ -2335,16 +1744,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Ezra Reads the Law"
-          ],
+          "lines": ["Ezra Reads the Law"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            73
-          ],
+          "verse_numbers": [73],
           "lines": [
             "In October when the Israelites had settled in their towns,"
           ],
@@ -2356,24 +1761,18 @@
       "chapter_usfm": "NEH.8",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.8"
-        ],
+        "usfm": ["NEH.8"],
         "human": "Nehemiah 8"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.9"
-        ],
+        "usfm": ["NEH.9"],
         "human": "Nehemiah 9",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.7"
-        ],
+        "usfm": ["NEH.7"],
         "human": "Nehemiah 7",
         "toc": true
       },
@@ -2382,9 +1781,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "all the people assembled with a unified purpose at the square just inside the Water Gate. They asked Ezra the scribe to bring out the Book of the Law of Moses, which the Lord had given for Israel to obey."
           ],
@@ -2392,9 +1789,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "So on October 8 Ezra the priest brought the Book of the Law before the assembly, which included the men and women and all the children old enough to understand."
           ],
@@ -2402,9 +1797,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "He faced the square just inside the Water Gate from early morning until noon and read aloud to everyone who could understand. All the people listened closely to the Book of the Law."
           ],
@@ -2412,9 +1805,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Ezra the scribe stood on a high wooden platform that had been made for the occasion. To his right stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah. To his left stood Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah, and Meshullam."
           ],
@@ -2422,9 +1813,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Ezra stood on the platform in full view of all the people. When they saw him open the book, they all rose to their feet."
           ],
@@ -2432,9 +1821,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Then Ezra praised the Lord, the great God, and all the people chanted, “Amen! Amen!” as they lifted their hands. Then they bowed down and worshiped the Lord with their faces to the ground."
           ],
@@ -2442,9 +1829,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—then instructed the people in the Law while everyone remained in their places."
           ],
@@ -2452,9 +1837,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "They read from the Book of the Law of God and clearly explained the meaning of what was being read, helping the people understand each passage."
           ],
@@ -2462,9 +1845,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Then Nehemiah the governor, Ezra the priest and scribe, and the Levites who were interpreting for the people said to them, “Don’t mourn or weep on such a day as this! For today is a sacred day before the Lord your God.” For the people had all been weeping as they listened to the words of the Law."
           ],
@@ -2472,9 +1853,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "And Nehemiah continued, “Go and celebrate with a feast of rich foods and sweet drinks, and share gifts of food with people who have nothing prepared. This is a sacred day before our Lord. Don’t be dejected and sad, for the joy of the Lord is your strength!”"
           ],
@@ -2482,9 +1861,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "And the Levites, too, quieted the people, telling them, “Hush! Don’t weep! For this is a sacred day.”"
           ],
@@ -2492,9 +1869,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "So the people went away to eat and drink at a festive meal, to share gifts of food, and to celebrate with great joy because they had heard God’s words and understood them."
           ],
@@ -2503,16 +1878,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Festival of Shelters"
-          ],
+          "lines": ["The Festival of Shelters"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "On October 9 the family leaders of all the people, together with the priests and Levites, met with Ezra the scribe to go over the Law in greater detail."
           ],
@@ -2520,9 +1891,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "As they studied the Law, they discovered that the Lord had commanded through Moses that the Israelites should live in shelters during the festival to be held that month."
           ],
@@ -2530,9 +1899,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "He had said that a proclamation should be made throughout their towns and in Jerusalem, telling the people to go to the hills to get branches from olive, wild olive, myrtle, palm, and other leafy trees. They were to use these branches to make shelters in which they would live during the festival, as prescribed in the Law."
           ],
@@ -2540,9 +1907,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "So the people went out and cut branches and used them to build shelters on the roofs of their houses, in their courtyards, in the courtyards of God’s Temple, or in the squares just inside the Water Gate and the Ephraim Gate."
           ],
@@ -2550,9 +1915,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "So everyone who had returned from captivity lived in these shelters during the festival, and they were all filled with great joy! The Israelites had not celebrated like this since the days of Joshua son of Nun."
           ],
@@ -2560,9 +1923,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Ezra read from the Book of the Law of God on each of the seven days of the festival. Then on the eighth day they held a solemn assembly, as was required by law."
           ],
@@ -2574,24 +1935,18 @@
       "chapter_usfm": "NEH.9",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.9"
-        ],
+        "usfm": ["NEH.9"],
         "human": "Nehemiah 9"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.10"
-        ],
+        "usfm": ["NEH.10"],
         "human": "Nehemiah 10",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.8"
-        ],
+        "usfm": ["NEH.8"],
         "human": "Nehemiah 8",
         "toc": true
       },
@@ -2601,16 +1956,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The People Confess Their Sins"
-          ],
+          "lines": ["The People Confess Their Sins"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "On October 31 the people assembled again, and this time they fasted and dressed in burlap and sprinkled dust on their heads."
           ],
@@ -2618,9 +1969,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Those of Israelite descent separated themselves from all foreigners as they confessed their own sins and the sins of their ancestors."
           ],
@@ -2628,9 +1977,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "They remained standing in place for three hours while the Book of the Law of the Lord their God was read aloud to them. Then for three more hours they confessed their sins and worshiped the Lord their God."
           ],
@@ -2638,9 +1985,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "The Levites—Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Kenani—stood on the stairway of the Levites and cried out to the Lord their God with loud voices."
           ],
@@ -2648,9 +1993,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Then the leaders of the Levites—Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah—called out to the people: “Stand up and praise the Lord your God, for he lives from everlasting to everlasting!” Then they prayed:",
             "“May your glorious name be praised! May it be exalted above all blessing and praise!"
@@ -2659,9 +2002,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "“You alone are the Lord. You made the skies and the heavens and all the stars. You made the earth and the seas and everything in them. You preserve them all, and the angels of heaven worship you."
           ],
@@ -2669,9 +2010,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "“You are the Lord God, who chose Abram and brought him from Ur of the Chaldeans and renamed him Abraham."
           ],
@@ -2679,9 +2018,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "When he had proved himself faithful, you made a covenant with him to give him and his descendants the land of the Canaanites, Hittites, Amorites, Perizzites, Jebusites, and Girgashites. And you have done what you promised, for you are always true to your word."
           ],
@@ -2689,9 +2026,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "“You saw the misery of our ancestors in Egypt, and you heard their cries from beside the Red Sea."
           ],
@@ -2699,9 +2034,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "You displayed miraculous signs and wonders against Pharaoh, his officials, and all his people, for you knew how arrogantly they were treating our ancestors. You have a glorious reputation that has never been forgotten."
           ],
@@ -2709,9 +2042,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "You divided the sea for your people so they could walk through on dry land! And then you hurled their enemies into the depths of the sea. They sank like stones beneath the mighty waters."
           ],
@@ -2719,9 +2050,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "You led our ancestors by a pillar of cloud during the day and a pillar of fire at night so that they could find their way."
           ],
@@ -2729,9 +2058,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "“You came down at Mount Sinai and spoke to them from heaven. You gave them regulations and instructions that were just, and decrees and commands that were good."
           ],
@@ -2739,9 +2066,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "You instructed them concerning your holy Sabbath. And you commanded them, through Moses your servant, to obey all your commands, decrees, and instructions."
           ],
@@ -2749,9 +2074,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "“You gave them bread from heaven when they were hungry and water from the rock when they were thirsty. You commanded them to go and take possession of the land you had sworn to give them."
           ],
@@ -2759,9 +2082,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "“But our ancestors were proud and stubborn, and they paid no attention to your commands."
           ],
@@ -2769,9 +2090,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "They refused to obey and did not remember the miracles you had done for them. Instead, they became stubborn and appointed a leader to take them back to their slavery in Egypt. But you are a God of forgiveness, gracious and merciful, slow to become angry, and rich in unfailing love. You did not abandon them,"
           ],
@@ -2779,9 +2098,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "even when they made an idol shaped like a calf and said, ‘This is your god who brought you out of Egypt!’ They committed terrible blasphemies."
           ],
@@ -2789,9 +2106,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "“But in your great mercy you did not abandon them to die in the wilderness. The pillar of cloud still led them forward by day, and the pillar of fire showed them the way through the night."
           ],
@@ -2799,9 +2114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "You sent your good Spirit to instruct them, and you did not stop giving them manna from heaven or water for their thirst."
           ],
@@ -2809,9 +2122,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For forty years you sustained them in the wilderness, and they lacked nothing. Their clothes did not wear out, and their feet did not swell!"
           ],
@@ -2819,9 +2130,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "“Then you helped our ancestors conquer kingdoms and nations, and you placed your people in every corner of the land. They took over the land of King Sihon of Heshbon and the land of King Og of Bashan."
           ],
@@ -2829,9 +2138,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "You made their descendants as numerous as the stars in the sky and brought them into the land you had promised to their ancestors."
           ],
@@ -2839,9 +2146,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "“They went in and took possession of the land. You subdued whole nations before them. Even the Canaanites, who inhabited the land, were powerless! Your people could deal with these nations and their kings as they pleased."
           ],
@@ -2849,9 +2154,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Our ancestors captured fortified cities and fertile land. They took over houses full of good things, with cisterns already dug and vineyards and olive groves and fruit trees in abundance. So they ate until they were full and grew fat and enjoyed themselves in all your blessings."
           ],
@@ -2859,9 +2162,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "“But despite all this, they were disobedient and rebelled against you. They turned their backs on your Law, they killed your prophets who warned them to return to you, and they committed terrible blasphemies."
           ],
@@ -2869,9 +2170,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "So you handed them over to their enemies, who made them suffer. But in their time of trouble they cried to you, and you heard them from heaven. In your great mercy, you sent them liberators who rescued them from their enemies."
           ],
@@ -2879,9 +2178,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "“But as soon as they were at peace, your people again committed evil in your sight, and once more you let their enemies conquer them. Yet whenever your people turned and cried to you again for help, you listened once more from heaven. In your wonderful mercy, you rescued them many times!"
           ],
@@ -2889,9 +2186,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "“You warned them to return to your Law, but they became proud and obstinate and disobeyed your commands. They did not follow your regulations, by which people will find life if only they obey. They stubbornly turned their backs on you and refused to listen."
           ],
@@ -2899,9 +2194,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "In your love, you were patient with them for many years. You sent your Spirit, who warned them through the prophets. But still they wouldn’t listen! So once again you allowed the peoples of the land to conquer them."
           ],
@@ -2909,9 +2202,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "But in your great mercy, you did not destroy them completely or abandon them forever. What a gracious and merciful God you are!"
           ],
@@ -2919,9 +2210,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "“And now, our God, the great and mighty and awesome God, who keeps his covenant of unfailing love, do not let all the hardships we have suffered seem insignificant to you. Great trouble has come upon us and upon our kings and leaders and priests and prophets and ancestors—all of your people—from the days when the kings of Assyria first triumphed over us until now."
           ],
@@ -2929,9 +2218,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
+          "verse_numbers": [33],
           "lines": [
             "Every time you punished us you were being just. We have sinned greatly, and you gave us only what we deserved."
           ],
@@ -2939,9 +2226,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
+          "verse_numbers": [34],
           "lines": [
             "Our kings, leaders, priests, and ancestors did not obey your Law or listen to the warnings in your commands and laws."
           ],
@@ -2949,9 +2234,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
+          "verse_numbers": [35],
           "lines": [
             "Even while they had their own kingdom, they did not serve you, though you showered your goodness on them. You gave them a large, fertile land, but they refused to turn from their wickedness."
           ],
@@ -2959,9 +2242,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "“So now today we are slaves in the land of plenty that you gave our ancestors for their enjoyment! We are slaves here in this good land."
           ],
@@ -2969,9 +2250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
+          "verse_numbers": [37],
           "lines": [
             "The lush produce of this land piles up in the hands of the kings whom you have set over us because of our sins. They have power over us and our livestock. We serve them at their pleasure, and we are in great misery.”"
           ],
@@ -2980,16 +2259,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The People Agree to Obey"
-          ],
+          "lines": ["The People Agree to Obey"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
+          "verse_numbers": [38],
           "lines": [
             "The people responded, “In view of all this, we are making a solemn promise and putting it in writing. On this sealed document are the names of our leaders and Levites and priests.”"
           ],
@@ -3001,24 +2276,18 @@
       "chapter_usfm": "NEH.10",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.10"
-        ],
+        "usfm": ["NEH.10"],
         "human": "Nehemiah 10"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.11"
-        ],
+        "usfm": ["NEH.11"],
         "human": "Nehemiah 11",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.9"
-        ],
+        "usfm": ["NEH.9"],
         "human": "Nehemiah 9",
         "toc": true
       },
@@ -3027,9 +2296,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "The document was ratified and sealed with the following names:",
             "The governor:",
@@ -3039,80 +2306,49 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
-          "lines": [
-            "The following priests:",
-            "Seraiah, Azariah, Jeremiah,"
-          ],
+          "verse_numbers": [2],
+          "lines": ["The following priests:", "Seraiah, Azariah, Jeremiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
-          "lines": [
-            "Pashhur, Amariah, Malkijah,"
-          ],
+          "verse_numbers": [3],
+          "lines": ["Pashhur, Amariah, Malkijah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "Hattush, Shebaniah, Malluch,"
-          ],
+          "verse_numbers": [4],
+          "lines": ["Hattush, Shebaniah, Malluch,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "Harim, Meremoth, Obadiah,"
-          ],
+          "verse_numbers": [5],
+          "lines": ["Harim, Meremoth, Obadiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "Daniel, Ginnethon, Baruch,"
-          ],
+          "verse_numbers": [6],
+          "lines": ["Daniel, Ginnethon, Baruch,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
-          "lines": [
-            "Meshullam, Abijah, Mijamin,"
-          ],
+          "verse_numbers": [7],
+          "lines": ["Meshullam, Abijah, Mijamin,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
-          "lines": [
-            "Maaziah, Bilgai, and Shemaiah. These were the priests."
-          ],
+          "verse_numbers": [8],
+          "lines": ["Maaziah, Bilgai, and Shemaiah. These were the priests."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "The following Levites:",
             "Jeshua son of Azaniah, Binnui from the family of Henadad, Kadmiel,"
@@ -3121,9 +2357,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "and their fellow Levites: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,"
           ],
@@ -3131,39 +2365,25 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
-          "lines": [
-            "Mica, Rehob, Hashabiah,"
-          ],
+          "verse_numbers": [11],
+          "lines": ["Mica, Rehob, Hashabiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
-          "lines": [
-            "Zaccur, Sherebiah, Shebaniah,"
-          ],
+          "verse_numbers": [12],
+          "lines": ["Zaccur, Sherebiah, Shebaniah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
-          "lines": [
-            "Hodiah, Bani, and Beninu."
-          ],
+          "verse_numbers": [13],
+          "lines": ["Hodiah, Bani, and Beninu."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "The following leaders:",
             "Parosh, Pahath-moab, Elam, Zattu, Bani,"
@@ -3172,147 +2392,91 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
-          "lines": [
-            "Bunni, Azgad, Bebai,"
-          ],
+          "verse_numbers": [15],
+          "lines": ["Bunni, Azgad, Bebai,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
-          "lines": [
-            "Adonijah, Bigvai, Adin,"
-          ],
+          "verse_numbers": [16],
+          "lines": ["Adonijah, Bigvai, Adin,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
-          "lines": [
-            "Ater, Hezekiah, Azzur,"
-          ],
+          "verse_numbers": [17],
+          "lines": ["Ater, Hezekiah, Azzur,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
-          "lines": [
-            "Hodiah, Hashum, Bezai,"
-          ],
+          "verse_numbers": [18],
+          "lines": ["Hodiah, Hashum, Bezai,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
-          "lines": [
-            "Hariph, Anathoth, Nebai,"
-          ],
+          "verse_numbers": [19],
+          "lines": ["Hariph, Anathoth, Nebai,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
-          "lines": [
-            "Magpiash, Meshullam, Hezir,"
-          ],
+          "verse_numbers": [20],
+          "lines": ["Magpiash, Meshullam, Hezir,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "Meshezabel, Zadok, Jaddua,"
-          ],
+          "verse_numbers": [21],
+          "lines": ["Meshezabel, Zadok, Jaddua,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
-          "lines": [
-            "Pelatiah, Hanan, Anaiah,"
-          ],
+          "verse_numbers": [22],
+          "lines": ["Pelatiah, Hanan, Anaiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
-          "lines": [
-            "Hoshea, Hananiah, Hasshub,"
-          ],
+          "verse_numbers": [23],
+          "lines": ["Hoshea, Hananiah, Hasshub,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "Hallohesh, Pilha, Shobek,"
-          ],
+          "verse_numbers": [24],
+          "lines": ["Hallohesh, Pilha, Shobek,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
-          "lines": [
-            "Rehum, Hashabnah, Maaseiah,"
-          ],
+          "verse_numbers": [25],
+          "lines": ["Rehum, Hashabnah, Maaseiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
-          "lines": [
-            "Ahiah, Hanan, Anan,"
-          ],
+          "verse_numbers": [26],
+          "lines": ["Ahiah, Hanan, Anan,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
-          "lines": [
-            "Malluch, Harim, and Baanah."
-          ],
+          "verse_numbers": [27],
+          "lines": ["Malluch, Harim, and Baanah."],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Vow of the People"
-          ],
+          "lines": ["The Vow of the People"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "Then the rest of the people—the priests, Levites, gatekeepers, singers, Temple servants, and all who had separated themselves from the pagan people of the land in order to obey the Law of God, together with their wives, sons, daughters, and all who were old enough to understand—"
           ],
@@ -3320,9 +2484,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "joined their leaders and bound themselves with an oath. They swore a curse on themselves if they failed to obey the Law of God as issued by his servant Moses. They solemnly promised to carefully follow all the commands, regulations, and decrees of the Lord our Lord:"
           ],
@@ -3330,9 +2492,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "“We promise not to let our daughters marry the pagan people of the land, and not to let our sons marry their daughters."
           ],
@@ -3340,9 +2500,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "“We also promise that if the people of the land should bring any merchandise or grain to be sold on the Sabbath or on any other holy day, we will refuse to buy it. Every seventh year we will let our land rest, and we will cancel all debts owed to us."
           ],
@@ -3350,9 +2508,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "“In addition, we promise to obey the command to pay the annual Temple tax of one-eighth of an ounce of silver for the care of the Temple of our God."
           ],
@@ -3360,9 +2516,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
+          "verse_numbers": [33],
           "lines": [
             "This will provide for the Bread of the Presence; for the regular grain offerings and burnt offerings; for the offerings on the Sabbaths, the new moon celebrations, and the annual festivals; for the holy offerings; and for the sin offerings to make atonement for Israel. It will provide for everything necessary for the work of the Temple of our God."
           ],
@@ -3370,9 +2524,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
+          "verse_numbers": [34],
           "lines": [
             "“We have cast sacred lots to determine when—at regular times each year—the families of the priests, Levites, and the common people should bring wood to God’s Temple to be burned on the altar of the Lord our God, as is written in the Law."
           ],
@@ -3380,9 +2532,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
+          "verse_numbers": [35],
           "lines": [
             "“We promise to bring the first part of every harvest to the Lord’s Temple year after year—whether it be a crop from the soil or from our fruit trees."
           ],
@@ -3390,9 +2540,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "We agree to give God our oldest sons and the firstborn of all our herds and flocks, as prescribed in the Law. We will present them to the priests who minister in the Temple of our God."
           ],
@@ -3400,9 +2548,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
+          "verse_numbers": [37],
           "lines": [
             "We will store the produce in the storerooms of the Temple of our God. We will bring the best of our flour and other grain offerings, the best of our fruit, and the best of our new wine and olive oil. And we promise to bring to the Levites a tenth of everything our land produces, for it is the Levites who collect the tithes in all our rural towns."
           ],
@@ -3410,9 +2556,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
+          "verse_numbers": [38],
           "lines": [
             "“A priest—a descendant of Aaron—will be with the Levites as they receive these tithes. And a tenth of all that is collected as tithes will be delivered by the Levites to the Temple of our God and placed in the storerooms."
           ],
@@ -3420,9 +2564,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            39
-          ],
+          "verse_numbers": [39],
           "lines": [
             "The people and the Levites must bring these offerings of grain, new wine, and olive oil to the storerooms and place them in the sacred containers near the ministering priests, the gatekeepers, and the singers.",
             "“We promise together not to neglect the Temple of our God.”"
@@ -3435,24 +2577,18 @@
       "chapter_usfm": "NEH.11",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.11"
-        ],
+        "usfm": ["NEH.11"],
         "human": "Nehemiah 11"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.12"
-        ],
+        "usfm": ["NEH.12"],
         "human": "Nehemiah 12",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.10"
-        ],
+        "usfm": ["NEH.10"],
         "human": "Nehemiah 10",
         "toc": true
       },
@@ -3462,16 +2598,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The People Occupy Jerusalem"
-          ],
+          "lines": ["The People Occupy Jerusalem"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "The leaders of the people were living in Jerusalem, the holy city. A tenth of the people from the other towns of Judah and Benjamin were chosen by sacred lots to live there, too, while the rest stayed where they were."
           ],
@@ -3479,9 +2611,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "And the people commended everyone who volunteered to resettle in Jerusalem."
           ],
@@ -3489,9 +2619,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Here is a list of the names of the provincial officials who came to live in Jerusalem. (Most of the people, priests, Levites, Temple servants, and descendants of Solomon’s servants continued to live in their own homes in the various towns of Judah,"
           ],
@@ -3499,9 +2627,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "but some of the people from Judah and Benjamin resettled in Jerusalem.)",
             "From the tribe of Judah:",
@@ -3511,9 +2637,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Also Maaseiah son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, of the family of Shelah."
           ],
@@ -3521,9 +2645,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "There were 468 descendants of Perez who lived in Jerusalem—all outstanding men."
           ],
@@ -3531,9 +2653,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "From the tribe of Benjamin:",
             "Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah."
@@ -3542,9 +2662,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "After him were Gabbai and Sallai and a total of 928 relatives."
           ],
@@ -3552,9 +2670,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Their chief officer was Joel son of Zicri, who was assisted by Judah son of Hassenuah, second-in-command over the city."
           ],
@@ -3562,20 +2678,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
-          "lines": [
-            "From the priests:",
-            "Jedaiah son of Joiarib; Jakin;"
-          ],
+          "verse_numbers": [10],
+          "lines": ["From the priests:", "Jedaiah son of Joiarib; Jakin;"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "and Seraiah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the supervisor of the Temple of God."
           ],
@@ -3583,9 +2692,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Also 822 of their associates, who worked at the Temple. Also Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malkijah,"
           ],
@@ -3593,9 +2700,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "along with 242 of his associates, who were heads of their families. Also Amashsai son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,"
           ],
@@ -3603,9 +2708,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "and 128 of his outstanding associates. Their chief officer was Zabdiel son of Haggedolim."
           ],
@@ -3613,9 +2716,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "From the Levites:",
             "Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni."
@@ -3624,9 +2725,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Also Shabbethai and Jozabad, who were in charge of the work outside the Temple of God."
           ],
@@ -3634,9 +2733,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Also Mattaniah son of Mica, son of Zabdi, a descendant of Asaph, who led in thanksgiving and prayer. Also Bakbukiah, who was Mattaniah’s assistant, and Abda son of Shammua, son of Galal, son of Jeduthun."
           ],
@@ -3644,19 +2741,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
-          "lines": [
-            "In all, there were 284 Levites in the holy city."
-          ],
+          "verse_numbers": [18],
+          "lines": ["In all, there were 284 Levites in the holy city."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "From the gatekeepers:",
             "Akkub, Talmon, and 172 of their associates, who guarded the gates."
@@ -3665,9 +2756,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "The other priests, Levites, and the rest of the Israelites lived wherever their family inheritance was located in any of the towns of Judah."
           ],
@@ -3675,9 +2764,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "The Temple servants, however, whose leaders were Ziha and Gishpa, all lived on the hill of Ophel."
           ],
@@ -3685,9 +2772,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "The chief officer of the Levites in Jerusalem was Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Mica, a descendant of Asaph, whose family served as singers at God’s Temple."
           ],
@@ -3695,9 +2780,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Their daily responsibilities were carried out according to the terms of a royal command."
           ],
@@ -3705,9 +2788,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the royal adviser in all matters of public administration."
           ],
@@ -3715,9 +2796,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "As for the surrounding villages with their open fields, some of the people of Judah lived in Kiriath-arba with its settlements, Dibon with its settlements, and Jekabzeel with its villages."
           ],
@@ -3725,49 +2804,31 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
-          "lines": [
-            "They also lived in Jeshua, Moladah, Beth-pelet,"
-          ],
+          "verse_numbers": [26],
+          "lines": ["They also lived in Jeshua, Moladah, Beth-pelet,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
-          "lines": [
-            "Hazar-shual, Beersheba with its settlements,"
-          ],
+          "verse_numbers": [27],
+          "lines": ["Hazar-shual, Beersheba with its settlements,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
-          "lines": [
-            "Ziklag, and Meconah with its settlements."
-          ],
+          "verse_numbers": [28],
+          "lines": ["Ziklag, and Meconah with its settlements."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
-          "lines": [
-            "They also lived in En-rimmon, Zorah, Jarmuth,"
-          ],
+          "verse_numbers": [29],
+          "lines": ["They also lived in En-rimmon, Zorah, Jarmuth,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "Zanoah, and Adullam with their surrounding villages. They also lived in Lachish with its nearby fields and Azekah with its surrounding villages. So the people of Judah were living all the way from Beersheba in the south to the valley of Hinnom."
           ],
@@ -3775,9 +2836,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "Some of the people of Benjamin lived at Geba, Micmash, Aija, and Bethel with its settlements."
           ],
@@ -3785,49 +2844,31 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
-          "lines": [
-            "They also lived in Anathoth, Nob, Ananiah,"
-          ],
+          "verse_numbers": [32],
+          "lines": ["They also lived in Anathoth, Nob, Ananiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
-          "lines": [
-            "Hazor, Ramah, Gittaim,"
-          ],
+          "verse_numbers": [33],
+          "lines": ["Hazor, Ramah, Gittaim,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
-          "lines": [
-            "Hadid, Zeboim, Neballat,"
-          ],
+          "verse_numbers": [34],
+          "lines": ["Hadid, Zeboim, Neballat,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
-          "lines": [
-            "Lod, Ono, and the Valley of Craftsmen."
-          ],
+          "verse_numbers": [35],
+          "lines": ["Lod, Ono, and the Valley of Craftsmen."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "Some of the Levites who lived in Judah were sent to live with the tribe of Benjamin."
           ],
@@ -3839,24 +2880,18 @@
       "chapter_usfm": "NEH.12",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.12"
-        ],
+        "usfm": ["NEH.12"],
         "human": "Nehemiah 12"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NEH.13"
-        ],
+        "usfm": ["NEH.13"],
         "human": "Nehemiah 13",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.11"
-        ],
+        "usfm": ["NEH.11"],
         "human": "Nehemiah 11",
         "toc": true
       },
@@ -3866,16 +2901,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "A History of the Priests and Levites"
-          ],
+          "lines": ["A History of the Priests and Levites"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Here is the list of the priests and Levites who returned with Zerubbabel son of Shealtiel and Jeshua the high priest:",
             "Seraiah, Jeremiah, Ezra,"
@@ -3884,59 +2915,37 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
-          "lines": [
-            "Amariah, Malluch, Hattush,"
-          ],
+          "verse_numbers": [2],
+          "lines": ["Amariah, Malluch, Hattush,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
-          "lines": [
-            "Shecaniah, Harim, Meremoth,"
-          ],
+          "verse_numbers": [3],
+          "lines": ["Shecaniah, Harim, Meremoth,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "Iddo, Ginnethon, Abijah,"
-          ],
+          "verse_numbers": [4],
+          "lines": ["Iddo, Ginnethon, Abijah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "Miniamin, Moadiah, Bilgah,"
-          ],
+          "verse_numbers": [5],
+          "lines": ["Miniamin, Moadiah, Bilgah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "Shemaiah, Joiarib, Jedaiah,"
-          ],
+          "verse_numbers": [6],
+          "lines": ["Shemaiah, Joiarib, Jedaiah,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Sallu, Amok, Hilkiah, and Jedaiah.",
             "These were the leaders of the priests and their associates in the days of Jeshua."
@@ -3945,9 +2954,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "The Levites who returned with them were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his associates was in charge of the songs of thanksgiving."
           ],
@@ -3955,9 +2962,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Their associates, Bakbukiah and Unni, stood opposite them during the service."
           ],
@@ -3965,9 +2970,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Jeshua the high priest was the father of Joiakim.",
             "Joiakim was the father of Eliashib.",
@@ -3977,9 +2980,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Joiada was the father of Johanan.",
             "Johanan was the father of Jaddua."
@@ -3988,9 +2989,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Now when Joiakim was high priest, the family leaders of the priests were as follows:",
             "Meraiah was leader of the family of Seraiah.",
@@ -4000,9 +2999,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Meshullam was leader of the family of Ezra.",
             "Jehohanan was leader of the family of Amariah."
@@ -4011,9 +3008,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Jonathan was leader of the family of Malluch.",
             "Joseph was leader of the family of Shecaniah."
@@ -4022,9 +3017,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Adna was leader of the family of Harim.",
             "Helkai was leader of the family of Meremoth."
@@ -4033,9 +3026,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Zechariah was leader of the family of Iddo.",
             "Meshullam was leader of the family of Ginnethon."
@@ -4044,9 +3035,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Zicri was leader of the family of Abijah.",
             "There was also a leader of the family of Miniamin.",
@@ -4056,9 +3045,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Shammua was leader of the family of Bilgah.",
             "Jehonathan was leader of the family of Shemaiah."
@@ -4067,9 +3054,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Mattenai was leader of the family of Joiarib.",
             "Uzzi was leader of the family of Jedaiah."
@@ -4078,9 +3063,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Kallai was leader of the family of Sallu.",
             "Eber was leader of the family of Amok."
@@ -4089,9 +3072,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Hashabiah was leader of the family of Hilkiah.",
             "Nethanel was leader of the family of Jedaiah."
@@ -4100,9 +3081,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "A record of the Levite families was kept during the years when Eliashib, Joiada, Johanan, and Jaddua served as high priest. Another record of the priests was kept during the reign of Darius the Persian."
           ],
@@ -4110,9 +3089,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "A record of the heads of the Levite families was kept in The Book of History down to the days of Johanan, the grandson of Eliashib."
           ],
@@ -4120,9 +3097,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "These were the family leaders of the Levites: Hashabiah, Sherebiah, Jeshua, Binnui, Kadmiel, and other associates, who stood opposite them during the ceremonies of praise and thanksgiving, one section responding to the other, as commanded by David, the man of God."
           ],
@@ -4130,9 +3105,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "This included Mattaniah, Bakbukiah, and Obadiah.",
             "Meshullam, Talmon, and Akkub were the gatekeepers in charge of the storerooms at the gates."
@@ -4141,9 +3114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "These all served in the days of Joiakim son of Jeshua, son of Jehozadak, and in the days of Nehemiah the governor and of Ezra the priest and scribe."
           ],
@@ -4152,16 +3123,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Dedication of Jerusalem’s Wall"
-          ],
+          "lines": ["Dedication of Jerusalem’s Wall"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "For the dedication of the new wall of Jerusalem, the Levites throughout the land were asked to come to Jerusalem to assist in the ceremonies. They were to take part in the joyous occasion with their songs of thanksgiving and with the music of cymbals, harps, and lyres."
           ],
@@ -4169,9 +3136,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "The singers were brought together from the region around Jerusalem and from the villages of the Netophathites."
           ],
@@ -4179,9 +3144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "They also came from Beth-gilgal and the rural areas near Geba and Azmaveth, for the singers had built their own settlements around Jerusalem."
           ],
@@ -4189,9 +3152,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "The priests and Levites first purified themselves; then they purified the people, the gates, and the wall."
           ],
@@ -4199,9 +3160,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "I led the leaders of Judah to the top of the wall and organized two large choirs to give thanks. One of the choirs proceeded southward along the top of the wall to the Dung Gate."
           ],
@@ -4209,39 +3168,25 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
-          "lines": [
-            "Hoshaiah and half the leaders of Judah followed them,"
-          ],
+          "verse_numbers": [32],
+          "lines": ["Hoshaiah and half the leaders of Judah followed them,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
-          "lines": [
-            "along with Azariah, Ezra, Meshullam,"
-          ],
+          "verse_numbers": [33],
+          "lines": ["along with Azariah, Ezra, Meshullam,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
-          "lines": [
-            "Judah, Benjamin, Shemaiah, and Jeremiah."
-          ],
+          "verse_numbers": [34],
+          "lines": ["Judah, Benjamin, Shemaiah, and Jeremiah."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
+          "verse_numbers": [35],
           "lines": [
             "Then came some priests who played trumpets, including Zechariah son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, a descendant of Asaph."
           ],
@@ -4249,9 +3194,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "And Zechariah’s colleagues were Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani. They used the musical instruments prescribed by David, the man of God. Ezra the scribe led this procession."
           ],
@@ -4259,9 +3202,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
+          "verse_numbers": [37],
           "lines": [
             "At the Fountain Gate they went straight up the steps on the ascent of the city wall toward the City of David. They passed the house of David and then proceeded to the Water Gate on the east."
           ],
@@ -4269,9 +3210,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
+          "verse_numbers": [38],
           "lines": [
             "The second choir giving thanks went northward around the other way to meet them. I followed them, together with the other half of the people, along the top of the wall past the Tower of the Ovens to the Broad Wall,"
           ],
@@ -4279,9 +3218,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            39
-          ],
+          "verse_numbers": [39],
           "lines": [
             "then past the Ephraim Gate to the Old City Gate, past the Fish Gate and the Tower of Hananel, and on to the Tower of the Hundred. Then we continued on to the Sheep Gate and stopped at the Guard Gate."
           ],
@@ -4289,9 +3226,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            40
-          ],
+          "verse_numbers": [40],
           "lines": [
             "The two choirs that were giving thanks then proceeded to the Temple of God, where they took their places. So did I, together with the group of leaders who were with me."
           ],
@@ -4299,9 +3234,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            41
-          ],
+          "verse_numbers": [41],
           "lines": [
             "We went together with the trumpet-playing priests—Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah—"
           ],
@@ -4309,9 +3242,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            42
-          ],
+          "verse_numbers": [42],
           "lines": [
             "and the singers—Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam, and Ezer. They played and sang loudly under the direction of Jezrahiah the choir director."
           ],
@@ -4319,9 +3250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            43
-          ],
+          "verse_numbers": [43],
           "lines": [
             "Many sacrifices were offered on that joyous day, for God had given the people cause for great joy. The women and children also participated in the celebration, and the joy of the people of Jerusalem could be heard far away."
           ],
@@ -4330,16 +3259,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Provisions for Temple Worship"
-          ],
+          "lines": ["Provisions for Temple Worship"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            44
-          ],
+          "verse_numbers": [44],
           "lines": [
             "On that day men were appointed to be in charge of the storerooms for the offerings, the first part of the harvest, and the tithes. They were responsible to collect from the fields outside the towns the portions required by the Law for the priests and Levites. For all the people of Judah took joy in the priests and Levites and their work."
           ],
@@ -4347,9 +3272,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            45
-          ],
+          "verse_numbers": [45],
           "lines": [
             "They performed the service of their God and the service of purification, as commanded by David and his son Solomon, and so did the singers and the gatekeepers."
           ],
@@ -4357,9 +3280,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            46
-          ],
+          "verse_numbers": [46],
           "lines": [
             "The custom of having choir directors to lead the choirs in hymns of praise and thanksgiving to God began long ago in the days of David and Asaph."
           ],
@@ -4367,9 +3288,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            47
-          ],
+          "verse_numbers": [47],
           "lines": [
             "So now, in the days of Zerubbabel and of Nehemiah, all Israel brought a daily supply of food for the singers, the gatekeepers, and the Levites. The Levites, in turn, gave a portion of what they received to the priests, the descendants of Aaron."
           ],
@@ -4381,24 +3300,18 @@
       "chapter_usfm": "NEH.13",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NEH.13"
-        ],
+        "usfm": ["NEH.13"],
         "human": "Nehemiah 13"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "EST.1"
-        ],
+        "usfm": ["EST.1"],
         "human": "Esther 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NEH.12"
-        ],
+        "usfm": ["NEH.12"],
         "human": "Nehemiah 12",
         "toc": true
       },
@@ -4408,16 +3321,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nehemiah’s Various Reforms"
-          ],
+          "lines": ["Nehemiah’s Various Reforms"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "On that same day, as the Book of Moses was being read to the people, the passage was found that said no Ammonite or Moabite should ever be permitted to enter the assembly of God."
           ],
@@ -4425,9 +3334,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "For they had not provided the Israelites with food and water in the wilderness. Instead, they hired Balaam to curse them, though our God turned the curse into a blessing."
           ],
@@ -4435,9 +3342,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "When this passage of the Law was read, all those of foreign descent were immediately excluded from the assembly."
           ],
@@ -4445,9 +3350,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Before this had happened, Eliashib the priest, who had been appointed as supervisor of the storerooms of the Temple of our God and who was also a relative of Tobiah,"
           ],
@@ -4455,9 +3358,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "had converted a large storage room and placed it at Tobiah’s disposal. The room had previously been used for storing the grain offerings, the frankincense, various articles for the Temple, and the tithes of grain, new wine, and olive oil (which were prescribed for the Levites, the singers, and the gatekeepers), as well as the offerings for the priests."
           ],
@@ -4465,9 +3366,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "I was not in Jerusalem at that time, for I had returned to King Artaxerxes of Babylon in the thirty-second year of his reign, though I later asked his permission to return."
           ],
@@ -4475,9 +3374,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "When I arrived back in Jerusalem, I learned about Eliashib’s evil deed in providing Tobiah with a room in the courtyards of the Temple of God."
           ],
@@ -4485,9 +3382,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "I became very upset and threw all of Tobiah’s belongings out of the room."
           ],
@@ -4495,9 +3390,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Then I demanded that the rooms be purified, and I brought back the articles for God’s Temple, the grain offerings, and the frankincense."
           ],
@@ -4505,9 +3398,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "I also discovered that the Levites had not been given their prescribed portions of food, so they and the singers who were to conduct the worship services had all returned to work their fields."
           ],
@@ -4515,9 +3406,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "I immediately confronted the leaders and demanded, “Why has the Temple of God been neglected?” Then I called all the Levites back again and restored them to their proper duties."
           ],
@@ -4525,9 +3414,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "And once more all the people of Judah began bringing their tithes of grain, new wine, and olive oil to the Temple storerooms."
           ],
@@ -4535,9 +3422,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I assigned supervisors for the storerooms: Shelemiah the priest, Zadok the scribe, and Pedaiah, one of the Levites. And I appointed Hanan son of Zaccur and grandson of Mattaniah as their assistant. These men had an excellent reputation, and it was their job to make honest distributions to their fellow Levites."
           ],
@@ -4545,9 +3430,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Remember this good deed, O my God, and do not forget all that I have faithfully done for the Temple of my God and its services."
           ],
@@ -4555,9 +3438,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "In those days I saw men of Judah treading out their winepresses on the Sabbath. They were also bringing in grain, loading it on donkeys, and bringing their wine, grapes, figs, and all sorts of produce to Jerusalem to sell on the Sabbath. So I rebuked them for selling their produce on that day."
           ],
@@ -4565,9 +3446,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Some men from Tyre, who lived in Jerusalem, were bringing in fish and all kinds of merchandise. They were selling it on the Sabbath to the people of Judah—and in Jerusalem at that!"
           ],
@@ -4575,9 +3454,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "So I confronted the nobles of Judah. “Why are you profaning the Sabbath in this evil way?” I asked."
           ],
@@ -4585,9 +3462,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "“Wasn’t it just this sort of thing that your ancestors did that caused our God to bring all this trouble upon us and our city? Now you are bringing even more wrath upon Israel by permitting the Sabbath to be desecrated in this way!”"
           ],
@@ -4595,9 +3470,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Then I commanded that the gates of Jerusalem should be shut as darkness fell every Friday evening, not to be opened until the Sabbath ended. I sent some of my own servants to guard the gates so that no merchandise could be brought in on the Sabbath day."
           ],
@@ -4605,9 +3478,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "The merchants and tradesmen with a variety of wares camped outside Jerusalem once or twice."
           ],
@@ -4615,9 +3486,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "But I spoke sharply to them and said, “What are you doing out here, camping around the wall? If you do this again, I will arrest you!” And that was the last time they came on the Sabbath."
           ],
@@ -4625,9 +3494,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Then I commanded the Levites to purify themselves and to guard the gates in order to preserve the holiness of the Sabbath.",
             "Remember this good deed also, O my God! Have compassion on me according to your great and unfailing love."
@@ -4636,9 +3503,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "About the same time I realized that some of the men of Judah had married women from Ashdod, Ammon, and Moab."
           ],
@@ -4646,9 +3511,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Furthermore, half their children spoke the language of Ashdod or of some other people and could not speak the language of Judah at all."
           ],
@@ -4656,9 +3519,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "So I confronted them and called down curses on them. I beat some of them and pulled out their hair. I made them swear in the name of God that they would not let their children intermarry with the pagan people of the land."
           ],
@@ -4666,9 +3527,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "“Wasn’t this exactly what led King Solomon of Israel into sin?” I demanded. “There was no king from any nation who could compare to him, and God loved him and made him king over all Israel. But even he was led into sin by his foreign wives."
           ],
@@ -4676,9 +3535,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "How could you even think of committing this sinful deed and acting unfaithfully toward God by marrying foreign women?”"
           ],
@@ -4686,9 +3543,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "One of the sons of Joiada son of Eliashib the high priest had married a daughter of Sanballat the Horonite, so I banished him from my presence."
           ],
@@ -4696,9 +3551,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Remember them, O my God, for they have defiled the priesthood and the solemn vows of the priests and Levites."
           ],
@@ -4706,9 +3559,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "So I purged out everything foreign and assigned tasks to the priests and Levites, making certain that each knew his work."
           ],
@@ -4716,9 +3567,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "I also made sure that the supply of wood for the altar and the first portions of the harvest were brought at the proper times.",
             "Remember this in my favor, O my God."

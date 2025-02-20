@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "MIC.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.1"
-        ],
+        "usfm": ["MIC.1"],
         "human": "Micah 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.2"
-        ],
+        "usfm": ["MIC.2"],
         "human": "Micah 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "JON.4"
-        ],
+        "usfm": ["JON.4"],
         "human": "Jonah 4",
         "toc": true
       },
@@ -50,9 +44,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "The word of the Lord that came to Micah of Moresheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
           ],
@@ -61,16 +53,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Coming Destruction"
-          ],
+          "lines": ["The Coming Destruction"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Hear, you peoples, all of you;",
             "pay attention, O earth, and all that is in it,",
@@ -81,9 +69,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For behold, the Lord is coming out of his place,",
             "and will come down and tread upon the high places of the earth."
@@ -92,9 +78,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "And the mountains will melt under him,",
             "and the valleys will split open,",
@@ -105,9 +89,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "All this is for the transgression of Jacob",
             "and for the sins of the house of Israel.",
@@ -120,9 +102,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Therefore I will make Samaria a heap in the open country,",
             "a place for planting vineyards,",
@@ -133,9 +113,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "All her carved images shall be beaten to pieces,",
             "all her wages shall be burned with fire,",
@@ -147,9 +125,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For this I will lament and wail;",
             "I will go stripped and naked;",
@@ -160,9 +136,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For her wound is incurable,",
             "and it has come to Judah;",
@@ -173,9 +147,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Tell it not in Gath;",
             "weep not at all;",
@@ -186,9 +158,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Pass on your way,",
             "inhabitants of Shaphir,",
@@ -202,9 +172,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For the inhabitants of Maroth",
             "wait anxiously for good,",
@@ -215,9 +183,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Harness the steeds to the chariots,",
             "inhabitants of Lachish;",
@@ -230,9 +196,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Therefore you shall give parting gifts",
             "to Moresheth-gath;",
@@ -243,9 +207,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "I will again bring a conqueror to you,",
             "inhabitants of Mareshah;",
@@ -256,9 +218,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Make yourselves bald and cut off your hair,",
             "for the children of your delight;",
@@ -273,24 +233,18 @@
       "chapter_usfm": "MIC.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.2"
-        ],
+        "usfm": ["MIC.2"],
         "human": "Micah 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.3"
-        ],
+        "usfm": ["MIC.3"],
         "human": "Micah 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.1"
-        ],
+        "usfm": ["MIC.1"],
         "human": "Micah 1",
         "toc": true
       },
@@ -300,16 +254,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Woe to the Oppressors"
-          ],
+          "lines": ["Woe to the Oppressors"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Woe to those who devise wickedness",
             "and work evil on their beds!",
@@ -320,9 +270,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "They covet fields and seize them,",
             "and houses, and take them away;",
@@ -333,9 +281,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Therefore thus says the Lord:",
             "behold, against this family I am devising disaster,",
@@ -347,9 +293,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "In that day they shall take up a taunt song against you",
             "and moan bitterly,",
@@ -362,9 +306,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Therefore you will have none to cast the line by lot",
             "in the assembly of the Lord."
@@ -373,9 +315,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "“Do not preach”—thus they preach—",
             "“one should not preach of such things;",
@@ -385,9 +325,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Should this be said, O house of Jacob?",
             "Has the Lord grown impatient?",
@@ -399,9 +337,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "But lately my people have risen up as an enemy;",
             "you strip the rich robe from those who pass by trustingly",
@@ -411,9 +347,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "The women of my people you drive out",
             "from their delightful houses;",
@@ -424,9 +358,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Arise and go,",
             "for this is no place to rest,",
@@ -437,9 +369,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "If a man should go about and utter wind and lies,",
             "saying, “I will preach to you of wine and strong drink,”",
@@ -449,9 +379,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "I will surely assemble all of you, O Jacob;",
             "I will gather the remnant of Israel;",
@@ -464,9 +392,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "He who opens the breach goes up before them;",
             "they break through and pass the gate,",
@@ -482,24 +408,18 @@
       "chapter_usfm": "MIC.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.3"
-        ],
+        "usfm": ["MIC.3"],
         "human": "Micah 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.4"
-        ],
+        "usfm": ["MIC.4"],
         "human": "Micah 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.2"
-        ],
+        "usfm": ["MIC.2"],
         "human": "Micah 2",
         "toc": true
       },
@@ -509,16 +429,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Rulers and Prophets Denounced"
-          ],
+          "lines": ["Rulers and Prophets Denounced"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "And I said:",
             "Hear, you heads of Jacob",
@@ -529,9 +445,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "you who hate the good and love the evil,",
             "who tear the skin from off my people",
@@ -541,9 +455,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "who eat the flesh of my people,",
             "and flay their skin from off them,",
@@ -555,9 +467,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Then they will cry to the Lord,",
             "but he will not answer them;",
@@ -568,9 +478,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Thus says the Lord concerning the prophets",
             "who lead my people astray,",
@@ -583,9 +491,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Therefore it shall be night to you, without vision,",
             "and darkness to you, without divination.",
@@ -596,9 +502,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "the seers shall be disgraced,",
             "and the diviners put to shame;",
@@ -609,9 +513,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "But as for me, I am filled with power,",
             "with the Spirit of the Lord,",
@@ -623,9 +525,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Hear this, you heads of the house of Jacob",
             "and rulers of the house of Israel,",
@@ -636,9 +536,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "who build Zion with blood",
             "and Jerusalem with iniquity."
@@ -647,9 +545,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Its heads give judgment for a bribe;",
             "its priests teach for a price;",
@@ -662,9 +558,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Therefore because of you",
             "Zion shall be plowed as a field;",
@@ -679,24 +573,18 @@
       "chapter_usfm": "MIC.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.4"
-        ],
+        "usfm": ["MIC.4"],
         "human": "Micah 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.5"
-        ],
+        "usfm": ["MIC.5"],
         "human": "Micah 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.3"
-        ],
+        "usfm": ["MIC.3"],
         "human": "Micah 3",
         "toc": true
       },
@@ -706,16 +594,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Mountain of the Lord"
-          ],
+          "lines": ["The Mountain of the Lord"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "It shall come to pass in the latter days",
             "that the mountain of the house of the Lord",
@@ -727,9 +611,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "and many nations shall come, and say:",
             "“Come, let us go up to the mountain of the Lord,",
@@ -743,9 +625,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "He shall judge between many peoples,",
             "and shall decide disputes for strong nations far away;",
@@ -758,9 +638,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "but they shall sit every man under his vine and under his fig tree,",
             "and no one shall make them afraid,",
@@ -770,9 +648,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For all the peoples walk",
             "each in the name of its god,",
@@ -784,16 +660,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Lord Shall Rescue Zion"
-          ],
+          "lines": ["The Lord Shall Rescue Zion"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "In that day, declares the Lord,",
             "I will assemble the lame",
@@ -804,9 +676,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "and the lame I will make the remnant,",
             "and those who were cast off, a strong nation;",
@@ -817,9 +687,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "And you, O tower of the flock,",
             "hill of the daughter of Zion,",
@@ -831,9 +699,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Now why do you cry aloud?",
             "Is there no king in you?",
@@ -844,9 +710,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Writhe and groan, O daughter of Zion,",
             "like a woman in labor,",
@@ -861,9 +725,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Now many nations",
             "are assembled against you,",
@@ -874,9 +736,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "But they do not know",
             "the thoughts of the Lord;",
@@ -887,9 +747,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Arise and thresh,",
             "O daughter of Zion,",
@@ -907,24 +765,18 @@
       "chapter_usfm": "MIC.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.5"
-        ],
+        "usfm": ["MIC.5"],
         "human": "Micah 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.6"
-        ],
+        "usfm": ["MIC.6"],
         "human": "Micah 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.4"
-        ],
+        "usfm": ["MIC.4"],
         "human": "Micah 4",
         "toc": true
       },
@@ -934,16 +786,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Ruler to Be Born in Bethlehem"
-          ],
+          "lines": ["The Ruler to Be Born in Bethlehem"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now muster your troops, O daughter of troops;",
             "siege is laid against us;",
@@ -954,9 +802,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "But you, O Bethlehem Ephrathah,",
             "who are too little to be among the clans of Judah,",
@@ -969,9 +815,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Therefore he shall give them up until the time",
             "when she who is in labor has given birth;",
@@ -982,9 +826,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "And he shall stand and shepherd his flock in the strength of the Lord,",
             "in the majesty of the name of the Lord his God.",
@@ -995,9 +837,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "And he shall be their peace.",
             "When the Assyrian comes into our land",
@@ -1009,9 +849,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "they shall shepherd the land of Assyria with the sword,",
             "and the land of Nimrod at its entrances;",
@@ -1024,16 +862,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "A Remnant Shall Be Delivered"
-          ],
+          "lines": ["A Remnant Shall Be Delivered"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Then the remnant of Jacob shall be",
             "in the midst of many peoples",
@@ -1046,9 +880,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "And the remnant of Jacob shall be among the nations,",
             "in the midst of many peoples,",
@@ -1061,9 +893,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Your hand shall be lifted up over your adversaries,",
             "and all your enemies shall be cut off."
@@ -1072,9 +902,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "And in that day, declares the Lord,",
             "I will cut off your horses from among you",
@@ -1084,9 +912,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "and I will cut off the cities of your land",
             "and throw down all your strongholds;"
@@ -1095,9 +921,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "and I will cut off sorceries from your hand,",
             "and you shall have no more tellers of fortunes;"
@@ -1106,9 +930,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "and I will cut off your carved images",
             "and your pillars from among you,",
@@ -1119,9 +941,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "and I will root out your Asherah images from among you",
             "and destroy your cities."
@@ -1130,9 +950,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "And in anger and wrath I will execute vengeance",
             "on the nations that did not obey."
@@ -1145,24 +963,18 @@
       "chapter_usfm": "MIC.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.6"
-        ],
+        "usfm": ["MIC.6"],
         "human": "Micah 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "MIC.7"
-        ],
+        "usfm": ["MIC.7"],
         "human": "Micah 7",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.5"
-        ],
+        "usfm": ["MIC.5"],
         "human": "Micah 5",
         "toc": true
       },
@@ -1172,16 +984,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Indictment of the Lord"
-          ],
+          "lines": ["The Indictment of the Lord"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Hear what the Lord says:",
             "Arise, plead your case before the mountains,",
@@ -1191,9 +999,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Hear, you mountains, the indictment of the Lord,",
             "and you enduring foundations of the earth,",
@@ -1204,9 +1010,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "“O my people, what have I done to you?",
             "How have I wearied you? Answer me!"
@@ -1215,9 +1019,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "For I brought you up from the land of Egypt",
             "and redeemed you from the house of slavery,",
@@ -1228,9 +1030,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "O my people, remember what Balak king of Moab devised,",
             "and what Balaam the son of Beor answered him,",
@@ -1242,16 +1042,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "What Does the Lord Require?"
-          ],
+          "lines": ["What Does the Lord Require?"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "“With what shall I come before the Lord,",
             "and bow myself before God on high?",
@@ -1262,9 +1058,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Will the Lord be pleased with thousands of rams,",
             "with ten thousands of rivers of oil?",
@@ -1275,9 +1069,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "He has told you, O man, what is good;",
             "and what does the Lord require of you",
@@ -1289,16 +1081,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Destruction of the Wicked"
-          ],
+          "lines": ["Destruction of the Wicked"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "The voice of the Lord cries to the city—",
             "and it is sound wisdom to fear your name:",
@@ -1308,9 +1096,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Can I forget any longer the treasures of wickedness in the house of the wicked,",
             "and the scant measure that is accursed?"
@@ -1319,9 +1105,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Shall I acquit the man with wicked scales",
             "and with a bag of deceitful weights?"
@@ -1330,9 +1114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Your rich men are full of violence;",
             "your inhabitants speak lies,",
@@ -1342,9 +1124,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Therefore I strike you with a grievous blow,",
             "making you desolate because of your sins."
@@ -1353,9 +1133,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "You shall eat, but not be satisfied,",
             "and there shall be hunger within you;",
@@ -1366,9 +1144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "You shall sow, but not reap;",
             "you shall tread olives, but not anoint yourselves with oil;",
@@ -1378,9 +1154,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For you have kept the statutes of Omri,",
             "and all the works of the house of Ahab;",
@@ -1396,24 +1170,18 @@
       "chapter_usfm": "MIC.7",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "MIC.7"
-        ],
+        "usfm": ["MIC.7"],
         "human": "Micah 7"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NAM.1"
-        ],
+        "usfm": ["NAM.1"],
         "human": "Nahum 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.6"
-        ],
+        "usfm": ["MIC.6"],
         "human": "Micah 6",
         "toc": true
       },
@@ -1423,16 +1191,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Wait for the God of Salvation"
-          ],
+          "lines": ["Wait for the God of Salvation"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Woe is me! For I have become",
             "as when the summer fruit has been gathered,",
@@ -1444,9 +1208,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "The godly has perished from the earth,",
             "and there is no one upright among mankind;",
@@ -1457,9 +1219,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Their hands are on what is evil, to do it well;",
             "the prince and the judge ask for a bribe,",
@@ -1470,9 +1230,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "The best of them is like a brier,",
             "the most upright of them a thorn hedge.",
@@ -1483,9 +1241,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Put no trust in a neighbor;",
             "have no confidence in a friend;",
@@ -1496,9 +1252,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "for the son treats the father with contempt,",
             "the daughter rises up against her mother,",
@@ -1509,9 +1263,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "But as for me, I will look to the Lord;",
             "I will wait for the God of my salvation;",
@@ -1521,9 +1273,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Rejoice not over me, O my enemy;",
             "when I fall, I shall rise;",
@@ -1534,9 +1284,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "I will bear the indignation of the Lord",
             "because I have sinned against him,",
@@ -1549,9 +1297,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Then my enemy will see,",
             "and shame will cover her who said to me,",
@@ -1564,9 +1310,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "A day for the building of your walls!",
             "In that day the boundary shall be far extended."
@@ -1575,9 +1319,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "In that day they will come to you,",
             "from Assyria and the cities of Egypt,",
@@ -1588,9 +1330,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "But the earth will be desolate",
             "because of its inhabitants,",
@@ -1600,9 +1340,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Shepherd your people with your staff,",
             "the flock of your inheritance,",
@@ -1615,9 +1353,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "As in the days when you came out of the land of Egypt,",
             "I will show them marvelous things."
@@ -1626,9 +1362,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "The nations shall see and be ashamed of all their might;",
             "they shall lay their hands on their mouths;",
@@ -1638,9 +1372,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "they shall lick the dust like a serpent,",
             "like the crawling things of the earth;",
@@ -1653,16 +1385,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "God’s Steadfast Love and Compassion"
-          ],
+          "lines": ["God’s Steadfast Love and Compassion"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Who is a God like you, pardoning iniquity",
             "and passing over transgression",
@@ -1674,9 +1402,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "He will again have compassion on us;",
             "he will tread our iniquities underfoot.",
@@ -1687,9 +1413,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "You will show faithfulness to Jacob",
             "and steadfast love to Abraham,",

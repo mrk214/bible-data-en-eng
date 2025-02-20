@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "PHM.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "PHM.1"
-        ],
+        "usfm": ["PHM.1"],
         "human": "Philemon 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "HEB.1"
-        ],
+        "usfm": ["HEB.1"],
         "human": "Hebrews 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "TIT.3"
-        ],
+        "usfm": ["TIT.3"],
         "human": "Titus 3",
         "toc": true
       },
@@ -51,16 +45,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Greeting"
-          ],
+          "lines": ["Greeting"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Paul, a prisoner of Christ Jesus, and Timothy our brother:",
             "To Philemon our dear friend and coworker,"
@@ -69,9 +59,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "to Apphia our sister, to Archippus our fellow soldier, and to the church that meets in your home."
           ],
@@ -79,9 +67,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Grace to you and peace from God our Father and the Lord Jesus Christ."
           ],
@@ -90,26 +76,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Philemon’s Love and Faith"
-          ],
+          "lines": ["Philemon’s Love and Faith"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "I always thank my God when I mention you in my prayers,"
-          ],
+          "verse_numbers": [4],
+          "lines": ["I always thank my God when I mention you in my prayers,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "because I hear of your love for all the saints and the faith that you have in the Lord Jesus."
           ],
@@ -117,9 +95,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "I pray that your participation in the faith may become effective through knowing every good thing that is in us for the glory of Christ."
           ],
@@ -127,9 +103,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "For I have great joy and encouragement from your love, because the hearts of the saints have been refreshed through you, brother."
           ],
@@ -138,16 +112,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "An Appeal for Onesimus"
-          ],
+          "lines": ["An Appeal for Onesimus"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For this reason, although I have great boldness in Christ to command you to do what is right,"
           ],
@@ -155,9 +125,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "I appeal to you, instead, on the basis of love. I, Paul, as an elderly man and now also as a prisoner of Christ Jesus,"
           ],
@@ -165,9 +133,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "appeal to you for my son, Onesimus. , I became his father while I was in chains."
           ],
@@ -175,9 +141,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Once he was useless to you, but now he is useful both to you and to me."
           ],
@@ -185,9 +149,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "I am sending him back to you #— #I am sending my very own heart. ,"
           ],
@@ -195,9 +157,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I wanted to keep him with me, so that in my imprisonment for the gospel he might serve me in your place."
           ],
@@ -205,9 +165,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "But I didn’t want to do anything without your consent, so that your good deed might not be out of obligation, but of your own free will."
           ],
@@ -215,9 +173,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "For perhaps this is why he was separated from you for a brief time, so that you might get him back permanently,"
           ],
@@ -225,9 +181,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "no longer as a slave, but more than a slave #— #as a dearly loved brother. He is especially so to me, but how much more to you, both in the flesh and in the Lord."
           ],
@@ -235,9 +189,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "So if you consider me a partner, welcome him as you would me."
           ],
@@ -245,9 +197,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "And if he has wronged you in any way, or owes you anything, charge that to my account."
           ],
@@ -255,9 +205,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "I, Paul, write this with my own hand: I will repay it #— #not to mention to you that you owe me even your very self."
           ],
@@ -265,9 +213,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Yes, brother, may I benefit from you in the Lord; refresh my heart in Christ."
           ],
@@ -275,9 +221,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Since I am confident of your obedience, I am writing to you, knowing that you will do even more than I say."
           ],
@@ -285,9 +229,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Meanwhile, also prepare a guest room for me, since I hope that through your prayers I will be restored to you."
           ],
@@ -296,16 +238,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Final Greetings"
-          ],
+          "lines": ["Final Greetings"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Epaphras, my fellow prisoner in Christ Jesus, sends you greetings, and so do"
           ],
@@ -313,19 +251,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "Mark, Aristarchus, Demas, and Luke, my coworkers."
-          ],
+          "verse_numbers": [24],
+          "lines": ["Mark, Aristarchus, Demas, and Luke, my coworkers."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "The grace of the Lord , Jesus Christ be with your spirit."
           ],

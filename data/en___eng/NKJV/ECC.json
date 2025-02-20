@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "ECC.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.1"
-        ],
+        "usfm": ["ECC.1"],
         "human": "Ecclesiastes 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.2"
-        ],
+        "usfm": ["ECC.2"],
         "human": "Ecclesiastes 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "PRO.31"
-        ],
+        "usfm": ["PRO.31"],
         "human": "Proverbs 31",
         "toc": true
       },
@@ -51,16 +45,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Vanity of Life"
-          ],
+          "lines": ["The Vanity of Life"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "The words of the Preacher, the son of David, king in Jerusalem."
           ],
@@ -68,9 +58,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "“Vanity of vanities,” says the Preacher;",
             "“Vanity of vanities, all is vanity.”"
@@ -79,9 +67,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "What profit has a man from all his labor",
             "In which he toils under the sun?"
@@ -90,9 +76,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "One generation passes away, and another generation comes;",
             "But the earth abides forever."
@@ -101,9 +85,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "The sun also rises, and the sun goes down,",
             "And hastens to the place where it arose."
@@ -112,9 +94,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "The wind goes toward the south,",
             "And turns around to the north;",
@@ -125,9 +105,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "All the rivers run into the sea,",
             "Yet the sea is not full;",
@@ -138,9 +116,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "All things are full of labor;",
             "Man cannot express it.",
@@ -151,9 +127,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "That which has been is what will be,",
             "That which is done is what will be done,",
@@ -163,9 +137,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Is there anything of which it may be said,",
             "“See, this is new”?",
@@ -175,9 +147,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "There is no remembrance of former things,",
             "Nor will there be any remembrance of things that are to come",
@@ -188,26 +158,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Grief of Wisdom"
-          ],
+          "lines": ["The Grief of Wisdom"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
-          "lines": [
-            "I, the Preacher, was king over Israel in Jerusalem."
-          ],
+          "verse_numbers": [12],
+          "lines": ["I, the Preacher, was king over Israel in Jerusalem."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "And I set my heart to seek and search out by wisdom concerning all that is done under heaven; this burdensome task God has given to the sons of man, by which they may be exercised."
           ],
@@ -215,9 +177,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "I have seen all the works that are done under the sun; and indeed, all is vanity and grasping for the wind."
           ],
@@ -225,9 +185,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "What is crooked cannot be made straight,",
             "And what is lacking cannot be numbered."
@@ -236,9 +194,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.”"
           ],
@@ -246,9 +202,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind."
           ],
@@ -256,9 +210,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "For in much wisdom is much grief,",
             "And he who increases knowledge increases sorrow."
@@ -271,24 +223,18 @@
       "chapter_usfm": "ECC.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.2"
-        ],
+        "usfm": ["ECC.2"],
         "human": "Ecclesiastes 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.3"
-        ],
+        "usfm": ["ECC.3"],
         "human": "Ecclesiastes 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.1"
-        ],
+        "usfm": ["ECC.1"],
         "human": "Ecclesiastes 1",
         "toc": true
       },
@@ -298,16 +244,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Vanity of Pleasure"
-          ],
+          "lines": ["The Vanity of Pleasure"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure”; but surely, this also was vanity."
           ],
@@ -315,9 +257,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "I said of laughter—“Madness!”; and of mirth, “What does it accomplish?”"
           ],
@@ -325,9 +265,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "I searched in my heart how to gratify my flesh with wine, while guiding my heart with wisdom, and how to lay hold on folly, till I might see what was good for the sons of men to do under heaven all the days of their lives."
           ],
@@ -335,9 +273,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "I made my works great, I built myself houses, and planted myself vineyards."
           ],
@@ -345,9 +281,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "I made myself gardens and orchards, and I planted all kinds of fruit trees in them."
           ],
@@ -355,9 +289,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "I made myself water pools from which to water the growing trees of the grove."
           ],
@@ -365,9 +297,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "I acquired male and female servants, and had servants born in my house. Yes, I had greater possessions of herds and flocks than all who were in Jerusalem before me."
           ],
@@ -375,9 +305,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "I also gathered for myself silver and gold and the special treasures of kings and of the provinces. I acquired male and female singers, the delights of the sons of men, and musical instruments of all kinds."
           ],
@@ -385,9 +313,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "So I became great and excelled more than all who were before me in Jerusalem. Also my wisdom remained with me."
           ],
@@ -395,9 +321,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Whatever my eyes desired I did not keep from them.",
             "I did not withhold my heart from any pleasure,",
@@ -408,9 +332,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Then I looked on all the works that my hands had done",
             "And on the labor in which I had toiled;",
@@ -422,16 +344,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The End of the Wise and the Fool"
-          ],
+          "lines": ["The End of the Wise and the Fool"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Then I turned myself to consider wisdom and madness and folly;",
             "For what can the man do who succeeds the king?—",
@@ -441,9 +359,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Then I saw that wisdom excels folly",
             "As light excels darkness."
@@ -452,9 +368,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "The wise man’s eyes are in his head,",
             "But the fool walks in darkness.",
@@ -465,9 +379,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "So I said in my heart,",
             "“As it happens to the fool,",
@@ -480,9 +392,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For there is no more remembrance of the wise than of the fool forever,",
             "Since all that now is will be forgotten in the days to come.",
@@ -493,9 +403,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Therefore I hated life because the work that was done under the sun was distressing to me, for all is vanity and grasping for the wind."
           ],
@@ -503,9 +411,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Then I hated all my labor in which I had toiled under the sun, because I must leave it to the man who will come after me."
           ],
@@ -513,9 +419,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "And who knows whether he will be wise or a fool? Yet he will rule over all my labor in which I toiled and in which I have shown myself wise under the sun. This also is vanity."
           ],
@@ -523,9 +427,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Therefore I turned my heart and despaired of all the labor in which I had toiled under the sun."
           ],
@@ -533,9 +435,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For there is a man whose labor is with wisdom, knowledge, and skill; yet he must leave his heritage to a man who has not labored for it. This also is vanity and a great evil."
           ],
@@ -543,9 +443,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "For what has man for all his labor, and for the striving of his heart with which he has toiled under the sun?"
           ],
@@ -553,9 +451,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "For all his days are sorrowful, and his work burdensome; even in the night his heart takes no rest. This also is vanity."
           ],
@@ -563,9 +459,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Nothing is better for a man than that he should eat and drink, and that his soul should enjoy good in his labor. This also, I saw, was from the hand of God."
           ],
@@ -573,19 +467,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
-          "lines": [
-            "For who can eat, or who can have enjoyment, more than I?"
-          ],
+          "verse_numbers": [25],
+          "lines": ["For who can eat, or who can have enjoyment, more than I?"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "For God gives wisdom and knowledge and joy to a man who is good in His sight; but to the sinner He gives the work of gathering and collecting, that he may give to him who is good before God. This also is vanity and grasping for the wind."
           ],
@@ -597,24 +485,18 @@
       "chapter_usfm": "ECC.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.3"
-        ],
+        "usfm": ["ECC.3"],
         "human": "Ecclesiastes 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.4"
-        ],
+        "usfm": ["ECC.4"],
         "human": "Ecclesiastes 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.2"
-        ],
+        "usfm": ["ECC.2"],
         "human": "Ecclesiastes 2",
         "toc": true
       },
@@ -624,16 +506,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Everything Has Its Time"
-          ],
+          "lines": ["Everything Has Its Time"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "To everything there is a season,",
             "A time for every purpose under heaven:"
@@ -642,9 +520,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "A time to be born,",
             "And a time to die;",
@@ -655,9 +531,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "A time to kill,",
             "And a time to heal;",
@@ -668,9 +542,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "A time to weep,",
             "And a time to laugh;",
@@ -681,9 +553,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "A time to cast away stones,",
             "And a time to gather stones;",
@@ -694,9 +564,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "A time to gain,",
             "And a time to lose;",
@@ -707,9 +575,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "A time to tear,",
             "And a time to sew;",
@@ -720,9 +586,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "A time to love,",
             "And a time to hate;",
@@ -734,26 +598,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The God-Given Task"
-          ],
+          "lines": ["The God-Given Task"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
-          "lines": [
-            "What profit has the worker from that in which he labors?"
-          ],
+          "verse_numbers": [9],
+          "lines": ["What profit has the worker from that in which he labors?"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "I have seen the God-given task with which the sons of men are to be occupied."
           ],
@@ -761,9 +617,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end."
           ],
@@ -771,9 +625,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "I know that nothing is better for them than to rejoice, and to do good in their lives,"
           ],
@@ -781,9 +633,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "and also that every man should eat and drink and enjoy the good of all his labor—it is the gift of God."
           ],
@@ -791,9 +641,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "I know that whatever God does,",
             "It shall be forever.",
@@ -805,9 +653,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "That which is has already been,",
             "And what is to be has already been;",
@@ -818,16 +664,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Injustice Seems to Prevail"
-          ],
+          "lines": ["Injustice Seems to Prevail"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Moreover I saw under the sun:",
             "In the place of judgment,",
@@ -839,9 +681,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "I said in my heart,",
             "“God shall judge the righteous and the wicked,",
@@ -851,9 +691,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.”"
           ],
@@ -861,9 +699,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all is vanity."
           ],
@@ -871,9 +707,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "All go to one place: all are from the dust, and all return to dust."
           ],
@@ -881,9 +715,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth?"
           ],
@@ -891,9 +723,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "So I perceived that nothing is better than that a man should rejoice in his own works, for that is his heritage. For who can bring him to see what will happen after him?"
           ],
@@ -905,24 +735,18 @@
       "chapter_usfm": "ECC.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.4"
-        ],
+        "usfm": ["ECC.4"],
         "human": "Ecclesiastes 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.5"
-        ],
+        "usfm": ["ECC.5"],
         "human": "Ecclesiastes 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.3"
-        ],
+        "usfm": ["ECC.3"],
         "human": "Ecclesiastes 3",
         "toc": true
       },
@@ -931,9 +755,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Then I returned and considered all the oppression that is done under the sun:",
             "And look! The tears of the oppressed,",
@@ -945,9 +767,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Therefore I praised the dead who were already dead,",
             "More than the living who are still alive."
@@ -956,9 +776,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Yet, better than both is he who has never existed,",
             "Who has not seen the evil work that is done under the sun."
@@ -968,16 +786,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Vanity of Selfish Toil"
-          ],
+          "lines": ["The Vanity of Selfish Toil"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Again, I saw that for all toil and every skillful work a man is envied by his neighbor. This also is vanity and grasping for the wind."
           ],
@@ -985,20 +799,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "The fool folds his hands",
-            "And consumes his own flesh."
-          ],
+          "verse_numbers": [5],
+          "lines": ["The fool folds his hands", "And consumes his own flesh."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Better a handful with quietness",
             "Than both hands full, together with toil and grasping for the wind."
@@ -1007,19 +814,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
-          "lines": [
-            "Then I returned, and I saw vanity under the sun:"
-          ],
+          "verse_numbers": [7],
+          "lines": ["Then I returned, and I saw vanity under the sun:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "There is one alone, without companion:",
             "He has neither son nor brother.",
@@ -1034,16 +835,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Value of a Friend"
-          ],
+          "lines": ["The Value of a Friend"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Two are better than one,",
             "Because they have a good reward for their labor."
@@ -1052,9 +849,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "For if they fall, one will lift up his companion.",
             "But woe to him who is alone when he falls,",
@@ -1064,9 +859,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Again, if two lie down together, they will keep warm;",
             "But how can one be warm alone?"
@@ -1075,9 +868,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Though one may be overpowered by another, two can withstand him.",
             "And a threefold cord is not quickly broken."
@@ -1087,16 +878,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Popularity Passes Away"
-          ],
+          "lines": ["Popularity Passes Away"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Better a poor and wise youth",
             "Than an old and foolish king who will be admonished no more."
@@ -1105,9 +892,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For he comes out of prison to be king,",
             "Although he was born poor in his kingdom."
@@ -1116,9 +901,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "I saw all the living who walk under the sun;",
             "They were with the second youth who stands in his place."
@@ -1127,9 +910,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "There was no end of all the people over whom he was made king;",
             "Yet those who come afterward will not rejoice in him.",
@@ -1143,24 +924,18 @@
       "chapter_usfm": "ECC.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.5"
-        ],
+        "usfm": ["ECC.5"],
         "human": "Ecclesiastes 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.6"
-        ],
+        "usfm": ["ECC.6"],
         "human": "Ecclesiastes 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.4"
-        ],
+        "usfm": ["ECC.4"],
         "human": "Ecclesiastes 4",
         "toc": true
       },
@@ -1170,16 +945,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Fear God, Keep Your Vows"
-          ],
+          "lines": ["Fear God, Keep Your Vows"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil."
           ],
@@ -1187,9 +958,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Do not be rash with your mouth,",
             "And let not your heart utter anything hastily before God.",
@@ -1200,9 +969,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For a dream comes through much activity,",
             "And a fool’s voice is known by his many words."
@@ -1211,9 +978,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "When you make a vow to God, do not delay to pay it;",
             "For He has no pleasure in fools.",
@@ -1223,19 +988,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "Better not to vow than to vow and not pay."
-          ],
+          "verse_numbers": [5],
+          "lines": ["Better not to vow than to vow and not pay."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Do not let your mouth cause your flesh to sin, nor say before the messenger of God that it was an error. Why should God be angry at your excuse and destroy the work of your hands?"
           ],
@@ -1243,9 +1002,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "For in the multitude of dreams and many words there is also vanity. But fear God."
           ],
@@ -1254,16 +1011,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Vanity of Gain and Honor"
-          ],
+          "lines": ["The Vanity of Gain and Honor"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them."
           ],
@@ -1271,9 +1024,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Moreover the profit of the land is for all; even the king is served from the field."
           ],
@@ -1281,9 +1032,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "He who loves silver will not be satisfied with silver;",
             "Nor he who loves abundance, with increase.",
@@ -1293,9 +1042,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "When goods increase,",
             "They increase who eat them;",
@@ -1306,9 +1053,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "The sleep of a laboring man is sweet,",
             "Whether he eats little or much;",
@@ -1318,9 +1063,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "There is a severe evil which I have seen under the sun:",
             "Riches kept for their owner to his hurt."
@@ -1329,9 +1072,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "But those riches perish through misfortune;",
             "When he begets a son, there is nothing in his hand."
@@ -1340,9 +1081,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "As he came from his mother’s womb, naked shall he return,",
             "To go as he came;",
@@ -1353,9 +1092,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "And this also is a severe evil—",
             "Just exactly as he came, so shall he go.",
@@ -1365,9 +1102,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "All his days he also eats in darkness,",
             "And he has much sorrow and sickness and anger."
@@ -1376,9 +1111,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Here is what I have seen: It is good and fitting for one to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it is his heritage."
           ],
@@ -1386,9 +1119,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this is the gift of God."
           ],
@@ -1396,9 +1127,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "For he will not dwell unduly on the days of his life, because God keeps him busy with the joy of his heart."
           ],
@@ -1410,24 +1139,18 @@
       "chapter_usfm": "ECC.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.6"
-        ],
+        "usfm": ["ECC.6"],
         "human": "Ecclesiastes 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.7"
-        ],
+        "usfm": ["ECC.7"],
         "human": "Ecclesiastes 7",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.5"
-        ],
+        "usfm": ["ECC.5"],
         "human": "Ecclesiastes 5",
         "toc": true
       },
@@ -1436,9 +1159,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "There is an evil which I have seen under the sun, and it is common among men:"
           ],
@@ -1446,9 +1167,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "A man to whom God has given riches and wealth and honor, so that he lacks nothing for himself of all he desires; yet God does not give him power to eat of it, but a foreigner consumes it. This is vanity, and it is an evil affliction."
           ],
@@ -1456,9 +1175,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "If a man begets a hundred children and lives many years, so that the days of his years are many, but his soul is not satisfied with goodness, or indeed he has no burial, I say that a stillborn child is better than he—"
           ],
@@ -1466,9 +1183,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "for it comes in vanity and departs in darkness, and its name is covered with darkness."
           ],
@@ -1476,9 +1191,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Though it has not seen the sun or known anything, this has more rest than that man,"
           ],
@@ -1486,9 +1199,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "even if he lives a thousand years twice—but has not seen goodness. Do not all go to one place?"
           ],
@@ -1496,9 +1207,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "All the labor of man is for his mouth,",
             "And yet the soul is not satisfied."
@@ -1507,9 +1216,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For what more has the wise man than the fool?",
             "What does the poor man have,",
@@ -1519,9 +1226,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Better is the sight of the eyes than the wandering of desire.",
             "This also is vanity and grasping for the wind."
@@ -1530,9 +1235,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Whatever one is, he has been named already,",
             "For it is known that he is man;",
@@ -1542,9 +1245,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Since there are many things that increase vanity,",
             "How is man the better?"
@@ -1553,9 +1254,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For who knows what is good for man in life, all the days of his vain life which he passes like a shadow? Who can tell a man what will happen after him under the sun?"
           ],
@@ -1567,24 +1266,18 @@
       "chapter_usfm": "ECC.7",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.7"
-        ],
+        "usfm": ["ECC.7"],
         "human": "Ecclesiastes 7"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.8"
-        ],
+        "usfm": ["ECC.8"],
         "human": "Ecclesiastes 8",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.6"
-        ],
+        "usfm": ["ECC.6"],
         "human": "Ecclesiastes 6",
         "toc": true
       },
@@ -1594,16 +1287,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Value of Practical Wisdom"
-          ],
+          "lines": ["The Value of Practical Wisdom"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "A good name is better than precious ointment,",
             "And the day of death than the day of one’s birth;"
@@ -1612,9 +1301,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Better to go to the house of mourning",
             "Than to go to the house of feasting,",
@@ -1625,9 +1312,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Sorrow is better than laughter,",
             "For by a sad countenance the heart is made better."
@@ -1636,9 +1321,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "The heart of the wise is in the house of mourning,",
             "But the heart of fools is in the house of mirth."
@@ -1647,9 +1330,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "It is better to hear the rebuke of the wise",
             "Than for a man to hear the song of fools."
@@ -1658,9 +1339,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "For like the crackling of thorns under a pot,",
             "So is the laughter of the fool.",
@@ -1670,9 +1349,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Surely oppression destroys a wise man’s reason,",
             "And a bribe debases the heart."
@@ -1681,9 +1358,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "The end of a thing is better than its beginning;",
             "The patient in spirit is better than the proud in spirit."
@@ -1692,9 +1367,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Do not hasten in your spirit to be angry,",
             "For anger rests in the bosom of fools."
@@ -1703,9 +1376,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Do not say,",
             "“Why were the former days better than these?”",
@@ -1715,9 +1386,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Wisdom is good with an inheritance,",
             "And profitable to those who see the sun."
@@ -1726,9 +1395,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For wisdom is a defense as money is a defense,",
             "But the excellence of knowledge is that wisdom gives life to those who have it."
@@ -1737,9 +1404,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Consider the work of God;",
             "For who can make straight what He has made crooked?"
@@ -1748,9 +1413,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "In the day of prosperity be joyful,",
             "But in the day of adversity consider:",
@@ -1761,9 +1424,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "I have seen everything in my days of vanity:",
             "There is a just man who perishes in his righteousness,",
@@ -1773,9 +1434,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Do not be overly righteous,",
             "Nor be overly wise:",
@@ -1785,9 +1444,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Do not be overly wicked,",
             "Nor be foolish:",
@@ -1797,9 +1454,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "It is good that you grasp this,",
             "And also not remove your hand from the other;",
@@ -1809,9 +1464,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Wisdom strengthens the wise",
             "More than ten rulers of the city."
@@ -1820,9 +1473,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "For there is not a just man on earth who does good",
             "And does not sin."
@@ -1831,9 +1482,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Also do not take to heart everything people say,",
             "Lest you hear your servant cursing you."
@@ -1842,9 +1491,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "For many times, also, your own heart has known",
             "That even you have cursed others."
@@ -1853,9 +1500,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "All this I have proved by wisdom.",
             "I said, “I will be wise”;",
@@ -1865,9 +1510,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "As for that which is far off and exceedingly deep,",
             "Who can find it out?"
@@ -1876,9 +1519,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "I applied my heart to know,",
             "To search and seek out wisdom and the reason of things,",
@@ -1889,9 +1530,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "And I find more bitter than death",
             "The woman whose heart is snares and nets,",
@@ -1903,9 +1542,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Here is what I have found,” says the Preacher,",
             "“Adding one thing to the other to find out the reason,"
@@ -1914,9 +1551,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "Which my soul still seeks but I cannot find:",
             "One man among a thousand I have found,",
@@ -1926,9 +1561,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Truly, this only I have found:",
             "That God made man upright,",
@@ -1942,24 +1575,18 @@
       "chapter_usfm": "ECC.8",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.8"
-        ],
+        "usfm": ["ECC.8"],
         "human": "Ecclesiastes 8"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.9"
-        ],
+        "usfm": ["ECC.9"],
         "human": "Ecclesiastes 9",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.7"
-        ],
+        "usfm": ["ECC.7"],
         "human": "Ecclesiastes 7",
         "toc": true
       },
@@ -1968,9 +1595,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Who is like a wise man?",
             "And who knows the interpretation of a thing?",
@@ -1982,16 +1607,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Obey Authorities for God’s Sake"
-          ],
+          "lines": ["Obey Authorities for God’s Sake"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "I say, “Keep the king’s commandment for the sake of your oath to God."
           ],
@@ -1999,9 +1620,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.”"
           ],
@@ -2009,9 +1628,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Where the word of a king is, there is power;",
             "And who may say to him, “What are you doing?”"
@@ -2020,9 +1637,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "He who keeps his command will experience nothing harmful;",
             "And a wise man’s heart discerns both time and judgment,"
@@ -2031,9 +1646,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Because for every matter there is a time and judgment,",
             "Though the misery of man increases greatly."
@@ -2042,9 +1655,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "For he does not know what will happen;",
             "So who can tell him when it will occur?"
@@ -2053,9 +1664,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "No one has power over the spirit to retain the spirit,",
             "And no one has power in the day of death.",
@@ -2066,9 +1675,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "All this I have seen, and applied my heart to every work that is done under the sun: There is a time in which one man rules over another to his own hurt."
           ],
@@ -2077,16 +1684,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Death Comes to All"
-          ],
+          "lines": ["Death Comes to All"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Then I saw the wicked buried, who had come and gone from the place of holiness, and they were forgotten in the city where they had so done. This also is vanity."
           ],
@@ -2094,9 +1697,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Because the sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil."
           ],
@@ -2104,9 +1705,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Though a sinner does evil a hundred times, and his days are prolonged, yet I surely know that it will be well with those who fear God, who fear before Him."
           ],
@@ -2114,9 +1713,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "But it will not be well with the wicked; nor will he prolong his days, which are as a shadow, because he does not fear before God."
           ],
@@ -2124,9 +1721,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "There is a vanity which occurs on earth, that there are just men to whom it happens according to the work of the wicked; again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity."
           ],
@@ -2134,9 +1729,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "So I commended enjoyment, because a man has nothing better under the sun than to eat, drink, and be merry; for this will remain with him in his labor all the days of his life which God gives him under the sun."
           ],
@@ -2144,9 +1737,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "When I applied my heart to know wisdom and to see the business that is done on earth, even though one sees no sleep day or night,"
           ],
@@ -2154,9 +1745,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "then I saw all the work of God, that a man cannot find out the work that is done under the sun. For though a man labors to discover it, yet he will not find it; moreover, though a wise man attempts to know it, he will not be able to find it."
           ],
@@ -2168,24 +1757,18 @@
       "chapter_usfm": "ECC.9",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.9"
-        ],
+        "usfm": ["ECC.9"],
         "human": "Ecclesiastes 9"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.10"
-        ],
+        "usfm": ["ECC.10"],
         "human": "Ecclesiastes 10",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.8"
-        ],
+        "usfm": ["ECC.8"],
         "human": "Ecclesiastes 8",
         "toc": true
       },
@@ -2194,9 +1777,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "For I considered all this in my heart, so that I could declare it all: that the righteous and the wise and their works are in the hand of God. People know neither love nor hatred by anything they see before them."
           ],
@@ -2204,9 +1785,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "All things come alike to all:",
             "One event happens to the righteous and the wicked;",
@@ -2219,9 +1798,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "This is an evil in all that is done under the sun: that one thing happens to all. Truly the hearts of the sons of men are full of evil; madness is in their hearts while they live, and after that they go to the dead."
           ],
@@ -2229,9 +1806,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "But for him who is joined to all the living there is hope, for a living dog is better than a dead lion."
           ],
@@ -2239,9 +1814,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For the living know that they will die;",
             "But the dead know nothing,",
@@ -2252,9 +1825,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Also their love, their hatred, and their envy have now perished;",
             "Nevermore will they have a share",
@@ -2264,9 +1835,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Go, eat your bread with joy,",
             "And drink your wine with a merry heart;",
@@ -2276,9 +1845,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Let your garments always be white,",
             "And let your head lack no oil."
@@ -2287,9 +1854,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Live joyfully with the wife whom you love all the days of your vain life which He has given you under the sun, all your days of vanity; for that is your portion in life, and in the labor which you perform under the sun."
           ],
@@ -2297,9 +1862,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Whatever your hand finds to do, do it with your might; for there is no work or device or knowledge or wisdom in the grave where you are going."
           ],
@@ -2307,9 +1870,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "I returned and saw under the sun that—",
             "The race is not to the swift,",
@@ -2323,9 +1884,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For man also does not know his time:",
             "Like fish taken in a cruel net,",
@@ -2338,16 +1897,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Wisdom Superior to Folly"
-          ],
+          "lines": ["Wisdom Superior to Folly"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "This wisdom I have also seen under the sun, and it seemed great to me:"
           ],
@@ -2355,9 +1910,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "There was a little city with few men in it; and a great king came against it, besieged it, and built great snares around it."
           ],
@@ -2365,9 +1918,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Now there was found in it a poor wise man, and he by his wisdom delivered the city. Yet no one remembered that same poor man."
           ],
@@ -2375,9 +1926,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Then I said:",
             "“Wisdom is better than strength.",
@@ -2388,9 +1937,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Words of the wise, spoken quietly, should be heard",
             "Rather than the shout of a ruler of fools."
@@ -2399,9 +1946,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Wisdom is better than weapons of war;",
             "But one sinner destroys much good.”"
@@ -2414,24 +1959,18 @@
       "chapter_usfm": "ECC.10",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.10"
-        ],
+        "usfm": ["ECC.10"],
         "human": "Ecclesiastes 10"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.11"
-        ],
+        "usfm": ["ECC.11"],
         "human": "Ecclesiastes 11",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.9"
-        ],
+        "usfm": ["ECC.9"],
         "human": "Ecclesiastes 9",
         "toc": true
       },
@@ -2440,9 +1979,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Dead flies putrefy the perfumer’s ointment,",
             "And cause it to give off a foul odor;",
@@ -2452,9 +1989,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "A wise man’s heart is at his right hand,",
             "But a fool’s heart at his left."
@@ -2463,9 +1998,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Even when a fool walks along the way,",
             "He lacks wisdom,",
@@ -2475,9 +2008,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "If the spirit of the ruler rises against you,",
             "Do not leave your post;",
@@ -2487,9 +2018,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "There is an evil I have seen under the sun,",
             "As an error proceeding from the ruler:"
@@ -2498,9 +2027,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Folly is set in great dignity,",
             "While the rich sit in a lowly place."
@@ -2509,9 +2036,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "I have seen servants on horses,",
             "While princes walk on the ground like servants."
@@ -2520,9 +2045,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "He who digs a pit will fall into it,",
             "And whoever breaks through a wall will be bitten by a serpent."
@@ -2531,9 +2054,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "He who quarries stones may be hurt by them,",
             "And he who splits wood may be endangered by it."
@@ -2542,9 +2063,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "If the ax is dull,",
             "And one does not sharpen the edge,",
@@ -2555,9 +2074,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "A serpent may bite when it is not charmed;",
             "The babbler is no different."
@@ -2566,9 +2083,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "The words of a wise man’s mouth are gracious,",
             "But the lips of a fool shall swallow him up;"
@@ -2577,9 +2092,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "The words of his mouth begin with foolishness,",
             "And the end of his talk is raving madness."
@@ -2588,9 +2101,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "A fool also multiplies words.",
             "No man knows what is to be;",
@@ -2600,9 +2111,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "The labor of fools wearies them,",
             "For they do not even know how to go to the city!"
@@ -2611,9 +2120,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Woe to you, O land, when your king is a child,",
             "And your princes feast in the morning!"
@@ -2622,9 +2129,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Blessed are you, O land, when your king is the son of nobles,",
             "And your princes feast at the proper time—",
@@ -2634,9 +2139,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Because of laziness the building decays,",
             "And through idleness of hands the house leaks."
@@ -2645,9 +2148,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "A feast is made for laughter,",
             "And wine makes merry;",
@@ -2657,9 +2158,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Do not curse the king, even in your thought;",
             "Do not curse the rich, even in your bedroom;",
@@ -2674,24 +2173,18 @@
       "chapter_usfm": "ECC.11",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.11"
-        ],
+        "usfm": ["ECC.11"],
         "human": "Ecclesiastes 11"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "ECC.12"
-        ],
+        "usfm": ["ECC.12"],
         "human": "Ecclesiastes 12",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.10"
-        ],
+        "usfm": ["ECC.10"],
         "human": "Ecclesiastes 10",
         "toc": true
       },
@@ -2701,16 +2194,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Value of Diligence"
-          ],
+          "lines": ["The Value of Diligence"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Cast your bread upon the waters,",
             "For you will find it after many days."
@@ -2719,9 +2208,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Give a serving to seven, and also to eight,",
             "For you do not know what evil will be on the earth."
@@ -2730,9 +2217,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "If the clouds are full of rain,",
             "They empty themselves upon the earth;",
@@ -2743,9 +2228,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "He who observes the wind will not sow,",
             "And he who regards the clouds will not reap."
@@ -2754,9 +2237,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "As you do not know what is the way of the wind,",
             "Or how the bones grow in the womb of her who is with child,",
@@ -2766,9 +2247,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "In the morning sow your seed,",
             "And in the evening do not withhold your hand;",
@@ -2780,9 +2259,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Truly the light is sweet,",
             "And it is pleasant for the eyes to behold the sun;"
@@ -2791,9 +2268,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "But if a man lives many years",
             "And rejoices in them all,",
@@ -2806,16 +2281,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Seek God in Early Life"
-          ],
+          "lines": ["Seek God in Early Life"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Rejoice, O young man, in your youth,",
             "And let your heart cheer you in the days of your youth;",
@@ -2828,9 +2299,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Therefore remove sorrow from your heart,",
             "And put away evil from your flesh,",
@@ -2844,24 +2313,18 @@
       "chapter_usfm": "ECC.12",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "ECC.12"
-        ],
+        "usfm": ["ECC.12"],
         "human": "Ecclesiastes 12"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "SNG.1"
-        ],
+        "usfm": ["SNG.1"],
         "human": "Song of Solomon 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ECC.11"
-        ],
+        "usfm": ["ECC.11"],
         "human": "Ecclesiastes 11",
         "toc": true
       },
@@ -2870,9 +2333,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Remember now your Creator in the days of your youth,",
             "Before the difficult days come,",
@@ -2883,9 +2344,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "While the sun and the light,",
             "The moon and the stars,",
@@ -2896,9 +2355,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "In the day when the keepers of the house tremble,",
             "And the strong men bow down;",
@@ -2909,9 +2366,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "When the doors are shut in the streets,",
             "And the sound of grinding is low;",
@@ -2922,9 +2377,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Also they are afraid of height,",
             "And of terrors in the way;",
@@ -2938,9 +2391,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Remember your Creator before the silver cord is loosed,",
             "Or the golden bowl is broken,",
@@ -2951,9 +2402,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Then the dust will return to the earth as it was,",
             "And the spirit will return to God who gave it."
@@ -2962,9 +2411,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "“Vanity of vanities,” says the Preacher,",
             "“All is vanity.”"
@@ -2974,16 +2421,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Whole Duty of Man"
-          ],
+          "lines": ["The Whole Duty of Man"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "And moreover, because the Preacher was wise, he still taught the people knowledge; yes, he pondered and sought out and set in order many proverbs."
           ],
@@ -2991,9 +2434,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "The Preacher sought to find acceptable words; and what was written was upright—words of truth."
           ],
@@ -3001,9 +2442,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "The words of the wise are like goads, and the words of scholars are like well-driven nails, given by one Shepherd."
           ],
@@ -3011,9 +2450,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "And further, my son, be admonished by these. Of making many books there is no end, and much study is wearisome to the flesh."
           ],
@@ -3021,9 +2458,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Let us hear the conclusion of the whole matter:",
             "Fear God and keep His commandments,",
@@ -3033,9 +2468,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For God will bring every work into judgment,",
             "Including every secret thing,",

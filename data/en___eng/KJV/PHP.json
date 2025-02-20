@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "PHP.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "PHP.1"
-        ],
+        "usfm": ["PHP.1"],
         "human": "Philippians 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "PHP.2"
-        ],
+        "usfm": ["PHP.2"],
         "human": "Philippians 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "EPH.6"
-        ],
+        "usfm": ["EPH.6"],
         "human": "Ephesians 6",
         "toc": true
       },
@@ -50,9 +44,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:"
           ],
@@ -60,9 +52,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
           ],
@@ -71,26 +61,18 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "The Heart of the Apostle"
-          ],
+          "lines": ["The Heart of the Apostle"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
-          "lines": [
-            "I thank my God upon every remembrance of you,"
-          ],
+          "verse_numbers": [3],
+          "lines": ["I thank my God upon every remembrance of you,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "always in every prayer of mine for you all making request with joy,"
           ],
@@ -98,9 +80,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "for your fellowship in the gospel from the first day until now;"
           ],
@@ -108,9 +88,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
           ],
@@ -118,9 +96,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace."
           ],
@@ -128,9 +104,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For God is my record, how greatly I long after you all in the bowels of Jesus Christ."
           ],
@@ -138,9 +112,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "And this I pray, that your love may abound yet more and more in knowledge and in all judgment;"
           ],
@@ -148,9 +120,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "that ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;"
           ],
@@ -158,9 +128,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God."
           ],
@@ -168,9 +136,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;"
           ],
@@ -178,9 +144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "so that my bonds in Christ are manifest in all the palace, and in all other places;"
           ],
@@ -188,9 +152,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "and many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear."
           ],
@@ -198,9 +160,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Some indeed preach Christ even of envy and strife; and some also of good will:"
           ],
@@ -208,9 +168,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "the one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:"
           ],
@@ -218,9 +176,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "but the other of love, knowing that I am set for the defence of the gospel."
           ],
@@ -228,9 +184,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice."
           ],
@@ -238,9 +192,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,"
           ],
@@ -248,9 +200,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "according to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death."
           ],
@@ -258,19 +208,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "For to me to live is Christ, and to die is gain."
-          ],
+          "verse_numbers": [21],
+          "lines": ["For to me to live is Christ, and to die is gain."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not."
           ],
@@ -278,9 +222,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:"
           ],
@@ -288,9 +230,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "nevertheless to abide in the flesh is more needful for you."
           ],
@@ -298,9 +238,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;"
           ],
@@ -308,9 +246,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "that your rejoicing may be more abundant in Jesus Christ for me by my coming to you again."
           ],
@@ -318,9 +254,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;"
           ],
@@ -328,9 +262,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "and in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God."
           ],
@@ -338,9 +270,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;"
           ],
@@ -348,9 +278,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "having the same conflict which ye saw in me, and now hear to be in me."
           ],
@@ -362,24 +290,18 @@
       "chapter_usfm": "PHP.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "PHP.2"
-        ],
+        "usfm": ["PHP.2"],
         "human": "Philippians 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "PHP.3"
-        ],
+        "usfm": ["PHP.3"],
         "human": "Philippians 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "PHP.1"
-        ],
+        "usfm": ["PHP.1"],
         "human": "Philippians 1",
         "toc": true
       },
@@ -389,16 +311,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "The Mind of Christ"
-          ],
+          "lines": ["The Mind of Christ"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
           ],
@@ -406,9 +324,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind."
           ],
@@ -416,9 +332,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves."
           ],
@@ -426,9 +340,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Look not every man on his own things, but every man also on the things of others."
           ],
@@ -436,19 +348,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "Let this mind be in you, which was also in Christ Jesus:"
-          ],
+          "verse_numbers": [5],
+          "lines": ["Let this mind be in you, which was also in Christ Jesus:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "who, being in the form of God, thought it not robbery to be equal with God:"
           ],
@@ -456,9 +362,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "but made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:"
           ],
@@ -466,9 +370,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "and being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
           ],
@@ -476,9 +378,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Wherefore God also hath highly exalted him, and given him a name which is above every name:"
           ],
@@ -486,9 +386,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "that at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;"
           ],
@@ -496,9 +394,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
           ],
@@ -506,9 +402,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling."
           ],
@@ -516,9 +410,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "For it is God which worketh in you both to will and to do of his good pleasure."
           ],
@@ -526,19 +418,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "Do all things without murmurings and disputings:"
-          ],
+          "verse_numbers": [14],
+          "lines": ["Do all things without murmurings and disputings:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "that ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;"
           ],
@@ -546,9 +432,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain."
           ],
@@ -556,9 +440,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all."
           ],
@@ -566,19 +448,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
-          "lines": [
-            "For the same cause also do ye joy, and rejoice with me."
-          ],
+          "verse_numbers": [18],
+          "lines": ["For the same cause also do ye joy, and rejoice with me."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state."
           ],
@@ -586,9 +462,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "For I have no man likeminded, who will naturally care for your state."
           ],
@@ -596,9 +470,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For all seek their own, not the things which are Jesus Christ's."
           ],
@@ -606,9 +478,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel."
           ],
@@ -616,9 +486,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Him therefore I hope to send presently, so soon as I shall see how it will go with me."
           ],
@@ -626,9 +494,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "But I trust in the Lord that I also myself shall come shortly."
           ],
@@ -636,9 +502,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants."
           ],
@@ -646,9 +510,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick."
           ],
@@ -656,9 +518,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow."
           ],
@@ -666,9 +526,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful."
           ],
@@ -676,9 +534,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Receive him therefore in the Lord with all gladness; and hold such in reputation:"
           ],
@@ -686,9 +542,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me."
           ],
@@ -700,24 +554,18 @@
       "chapter_usfm": "PHP.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "PHP.3"
-        ],
+        "usfm": ["PHP.3"],
         "human": "Philippians 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "PHP.4"
-        ],
+        "usfm": ["PHP.4"],
         "human": "Philippians 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "PHP.2"
-        ],
+        "usfm": ["PHP.2"],
         "human": "Philippians 2",
         "toc": true
       },
@@ -727,16 +575,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Paul and Christ"
-          ],
+          "lines": ["Paul and Christ"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe."
           ],
@@ -744,9 +588,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Beware of dogs, beware of evil workers, beware of the concision."
           ],
@@ -754,9 +596,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
           ],
@@ -764,9 +604,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:"
           ],
@@ -774,9 +612,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;"
           ],
@@ -784,9 +620,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless."
           ],
@@ -794,9 +628,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "But what things were gain to me, those I counted loss for Christ."
           ],
@@ -804,9 +636,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,"
           ],
@@ -814,9 +644,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "and be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:"
           ],
@@ -824,9 +652,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "that I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;"
           ],
@@ -834,9 +660,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "if by any means I might attain unto the resurrection of the dead."
           ],
@@ -844,9 +668,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus."
           ],
@@ -854,9 +676,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,"
           ],
@@ -864,9 +684,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "I press toward the mark for the prize of the high calling of God in Christ Jesus."
           ],
@@ -874,9 +692,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you."
           ],
@@ -884,9 +700,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing."
           ],
@@ -894,9 +708,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample."
           ],
@@ -904,9 +716,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
           ],
@@ -914,9 +724,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)"
           ],
@@ -924,9 +732,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:"
           ],
@@ -934,9 +740,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself."
           ],
@@ -948,24 +752,18 @@
       "chapter_usfm": "PHP.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "PHP.4"
-        ],
+        "usfm": ["PHP.4"],
         "human": "Philippians 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "COL.1"
-        ],
+        "usfm": ["COL.1"],
         "human": "Colossians 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "PHP.3"
-        ],
+        "usfm": ["PHP.3"],
         "human": "Philippians 3",
         "toc": true
       },
@@ -975,16 +773,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Paul and the Philippians"
-          ],
+          "lines": ["Paul and the Philippians"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved."
           ],
@@ -992,9 +786,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord."
           ],
@@ -1002,9 +794,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life."
           ],
@@ -1012,19 +802,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "Rejoice in the Lord alway: and again I say, Rejoice."
-          ],
+          "verse_numbers": [4],
+          "lines": ["Rejoice in the Lord alway: and again I say, Rejoice."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Let your moderation be known unto all men. The Lord is at hand."
           ],
@@ -1032,9 +816,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
           ],
@@ -1042,9 +824,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
           ],
@@ -1053,16 +833,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Think on These Things"
-          ],
+          "lines": ["Think on These Things"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."
           ],
@@ -1070,9 +846,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you."
           ],
@@ -1080,9 +854,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity."
           ],
@@ -1090,9 +862,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content."
           ],
@@ -1100,9 +870,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need."
           ],
@@ -1110,9 +878,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I can do all things through Christ which strengtheneth me."
           ],
@@ -1120,9 +886,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Notwithstanding ye have well done, that ye did communicate with my affliction."
           ],
@@ -1130,9 +894,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only."
           ],
@@ -1140,9 +902,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For even in Thessalonica ye sent once and again unto my necessity."
           ],
@@ -1150,9 +910,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Not because I desire a gift: but I desire fruit that may abound to your account."
           ],
@@ -1160,9 +918,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God."
           ],
@@ -1170,9 +926,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "But my God shall supply all your need according to his riches in glory by Christ Jesus."
           ],
@@ -1180,9 +934,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Now unto God and our Father be glory for ever and ever. Amen."
           ],
@@ -1190,9 +942,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Salute every saint in Christ Jesus. The brethren which are with me greet you."
           ],
@@ -1200,9 +950,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "All the saints salute you, chiefly they that are of Cæsar's household."
           ],
@@ -1210,9 +958,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "The grace of our Lord Jesus Christ be with you all. Amen.",
             "It was written to the Philippians from Rome by Epaphroditus."

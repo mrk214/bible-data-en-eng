@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "2PE.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "2PE.1"
-        ],
+        "usfm": ["2PE.1"],
         "human": "2 Peter 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2PE.2"
-        ],
+        "usfm": ["2PE.2"],
         "human": "2 Peter 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1PE.5"
-        ],
+        "usfm": ["1PE.5"],
         "human": "1 Peter 5",
         "toc": true
       },
@@ -51,16 +45,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Growth in Christian Virtue"
-          ],
+          "lines": ["Growth in Christian Virtue"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Simon Peter, a bond-servant and apostle of Jesus Christ,",
             "To those who have received a faith of the same kind as ours, by the righteousness of our God and Savior, Jesus Christ:"
@@ -69,9 +59,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,"
           ],
@@ -79,9 +67,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "for His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence."
           ],
@@ -89,9 +75,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Through these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world on account of lust."
           ],
@@ -99,9 +83,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Now for this very reason also, applying all diligence, in your faith supply moral excellence, and in your moral excellence, knowledge,"
           ],
@@ -109,9 +91,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "and in your knowledge, self-control, and in your self-control, perseverance, and in your perseverance, godliness,"
           ],
@@ -119,9 +99,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "and in your godliness, brotherly kindness, and in your brotherly kindness, love."
           ],
@@ -129,9 +107,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For if these qualities are yours and are increasing, they do not make you useless nor unproductive in the true knowledge of our Lord Jesus Christ."
           ],
@@ -139,9 +115,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For the one who lacks these qualities is blind or short-sighted, having forgotten his purification from his former sins."
           ],
@@ -149,9 +123,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Therefore, brothers and sisters, be all the more diligent to make certain about His calling and choice of you; for as long as you practice these things, you will never stumble;"
           ],
@@ -159,9 +131,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "for in this way the entrance into the eternal kingdom of our Lord and Savior Jesus Christ will be abundantly supplied to you."
           ],
@@ -169,9 +139,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Therefore, I will always be ready to remind you of these things, even though you already know them and have been established in the truth which is present with you."
           ],
@@ -179,9 +147,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I consider it right, as long as I am in this earthly dwelling, to stir you up by way of reminder,"
           ],
@@ -189,9 +155,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "knowing that the laying aside of my earthly dwelling is imminent, as also our Lord Jesus Christ has made clear to me."
           ],
@@ -199,9 +163,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "And I will also be diligent that at any time after my departure you will be able to call these things to mind."
           ],
@@ -210,16 +172,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Eyewitnesses"
-          ],
+          "lines": ["Eyewitnesses"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For we did not follow cleverly devised tales when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty."
           ],
@@ -227,9 +185,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "For when He received honor and glory from God the Father, such a declaration as this was made to Him by the Majestic Glory: “This is My beloved Son with whom I am well pleased”—"
           ],
@@ -237,9 +193,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "and we ourselves heard this declaration made from heaven when we were with Him on the holy mountain."
           ],
@@ -247,9 +201,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "And so we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts."
           ],
@@ -257,9 +209,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "But know this first of all, that no prophecy of Scripture becomes a matter of someone’s own interpretation,"
           ],
@@ -267,9 +217,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God."
           ],
@@ -281,24 +229,18 @@
       "chapter_usfm": "2PE.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "2PE.2"
-        ],
+        "usfm": ["2PE.2"],
         "human": "2 Peter 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2PE.3"
-        ],
+        "usfm": ["2PE.3"],
         "human": "2 Peter 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2PE.1"
-        ],
+        "usfm": ["2PE.1"],
         "human": "2 Peter 1",
         "toc": true
       },
@@ -308,16 +250,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Appearance of False Prophets"
-          ],
+          "lines": ["The Appearance of False Prophets"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "But false prophets also appeared among the people, just as there will also be false teachers among you, who will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves."
           ],
@@ -325,9 +263,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Many will follow their indecent behavior, and because of them the way of the truth will be maligned;"
           ],
@@ -335,9 +271,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "and in their greed they will exploit you with false words; their judgment from long ago is not idle, and their destruction is not asleep."
           ],
@@ -345,9 +279,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "For if God did not spare angels when they sinned, but cast them into hell and committed them to pits of darkness, held for judgment;"
           ],
@@ -355,9 +287,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "and did not spare the ancient world, but protected Noah, a preacher of righteousness, with seven others, when He brought a flood upon the world of the ungodly;"
           ],
@@ -365,9 +295,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "and if He condemned the cities of Sodom and Gomorrah to destruction by reducing them to ashes, having made them an example of what is coming for the ungodly;"
           ],
@@ -375,9 +303,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "and if He rescued righteous Lot, who was oppressed by the perverted conduct of unscrupulous people"
           ],
@@ -385,9 +311,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "(for by what he saw and heard that righteous man, while living among them, felt his righteous soul tormented day after day by their lawless deeds),"
           ],
@@ -395,9 +319,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "then the Lord knows how to rescue the godly from a trial, and to keep the unrighteous under punishment for the day of judgment,"
           ],
@@ -405,9 +327,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "and especially those who indulge the flesh in its corrupt passion, and despise authority.",
             "Reckless, self-centered, they speak abusively of angelic majesties without trembling,"
@@ -416,9 +336,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "whereas angels who are greater in might and power do not bring a demeaning judgment against them before the Lord."
           ],
@@ -426,9 +344,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "But these, like unreasoning animals, born as creatures of instinct to be captured and killed, using abusive speech where they have no knowledge, will in the destruction of those creatures also be destroyed,"
           ],
@@ -436,9 +352,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "suffering wrong as the wages of doing wrong. They count it a pleasure to revel in the daytime. They are stains and blemishes, reveling in their deceptions as they feast with you,"
           ],
@@ -446,9 +360,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "having eyes full of adultery that never cease from sin, enticing unstable souls, having hearts trained in greed, accursed children;"
           ],
@@ -456,9 +368,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "abandoning the right way, they have gone astray, having followed the way of Balaam, the son of Beor, who loved the reward of unrighteousness;"
           ],
@@ -466,9 +376,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "but he received a rebuke for his own offense, for a mute donkey, speaking with a human voice, restrained the insanity of the prophet."
           ],
@@ -476,9 +384,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "These are springs without water and mists driven by a storm, for whom the black darkness has been reserved."
           ],
@@ -486,9 +392,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "For, while speaking out arrogant words of no value they entice by fleshly desires, by indecent behavior, those who barely escape from the ones who live in error,"
           ],
@@ -496,9 +400,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "promising them freedom while they themselves are slaves of corruption; for by what anyone is overcome, by this he is enslaved."
           ],
@@ -506,9 +408,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "For if, after they have escaped the defilements of the world by the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first."
           ],
@@ -516,9 +416,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For it would be better for them not to have known the way of righteousness, than having known it, to turn away from the holy commandment handed on to them."
           ],
@@ -526,9 +424,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "It has happened to them according to the true proverb, “A dog returns to its own vomit,” and, “A sow, after washing, returns to wallowing in the mire.”"
           ],
@@ -540,24 +436,18 @@
       "chapter_usfm": "2PE.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "2PE.3"
-        ],
+        "usfm": ["2PE.3"],
         "human": "2 Peter 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1JN.1"
-        ],
+        "usfm": ["1JN.1"],
         "human": "1 John 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2PE.2"
-        ],
+        "usfm": ["2PE.2"],
         "human": "2 Peter 2",
         "toc": true
       },
@@ -567,16 +457,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Purpose of This Letter"
-          ],
+          "lines": ["Purpose of This Letter"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Beloved, this is now the second letter I am writing to you in which I am stirring up your sincere mind by way of a reminder,"
           ],
@@ -584,9 +470,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "to remember the words spoken beforehand by the holy prophets and the commandment of the Lord and Savior spoken by your apostles."
           ],
@@ -595,16 +479,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Coming Day of the Lord"
-          ],
+          "lines": ["The Coming Day of the Lord"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Know this first of all, that in the last days mockers will come with their mocking, following after their own lusts,"
           ],
@@ -612,9 +492,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "and saying, “Where is the promise of His coming? For ever since the fathers fell asleep, all things continue just as they were from the beginning of creation.”"
           ],
@@ -622,9 +500,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For when they maintain this, it escapes their notice that by the word of God the heavens existed long ago and the earth was formed out of water and by water,"
           ],
@@ -632,9 +508,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "through which the world at that time was destroyed by being flooded with water."
           ],
@@ -642,9 +516,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "But by His word the present heavens and earth are being reserved for fire, kept for the day of judgment and destruction of ungodly people."
           ],
@@ -652,9 +524,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "But do not let this one fact escape your notice, beloved, that with the Lord one day is like a thousand years, and a thousand years like one day."
           ],
@@ -662,9 +532,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "The Lord is not slow about His promise, as some count slowness, but is patient toward you, not willing for any to perish, but for all to come to repentance."
           ],
@@ -673,16 +541,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "A New Heaven and Earth"
-          ],
+          "lines": ["A New Heaven and Earth"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "But the day of the Lord will come like a thief, in which the heavens will pass away with a roar and the elements will be destroyed with intense heat, and the earth and its works will be discovered."
           ],
@@ -690,9 +554,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Since all these things are to be destroyed in this way, what sort of people ought you to be in holy conduct and godliness,"
           ],
@@ -700,9 +562,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "looking for and hastening the coming of the day of God, because of which the heavens will be destroyed by burning, and the elements will melt with intense heat!"
           ],
@@ -710,9 +570,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "But according to His promise we are looking for new heavens and a new earth, in which righteousness dwells."
           ],
@@ -720,9 +578,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Therefore, beloved, since you look for these things, be diligent to be found spotless and blameless by Him, at peace,"
           ],
@@ -730,9 +586,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "and regard the patience of our Lord as salvation; just as also our beloved brother Paul, according to the wisdom given him, wrote to you,"
           ],
@@ -740,9 +594,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "as also in all his letters, speaking in them of these things, in which there are some things that are hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction."
           ],
@@ -750,9 +602,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "You therefore, beloved, knowing this beforehand, be on your guard so that you are not carried away by the error of unscrupulous people and lose your own firm commitment,"
           ],
@@ -760,9 +610,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "but grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory, both now and to the day of eternity. Amen."
           ],

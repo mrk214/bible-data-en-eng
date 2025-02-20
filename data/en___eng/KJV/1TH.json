@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "1TH.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1TH.1"
-        ],
+        "usfm": ["1TH.1"],
         "human": "1 Thessalonians 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1TH.2"
-        ],
+        "usfm": ["1TH.2"],
         "human": "1 Thessalonians 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "COL.4"
-        ],
+        "usfm": ["COL.4"],
         "human": "Colossians 4",
         "toc": true
       },
@@ -50,9 +44,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ."
           ],
@@ -61,16 +53,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Their Work of Faith"
-          ],
+          "lines": ["Their Work of Faith"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "We give thanks to God always for you all, making mention of you in our prayers;"
           ],
@@ -78,9 +66,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;"
           ],
@@ -88,19 +74,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "knowing, brethren beloved, your election of God."
-          ],
+          "verse_numbers": [4],
+          "lines": ["knowing, brethren beloved, your election of God."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake."
           ],
@@ -108,9 +88,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:"
           ],
@@ -118,9 +96,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "so that ye were ensamples to all that believe in Macedonia and Achaia."
           ],
@@ -128,9 +104,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing."
           ],
@@ -138,9 +112,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;"
           ],
@@ -148,9 +120,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "and to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come."
           ],
@@ -162,24 +132,18 @@
       "chapter_usfm": "1TH.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1TH.2"
-        ],
+        "usfm": ["1TH.2"],
         "human": "1 Thessalonians 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1TH.3"
-        ],
+        "usfm": ["1TH.3"],
         "human": "1 Thessalonians 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1TH.1"
-        ],
+        "usfm": ["1TH.1"],
         "human": "1 Thessalonians 1",
         "toc": true
       },
@@ -189,16 +153,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Their Ties With the Apostle"
-          ],
+          "lines": ["Their Ties With the Apostle"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "For yourselves, brethren, know our entrance in unto you, that it was not in vain:"
           ],
@@ -206,9 +166,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "but even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention."
           ],
@@ -216,9 +174,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For our exhortation was not of deceit, nor of uncleanness, nor in guile:"
           ],
@@ -226,9 +182,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "but as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts."
           ],
@@ -236,9 +190,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:"
           ],
@@ -246,9 +198,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ."
           ],
@@ -256,9 +206,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "But we were gentle among you, even as a nurse cherisheth her children:"
           ],
@@ -266,9 +214,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "so being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us."
           ],
@@ -276,9 +222,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God."
           ],
@@ -286,9 +230,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:"
           ],
@@ -296,9 +238,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "as ye know how we exhorted and comforted and charged every one of you, as a father doth his children,"
           ],
@@ -306,9 +246,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "that ye would walk worthy of God, who hath called you unto his kingdom and glory."
           ],
@@ -316,9 +254,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe."
           ],
@@ -326,9 +262,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For ye, brethren, became followers of the churches of God which in Judæa are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:"
           ],
@@ -336,9 +270,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:"
           ],
@@ -346,9 +278,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost."
           ],
@@ -356,9 +286,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire."
           ],
@@ -366,9 +294,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us."
           ],
@@ -376,9 +302,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?"
           ],
@@ -386,12 +310,8 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
-          "lines": [
-            "For ye are our glory and joy."
-          ],
+          "verse_numbers": [20],
+          "lines": ["For ye are our glory and joy."],
           "rlw_lines": []
         }
       ]
@@ -400,24 +320,18 @@
       "chapter_usfm": "1TH.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1TH.3"
-        ],
+        "usfm": ["1TH.3"],
         "human": "1 Thessalonians 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1TH.4"
-        ],
+        "usfm": ["1TH.4"],
         "human": "1 Thessalonians 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1TH.2"
-        ],
+        "usfm": ["1TH.2"],
         "human": "1 Thessalonians 2",
         "toc": true
       },
@@ -427,16 +341,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Timothy's Visit"
-          ],
+          "lines": ["Timothy's Visit"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;"
           ],
@@ -444,9 +354,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "and sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:"
           ],
@@ -454,9 +362,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "that no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
           ],
@@ -464,9 +370,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know."
           ],
@@ -474,9 +378,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain."
           ],
@@ -484,9 +386,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:"
           ],
@@ -494,9 +394,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "therefore, brethren, we were comforted over you in all our affliction and distress by your faith:"
           ],
@@ -504,19 +402,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
-          "lines": [
-            "for now we live, if ye stand fast in the Lord."
-          ],
+          "verse_numbers": [8],
+          "lines": ["for now we live, if ye stand fast in the Lord."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;"
           ],
@@ -524,9 +416,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?"
           ],
@@ -534,9 +424,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you."
           ],
@@ -544,9 +432,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
           ],
@@ -554,9 +440,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "to the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints."
           ],
@@ -568,24 +452,18 @@
       "chapter_usfm": "1TH.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1TH.4"
-        ],
+        "usfm": ["1TH.4"],
         "human": "1 Thessalonians 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1TH.5"
-        ],
+        "usfm": ["1TH.5"],
         "human": "1 Thessalonians 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1TH.3"
-        ],
+        "usfm": ["1TH.3"],
         "human": "1 Thessalonians 3",
         "toc": true
       },
@@ -595,16 +473,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "The New Life"
-          ],
+          "lines": ["The New Life"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more."
           ],
@@ -612,9 +486,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "For ye know what commandments we gave you by the Lord Jesus."
           ],
@@ -622,9 +494,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For this is the will of God, even your sanctification, that ye should abstain from fornication:"
           ],
@@ -632,9 +502,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "that every one of you should know how to possess his vessel in sanctification and honour;"
           ],
@@ -642,9 +510,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "not in the lust of concupiscence, even as the Gentiles which know not God:"
           ],
@@ -652,9 +518,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "that no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified."
           ],
@@ -662,9 +526,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "For God hath not called us unto uncleanness, but unto holiness."
           ],
@@ -672,9 +534,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit."
           ],
@@ -682,9 +542,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another."
           ],
@@ -692,9 +550,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;"
           ],
@@ -702,9 +558,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "and that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;"
           ],
@@ -712,9 +566,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "that ye may walk honestly toward them that are without, and that ye may have lack of nothing."
           ],
@@ -723,16 +575,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "The Coming of the Lord"
-          ],
+          "lines": ["The Coming of the Lord"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope."
           ],
@@ -740,9 +588,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."
           ],
@@ -750,9 +596,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep."
           ],
@@ -760,9 +604,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:"
           ],
@@ -770,9 +612,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
           ],
@@ -780,12 +620,8 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
-          "lines": [
-            "Wherefore comfort one another with these words."
-          ],
+          "verse_numbers": [18],
+          "lines": ["Wherefore comfort one another with these words."],
           "rlw_lines": []
         }
       ]
@@ -794,24 +630,18 @@
       "chapter_usfm": "1TH.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1TH.5"
-        ],
+        "usfm": ["1TH.5"],
         "human": "1 Thessalonians 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2TH.1"
-        ],
+        "usfm": ["2TH.1"],
         "human": "2 Thessalonians 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1TH.4"
-        ],
+        "usfm": ["1TH.4"],
         "human": "1 Thessalonians 4",
         "toc": true
       },
@@ -820,9 +650,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "But of the times and the seasons, brethren, ye have no need that I write unto you."
           ],
@@ -830,9 +658,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night."
           ],
@@ -840,9 +666,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape."
           ],
@@ -850,9 +674,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "But ye, brethren, are not in darkness, that that day should overtake you as a thief."
           ],
@@ -860,9 +682,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness."
           ],
@@ -870,9 +690,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Therefore let us not sleep, as do others; but let us watch and be sober."
           ],
@@ -880,9 +698,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "For they that sleep, sleep in the night; and they that be drunken are drunken in the night."
           ],
@@ -890,9 +706,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
           ],
@@ -900,9 +714,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
           ],
@@ -910,9 +722,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "who died for us, that, whether we wake or sleep, we should live together with him."
           ],
@@ -920,9 +730,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Wherefore comfort yourselves together, and edify one another, even as also ye do."
           ],
@@ -931,16 +739,12 @@
         {
           "type": "heading2",
           "verse_numbers": [],
-          "lines": [
-            "Be at Peace"
-          ],
+          "lines": ["Be at Peace"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
           ],
@@ -948,9 +752,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "and to esteem them very highly in love for their work's sake. And be at peace among yourselves."
           ],
@@ -958,9 +760,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men."
           ],
@@ -968,9 +768,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men."
           ],
@@ -978,29 +776,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
-          "lines": [
-            "Rejoice evermore."
-          ],
+          "verse_numbers": [16],
+          "lines": ["Rejoice evermore."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
-          "lines": [
-            "Pray without ceasing."
-          ],
+          "verse_numbers": [17],
+          "lines": ["Pray without ceasing."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
           ],
@@ -1008,49 +796,31 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
-          "lines": [
-            "Quench not the Spirit."
-          ],
+          "verse_numbers": [19],
+          "lines": ["Quench not the Spirit."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
-          "lines": [
-            "Despise not prophesyings."
-          ],
+          "verse_numbers": [20],
+          "lines": ["Despise not prophesyings."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "Prove all things; hold fast that which is good."
-          ],
+          "verse_numbers": [21],
+          "lines": ["Prove all things; hold fast that which is good."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
-          "lines": [
-            "Abstain from all appearance of evil."
-          ],
+          "verse_numbers": [22],
+          "lines": ["Abstain from all appearance of evil."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
           ],
@@ -1058,39 +828,25 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "Faithful is he that calleth you, who also will do it."
-          ],
+          "verse_numbers": [24],
+          "lines": ["Faithful is he that calleth you, who also will do it."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
-          "lines": [
-            "Brethren, pray for us."
-          ],
+          "verse_numbers": [25],
+          "lines": ["Brethren, pray for us."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
-          "lines": [
-            "Greet all the brethren with an holy kiss."
-          ],
+          "verse_numbers": [26],
+          "lines": ["Greet all the brethren with an holy kiss."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "I charge you by the Lord that this epistle be read unto all the holy brethren."
           ],
@@ -1098,9 +854,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "The grace of our Lord Jesus Christ be with you. Amen.",
             "The first epistle unto the Thessalonians was written from Athens."

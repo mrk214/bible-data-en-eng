@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "NAM.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "NAM.INTRO1"
-        ],
+        "usfm": ["NAM.INTRO1"],
         "human": "Nahum Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NAM.1"
-        ],
+        "usfm": ["NAM.1"],
         "human": "Nahum 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "MIC.7"
-        ],
+        "usfm": ["MIC.7"],
         "human": "Micah 7",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "NAM.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NAM.1"
-        ],
+        "usfm": ["NAM.1"],
         "human": "Nahum 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NAM.2"
-        ],
+        "usfm": ["NAM.2"],
         "human": "Nahum 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "NAM.INTRO1"
-        ],
+        "usfm": ["NAM.INTRO1"],
         "human": "Nahum Intro",
         "toc": true
       },
@@ -79,9 +67,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "A prophecy concerning Nineveh. The book of the vision of Nahum the Elkoshite."
           ],
@@ -90,16 +76,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Lord’s Anger Against Nineveh"
-          ],
+          "lines": ["The Lord’s Anger Against Nineveh"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "The Lord is a jealous and avenging God;",
             "the Lord takes vengeance and is filled with wrath.",
@@ -110,9 +92,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "The Lord is slow to anger but great in power;",
             "the Lord will not leave the guilty unpunished.",
@@ -123,9 +103,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "He rebukes the sea and dries it up;",
             "he makes all the rivers run dry.",
@@ -136,9 +114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "The mountains quake before him",
             "and the hills melt away.",
@@ -149,9 +125,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Who can withstand his indignation?",
             "Who can endure his fierce anger?",
@@ -162,9 +136,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "The Lord is good,",
             "a refuge in times of trouble.",
@@ -174,9 +146,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "but with an overwhelming flood",
             "he will make an end of Nineveh;",
@@ -186,9 +156,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Whatever they plot against the Lord",
             "he will bring to an end;",
@@ -198,9 +166,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "They will be entangled among thorns",
             "and drunk from their wine;",
@@ -210,9 +176,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "From you, Nineveh, has one come forth",
             "who plots evil against the Lord",
@@ -222,9 +186,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "This is what the Lord says:",
             "“Although they have allies and are numerous,",
@@ -236,9 +198,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Now I will break their yoke from your neck",
             "and tear your shackles away.”"
@@ -247,9 +207,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "The Lord has given a command concerning you, Nineveh:",
             "“You will have no descendants to bear your name.",
@@ -262,9 +220,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Look, there on the mountains,",
             "the feet of one who brings good news,",
@@ -282,24 +238,18 @@
       "chapter_usfm": "NAM.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NAM.2"
-        ],
+        "usfm": ["NAM.2"],
         "human": "Nahum 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "NAM.3"
-        ],
+        "usfm": ["NAM.3"],
         "human": "Nahum 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NAM.1"
-        ],
+        "usfm": ["NAM.1"],
         "human": "Nahum 1",
         "toc": true
       },
@@ -309,16 +259,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Nineveh to Fall"
-          ],
+          "lines": ["Nineveh to Fall"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "An attacker advances against you, Nineveh.",
             "Guard the fortress,",
@@ -330,9 +276,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "The Lord will restore the splendor of Jacob",
             "like the splendor of Israel,",
@@ -343,9 +287,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "The shields of the soldiers are red;",
             "the warriors are clad in scarlet.",
@@ -357,9 +299,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "The chariots storm through the streets,",
             "rushing back and forth through the squares.",
@@ -370,9 +310,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Nineveh summons her picked troops,",
             "yet they stumble on their way.",
@@ -383,9 +321,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "The river gates are thrown open",
             "and the palace collapses."
@@ -394,9 +330,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "It is decreed that Nineveh",
             "be exiled and carried away.",
@@ -407,9 +341,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Nineveh is like a pool",
             "whose water is draining away.",
@@ -420,9 +352,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Plunder the silver!",
             "Plunder the gold!",
@@ -433,9 +363,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "She is pillaged, plundered, stripped!",
             "Hearts melt, knees give way,",
@@ -445,9 +373,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Where now is the lions’ den,",
             "the place where they fed their young,",
@@ -458,9 +384,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "The lion killed enough for his cubs",
             "and strangled the prey for his mate,",
@@ -471,9 +395,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "“I am against you,”",
             "declares the Lord Almighty.",
@@ -491,24 +413,18 @@
       "chapter_usfm": "NAM.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "NAM.3"
-        ],
+        "usfm": ["NAM.3"],
         "human": "Nahum 3"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "HAB.INTRO1"
-        ],
+        "usfm": ["HAB.INTRO1"],
         "human": "Habakkuk Intro",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "NAM.2"
-        ],
+        "usfm": ["NAM.2"],
         "human": "Nahum 2",
         "toc": true
       },
@@ -518,16 +434,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Woe to Nineveh"
-          ],
+          "lines": ["Woe to Nineveh"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Woe to the city of blood,",
             "full of lies,",
@@ -538,9 +450,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "The crack of whips,",
             "the clatter of wheels,",
@@ -551,9 +461,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Charging cavalry,",
             "flashing swords",
@@ -567,9 +475,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "all because of the wanton lust of a prostitute,",
             "alluring, the mistress of sorceries,",
@@ -580,9 +486,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "“I am against you,” declares the Lord Almighty.",
             "“I will lift your skirts over your face.",
@@ -593,9 +497,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "I will pelt you with filth,",
             "I will treat you with contempt",
@@ -605,9 +507,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "All who see you will flee from you and say,",
             "‘Nineveh is in ruins—who will mourn for her?’",
@@ -617,9 +517,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Are you better than Thebes,",
             "situated on the Nile,",
@@ -631,9 +529,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Cush and Egypt were her boundless strength;",
             "Put and Libya were among her allies."
@@ -642,9 +538,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Yet she was taken captive",
             "and went into exile.",
@@ -657,9 +551,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "You too will become drunk;",
             "you will go into hiding",
@@ -669,9 +561,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "All your fortresses are like fig trees",
             "with their first ripe fruit;",
@@ -682,9 +572,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Look at your troops—",
             "they are all weaklings.",
@@ -696,9 +584,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Draw water for the siege,",
             "strengthen your defenses!",
@@ -710,9 +596,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "There the fire will consume you;",
             "the sword will cut you down—",
@@ -724,9 +608,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "You have increased the number of your merchants",
             "till they are more numerous than the stars in the sky,",
@@ -737,9 +619,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Your guards are like locusts,",
             "your officials like swarms of locusts",
@@ -751,9 +631,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "King of Assyria, your shepherds slumber;",
             "your nobles lie down to rest.",
@@ -764,9 +642,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Nothing can heal you;",
             "your wound is fatal.",

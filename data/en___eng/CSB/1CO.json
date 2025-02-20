@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "1CO.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.1"
-        ],
+        "usfm": ["1CO.1"],
         "human": "1 Corinthians 1"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.2"
-        ],
+        "usfm": ["1CO.2"],
         "human": "1 Corinthians 2",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "ROM.16"
-        ],
+        "usfm": ["ROM.16"],
         "human": "Romans 16",
         "toc": true
       },
@@ -51,16 +45,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Greeting"
-          ],
+          "lines": ["Greeting"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Paul, called as an apostle of Christ Jesus by God’s will, and Sosthenes our brother:"
           ],
@@ -68,9 +58,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "To the church of God at Corinth, to those sanctified in Christ Jesus, called as saints, with all those in every place who call on the name of Jesus Christ our Lord #— #both their Lord and ours."
           ],
@@ -78,9 +66,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Grace to you and peace from God our Father and the Lord Jesus Christ."
           ],
@@ -89,16 +75,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Thanksgiving"
-          ],
+          "lines": ["Thanksgiving"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "I always thank my God for you because of the grace of God given to you in Christ Jesus,"
           ],
@@ -106,9 +88,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "that you were enriched in him in every way, in all speech and all knowledge."
           ],
@@ -116,9 +96,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "In this way, the testimony about Christ was confirmed among you,"
           ],
@@ -126,9 +104,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "so that you do not lack any spiritual gift as you eagerly wait for the revelation of our Lord Jesus Christ."
           ],
@@ -136,9 +112,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "He will also strengthen you to the end, so that you will be blameless in the day of our Lord Jesus Christ."
           ],
@@ -146,9 +120,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "God is faithful; you were called by him into fellowship with his Son, Jesus Christ our Lord."
           ],
@@ -157,16 +129,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Divisions at Corinth"
-          ],
+          "lines": ["Divisions at Corinth"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Now I urge you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree in what you say, that there be no divisions among you, and that you be united with the same understanding and the same conviction."
           ],
@@ -174,9 +142,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "For it has been reported to me about you, my brothers and sisters, by members of Chloe’s people, that there is rivalry among you."
           ],
@@ -184,9 +150,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "What I am saying is this: One of you says, “I belong to Paul,” or “I belong to Apollos,” or “I belong to Cephas,” or “I belong to Christ.”"
           ],
@@ -194,9 +158,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Is Christ divided? Was Paul crucified for you? Or were you baptized in Paul’s name?"
           ],
@@ -204,9 +166,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "I thank God , that I baptized none of you except Crispus and Gaius,"
           ],
@@ -214,19 +174,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
-          "lines": [
-            "so that no one can say you were baptized in my name."
-          ],
+          "verse_numbers": [15],
+          "lines": ["so that no one can say you were baptized in my name."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "I did, in fact, baptize the household of Stephanas; beyond that, I don’t recall if I baptized anyone else."
           ],
@@ -234,9 +188,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "For Christ did not send me to baptize, but to preach the gospel #— #not with eloquent wisdom, so that the cross of Christ will not be emptied of its effect."
           ],
@@ -245,16 +197,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Christ the Power and Wisdom of God"
-          ],
+          "lines": ["Christ the Power and Wisdom of God"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "For the word of the cross is foolishness to those who are perishing, but it is the power of God to us who are being saved."
           ],
@@ -262,9 +210,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "For it is written,",
             "I will destroy the wisdom of the wise,",
@@ -274,9 +220,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Where is the one who is wise? Where is the teacher of the law? Where is the debater of this age? Hasn’t God made the world’s wisdom foolish?"
           ],
@@ -284,9 +228,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For since, in God’s wisdom, the world did not know God through wisdom, God was pleased to save those who believe through the foolishness of what is preached."
           ],
@@ -294,19 +236,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
-          "lines": [
-            "For the Jews ask for signs and the Greeks seek wisdom,"
-          ],
+          "verse_numbers": [22],
+          "lines": ["For the Jews ask for signs and the Greeks seek wisdom,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "but we preach Christ crucified, a stumbling block to the Jews and foolishness to the Gentiles."
           ],
@@ -314,9 +250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Yet to those who are called, both Jews and Greeks, Christ is the power of God and the wisdom of God,"
           ],
@@ -324,9 +258,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "because God’s foolishness is wiser than human wisdom, and God’s weakness is stronger than human strength."
           ],
@@ -335,16 +267,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Boasting Only in the Lord"
-          ],
+          "lines": ["Boasting Only in the Lord"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "Brothers and sisters, consider your calling: Not many were wise from a human perspective, not many powerful, not many of noble birth."
           ],
@@ -352,9 +280,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Instead, God has chosen what is foolish in the world to shame the wise, and God has chosen what is weak in the world to shame the strong."
           ],
@@ -362,9 +288,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "God has chosen what is insignificant and despised in the world #— #what is viewed as nothing #— #to bring to nothing what is viewed as something,"
           ],
@@ -372,19 +296,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
-          "lines": [
-            "so that no one may boast in his presence."
-          ],
+          "verse_numbers": [29],
+          "lines": ["so that no one may boast in his presence."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "It is from him that you are in Christ Jesus, who became wisdom from God for us #— #our righteousness, sanctification, and redemption #— #"
           ],
@@ -392,9 +310,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "in order that, as it is written: Let the one who boasts, boast in the Lord. ,"
           ],
@@ -406,24 +322,18 @@
       "chapter_usfm": "1CO.2",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.2"
-        ],
+        "usfm": ["1CO.2"],
         "human": "1 Corinthians 2"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.3"
-        ],
+        "usfm": ["1CO.3"],
         "human": "1 Corinthians 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.1"
-        ],
+        "usfm": ["1CO.1"],
         "human": "1 Corinthians 1",
         "toc": true
       },
@@ -433,16 +343,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Paul’s Proclamation"
-          ],
+          "lines": ["Paul’s Proclamation"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "When I came to you, brothers and sisters, announcing the mystery of God to you, I did not come with brilliance of speech or wisdom."
           ],
@@ -450,9 +356,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "I decided to know nothing among you except Jesus Christ and him crucified."
           ],
@@ -460,9 +364,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "I came to you in weakness, in fear, and in much trembling."
           ],
@@ -470,9 +372,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "My speech and my preaching were not with persuasive words of wisdom but with a demonstration of the Spirit’s power,"
           ],
@@ -480,9 +380,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "so that your faith might not be based on human wisdom but on God’s power."
           ],
@@ -491,16 +389,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Spiritual Wisdom"
-          ],
+          "lines": ["Spiritual Wisdom"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "We do, however, speak a wisdom among the mature, but not a wisdom of this age, or of the rulers of this age, who are coming to nothing."
           ],
@@ -508,9 +402,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "On the contrary, we speak God’s hidden wisdom in a mystery, a wisdom God predestined before the ages for our glory."
           ],
@@ -518,9 +410,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "None of the rulers of this age knew this wisdom, because if they had known it, they would not have crucified the Lord of glory."
           ],
@@ -528,9 +418,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "But as it is written,",
             "What no eye has seen, no ear has heard,",
@@ -541,9 +429,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Now God has revealed these things to us by the Spirit, since the Spirit searches everything, even the depths of God."
           ],
@@ -551,9 +437,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "For who knows a person’s thoughts except his spirit within him? In the same way, no one knows the thoughts of God except the Spirit of God."
           ],
@@ -561,9 +445,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Now we have not received the spirit of the world, but the Spirit who comes from God, so that we may understand what has been freely given to us by God."
           ],
@@ -571,9 +453,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "We also speak these things, not in words taught by human wisdom, but in those taught by the Spirit, explaining spiritual things to spiritual people."
           ],
@@ -581,9 +461,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "But the person without the Spirit does not receive what comes from God’s Spirit, because it is foolishness to him; he is not able to understand it since it is evaluated spiritually."
           ],
@@ -591,9 +469,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "The spiritual person, however, can evaluate everything, and yet he himself cannot be evaluated by anyone."
           ],
@@ -601,9 +477,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For",
             "who has known the Lord’s mind,",
@@ -618,24 +492,18 @@
       "chapter_usfm": "1CO.3",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.3"
-        ],
+        "usfm": ["1CO.3"],
         "human": "1 Corinthians 3"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.4"
-        ],
+        "usfm": ["1CO.4"],
         "human": "1 Corinthians 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.2"
-        ],
+        "usfm": ["1CO.2"],
         "human": "1 Corinthians 2",
         "toc": true
       },
@@ -645,16 +513,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Problem of Immaturity"
-          ],
+          "lines": ["The Problem of Immaturity"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "For my part, brothers and sisters, I was not able to speak to you as spiritual people but as people of the flesh, as babies in Christ."
           ],
@@ -662,9 +526,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "I gave you milk to drink, not solid food, since you were not yet ready for it. In fact, you are still not ready,"
           ],
@@ -672,9 +534,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "because you are still worldly. For since there is envy and strife , among you, are you not worldly and behaving like mere humans?"
           ],
@@ -682,9 +542,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "For whenever someone says, “I belong to Paul,” and another, “I belong to Apollos,” are you not acting like mere humans?"
           ],
@@ -693,16 +551,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Role of God’s Servants"
-          ],
+          "lines": ["The Role of God’s Servants"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "What then is Apollos? What is Paul? They are servants through whom you believed, and each has the role the Lord has given."
           ],
@@ -710,19 +564,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "I planted, Apollos watered, but God gave the growth."
-          ],
+          "verse_numbers": [6],
+          "lines": ["I planted, Apollos watered, but God gave the growth."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "So, then, neither the one who plants nor the one who waters is anything, but only God who gives the growth."
           ],
@@ -730,9 +578,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Now he who plants and he who waters are one, and each will receive his own reward according to his own labor."
           ],
@@ -740,9 +586,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For we are God’s coworkers. You are God’s field, God’s building."
           ],
@@ -750,9 +594,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "According to God’s grace that was given to me, I have laid a foundation as a skilled master builder, and another builds on it. But each one is to be careful how he builds on it."
           ],
@@ -760,9 +602,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "For no one can lay any foundation other than what has been laid down. That foundation is Jesus Christ."
           ],
@@ -770,9 +610,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "If anyone builds on the foundation with gold, silver, costly stones, wood, hay, or straw,"
           ],
@@ -780,9 +618,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "each one’s work will become obvious. For the day will disclose it, because it will be revealed by fire; the fire will test the quality of each one’s work."
           ],
@@ -790,9 +626,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "If anyone’s work that he has built survives, he will receive a reward."
           ],
@@ -800,9 +634,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "If anyone’s work is burned up, he will experience loss, but he himself will be saved #— #but only as through fire."
           ],
@@ -810,9 +642,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Don’t you yourselves know that you are God’s temple and that the Spirit of God lives in you?"
           ],
@@ -820,9 +650,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and that is what you are."
           ],
@@ -831,16 +659,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Folly of Human Wisdom"
-          ],
+          "lines": ["The Folly of Human Wisdom"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Let no one deceive himself. If anyone among you thinks he is wise in this age, let him become a fool so that he can become wise."
           ],
@@ -848,9 +672,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "For the wisdom of this world is foolishness with God, since it is written, He catches the wise in their craftiness; ,"
           ],
@@ -858,9 +680,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "and again, The Lord knows that the reasonings of the wise are futile. ,"
           ],
@@ -868,9 +688,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "So let no one boast in human leaders, for everything is yours #— #"
           ],
@@ -878,9 +696,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "whether Paul or Apollos or Cephas or the world or life or death or things present or things to come #— #everything is yours,"
           ],
@@ -888,12 +704,8 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
-          "lines": [
-            "and you belong to Christ, and Christ belongs to God."
-          ],
+          "verse_numbers": [23],
+          "lines": ["and you belong to Christ, and Christ belongs to God."],
           "rlw_lines": []
         }
       ]
@@ -902,24 +714,18 @@
       "chapter_usfm": "1CO.4",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.4"
-        ],
+        "usfm": ["1CO.4"],
         "human": "1 Corinthians 4"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.5"
-        ],
+        "usfm": ["1CO.5"],
         "human": "1 Corinthians 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.3"
-        ],
+        "usfm": ["1CO.3"],
         "human": "1 Corinthians 3",
         "toc": true
       },
@@ -929,16 +735,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Faithful Manager"
-          ],
+          "lines": ["The Faithful Manager"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "A person should think of us in this way: as servants of Christ and managers of the mysteries of God."
           ],
@@ -946,9 +748,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "In this regard, it is required that managers be found faithful."
           ],
@@ -956,9 +756,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "It is of little importance to me that I should be judged by you or by any human court. In fact, I don’t even judge myself."
           ],
@@ -966,9 +764,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "For I am not conscious of anything against myself, but I am not justified by this. It is the Lord who judges me."
           ],
@@ -976,9 +772,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "So don’t judge anything prematurely, before the Lord comes, who will both bring to light what is hidden in darkness and reveal the intentions of the hearts. And then praise will come to each one from God."
           ],
@@ -987,16 +781,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Apostles’ Example of Humility"
-          ],
+          "lines": ["The Apostles’ Example of Humility"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Now, brothers and sisters, I have applied these things to myself and Apollos for your benefit, so that you may learn from us the meaning of the saying: “Nothing beyond what is written.” The purpose is that none of you will be arrogant, favoring one person over another."
           ],
@@ -1004,9 +794,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "For who makes you so superior? What do you have that you didn’t receive? If, in fact, you did receive it, why do you boast as if you hadn’t received it?"
           ],
@@ -1014,9 +802,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "You are already full! You are already rich! You have begun to reign as kings without us #— #and I wish you did reign, so that we could also reign with you!"
           ],
@@ -1024,9 +810,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For I think God has displayed us, the apostles, in last place, like men condemned to die: We have become a spectacle to the world, both to angels and to people."
           ],
@@ -1034,9 +818,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "We are fools for Christ, but you are wise in Christ! We are weak, but you are strong! You are distinguished, but we are dishonored!"
           ],
@@ -1044,9 +826,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Up to the present hour we are both hungry and thirsty; we are poorly clothed, roughly treated, homeless;"
           ],
@@ -1054,9 +834,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "we labor, working with our own hands. When we are reviled, we bless; when we are persecuted, we endure it;"
           ],
@@ -1064,9 +842,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "when we are slandered, we respond graciously. Even now, we are like the scum of the earth, like everyone’s garbage."
           ],
@@ -1075,16 +851,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Paul’s Fatherly Care"
-          ],
+          "lines": ["Paul’s Fatherly Care"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "I’m not writing this to shame you, but to warn you as my dear children."
           ],
@@ -1092,9 +864,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "For you may have countless instructors in Christ, but you don’t have many fathers. For I became your father in Christ Jesus through the gospel."
           ],
@@ -1102,19 +872,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
-          "lines": [
-            "Therefore I urge you to imitate me."
-          ],
+          "verse_numbers": [16],
+          "lines": ["Therefore I urge you to imitate me."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "This is why I have sent Timothy to you. He is my dearly loved and faithful child in the Lord. He will remind you about my ways in Christ Jesus, just as I teach everywhere in every church."
           ],
@@ -1122,9 +886,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Now some are arrogant, as though I were not coming to you."
           ],
@@ -1132,9 +894,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "But I will come to you soon, if the Lord wills, and I will find out not the talk, but the power of those who are arrogant."
           ],
@@ -1142,9 +902,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "For the kingdom of God is not a matter of talk but of power."
           ],
@@ -1152,9 +910,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "What do you want? Should I come to you with a rod, or in love and a spirit of gentleness?"
           ],
@@ -1166,24 +922,18 @@
       "chapter_usfm": "1CO.5",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.5"
-        ],
+        "usfm": ["1CO.5"],
         "human": "1 Corinthians 5"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.6"
-        ],
+        "usfm": ["1CO.6"],
         "human": "1 Corinthians 6",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.4"
-        ],
+        "usfm": ["1CO.4"],
         "human": "1 Corinthians 4",
         "toc": true
       },
@@ -1193,16 +943,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Immoral Church Members"
-          ],
+          "lines": ["Immoral Church Members"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "It is actually reported that there is sexual immorality among you, and the kind of sexual immorality that is not even tolerated among the Gentiles #— #a man is sleeping with his father’s wife."
           ],
@@ -1210,9 +956,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "And you are arrogant! Shouldn’t you be filled with grief and remove from your congregation the one who did this?"
           ],
@@ -1220,9 +964,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Even though I am absent in the body, I am present in spirit. As one who is present with you in this way, I have already pronounced judgment on the one who has been doing such a thing."
           ],
@@ -1230,9 +972,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "When you are assembled in the name of our Lord Jesus, and I am with you in spirit, with the power of our Lord Jesus,"
           ],
@@ -1240,9 +980,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "hand that one over to Satan for the destruction of the flesh, so that his spirit may be saved in the day of the Lord."
           ],
@@ -1250,9 +988,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Your boasting is not good. Don’t you know that a little leaven , leavens the whole batch of dough?"
           ],
@@ -1260,9 +996,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Clean out the old leaven so that you may be a new unleavened batch, as indeed you are. For Christ our Passover lamb has been sacrificed."
           ],
@@ -1270,9 +1004,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Therefore, let us observe the feast, not with old leaven or with the leaven of malice and evil, but with the unleavened bread of sincerity and truth."
           ],
@@ -1281,16 +1013,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Church Discipline"
-          ],
+          "lines": ["Church Discipline"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "I wrote to you in a letter not to associate with sexually immoral people."
           ],
@@ -1298,9 +1026,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "I did not mean the immoral people of this world or the greedy and swindlers or idolaters; otherwise you would have to leave the world."
           ],
@@ -1308,9 +1034,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "But actually, I wrote you not to associate with anyone who claims to be a brother or sister and is sexually immoral or greedy, an idolater or verbally abusive, a drunkard or a swindler. Do not even eat with such a person."
           ],
@@ -1318,9 +1042,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For what business is it of mine to judge outsiders? Don’t you judge those who are inside?"
           ],
@@ -1328,9 +1050,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "God judges outsiders. Remove the evil person from among you. ,"
           ],
@@ -1342,24 +1062,18 @@
       "chapter_usfm": "1CO.6",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.6"
-        ],
+        "usfm": ["1CO.6"],
         "human": "1 Corinthians 6"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.7"
-        ],
+        "usfm": ["1CO.7"],
         "human": "1 Corinthians 7",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.5"
-        ],
+        "usfm": ["1CO.5"],
         "human": "1 Corinthians 5",
         "toc": true
       },
@@ -1369,16 +1083,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Lawsuits among Believers"
-          ],
+          "lines": ["Lawsuits among Believers"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "If any of you has a dispute against another, how dare you take it to court before the unrighteous, and not before the saints?"
           ],
@@ -1386,9 +1096,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Or don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the trivial cases?"
           ],
@@ -1396,9 +1104,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Don’t you know that we will judge angels #— #how much more matters of this life?"
           ],
@@ -1406,9 +1112,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "So if you have such matters, do you appoint as your judges those who have no standing in the church?"
           ],
@@ -1416,9 +1120,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "I say this to your shame! Can it be that there is not one wise person among you who is able to arbitrate between fellow believers?"
           ],
@@ -1426,9 +1128,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Instead, brother goes to court against brother, and that before unbelievers!"
           ],
@@ -1436,9 +1136,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "As it is, to have legal disputes against one another is already a defeat for you. Why not rather be wronged? Why not rather be cheated?"
           ],
@@ -1446,9 +1144,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Instead, you yourselves do wrong and cheat #— #and you do this to brothers and sisters!"
           ],
@@ -1456,9 +1152,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Don’t you know that the unrighteous will not inherit God’s kingdom? Do not be deceived: No sexually immoral people, idolaters, adulterers, or males who have sex with males, ,"
           ],
@@ -1466,9 +1160,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "no thieves, greedy people, drunkards, verbally abusive people, or swindlers will inherit God’s kingdom."
           ],
@@ -1476,9 +1168,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "And some of you used to be like this. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God."
           ],
@@ -1487,16 +1177,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Glorifying God in Body and Spirit"
-          ],
+          "lines": ["Glorifying God in Body and Spirit"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "“Everything is permissible for me,” but not everything is beneficial. “Everything is permissible for me,” but I will not be mastered by anything."
           ],
@@ -1504,9 +1190,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "“Food is for the stomach and the stomach for food,” and God will do away with both of them. However, the body is not for sexual immorality but for the Lord, and the Lord for the body."
           ],
@@ -1514,9 +1198,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "God raised up the Lord and will also raise us up by his power."
           ],
@@ -1524,9 +1206,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Don’t you know that your bodies are a part of Christ’s body? So should I take a part of Christ’s body and make it part of a prostitute? Absolutely not!"
           ],
@@ -1534,9 +1214,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Don’t you know that anyone joined to a prostitute is one body with her? For Scripture says, The two will become one flesh. ,"
           ],
@@ -1544,19 +1222,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
-          "lines": [
-            "But anyone joined to the Lord is one spirit with him."
-          ],
+          "verse_numbers": [17],
+          "lines": ["But anyone joined to the Lord is one spirit with him."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Flee sexual immorality! Every other sin a person commits is outside the body, but the person who is sexually immoral sins against his own body."
           ],
@@ -1564,9 +1236,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own,"
           ],
@@ -1574,9 +1244,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "for you were bought at a price. So glorify God with your body."
           ],
@@ -1588,24 +1256,18 @@
       "chapter_usfm": "1CO.7",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.7"
-        ],
+        "usfm": ["1CO.7"],
         "human": "1 Corinthians 7"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.8"
-        ],
+        "usfm": ["1CO.8"],
         "human": "1 Corinthians 8",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.6"
-        ],
+        "usfm": ["1CO.6"],
         "human": "1 Corinthians 6",
         "toc": true
       },
@@ -1615,16 +1277,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Principles of Marriage"
-          ],
+          "lines": ["Principles of Marriage"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now in response to the matters you wrote about: “It is good for a man not to have sexual relations with a woman.”"
           ],
@@ -1632,9 +1290,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "But because sexual immorality is so common, , each man should have sexual relations with his own wife, and each woman should have sexual relations with her own husband."
           ],
@@ -1642,9 +1298,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "A husband should fulfill his marital duty to his wife, and likewise a wife to her husband."
           ],
@@ -1652,9 +1306,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "A wife does not have the right over her own body, but her husband does. In the same way, a husband does not have the right over his own body, but his wife does."
           ],
@@ -1662,9 +1314,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Do not deprive one another #— #except when you agree for a time, to devote yourselves to prayer. Then come together again; otherwise, Satan may tempt you because of your lack of self-control."
           ],
@@ -1672,19 +1322,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
-          "lines": [
-            "I say this as a concession, not as a command."
-          ],
+          "verse_numbers": [6],
+          "lines": ["I say this as a concession, not as a command."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "I wish that all people were as I am. But each has his own gift from God, one person has this gift, another has that."
           ],
@@ -1693,16 +1337,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "A Word to the Unmarried"
-          ],
+          "lines": ["A Word to the Unmarried"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "I say to the unmarried and to widows: It is good for them if they remain as I am."
           ],
@@ -1710,9 +1350,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "But if they do not have self-control, they should marry, since it is better to marry than to burn with desire."
           ],
@@ -1721,16 +1359,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "About Married People"
-          ],
+          "lines": ["About Married People"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "To the married I give this command #— #not I, but the Lord #— #a wife is not to leave her husband."
           ],
@@ -1738,9 +1372,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "But if she does leave, she must remain unmarried or be reconciled to her husband #— #and a husband is not to divorce his wife."
           ],
@@ -1748,9 +1380,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "But I (not the Lord) say to the rest: If any brother has an unbelieving wife and she is willing to live with him, he must not divorce her."
           ],
@@ -1758,9 +1388,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Also, if any woman has an unbelieving husband and he is willing to live with her, she must not divorce her husband."
           ],
@@ -1768,9 +1396,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For the unbelieving husband is made holy by the wife, and the unbelieving wife is made holy by the husband. Otherwise your children would be unclean, but as it is they are holy."
           ],
@@ -1778,9 +1404,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "But if the unbeliever leaves, let him leave. A brother or a sister is not bound in such cases. God has called you to live in peace."
           ],
@@ -1788,9 +1412,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Wife, for all you know, you might save your husband. Husband, for all you know, you might save your wife."
           ],
@@ -1799,16 +1421,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Various Situations of Life"
-          ],
+          "lines": ["Various Situations of Life"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Let each one live his life in the situation the Lord assigned when God called him. This is what I command in all the churches."
           ],
@@ -1816,9 +1434,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Was anyone already circumcised when he was called? He should not undo his circumcision. Was anyone called while uncircumcised? He should not get circumcised."
           ],
@@ -1826,9 +1442,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Circumcision does not matter and uncircumcision does not matter. Keeping God’s commands is what matters."
           ],
@@ -1836,9 +1450,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Let each of you remain in the situation in which he was called."
           ],
@@ -1846,9 +1458,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "Were you called while a slave? Don’t let it concern you. But if you can become free, by all means take the opportunity."
           ],
@@ -1856,9 +1466,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "For he who is called by the Lord as a slave is the Lord’s freedman. Likewise he who is called as a free man is Christ’s slave."
           ],
@@ -1866,9 +1474,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "You were bought at a price; do not become slaves of people."
           ],
@@ -1876,9 +1482,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Brothers and sisters, each person is to remain with God in the situation in which he was called."
           ],
@@ -1887,16 +1491,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "About the Unmarried and Widows"
-          ],
+          "lines": ["About the Unmarried and Widows"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Now about virgins: I have no command from the Lord, but I do give an opinion as one who by the Lord’s mercy is faithful."
           ],
@@ -1904,9 +1504,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "Because of the present distress, I think that it is good for a man to remain as he is."
           ],
@@ -1914,9 +1512,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Are you bound to a wife? Do not seek to be released. Are you released from a wife? Do not seek a wife."
           ],
@@ -1924,9 +1520,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "However, if you do get married, you have not sinned, and if a virgin marries, she has not sinned. But such people will have trouble in this life, and I am trying to spare you."
           ],
@@ -1934,9 +1528,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "This is what I mean, brothers and sisters: The time is limited, so from now on those who have wives should be as though they had none,"
           ],
@@ -1944,9 +1536,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "those who weep as though they did not weep, those who rejoice as though they did not rejoice, those who buy as though they didn’t own anything,"
           ],
@@ -1954,9 +1544,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "and those who use the world as though they did not make full use of it. For this world in its current form is passing away."
           ],
@@ -1964,9 +1552,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "I want you to be without concerns. The unmarried man is concerned about the things of the Lord #— #how he may please the Lord."
           ],
@@ -1974,9 +1560,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
+          "verse_numbers": [33],
           "lines": [
             "But the married man is concerned about the things of the world #— #how he may please his wife #— #"
           ],
@@ -1984,9 +1568,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
+          "verse_numbers": [34],
           "lines": [
             "and his interests are divided. The unmarried woman or virgin is concerned about the things of the Lord, so that she may be holy both in body and in spirit. But the married woman is concerned about the things of the world #— #how she may please her husband."
           ],
@@ -1994,9 +1576,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
+          "verse_numbers": [35],
           "lines": [
             "I am saying this for your own benefit, not to put a restraint on you, but to promote what is proper and so that you may be devoted to the Lord without distraction."
           ],
@@ -2004,9 +1584,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "If any man thinks he is acting improperly toward the virgin he is engaged to, if she is getting beyond the usual age for marriage, and he feels he should marry #— #he can do what he wants. He is not sinning; they can get married."
           ],
@@ -2014,9 +1592,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
+          "verse_numbers": [37],
           "lines": [
             "But he who stands firm in his heart (who is under no compulsion, but has control over his own will ) and has decided in his heart to keep her as his fiancée, will do well."
           ],
@@ -2024,9 +1600,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
+          "verse_numbers": [38],
           "lines": [
             "So, then, he who marries his fiancée does well, but he who does not marry will do better."
           ],
@@ -2034,9 +1608,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            39
-          ],
+          "verse_numbers": [39],
           "lines": [
             "A wife is bound as long as her husband is living. But if her husband dies, she is free to be married to anyone she wants #— #only in the Lord."
           ],
@@ -2044,9 +1616,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            40
-          ],
+          "verse_numbers": [40],
           "lines": [
             "But she is happier if she remains as she is, in my opinion. And I think that I also have the Spirit of God."
           ],
@@ -2058,24 +1628,18 @@
       "chapter_usfm": "1CO.8",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.8"
-        ],
+        "usfm": ["1CO.8"],
         "human": "1 Corinthians 8"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.9"
-        ],
+        "usfm": ["1CO.9"],
         "human": "1 Corinthians 9",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.7"
-        ],
+        "usfm": ["1CO.7"],
         "human": "1 Corinthians 7",
         "toc": true
       },
@@ -2085,16 +1649,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Food Offered to Idols"
-          ],
+          "lines": ["Food Offered to Idols"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now about food sacrificed to idols: We know that “we all have knowledge.” Knowledge puffs up, but love builds up."
           ],
@@ -2102,9 +1662,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "If anyone thinks he knows anything, he does not yet know it as he ought to know it."
           ],
@@ -2112,19 +1670,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
-          "lines": [
-            "But if anyone loves God, he is known by him."
-          ],
+          "verse_numbers": [3],
+          "lines": ["But if anyone loves God, he is known by him."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "About eating food sacrificed to idols, then, we know that “an idol is nothing in the world,” and that “there is no God but one.”"
           ],
@@ -2132,9 +1684,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "For even if there are so-called gods, whether in heaven or on earth #— #as there are many “gods” and many “lords” #— #"
           ],
@@ -2142,9 +1692,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "yet for us there is one God, the Father. All things are from him, and we exist for him. And there is one Lord, Jesus Christ. All things are through him, and we exist through him."
           ],
@@ -2152,9 +1700,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "However, not everyone has this knowledge. Some have been so used to idolatry up until now that when they eat food sacrificed to an idol, their conscience, being weak, is defiled."
           ],
@@ -2162,9 +1708,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Food will not bring us close to God. We are not worse off if we don’t eat, and we are not better if we do eat."
           ],
@@ -2172,9 +1716,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "But be careful that this right of yours in no way becomes a stumbling block to the weak."
           ],
@@ -2182,9 +1724,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "For if someone sees you, the one who has knowledge, dining in an idol’s temple, won’t his weak conscience be encouraged to eat food offered to idols?"
           ],
@@ -2192,9 +1732,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "So the weak person, the brother or sister for whom Christ died, is ruined , by your knowledge."
           ],
@@ -2202,9 +1740,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Now when you sin like this against brothers and sisters and wound their weak conscience, you are sinning against Christ."
           ],
@@ -2212,9 +1748,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Therefore, if food causes my brother or sister to fall, I will never again eat meat, so that I won’t cause my brother or sister to fall."
           ],
@@ -2226,24 +1760,18 @@
       "chapter_usfm": "1CO.9",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.9"
-        ],
+        "usfm": ["1CO.9"],
         "human": "1 Corinthians 9"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.10"
-        ],
+        "usfm": ["1CO.10"],
         "human": "1 Corinthians 10",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.8"
-        ],
+        "usfm": ["1CO.8"],
         "human": "1 Corinthians 8",
         "toc": true
       },
@@ -2253,16 +1781,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Paul’s Example as an Apostle"
-          ],
+          "lines": ["Paul’s Example as an Apostle"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?"
           ],
@@ -2270,9 +1794,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "If I am not an apostle to others, at least I am to you, because you are the seal of my apostleship in the Lord."
           ],
@@ -2280,29 +1802,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
-          "lines": [
-            "My defense to those who examine me is this:"
-          ],
+          "verse_numbers": [3],
+          "lines": ["My defense to those who examine me is this:"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "Don’t we have the right to eat and drink?"
-          ],
+          "verse_numbers": [4],
+          "lines": ["Don’t we have the right to eat and drink?"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Don’t we have the right to be accompanied by a believing wife like the other apostles, the Lord’s brothers, and Cephas?"
           ],
@@ -2310,9 +1822,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Or do only Barnabas and I have no right to refrain from working?"
           ],
@@ -2320,9 +1830,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Who serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? Or who shepherds a flock and does not drink the milk from the flock?"
           ],
@@ -2330,9 +1838,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Am I saying this from a human perspective? Doesn’t the law also say the same thing?"
           ],
@@ -2340,9 +1846,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For it is written in the law of Moses, Do not muzzle an ox while it treads out grain. , Is God really concerned about oxen?"
           ],
@@ -2350,9 +1854,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "Isn’t he really saying it for our sake? Yes, this is written for our sake, because he who plows ought to plow in hope, and he who threshes should thresh in hope of sharing the crop."
           ],
@@ -2360,9 +1862,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "If we have sown spiritual things for you, is it too much if we reap material benefits from you?"
           ],
@@ -2370,9 +1870,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "If others have this right to receive benefits from you, don’t we even more? Nevertheless, we have not made use of this right; instead, we endure everything so that we will not hinder the gospel of Christ."
           ],
@@ -2380,9 +1878,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Don’t you know that those who perform the temple services eat the food from the temple, and those who serve at the altar share in the offerings of the altar?"
           ],
@@ -2390,9 +1886,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "In the same way, the Lord has commanded that those who preach the gospel should earn their living by the gospel."
           ],
@@ -2400,9 +1894,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "For my part I have used none of these rights, nor have I written these things that they may be applied in my case. For it would be better for me to die than for anyone to deprive me of my boast!"
           ],
@@ -2410,9 +1902,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For if I preach the gospel, I have no reason to boast, because I am compelled to preach #— #and woe to me if I do not preach the gospel!"
           ],
@@ -2420,9 +1910,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "For if I do this willingly, I have a reward, but if unwillingly, I am entrusted with a commission."
           ],
@@ -2430,9 +1918,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "What then is my reward? To preach the gospel and offer it free of charge and not make full use of my rights in the gospel."
           ],
@@ -2440,9 +1926,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Although I am free from all and not anyone’s slave, I have made myself a slave to everyone, in order to win more people."
           ],
@@ -2450,9 +1934,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "To the Jews I became like a Jew, to win Jews; to those under the law, like one under the law #— #though I myself am not under the law #— #to win those under the law."
           ],
@@ -2460,9 +1942,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "To those who are without the law, like one without the law #— #though I am not without God’s law but under the law of Christ #— #to win those without the law."
           ],
@@ -2470,9 +1950,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "To the weak I became weak, in order to win the weak. I have become all things to all people, so that I may by every possible means save some."
           ],
@@ -2480,9 +1958,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "Now I do all this because of the gospel, so that I may share in the blessings."
           ],
@@ -2490,9 +1966,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Don’t you know that the runners in a stadium all race, but only one receives the prize? Run in such a way to win the prize."
           ],
@@ -2500,9 +1974,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Now everyone who competes exercises self-control in everything. They do it to receive a perishable crown, but we an imperishable crown."
           ],
@@ -2510,9 +1982,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "So I do not run like one who runs aimlessly or box like one beating the air."
           ],
@@ -2520,9 +1990,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Instead, I discipline my body and bring it under strict control, so that after preaching to others, I myself will not be disqualified."
           ],
@@ -2534,24 +2002,18 @@
       "chapter_usfm": "1CO.10",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.10"
-        ],
+        "usfm": ["1CO.10"],
         "human": "1 Corinthians 10"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.11"
-        ],
+        "usfm": ["1CO.11"],
         "human": "1 Corinthians 11",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.9"
-        ],
+        "usfm": ["1CO.9"],
         "human": "1 Corinthians 9",
         "toc": true
       },
@@ -2561,16 +2023,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Warnings from Israel’s Past"
-          ],
+          "lines": ["Warnings from Israel’s Past"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now I do not want you to be unaware, brothers and sisters, that our ancestors were all under the cloud, all passed through the sea,"
           ],
@@ -2578,9 +2036,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "and all were baptized into Moses in the cloud and in the sea."
           ],
@@ -2588,19 +2044,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
-          "lines": [
-            "They all ate the same spiritual food,"
-          ],
+          "verse_numbers": [3],
+          "lines": ["They all ate the same spiritual food,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "and all drank the same spiritual drink. For they drank from the spiritual rock that followed them, and that rock was Christ."
           ],
@@ -2608,9 +2058,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Nevertheless God was not pleased with most of them, since they were struck down in the wilderness."
           ],
@@ -2618,9 +2066,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Now these things took place as examples for us, so that we will not desire evil things as they did. ,"
           ],
@@ -2628,9 +2074,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Don’t become idolaters as some of them were; as it is written, The people sat down to eat and drink, and got up to party. ,,"
           ],
@@ -2638,9 +2082,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Let us not commit sexual immorality as some of them did, and in a single day twenty-three thousand people died."
           ],
@@ -2648,9 +2090,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Let us not test Christ as some of them did and were destroyed by snakes."
           ],
@@ -2658,9 +2098,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "And don’t grumble as some of them did, , and were killed by the destroyer. ,"
           ],
@@ -2668,9 +2106,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "These things happened to them as examples, and they were written for our instruction, on whom the ends of the ages , have come."
           ],
@@ -2678,9 +2114,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "So, whoever thinks he stands must be careful not to fall."
           ],
@@ -2688,9 +2122,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "No temptation has come upon you except what is common to humanity. But God is faithful; he will not allow you to be tempted beyond what you are able, but with the temptation he will also provide the way out so that you may be able to bear it."
           ],
@@ -2699,26 +2131,18 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Warning against Idolatry"
-          ],
+          "lines": ["Warning against Idolatry"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "So then, my dear friends, flee from idolatry."
-          ],
+          "verse_numbers": [14],
+          "lines": ["So then, my dear friends, flee from idolatry."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "I am speaking as to sensible people. Judge for yourselves what I am saying."
           ],
@@ -2726,9 +2150,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "The cup of blessing that we bless, is it not a sharing in the blood of Christ? The bread that we break, is it not a sharing in the body of Christ?"
           ],
@@ -2736,9 +2158,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Because there is one bread, we who are many are one body, since all of us share the one bread."
           ],
@@ -2746,9 +2166,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Consider the people of Israel. Do not those who eat the sacrifices participate in the altar?"
           ],
@@ -2756,9 +2174,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "What am I saying then? That food sacrificed to idols is anything, or that an idol is anything?"
           ],
@@ -2766,9 +2182,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "No, but I do say that what they sacrifice, they sacrifice to demons and not to God. I do not want you to be participants with demons!"
           ],
@@ -2776,9 +2190,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "You cannot drink the cup of the Lord and the cup of demons. You cannot share in the Lord’s table and the table of demons."
           ],
@@ -2786,9 +2198,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Or are we provoking the Lord to jealousy? Are we stronger than he?"
           ],
@@ -2797,16 +2207,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Christian Liberty"
-          ],
+          "lines": ["Christian Liberty"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "“Everything is permissible,” but not everything is beneficial. “Everything is permissible,” but not everything builds up."
           ],
@@ -2814,9 +2220,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "No one is to seek his own good, but the good of the other person."
           ],
@@ -2824,9 +2228,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "Eat everything that is sold in the meat market, without raising questions for the sake of conscience,"
           ],
@@ -2834,19 +2236,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
-          "lines": [
-            "since the earth is the Lord’s, and all that is in it. ,"
-          ],
+          "verse_numbers": [26],
+          "lines": ["since the earth is the Lord’s, and all that is in it. ,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "If any of the unbelievers invites you over and you want to go, eat everything that is set before you, without raising questions for the sake of conscience."
           ],
@@ -2854,9 +2250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "But if someone says to you, “This is food from a sacrifice,” do not eat it, out of consideration for the one who told you, and for the sake of conscience."
           ],
@@ -2864,9 +2258,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "I do not mean your own conscience, but the other person’s. For why is my freedom judged by another person’s conscience?"
           ],
@@ -2874,9 +2266,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "If I partake with thanksgiving, why am I criticized because of something for which I give thanks?"
           ],
@@ -2884,9 +2274,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "So, whether you eat or drink, or whatever you do, do everything for the glory of God."
           ],
@@ -2894,19 +2282,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
-          "lines": [
-            "Give no offense to Jews or Greeks or the church of God,"
-          ],
+          "verse_numbers": [32],
+          "lines": ["Give no offense to Jews or Greeks or the church of God,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
+          "verse_numbers": [33],
           "lines": [
             "just as I also try to please everyone in everything, not seeking my own benefit, but the benefit of many, so that they may be saved."
           ],
@@ -2918,24 +2300,18 @@
       "chapter_usfm": "1CO.11",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.11"
-        ],
+        "usfm": ["1CO.11"],
         "human": "1 Corinthians 11"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.12"
-        ],
+        "usfm": ["1CO.12"],
         "human": "1 Corinthians 12",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.10"
-        ],
+        "usfm": ["1CO.10"],
         "human": "1 Corinthians 10",
         "toc": true
       },
@@ -2944,27 +2320,19 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
-          "lines": [
-            "Imitate me, as I also imitate Christ."
-          ],
+          "verse_numbers": [1],
+          "lines": ["Imitate me, as I also imitate Christ."],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Instructions about Head Coverings"
-          ],
+          "lines": ["Instructions about Head Coverings"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Now I praise you because you remember me in everything and hold fast to the traditions just as I delivered them to you."
           ],
@@ -2972,9 +2340,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "But I want you to know that Christ is the head of every man, and the man is the head of the woman, , and God is the head of Christ."
           ],
@@ -2982,9 +2348,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Every man who prays or prophesies with something on his head dishonors his head."
           ],
@@ -2992,9 +2356,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Every woman who prays or prophesies with her head uncovered dishonors her head, since that is one and the same as having her head shaved."
           ],
@@ -3002,9 +2364,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "For if a woman doesn’t cover her head, she should have her hair cut off. But if it is disgraceful for a woman to have her hair cut off or her head shaved, let her head be covered."
           ],
@@ -3012,9 +2372,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "A man should not cover his head, because he is the image and glory of God. So too, woman is the glory of man."
           ],
@@ -3022,9 +2380,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "For man did not come from woman, but woman came from man."
           ],
@@ -3032,9 +2388,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "Neither was man created for the sake of woman, but woman for the sake of man."
           ],
@@ -3042,9 +2396,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "This is why a woman should have a symbol of authority on her head, because of the angels."
           ],
@@ -3052,9 +2404,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "In the Lord, however, woman is not independent of man, and man is not independent of woman."
           ],
@@ -3062,9 +2412,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For just as woman came from man, so man comes through woman, and all things come from God."
           ],
@@ -3072,9 +2420,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Judge for yourselves: Is it proper for a woman to pray to God with her head uncovered?"
           ],
@@ -3082,9 +2428,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "Does not even nature itself teach you that if a man has long hair it is a disgrace to him,"
           ],
@@ -3092,9 +2436,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "but that if a woman has long hair, it is her glory? For her hair is given to her as a covering."
           ],
@@ -3102,9 +2444,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "If anyone wants to argue about this, we have no other custom, nor do the churches of God."
           ],
@@ -3113,16 +2453,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Lord’s Supper"
-          ],
+          "lines": ["The Lord’s Supper"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "Now in giving this instruction I do not praise you, since you come together not for the better but for the worse."
           ],
@@ -3130,9 +2466,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "For to begin with, I hear that when you come together as a church there are divisions among you, and in part I believe it."
           ],
@@ -3140,9 +2474,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "Indeed, it is necessary that there be factions among you, so that those who are approved may be recognized among you."
           ],
@@ -3150,9 +2482,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "When you come together, then, it is not to eat the Lord’s Supper."
           ],
@@ -3160,9 +2490,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For at the meal, each one eats his own supper. So one person is hungry while another gets drunk!"
           ],
@@ -3170,9 +2498,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Don’t you have homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What should I say to you? Should I praise you? I do not praise you in this matter!"
           ],
@@ -3180,9 +2506,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "For I received from the Lord what I also passed on to you: On the night when he was betrayed, the Lord Jesus took bread,"
           ],
@@ -3190,9 +2514,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "and when he had given thanks, broke it, and said, “This is my body, which is for you. Do this in remembrance of me.”"
           ],
@@ -3211,9 +2533,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "In the same way also he took the cup, after supper, and said, “This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me.”"
           ],
@@ -3232,9 +2552,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes."
           ],
@@ -3243,16 +2561,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Self-Examination"
-          ],
+          "lines": ["Self-Examination"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "So, then, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sin against the body and blood of the Lord."
           ],
@@ -3260,9 +2574,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "Let a person examine himself; in this way let him eat the bread and drink from the cup."
           ],
@@ -3270,9 +2582,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "For whoever eats and drinks without recognizing the body, eats and drinks judgment on himself."
           ],
@@ -3280,9 +2590,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "This is why many are sick and ill among you, and many have fallen asleep."
           ],
@@ -3290,9 +2598,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "If we were properly judging ourselves, we would not be judged,"
           ],
@@ -3300,9 +2606,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "but when we are judged by the Lord, we are disciplined, so that we may not be condemned with the world."
           ],
@@ -3310,9 +2614,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
+          "verse_numbers": [33],
           "lines": [
             "Therefore, my brothers and sisters, when you come together to eat, welcome one another."
           ],
@@ -3320,9 +2622,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
+          "verse_numbers": [34],
           "lines": [
             "If anyone is hungry, he should eat at home, so that when you gather together you will not come under judgment. I will give instructions about the other matters whenever I come."
           ],
@@ -3334,24 +2634,18 @@
       "chapter_usfm": "1CO.12",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.12"
-        ],
+        "usfm": ["1CO.12"],
         "human": "1 Corinthians 12"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.13"
-        ],
+        "usfm": ["1CO.13"],
         "human": "1 Corinthians 13",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.11"
-        ],
+        "usfm": ["1CO.11"],
         "human": "1 Corinthians 11",
         "toc": true
       },
@@ -3361,16 +2655,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Diversity of Spiritual Gifts"
-          ],
+          "lines": ["Diversity of Spiritual Gifts"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now concerning spiritual gifts: brothers and sisters, I do not want you to be unaware."
           ],
@@ -3378,9 +2668,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "You know that when you were pagans, you used to be enticed and led astray by mute idols."
           ],
@@ -3388,9 +2676,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "Therefore I want you to know that no one speaking by the Spirit of God says, “Jesus is cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit."
           ],
@@ -3398,29 +2684,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
-          "lines": [
-            "Now there are different gifts, but the same Spirit."
-          ],
+          "verse_numbers": [4],
+          "lines": ["Now there are different gifts, but the same Spirit."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "There are different ministries, but the same Lord."
-          ],
+          "verse_numbers": [5],
+          "lines": ["There are different ministries, but the same Lord."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "And there are different activities, but the same God works all of them in each person."
           ],
@@ -3428,9 +2704,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "A manifestation of the Spirit is given to each person for the common good:"
           ],
@@ -3438,9 +2712,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "to one is given a message of wisdom through the Spirit, to another, a message of knowledge by the same Spirit,"
           ],
@@ -3448,9 +2720,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "to another, faith by the same Spirit, to another, gifts of healing by the one Spirit,"
           ],
@@ -3458,9 +2728,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "to another, the performing of miracles, to another, prophecy, to another, distinguishing between spirits, to another, different kinds of tongues, to another, interpretation of tongues."
           ],
@@ -3468,9 +2736,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "One and the same Spirit is active in all these, distributing to each person as he wills."
           ],
@@ -3479,16 +2745,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Unity Yet Diversity in the Body"
-          ],
+          "lines": ["Unity Yet Diversity in the Body"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For just as the body is one and has many parts, and all the parts of that body, though many, are one body #— #so also is Christ."
           ],
@@ -3496,9 +2758,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "For we were all baptized by one Spirit into one body #— #whether Jews or Greeks, whether slaves or free #— #and we were all given one Spirit to drink."
           ],
@@ -3506,19 +2766,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "Indeed, the body is not one part but many."
-          ],
+          "verse_numbers": [14],
+          "lines": ["Indeed, the body is not one part but many."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "If the foot should say, “Because I’m not a hand, I don’t belong to the body,” it is not for that reason any less a part of the body."
           ],
@@ -3526,9 +2780,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "And if the ear should say, “Because I’m not an eye, I don’t belong to the body,” it is not for that reason any less a part of the body."
           ],
@@ -3536,9 +2788,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "If the whole body were an eye, where would the hearing be? If the whole body were an ear, where would the sense of smell be?"
           ],
@@ -3546,9 +2796,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "But as it is, God has arranged each one of the parts in the body just as he wanted."
           ],
@@ -3556,9 +2804,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "And if they were all the same part, where would the body be?"
           ],
@@ -3566,19 +2812,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
-          "lines": [
-            "As it is, there are many parts, but one body."
-          ],
+          "verse_numbers": [20],
+          "lines": ["As it is, there are many parts, but one body."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "The eye cannot say to the hand, “I don’t need you! ” Or again, the head can’t say to the feet, “I don’t need you! ”"
           ],
@@ -3586,9 +2826,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "On the contrary, those parts of the body that are weaker are indispensable."
           ],
@@ -3596,9 +2834,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "And those parts of the body that we consider less honorable, we clothe these with greater honor, and our unrespectable parts are treated with greater respect,"
           ],
@@ -3606,9 +2842,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "which our respectable parts do not need.",
             "Instead, God has put the body together, giving greater honor to the less honorable,"
@@ -3617,9 +2851,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "so that there would be no division in the body, but that the members would have the same concern for each other."
           ],
@@ -3627,9 +2859,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "So if one member suffers, all the members suffer with it; if one member is honored, all the members rejoice with it."
           ],
@@ -3637,9 +2867,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "Now you are the body of Christ, and individual members of it."
           ],
@@ -3647,9 +2875,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "And God has appointed these in the church: first apostles, second prophets, third teachers, next miracles, then gifts of healing, helping, leading, various kinds of tongues."
           ],
@@ -3657,9 +2883,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Are all apostles? Are all prophets? Are all teachers? Do all do miracles?"
           ],
@@ -3667,9 +2891,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "Do all have gifts of healing? Do all speak in tongues? Do all interpret?"
           ],
@@ -3677,9 +2899,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "But desire the greater gifts. And I will show you an even better way."
           ],
@@ -3691,24 +2911,18 @@
       "chapter_usfm": "1CO.13",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.13"
-        ],
+        "usfm": ["1CO.13"],
         "human": "1 Corinthians 13"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.14"
-        ],
+        "usfm": ["1CO.14"],
         "human": "1 Corinthians 14",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.12"
-        ],
+        "usfm": ["1CO.12"],
         "human": "1 Corinthians 12",
         "toc": true
       },
@@ -3718,16 +2932,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Love: The Superior Way"
-          ],
+          "lines": ["Love: The Superior Way"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "If I speak human or angelic tongues but do not have love, I am a noisy gong or a clanging cymbal."
           ],
@@ -3735,9 +2945,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "If I have the gift of prophecy and understand all mysteries and all knowledge, and if I have all faith so that I can move mountains but do not have love, I am nothing."
           ],
@@ -3745,9 +2953,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "And if I give away all my possessions, and if I give over my body in order to boast but do not have love, I gain nothing."
           ],
@@ -3755,9 +2961,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "Love is patient, love is kind. Love does not envy, is not boastful, is not arrogant,"
           ],
@@ -3765,9 +2969,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "is not rude, is not self-seeking, is not irritable, and does not keep a record of wrongs."
           ],
@@ -3775,9 +2977,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Love finds no joy in unrighteousness but rejoices in the truth."
           ],
@@ -3785,9 +2985,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "It bears all things, believes all things, hopes all things, endures all things."
           ],
@@ -3795,9 +2993,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Love never ends. But as for prophecies, they will come to an end; as for tongues, they will cease; as for knowledge, it will come to an end."
           ],
@@ -3805,19 +3001,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
-          "lines": [
-            "For we know in part, and we prophesy in part,"
-          ],
+          "verse_numbers": [9],
+          "lines": ["For we know in part, and we prophesy in part,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "but when the perfect comes, the partial will come to an end."
           ],
@@ -3825,9 +3015,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I put aside childish things."
           ],
@@ -3835,9 +3023,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "For now we see only a reflection as in a mirror, but then face to face. Now I know in part, but then I will know fully, as I am fully known."
           ],
@@ -3845,9 +3031,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Now these three remain: faith, hope, and love #— #but the greatest of these is love."
           ],
@@ -3859,24 +3043,18 @@
       "chapter_usfm": "1CO.14",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.14"
-        ],
+        "usfm": ["1CO.14"],
         "human": "1 Corinthians 14"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.15"
-        ],
+        "usfm": ["1CO.15"],
         "human": "1 Corinthians 15",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.13"
-        ],
+        "usfm": ["1CO.13"],
         "human": "1 Corinthians 13",
         "toc": true
       },
@@ -3886,16 +3064,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Prophecy: A Superior Gift"
-          ],
+          "lines": ["Prophecy: A Superior Gift"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Pursue love and desire spiritual gifts, and especially that you may prophesy."
           ],
@@ -3903,9 +3077,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "For the person who speaks in a tongue , is not speaking to people but to God, since no one understands him; he speaks mysteries in the Spirit."
           ],
@@ -3913,9 +3085,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "On the other hand, the person who prophesies speaks to people for their strengthening, encouragement, and consolation."
           ],
@@ -3923,9 +3093,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "The person who speaks in a tongue builds himself up, but the one who prophesies builds up the church."
           ],
@@ -3933,9 +3101,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "I wish all of you spoke in tongues, but even more that you prophesied. The person who prophesies is greater than the person who speaks in tongues, unless he interprets so that the church may be built up."
           ],
@@ -3943,9 +3109,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "So now, brothers and sisters, if I come to you speaking in tongues, how will I benefit you unless I speak to you with a revelation or knowledge or prophecy or teaching?"
           ],
@@ -3953,9 +3117,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "Even lifeless instruments that produce sounds #— #whether flute or harp #— #if they don’t make a distinction in the notes, how will what is played on the flute or harp be recognized?"
           ],
@@ -3963,9 +3125,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "In fact, if the bugle makes an unclear sound, who will prepare for battle?"
           ],
@@ -3973,9 +3133,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "In the same way, unless you use your tongue for intelligible speech, how will what is spoken be known? For you will be speaking into the air."
           ],
@@ -3983,9 +3141,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "There are doubtless many different kinds of languages in the world, none is without meaning."
           ],
@@ -3993,9 +3149,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Therefore, if I do not know the meaning of the language, I will be a foreigner to the speaker, and the speaker will be a foreigner to me."
           ],
@@ -4003,9 +3157,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "So also you #— #since you are zealous for spiritual gifts, , seek to excel in building up the church."
           ],
@@ -4013,9 +3165,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Therefore the person who speaks in a tongue should pray that he can interpret."
           ],
@@ -4023,9 +3173,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "For if I pray in a tongue, my spirit prays, but my understanding is unfruitful."
           ],
@@ -4033,9 +3181,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "What then? I will pray with the spirit, and I will also pray with my understanding. I will sing praise with the spirit, and I will also sing praise with my understanding."
           ],
@@ -4043,9 +3189,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "Otherwise, if you praise with the spirit, how will the outsider say “Amen” at your giving of thanks, since he does not know what you are saying?"
           ],
@@ -4053,9 +3197,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "For you may very well be giving thanks, but the other person is not being built up."
           ],
@@ -4063,9 +3205,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "I thank God that I speak in tongues more than all of you;"
           ],
@@ -4073,9 +3213,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "yet in the church I would rather speak five words with my understanding, in order to teach others also, than ten thousand words in a tongue."
           ],
@@ -4083,9 +3221,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "Brothers and sisters, don’t be childish in your thinking, but be infants in regard to evil and adult in your thinking."
           ],
@@ -4093,9 +3229,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "It is written in the law,",
             "I will speak to this people",
@@ -4108,9 +3242,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "Speaking in tongues, then, is intended as a sign, not for believers but for unbelievers, while prophecy is not for unbelievers but for believers."
           ],
@@ -4118,9 +3250,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "If, therefore, the whole church assembles together and all are speaking in tongues and people who are outsiders or unbelievers come in, will they not say that you are out of your minds?"
           ],
@@ -4128,9 +3258,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "But if all are prophesying and some unbeliever or outsider comes in, he is convicted by all and is called to account by all."
           ],
@@ -4138,9 +3266,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "The secrets of his heart will be revealed, and as a result he will fall facedown and worship God, proclaiming, “God is really among you.”"
           ],
@@ -4149,16 +3275,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Order in Church Meetings"
-          ],
+          "lines": ["Order in Church Meetings"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
+          "verse_numbers": [26],
           "lines": [
             "What then, brothers and sisters? Whenever you come together, each one has a hymn, a teaching, a revelation, a tongue, or an interpretation. Everything is to be done for building up."
           ],
@@ -4166,9 +3288,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "If anyone speaks in a tongue, there are to be only two, or at the most three, each in turn, and let someone interpret."
           ],
@@ -4176,9 +3296,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "But if there is no interpreter, that person is to keep silent in the church and speak to himself and God."
           ],
@@ -4186,9 +3304,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Two or three prophets should speak, and the others should evaluate."
           ],
@@ -4196,9 +3312,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
+          "verse_numbers": [30],
           "lines": [
             "But if something has been revealed to another person sitting there, the first prophet should be silent."
           ],
@@ -4206,9 +3320,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "For you can all prophesy one by one, so that everyone may learn and everyone may be encouraged."
           ],
@@ -4216,19 +3328,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
-          "lines": [
-            "And the prophets’ spirits are subject to the prophets,"
-          ],
+          "verse_numbers": [32],
+          "lines": ["And the prophets’ spirits are subject to the prophets,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
+          "verse_numbers": [33],
           "lines": [
             "since God is not a God of disorder but of peace.",
             "As in all the churches of the saints,"
@@ -4237,9 +3343,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
+          "verse_numbers": [34],
           "lines": [
             "the women should be silent in the churches, for they are not permitted to speak, but are to submit themselves, as the law also says."
           ],
@@ -4247,9 +3351,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
+          "verse_numbers": [35],
           "lines": [
             "If they want to learn something, let them ask their own husbands at home, since it is disgraceful for a woman to speak in the church."
           ],
@@ -4257,9 +3359,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "Or did the word of God originate from you, or did it come to you only?"
           ],
@@ -4267,9 +3367,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
+          "verse_numbers": [37],
           "lines": [
             "If anyone thinks he is a prophet or spiritual, he should recognize that what I write to you is the Lord’s command."
           ],
@@ -4277,19 +3375,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
-          "lines": [
-            "If anyone ignores this, he will be ignored."
-          ],
+          "verse_numbers": [38],
+          "lines": ["If anyone ignores this, he will be ignored."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            39
-          ],
+          "verse_numbers": [39],
           "lines": [
             "So then, my brothers and sisters, be eager to prophesy, and do not forbid speaking in tongues."
           ],
@@ -4297,12 +3389,8 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            40
-          ],
-          "lines": [
-            "But everything is to be done decently and in order."
-          ],
+          "verse_numbers": [40],
+          "lines": ["But everything is to be done decently and in order."],
           "rlw_lines": []
         }
       ]
@@ -4311,24 +3399,18 @@
       "chapter_usfm": "1CO.15",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.15"
-        ],
+        "usfm": ["1CO.15"],
         "human": "1 Corinthians 15"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "1CO.16"
-        ],
+        "usfm": ["1CO.16"],
         "human": "1 Corinthians 16",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.14"
-        ],
+        "usfm": ["1CO.14"],
         "human": "1 Corinthians 14",
         "toc": true
       },
@@ -4338,16 +3420,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Resurrection Essential to the Gospel"
-          ],
+          "lines": ["Resurrection Essential to the Gospel"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now I want to make clear for you, brothers and sisters, the gospel I preached to you, which you received, on which you have taken your stand"
           ],
@@ -4355,9 +3433,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "and by which you are being saved, if you hold to the message I preached to you #— #unless you believed in vain."
           ],
@@ -4365,9 +3441,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "For I passed on to you as most important what I also received: that Christ died for our sins according to the Scriptures,"
           ],
@@ -4375,9 +3449,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "that he was buried, that he was raised on the third day according to the Scriptures,"
           ],
@@ -4385,19 +3457,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
-          "lines": [
-            "and that he appeared to Cephas, then to the Twelve."
-          ],
+          "verse_numbers": [5],
+          "lines": ["and that he appeared to Cephas, then to the Twelve."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "Then he appeared to over five hundred brothers and sisters at one time; most of them are still alive, but some have fallen asleep."
           ],
@@ -4405,19 +3471,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
-          "lines": [
-            "Then he appeared to James, then to all the apostles."
-          ],
+          "verse_numbers": [7],
+          "lines": ["Then he appeared to James, then to all the apostles."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "Last of all, as to one born at the wrong time, , he also appeared to me."
           ],
@@ -4425,9 +3485,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "For I am the least of the apostles, not worthy to be called an apostle, because I persecuted the church of God."
           ],
@@ -4435,9 +3493,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "But by the grace of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, yet not I, but the grace of God that was with me."
           ],
@@ -4445,9 +3501,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Whether, then, it is I or they, so we proclaim and so you have believed."
           ],
@@ -4456,16 +3510,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Resurrection Essential to the Faith"
-          ],
+          "lines": ["Resurrection Essential to the Faith"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Now if Christ is proclaimed as raised from the dead, how can some of you say, “There is no resurrection of the dead”?"
           ],
@@ -4473,9 +3523,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "If there is no resurrection of the dead, then not even Christ has been raised;"
           ],
@@ -4483,9 +3531,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
+          "verse_numbers": [14],
           "lines": [
             "and if Christ has not been raised, then our proclamation is in vain, and so is your faith."
           ],
@@ -4493,9 +3539,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Moreover, we are found to be false witnesses about God, because we have testified wrongly about God that he raised up Christ #— #whom he did not raise up, if in fact the dead are not raised."
           ],
@@ -4503,9 +3547,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "For if the dead are not raised, not even Christ has been raised."
           ],
@@ -4513,9 +3555,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "And if Christ has not been raised, your faith is worthless; you are still in your sins."
           ],
@@ -4523,9 +3563,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "Those, then, who have fallen asleep in Christ have also perished."
           ],
@@ -4533,9 +3571,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "If we have put our hope in Christ for this life only, we should be pitied more than anyone."
           ],
@@ -4544,16 +3580,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Christ’s Resurrection Guarantees Ours"
-          ],
+          "lines": ["Christ’s Resurrection Guarantees Ours"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "But as it is, Christ has been raised from the dead, the firstfruits of those who have fallen asleep."
           ],
@@ -4561,9 +3593,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
+          "verse_numbers": [21],
           "lines": [
             "For since death came through a man, the resurrection of the dead also comes through a man."
           ],
@@ -4571,9 +3601,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "For just as in Adam all die, so also in Christ all will be made alive."
           ],
@@ -4581,9 +3609,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
+          "verse_numbers": [23],
           "lines": [
             "But each in his own order: Christ, the firstfruits; afterward, at his coming, those who belong to Christ."
           ],
@@ -4591,9 +3617,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
+          "verse_numbers": [24],
           "lines": [
             "Then comes the end, when he hands over the kingdom to God the Father, when he abolishes all rule and all authority and power."
           ],
@@ -4601,9 +3625,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            25
-          ],
+          "verse_numbers": [25],
           "lines": [
             "For he must reign until he puts all his enemies under his feet."
           ],
@@ -4611,19 +3633,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            26
-          ],
-          "lines": [
-            "The last enemy to be abolished is death."
-          ],
+          "verse_numbers": [26],
+          "lines": ["The last enemy to be abolished is death."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            27
-          ],
+          "verse_numbers": [27],
           "lines": [
             "For God has put everything under his feet. , Now when it says “everything” is put under him, it is obvious that he who puts everything under him is the exception."
           ],
@@ -4631,9 +3647,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            28
-          ],
+          "verse_numbers": [28],
           "lines": [
             "When everything is subject to Christ, then the Son himself will also be subject to the one who subjected everything to him, so that God may be all in all."
           ],
@@ -4642,16 +3656,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Resurrection Supported by Christian Experience"
-          ],
+          "lines": ["Resurrection Supported by Christian Experience"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            29
-          ],
+          "verse_numbers": [29],
           "lines": [
             "Otherwise what will they do who are being baptized for the dead? If the dead are not raised at all, then why are people baptized for them?"
           ],
@@ -4659,19 +3669,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            30
-          ],
-          "lines": [
-            "Why are we in danger every hour?"
-          ],
+          "verse_numbers": [30],
+          "lines": ["Why are we in danger every hour?"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            31
-          ],
+          "verse_numbers": [31],
           "lines": [
             "I face death every day, as surely as I may boast about you, brothers and sisters, in Christ Jesus our Lord."
           ],
@@ -4679,9 +3683,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            32
-          ],
+          "verse_numbers": [32],
           "lines": [
             "If I fought wild beasts in Ephesus as a mere man, what good did that do me? If the dead are not raised, Let us eat and drink, for tomorrow we die. ,"
           ],
@@ -4689,19 +3691,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            33
-          ],
-          "lines": [
-            "Do not be deceived: “Bad company corrupts good morals.”"
-          ],
+          "verse_numbers": [33],
+          "lines": ["Do not be deceived: “Bad company corrupts good morals.”"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            34
-          ],
+          "verse_numbers": [34],
           "lines": [
             "Come to your senses , and stop sinning; for some people are ignorant about God. I say this to your shame."
           ],
@@ -4710,16 +3706,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "The Nature of the Resurrection Body"
-          ],
+          "lines": ["The Nature of the Resurrection Body"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            35
-          ],
+          "verse_numbers": [35],
           "lines": [
             "But someone will ask, “How are the dead raised? What kind of body will they have when they come? ”"
           ],
@@ -4727,9 +3719,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            36
-          ],
+          "verse_numbers": [36],
           "lines": [
             "You fool! What you sow does not come to life unless it dies."
           ],
@@ -4737,9 +3727,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            37
-          ],
+          "verse_numbers": [37],
           "lines": [
             "And as for what you sow #— #you are not sowing the body that will be, but only a seed, perhaps of wheat or another grain."
           ],
@@ -4747,9 +3735,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            38
-          ],
+          "verse_numbers": [38],
           "lines": [
             "But God gives it a body as he wants, and to each of the seeds its own body."
           ],
@@ -4757,9 +3743,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            39
-          ],
+          "verse_numbers": [39],
           "lines": [
             "Not all flesh is the same flesh; there is one flesh for humans, another for animals, another for birds, and another for fish."
           ],
@@ -4767,9 +3751,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            40
-          ],
+          "verse_numbers": [40],
           "lines": [
             "There are heavenly bodies and earthly bodies, but the splendor of the heavenly bodies is different from that of the earthly ones."
           ],
@@ -4777,9 +3759,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            41
-          ],
+          "verse_numbers": [41],
           "lines": [
             "There is a splendor of the sun, another of the moon, and another of the stars; in fact, one star differs from another star in splendor."
           ],
@@ -4787,9 +3767,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            42
-          ],
+          "verse_numbers": [42],
           "lines": [
             "So it is with the resurrection of the dead: Sown in corruption, raised in incorruption;"
           ],
@@ -4797,9 +3775,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            43
-          ],
+          "verse_numbers": [43],
           "lines": [
             "sown in dishonor, raised in glory; sown in weakness, raised in power;"
           ],
@@ -4807,9 +3783,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            44
-          ],
+          "verse_numbers": [44],
           "lines": [
             "sown a natural body, raised a spiritual body. If there is a natural body, there is also a spiritual body."
           ],
@@ -4817,9 +3791,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            45
-          ],
+          "verse_numbers": [45],
           "lines": [
             "So it is written, The first man Adam became a living being; , the last Adam became a life-giving spirit."
           ],
@@ -4827,9 +3799,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            46
-          ],
+          "verse_numbers": [46],
           "lines": [
             "However, the spiritual is not first, but the natural, then the spiritual."
           ],
@@ -4837,9 +3807,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            47
-          ],
+          "verse_numbers": [47],
           "lines": [
             "The first man was from the earth, a man of dust; the second man is from heaven."
           ],
@@ -4847,9 +3815,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            48
-          ],
+          "verse_numbers": [48],
           "lines": [
             "Like the man of dust, so are those who are of the dust; like the man of heaven, so are those who are of heaven."
           ],
@@ -4857,9 +3823,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            49
-          ],
+          "verse_numbers": [49],
           "lines": [
             "And just as we have borne the image of the man of dust, we will also bear the image of the man of heaven."
           ],
@@ -4868,16 +3832,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Victorious Resurrection"
-          ],
+          "lines": ["Victorious Resurrection"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            50
-          ],
+          "verse_numbers": [50],
           "lines": [
             "What I am saying, brothers and sisters, is this: Flesh and blood cannot inherit the kingdom of God, nor can corruption inherit incorruption."
           ],
@@ -4885,9 +3845,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            51
-          ],
+          "verse_numbers": [51],
           "lines": [
             "Listen, I am telling you a mystery: We will not all fall asleep, but we will all be changed,"
           ],
@@ -4895,9 +3853,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            52
-          ],
+          "verse_numbers": [52],
           "lines": [
             "in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised incorruptible, and we will be changed."
           ],
@@ -4905,9 +3861,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            53
-          ],
+          "verse_numbers": [53],
           "lines": [
             "For this corruptible body must be clothed with incorruptibility, and this mortal body must be clothed with immortality."
           ],
@@ -4915,9 +3869,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            54
-          ],
+          "verse_numbers": [54],
           "lines": [
             "When this corruptible body is clothed with incorruptibility, and this mortal body is clothed with immortality, then the saying that is written will take place:",
             "Death has been swallowed up in victory. ,"
@@ -4926,9 +3878,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            55
-          ],
+          "verse_numbers": [55],
           "lines": [
             "Where, death, is your victory?",
             "Where, death, is your sting? ,"
@@ -4937,9 +3887,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            56
-          ],
+          "verse_numbers": [56],
           "lines": [
             "The sting of death is sin, and the power of sin is the law."
           ],
@@ -4947,9 +3895,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            57
-          ],
+          "verse_numbers": [57],
           "lines": [
             "But thanks be to God, who gives us the victory through our Lord Jesus Christ!"
           ],
@@ -4957,9 +3903,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            58
-          ],
+          "verse_numbers": [58],
           "lines": [
             "Therefore, my dear brothers and sisters, be steadfast, immovable, always excelling in the Lord’s work, because you know that your labor in the Lord is not in vain."
           ],
@@ -4971,24 +3915,18 @@
       "chapter_usfm": "1CO.16",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "1CO.16"
-        ],
+        "usfm": ["1CO.16"],
         "human": "1 Corinthians 16"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "2CO.1"
-        ],
+        "usfm": ["2CO.1"],
         "human": "2 Corinthians 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "1CO.15"
-        ],
+        "usfm": ["1CO.15"],
         "human": "1 Corinthians 15",
         "toc": true
       },
@@ -4998,16 +3936,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Collection for the Jerusalem Church"
-          ],
+          "lines": ["Collection for the Jerusalem Church"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "Now about the collection for the saints: Do the same as I instructed the Galatian churches."
           ],
@@ -5015,9 +3949,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "On the first day of the week, each of you is to set something aside and save in keeping with how he is prospering, so that no collections will need to be made when I come."
           ],
@@ -5025,9 +3957,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "When I arrive, I will send with letters those you recommend to carry your gift to Jerusalem."
           ],
@@ -5035,9 +3965,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "If it is suitable for me to go as well, they will travel with me."
           ],
@@ -5046,16 +3974,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Paul’s Travel Plans"
-          ],
+          "lines": ["Paul’s Travel Plans"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "I will come to you after I pass through Macedonia #— #for I will be traveling through Macedonia #— #"
           ],
@@ -5063,9 +3987,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "and perhaps I will remain with you or even spend the winter, so that you may send me on my way wherever I go."
           ],
@@ -5073,9 +3995,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "I don’t want to see you now just in passing, since I hope to spend some time with you, if the Lord allows."
           ],
@@ -5083,19 +4003,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
-          "lines": [
-            "But I will stay in Ephesus until Pentecost,"
-          ],
+          "verse_numbers": [8],
+          "lines": ["But I will stay in Ephesus until Pentecost,"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "because a wide door for effective ministry has opened for me #— #yet many oppose me."
           ],
@@ -5103,9 +4017,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "If Timothy comes, see that he has nothing to fear while with you, because he is doing the Lord’s work, just as I am."
           ],
@@ -5113,9 +4025,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "So let no one look down on him. Send him on his way in peace so that he can come to me, because I am expecting him with the brothers."
           ],
@@ -5123,9 +4033,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Now about our brother Apollos: I strongly urged him to come to you with the brothers, but he was not at all willing to come now. However, he will come when he has an opportunity."
           ],
@@ -5134,16 +4042,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Final Exhortation"
-          ],
+          "lines": ["Final Exhortation"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "Be alert, stand firm in the faith, be courageous, be strong."
           ],
@@ -5151,19 +4055,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "Do everything in love."
-          ],
+          "verse_numbers": [14],
+          "lines": ["Do everything in love."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Brothers and sisters, you know the household of Stephanas: They are the firstfruits of Achaia and have devoted themselves to serving the saints. I urge you"
           ],
@@ -5171,9 +4069,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            16
-          ],
+          "verse_numbers": [16],
           "lines": [
             "also to submit to such people, and to everyone who works and labors with them."
           ],
@@ -5181,9 +4077,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            17
-          ],
+          "verse_numbers": [17],
           "lines": [
             "I am delighted to have Stephanas, Fortunatus, and Achaicus present, because these men have made up for your absence."
           ],
@@ -5191,9 +4085,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            18
-          ],
+          "verse_numbers": [18],
           "lines": [
             "For they have refreshed my spirit and yours. Therefore recognize such people."
           ],
@@ -5202,16 +4094,12 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": [
-            "Conclusion"
-          ],
+          "lines": ["Conclusion"],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            19
-          ],
+          "verse_numbers": [19],
           "lines": [
             "The churches of Asia send you greetings. Aquila and Priscilla send you greetings warmly in the Lord, along with the church that meets in their home."
           ],
@@ -5219,9 +4107,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            20
-          ],
+          "verse_numbers": [20],
           "lines": [
             "All the brothers and sisters send you greetings. Greet one another with a holy kiss."
           ],
@@ -5229,19 +4115,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            21
-          ],
-          "lines": [
-            "This greeting is in my own hand #— #Paul."
-          ],
+          "verse_numbers": [21],
+          "lines": ["This greeting is in my own hand #— #Paul."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            22
-          ],
+          "verse_numbers": [22],
           "lines": [
             "If anyone does not love the Lord, a curse be on him. Our Lord, come!"
           ],
@@ -5249,22 +4129,14 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            23
-          ],
-          "lines": [
-            "The grace of the Lord Jesus be with you."
-          ],
+          "verse_numbers": [23],
+          "lines": ["The grace of the Lord Jesus be with you."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            24
-          ],
-          "lines": [
-            "My love be with all of you in Christ Jesus."
-          ],
+          "verse_numbers": [24],
+          "lines": ["My love be with all of you in Christ Jesus."],
           "rlw_lines": []
         }
       ]

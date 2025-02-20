@@ -18,30 +18,24 @@
     "local_name": "English",
     "text_direction": "ltr"
   },
-  "repository": "https://github.com/jsckdm/bible-data-en-eng",
+  "repository": "https://github.com/mrk214/bible-data-en-eng",
   "chapters": [
     {
       "chapter_usfm": "3JN.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": [
-          "3JN.INTRO1"
-        ],
+        "usfm": ["3JN.INTRO1"],
         "human": "3 John Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": [
-          "3JN.1"
-        ],
+        "usfm": ["3JN.1"],
         "human": "3 John 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": [
-          "2JN.1"
-        ],
+        "usfm": ["2JN.1"],
         "human": "2 John 1",
         "toc": true
       },
@@ -53,24 +47,18 @@
       "chapter_usfm": "3JN.1",
       "is_chapter": true,
       "current": {
-        "usfm": [
-          "3JN.1"
-        ],
+        "usfm": ["3JN.1"],
         "human": "3 John 1"
       },
       "next": {
         "canonical": false,
-        "usfm": [
-          "JUD.INTRO1"
-        ],
+        "usfm": ["JUD.INTRO1"],
         "human": "Jude Intro",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": [
-          "3JN.INTRO1"
-        ],
+        "usfm": ["3JN.INTRO1"],
         "human": "3 John Intro",
         "toc": true
       },
@@ -79,9 +67,7 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [
-            1
-          ],
+          "verse_numbers": [1],
           "lines": [
             "The elder,",
             "To my dear friend Gaius, whom I love in the truth."
@@ -90,9 +76,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            2
-          ],
+          "verse_numbers": [2],
           "lines": [
             "Dear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well."
           ],
@@ -100,9 +84,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            3
-          ],
+          "verse_numbers": [3],
           "lines": [
             "It gave me great joy when some believers came and testified about your faithfulness to the truth, telling how you continue to walk in it."
           ],
@@ -110,9 +92,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            4
-          ],
+          "verse_numbers": [4],
           "lines": [
             "I have no greater joy than to hear that my children are walking in the truth."
           ],
@@ -120,9 +100,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            5
-          ],
+          "verse_numbers": [5],
           "lines": [
             "Dear friend, you are faithful in what you are doing for the brothers and sisters, even though they are strangers to you."
           ],
@@ -130,9 +108,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            6
-          ],
+          "verse_numbers": [6],
           "lines": [
             "They have told the church about your love. Please send them on their way in a manner that honors God."
           ],
@@ -140,9 +116,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            7
-          ],
+          "verse_numbers": [7],
           "lines": [
             "It was for the sake of the Name that they went out, receiving no help from the pagans."
           ],
@@ -150,9 +124,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            8
-          ],
+          "verse_numbers": [8],
           "lines": [
             "We ought therefore to show hospitality to such people so that we may work together for the truth."
           ],
@@ -160,9 +132,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            9
-          ],
+          "verse_numbers": [9],
           "lines": [
             "I wrote to the church, but Diotrephes, who loves to be first, will not welcome us."
           ],
@@ -170,9 +140,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            10
-          ],
+          "verse_numbers": [10],
           "lines": [
             "So when I come, I will call attention to what he is doing, spreading malicious nonsense about us. Not satisfied with that, he even refuses to welcome other believers. He also stops those who want to do so and puts them out of the church."
           ],
@@ -180,9 +148,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            11
-          ],
+          "verse_numbers": [11],
           "lines": [
             "Dear friend, do not imitate what is evil but what is good. Anyone who does what is good is from God. Anyone who does what is evil has not seen God."
           ],
@@ -190,9 +156,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            12
-          ],
+          "verse_numbers": [12],
           "lines": [
             "Demetrius is well spoken of by everyone—and even by the truth itself. We also speak well of him, and you know that our testimony is true."
           ],
@@ -200,9 +164,7 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            13
-          ],
+          "verse_numbers": [13],
           "lines": [
             "I have much to write you, but I do not want to do so with pen and ink."
           ],
@@ -210,19 +172,13 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            14
-          ],
-          "lines": [
-            "I hope to see you soon, and we will talk face to face."
-          ],
+          "verse_numbers": [14],
+          "lines": ["I hope to see you soon, and we will talk face to face."],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [
-            15
-          ],
+          "verse_numbers": [15],
           "lines": [
             "Peace to you. The friends here send their greetings. Greet the friends there by name."
           ],
