@@ -24,18 +24,24 @@
       "chapter_usfm": "1JN.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": ["1JN.INTRO1"],
+        "usfm": [
+          "1JN.INTRO1"
+        ],
         "human": "1 John Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": ["1JN.1"],
+        "usfm": [
+          "1JN.1"
+        ],
         "human": "1 John 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["2PE.3"],
+        "usfm": [
+          "2PE.3"
+        ],
         "human": "2 Peter 3",
         "toc": true
       },
@@ -47,18 +53,24 @@
       "chapter_usfm": "1JN.1",
       "is_chapter": true,
       "current": {
-        "usfm": ["1JN.1"],
+        "usfm": [
+          "1JN.1"
+        ],
         "human": "1 John 1"
       },
       "next": {
         "canonical": true,
-        "usfm": ["1JN.2"],
+        "usfm": [
+          "1JN.2"
+        ],
         "human": "1 John 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": ["1JN.INTRO1"],
+        "usfm": [
+          "1JN.INTRO1"
+        ],
         "human": "1 John Intro",
         "toc": true
       },
@@ -68,12 +80,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["The Incarnation of the Word of Life"],
+          "lines": [
+            "The Incarnation of the Word of Life"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked at and our hands have touched—this we proclaim concerning the Word of life."
           ],
@@ -81,7 +97,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "The life appeared; we have seen it and testify to it, and we proclaim to you the eternal life, which was with the Father and has appeared to us."
           ],
@@ -89,7 +107,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ."
           ],
@@ -97,19 +117,27 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
-          "lines": ["We write this to make our joy complete."],
+          "verse_numbers": [
+            4
+          ],
+          "lines": [
+            "We write this to make our joy complete."
+          ],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Light and Darkness, Sin and Forgiveness"],
+          "lines": [
+            "Light and Darkness, Sin and Forgiveness"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "This is the message we have heard from him and declare to you: God is light; in him there is no darkness at all."
           ],
@@ -117,7 +145,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "If we claim to have fellowship with him and yet walk in the darkness, we lie and do not live out the truth."
           ],
@@ -125,7 +155,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin."
           ],
@@ -133,7 +165,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "If we claim to be without sin, we deceive ourselves and the truth is not in us."
           ],
@@ -141,7 +175,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness."
           ],
@@ -149,7 +185,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "If we claim we have not sinned, we make him out to be a liar and his word is not in us."
           ],
@@ -161,18 +199,24 @@
       "chapter_usfm": "1JN.2",
       "is_chapter": true,
       "current": {
-        "usfm": ["1JN.2"],
+        "usfm": [
+          "1JN.2"
+        ],
         "human": "1 John 2"
       },
       "next": {
         "canonical": true,
-        "usfm": ["1JN.3"],
+        "usfm": [
+          "1JN.3"
+        ],
         "human": "1 John 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["1JN.1"],
+        "usfm": [
+          "1JN.1"
+        ],
         "human": "1 John 1",
         "toc": true
       },
@@ -181,7 +225,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "My dear children, I write this to you so that you will not sin. But if anybody does sin, we have an advocate with the Father—Jesus Christ, the Righteous One."
           ],
@@ -189,7 +235,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world."
           ],
@@ -198,12 +246,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Love and Hatred for Fellow Believers"],
+          "lines": [
+            "Love and Hatred for Fellow Believers"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "We know that we have come to know him if we keep his commands."
           ],
@@ -211,7 +263,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Whoever says, “I know him,” but does not do what he commands is a liar, and the truth is not in that person."
           ],
@@ -219,7 +273,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "But if anyone obeys his word, love for God is truly made complete in them. This is how we know we are in him:"
           ],
@@ -227,13 +283,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
-          "lines": ["Whoever claims to live in him must live as Jesus did."],
+          "verse_numbers": [
+            6
+          ],
+          "lines": [
+            "Whoever claims to live in him must live as Jesus did."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dear friends, I am not writing you a new command but an old one, which you have had since the beginning. This old command is the message you have heard."
           ],
@@ -241,7 +303,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Yet I am writing you a new command; its truth is seen in him and in you, because the darkness is passing and the true light is already shining."
           ],
@@ -249,7 +313,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Anyone who claims to be in the light but hates a brother or sister is still in the darkness."
           ],
@@ -257,7 +323,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Anyone who loves their brother and sister lives in the light, and there is nothing in them to make them stumble."
           ],
@@ -265,7 +333,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "But anyone who hates a brother or sister is in the darkness and walks around in the darkness. They do not know where they are going, because the darkness has blinded them."
           ],
@@ -274,12 +344,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Reasons for Writing"],
+          "lines": [
+            "Reasons for Writing"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "I am writing to you, dear children,",
             "because your sins have been forgiven on account of his name."
@@ -288,7 +362,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "I am writing to you, fathers,",
             "because you know him who is from the beginning.",
@@ -299,7 +375,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "I write to you, dear children,",
             "because you know the Father.",
@@ -315,12 +393,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["On Not Loving the World"],
+          "lines": [
+            "On Not Loving the World"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Do not love the world or anything in the world. If anyone loves the world, love for the Father is not in them."
           ],
@@ -328,7 +410,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "For everything in the world—the lust of the flesh, the lust of the eyes, and the pride of life—comes not from the Father but from the world."
           ],
@@ -336,7 +420,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "The world and its desires pass away, but whoever does the will of God lives forever."
           ],
@@ -345,12 +431,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Warnings Against Denying the Son"],
+          "lines": [
+            "Warnings Against Denying the Son"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Dear children, this is the last hour; and as you have heard that the antichrist is coming, even now many antichrists have come. This is how we know it is the last hour."
           ],
@@ -358,7 +448,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "They went out from us, but they did not really belong to us. For if they had belonged to us, they would have remained with us; but their going showed that none of them belonged to us."
           ],
@@ -366,7 +458,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "But you have an anointing from the Holy One, and all of you know the truth."
           ],
@@ -374,7 +468,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "I do not write to you because you do not know the truth, but because you do know it and because no lie comes from the truth."
           ],
@@ -382,7 +478,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Who is the liar? It is whoever denies that Jesus is the Christ. Such a person is the antichrist—denying the Father and the Son."
           ],
@@ -390,7 +488,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [23],
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "No one who denies the Son has the Father; whoever acknowledges the Son has the Father also."
           ],
@@ -398,7 +498,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [24],
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "As for you, see that what you have heard from the beginning remains in you. If it does, you also will remain in the Son and in the Father."
           ],
@@ -406,13 +508,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [25],
-          "lines": ["And this is what he promised us—eternal life."],
+          "verse_numbers": [
+            25
+          ],
+          "lines": [
+            "And this is what he promised us—eternal life."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [26],
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "I am writing these things to you about those who are trying to lead you astray."
           ],
@@ -420,7 +528,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [27],
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "As for you, the anointing you received from him remains in you, and you do not need anyone to teach you. But as his anointing teaches you about all things and as that anointing is real, not counterfeit—just as it has taught you, remain in him."
           ],
@@ -429,12 +539,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["God’s Children and Sin"],
+          "lines": [
+            "God’s Children and Sin"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [28],
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "And now, dear children, continue in him, so that when he appears we may be confident and unashamed before him at his coming."
           ],
@@ -442,7 +556,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [29],
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "If you know that he is righteous, you know that everyone who does what is right has been born of him."
           ],
@@ -454,18 +570,24 @@
       "chapter_usfm": "1JN.3",
       "is_chapter": true,
       "current": {
-        "usfm": ["1JN.3"],
+        "usfm": [
+          "1JN.3"
+        ],
         "human": "1 John 3"
       },
       "next": {
         "canonical": true,
-        "usfm": ["1JN.4"],
+        "usfm": [
+          "1JN.4"
+        ],
         "human": "1 John 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["1JN.2"],
+        "usfm": [
+          "1JN.2"
+        ],
         "human": "1 John 2",
         "toc": true
       },
@@ -474,7 +596,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are! The reason the world does not know us is that it did not know him."
           ],
@@ -482,7 +606,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Dear friends, now we are children of God, and what we will be has not yet been made known. But we know that when Christ appears, we shall be like him, for we shall see him as he is."
           ],
@@ -490,7 +616,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "All who have this hope in him purify themselves, just as he is pure."
           ],
@@ -498,7 +626,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Everyone who sins breaks the law; in fact, sin is lawlessness."
           ],
@@ -506,7 +636,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "But you know that he appeared so that he might take away our sins. And in him is no sin."
           ],
@@ -514,7 +646,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "No one who lives in him keeps on sinning. No one who continues to sin has either seen him or known him."
           ],
@@ -522,7 +656,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dear children, do not let anyone lead you astray. The one who does what is right is righteous, just as he is righteous."
           ],
@@ -530,7 +666,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "The one who does what is sinful is of the devil, because the devil has been sinning from the beginning. The reason the Son of God appeared was to destroy the devil’s work."
           ],
@@ -538,7 +676,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "No one who is born of God will continue to sin, because God’s seed remains in them; they cannot go on sinning, because they have been born of God."
           ],
@@ -546,7 +686,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "This is how we know who the children of God are and who the children of the devil are: Anyone who does not do what is right is not God’s child, nor is anyone who does not love their brother and sister."
           ],
@@ -555,12 +697,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["More on Love and Hatred"],
+          "lines": [
+            "More on Love and Hatred"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "For this is the message you heard from the beginning: We should love one another."
           ],
@@ -568,7 +714,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Do not be like Cain, who belonged to the evil one and murdered his brother. And why did he murder him? Because his own actions were evil and his brother’s were righteous."
           ],
@@ -576,7 +724,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Do not be surprised, my brothers and sisters, if the world hates you."
           ],
@@ -584,7 +734,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "We know that we have passed from death to life, because we love each other. Anyone who does not love remains in death."
           ],
@@ -592,7 +744,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life residing in him."
           ],
@@ -600,7 +754,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters."
           ],
@@ -608,7 +764,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person?"
           ],
@@ -616,7 +774,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Dear children, let us not love with words or speech but with actions and in truth."
           ],
@@ -624,7 +784,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "This is how we know that we belong to the truth and how we set our hearts at rest in his presence:"
           ],
@@ -632,7 +794,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "If our hearts condemn us, we know that God is greater than our hearts, and he knows everything."
           ],
@@ -640,7 +804,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Dear friends, if our hearts do not condemn us, we have confidence before God"
           ],
@@ -648,7 +814,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "and receive from him anything we ask, because we keep his commands and do what pleases him."
           ],
@@ -656,7 +824,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [23],
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "And this is his command: to believe in the name of his Son, Jesus Christ, and to love one another as he commanded us."
           ],
@@ -664,7 +834,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [24],
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "The one who keeps God’s commands lives in him, and he in them. And this is how we know that he lives in us: We know it by the Spirit he gave us."
           ],
@@ -676,18 +848,24 @@
       "chapter_usfm": "1JN.4",
       "is_chapter": true,
       "current": {
-        "usfm": ["1JN.4"],
+        "usfm": [
+          "1JN.4"
+        ],
         "human": "1 John 4"
       },
       "next": {
         "canonical": true,
-        "usfm": ["1JN.5"],
+        "usfm": [
+          "1JN.5"
+        ],
         "human": "1 John 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["1JN.3"],
+        "usfm": [
+          "1JN.3"
+        ],
         "human": "1 John 3",
         "toc": true
       },
@@ -697,12 +875,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["On Denying the Incarnation"],
+          "lines": [
+            "On Denying the Incarnation"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world."
           ],
@@ -710,7 +892,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "This is how you can recognize the Spirit of God: Every spirit that acknowledges that Jesus Christ has come in the flesh is from God,"
           ],
@@ -718,7 +902,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "but every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and even now is already in the world."
           ],
@@ -726,7 +912,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "You, dear children, are from God and have overcome them, because the one who is in you is greater than the one who is in the world."
           ],
@@ -734,7 +922,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "They are from the world and therefore speak from the viewpoint of the world, and the world listens to them."
           ],
@@ -742,7 +932,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "We are from God, and whoever knows God listens to us; but whoever is not from God does not listen to us. This is how we recognize the Spirit of truth and the spirit of falsehood."
           ],
@@ -751,12 +943,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["God’s Love and Ours"],
+          "lines": [
+            "God’s Love and Ours"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Dear friends, let us love one another, for love comes from God. Everyone who loves has been born of God and knows God."
           ],
@@ -764,7 +960,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Whoever does not love does not know God, because God is love."
           ],
@@ -772,7 +970,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him."
           ],
@@ -780,7 +980,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins."
           ],
@@ -788,7 +990,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Dear friends, since God so loved us, we also ought to love one another."
           ],
@@ -796,7 +1000,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us."
           ],
@@ -804,7 +1010,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "This is how we know that we live in him and he in us: He has given us of his Spirit."
           ],
@@ -812,7 +1020,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "And we have seen and testify that the Father has sent his Son to be the Savior of the world."
           ],
@@ -820,7 +1030,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "If anyone acknowledges that Jesus is the Son of God, God lives in them and they in God."
           ],
@@ -828,7 +1040,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "And so we know and rely on the love God has for us.",
             "God is love. Whoever lives in love lives in God, and God in them."
@@ -837,7 +1051,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "This is how love is made complete among us so that we will have confidence on the day of judgment: In this world we are like Jesus."
           ],
@@ -845,7 +1061,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."
           ],
@@ -853,13 +1071,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
-          "lines": ["We love because he first loved us."],
+          "verse_numbers": [
+            19
+          ],
+          "lines": [
+            "We love because he first loved us."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother and sister, whom they have seen, cannot love God, whom they have not seen."
           ],
@@ -867,7 +1091,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "And he has given us this command: Anyone who loves God must also love their brother and sister."
           ],
@@ -879,18 +1105,24 @@
       "chapter_usfm": "1JN.5",
       "is_chapter": true,
       "current": {
-        "usfm": ["1JN.5"],
+        "usfm": [
+          "1JN.5"
+        ],
         "human": "1 John 5"
       },
       "next": {
         "canonical": false,
-        "usfm": ["2JN.INTRO1"],
+        "usfm": [
+          "2JN.INTRO1"
+        ],
         "human": "2 John Intro",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["1JN.4"],
+        "usfm": [
+          "1JN.4"
+        ],
         "human": "1 John 4",
         "toc": true
       },
@@ -900,12 +1132,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Faith in the Incarnate Son of God"],
+          "lines": [
+            "Faith in the Incarnate Son of God"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Everyone who believes that Jesus is the Christ is born of God, and everyone who loves the father loves his child as well."
           ],
@@ -913,7 +1149,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "This is how we know that we love the children of God: by loving God and carrying out his commands."
           ],
@@ -921,7 +1159,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "In fact, this is love for God: to keep his commands. And his commands are not burdensome,"
           ],
@@ -929,7 +1169,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "for everyone born of God overcomes the world. This is the victory that has overcome the world, even our faith."
           ],
@@ -937,7 +1179,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Who is it that overcomes the world? Only the one who believes that Jesus is the Son of God."
           ],
@@ -945,7 +1189,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "This is the one who came by water and blood—Jesus Christ. He did not come by water only, but by water and blood. And it is the Spirit who testifies, because the Spirit is the truth."
           ],
@@ -953,13 +1199,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
-          "lines": ["For there are three that testify:"],
+          "verse_numbers": [
+            7
+          ],
+          "lines": [
+            "For there are three that testify:"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "the Spirit, the water and the blood; and the three are in agreement."
           ],
@@ -967,7 +1219,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "We accept human testimony, but God’s testimony is greater because it is the testimony of God, which he has given about his Son."
           ],
@@ -975,7 +1229,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Whoever believes in the Son of God accepts this testimony. Whoever does not believe God has made him out to be a liar, because they have not believed the testimony God has given about his Son."
           ],
@@ -983,7 +1239,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "And this is the testimony: God has given us eternal life, and this life is in his Son."
           ],
@@ -991,7 +1249,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Whoever has the Son has life; whoever does not have the Son of God does not have life."
           ],
@@ -1000,12 +1260,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Concluding Affirmations"],
+          "lines": [
+            "Concluding Affirmations"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life."
           ],
@@ -1013,7 +1277,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us."
           ],
@@ -1021,7 +1287,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "And if we know that he hears us—whatever we ask—we know that we have what we asked of him."
           ],
@@ -1029,7 +1297,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "If you see any brother or sister commit a sin that does not lead to death, you should pray and God will give them life. I refer to those whose sin does not lead to death. There is a sin that leads to death. I am not saying that you should pray about that."
           ],
@@ -1037,7 +1307,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "All wrongdoing is sin, and there is sin that does not lead to death."
           ],
@@ -1045,7 +1317,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "We know that anyone born of God does not continue to sin; the One who was born of God keeps them safe, and the evil one cannot harm them."
           ],
@@ -1053,7 +1327,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "We know that we are children of God, and that the whole world is under the control of the evil one."
           ],
@@ -1061,7 +1337,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true by being in his Son Jesus Christ. He is the true God and eternal life."
           ],
@@ -1069,8 +1347,12 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
-          "lines": ["Dear children, keep yourselves from idols."],
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Dear children, keep yourselves from idols."
+          ],
           "rlw_lines": []
         }
       ]

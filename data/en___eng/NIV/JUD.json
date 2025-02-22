@@ -24,18 +24,24 @@
       "chapter_usfm": "JUD.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": ["JUD.INTRO1"],
+        "usfm": [
+          "JUD.INTRO1"
+        ],
         "human": "Jude Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": ["JUD.1"],
+        "usfm": [
+          "JUD.1"
+        ],
         "human": "Jude 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["3JN.1"],
+        "usfm": [
+          "3JN.1"
+        ],
         "human": "3 John 1",
         "toc": true
       },
@@ -47,18 +53,24 @@
       "chapter_usfm": "JUD.1",
       "is_chapter": true,
       "current": {
-        "usfm": ["JUD.1"],
+        "usfm": [
+          "JUD.1"
+        ],
         "human": "Jude 1"
       },
       "next": {
         "canonical": false,
-        "usfm": ["REV.INTRO1"],
+        "usfm": [
+          "REV.INTRO1"
+        ],
         "human": "Revelation Intro",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": ["JUD.INTRO1"],
+        "usfm": [
+          "JUD.INTRO1"
+        ],
         "human": "Jude Intro",
         "toc": true
       },
@@ -67,7 +79,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Jude, a servant of Jesus Christ and a brother of James,",
             "To those who have been called, who are loved in God the Father and kept for Jesus Christ:"
@@ -76,19 +90,27 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
-          "lines": ["Mercy, peace and love be yours in abundance."],
+          "verse_numbers": [
+            2
+          ],
+          "lines": [
+            "Mercy, peace and love be yours in abundance."
+          ],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["The Sin and Doom of Ungodly People"],
+          "lines": [
+            "The Sin and Doom of Ungodly People"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Dear friends, although I was very eager to write to you about the salvation we share, I felt compelled to write and urge you to contend for the faith that was once for all entrusted to God’s holy people."
           ],
@@ -96,7 +118,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "For certain individuals whose condemnation was written about long ago have secretly slipped in among you. They are ungodly people, who pervert the grace of our God into a license for immorality and deny Jesus Christ our only Sovereign and Lord."
           ],
@@ -104,7 +128,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Though you already know all this, I want to remind you that the Lord at one time delivered his people out of Egypt, but later destroyed those who did not believe."
           ],
@@ -112,7 +138,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "And the angels who did not keep their positions of authority but abandoned their proper dwelling—these he has kept in darkness, bound with everlasting chains for judgment on the great Day."
           ],
@@ -120,7 +148,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "In a similar way, Sodom and Gomorrah and the surrounding towns gave themselves up to sexual immorality and perversion. They serve as an example of those who suffer the punishment of eternal fire."
           ],
@@ -128,7 +158,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "In the very same way, on the strength of their dreams these ungodly people pollute their own bodies, reject authority and heap abuse on celestial beings."
           ],
@@ -136,7 +168,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "But even the archangel Michael, when he was disputing with the devil about the body of Moses, did not himself dare to condemn him for slander but said, “The Lord rebuke you!”"
           ],
@@ -144,7 +178,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Yet these people slander whatever they do not understand, and the very things they do understand by instinct—as irrational animals do—will destroy them."
           ],
@@ -152,7 +188,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Woe to them! They have taken the way of Cain; they have rushed for profit into Balaam’s error; they have been destroyed in Korah’s rebellion."
           ],
@@ -160,7 +198,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "These people are blemishes at your love feasts, eating with you without the slightest qualm—shepherds who feed only themselves. They are clouds without rain, blown along by the wind; autumn trees, without fruit and uprooted—twice dead."
           ],
@@ -168,7 +208,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "They are wild waves of the sea, foaming up their shame; wandering stars, for whom blackest darkness has been reserved forever."
           ],
@@ -176,7 +218,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Enoch, the seventh from Adam, prophesied about them: “See, the Lord is coming with thousands upon thousands of his holy ones"
           ],
@@ -184,7 +228,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "to judge everyone, and to convict all of them of all the ungodly acts they have committed in their ungodliness, and of all the defiant words ungodly sinners have spoken against him.”"
           ],
@@ -192,7 +238,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "These people are grumblers and faultfinders; they follow their own evil desires; they boast about themselves and flatter others for their own advantage."
           ],
@@ -201,12 +249,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["A Call to Persevere"],
+          "lines": [
+            "A Call to Persevere"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "But, dear friends, remember what the apostles of our Lord Jesus Christ foretold."
           ],
@@ -214,7 +266,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "They said to you, “In the last times there will be scoffers who will follow their own ungodly desires.”"
           ],
@@ -222,7 +276,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "These are the people who divide you, who follow mere natural instincts and do not have the Spirit."
           ],
@@ -230,7 +286,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "But you, dear friends, by building yourselves up in your most holy faith and praying in the Holy Spirit,"
           ],
@@ -238,7 +296,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "keep yourselves in God’s love as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life."
           ],
@@ -246,13 +306,19 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
-          "lines": ["Be merciful to those who doubt;"],
+          "verse_numbers": [
+            22
+          ],
+          "lines": [
+            "Be merciful to those who doubt;"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [23],
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "save others by snatching them from the fire; to others show mercy, mixed with fear—hating even the clothing stained by corrupted flesh."
           ],
@@ -261,12 +327,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Doxology"],
+          "lines": [
+            "Doxology"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [24],
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "To him who is able to keep you from stumbling and to present you before his glorious presence without fault and with great joy—"
           ],
@@ -274,7 +344,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [25],
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "to the only God our Savior be glory, majesty, power and authority, through Jesus Christ our Lord, before all ages, now and forevermore! Amen."
           ],

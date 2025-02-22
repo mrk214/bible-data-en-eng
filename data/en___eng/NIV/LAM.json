@@ -24,18 +24,24 @@
       "chapter_usfm": "LAM.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": ["LAM.INTRO1"],
+        "usfm": [
+          "LAM.INTRO1"
+        ],
         "human": "Lamentations Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": ["LAM.1"],
+        "usfm": [
+          "LAM.1"
+        ],
         "human": "Lamentations 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["JER.52"],
+        "usfm": [
+          "JER.52"
+        ],
         "human": "Jeremiah 52",
         "toc": true
       },
@@ -47,18 +53,24 @@
       "chapter_usfm": "LAM.1",
       "is_chapter": true,
       "current": {
-        "usfm": ["LAM.1"],
+        "usfm": [
+          "LAM.1"
+        ],
         "human": "Lamentations 1"
       },
       "next": {
         "canonical": true,
-        "usfm": ["LAM.2"],
+        "usfm": [
+          "LAM.2"
+        ],
         "human": "Lamentations 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": ["LAM.INTRO1"],
+        "usfm": [
+          "LAM.INTRO1"
+        ],
         "human": "Lamentations Intro",
         "toc": true
       },
@@ -67,7 +79,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "How deserted lies the city,",
             "once so full of people!",
@@ -80,7 +94,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Bitterly she weeps at night,",
             "tears are on her cheeks.",
@@ -93,7 +109,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "After affliction and harsh labor,",
             "Judah has gone into exile.",
@@ -106,7 +124,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "The roads to Zion mourn,",
             "for no one comes to her appointed festivals.",
@@ -119,7 +139,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Her foes have become her masters;",
             "her enemies are at ease.",
@@ -132,7 +154,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "All the splendor has departed",
             "from Daughter Zion.",
@@ -145,7 +169,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "In the days of her affliction and wandering",
             "Jerusalem remembers all the treasures",
@@ -159,7 +185,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Jerusalem has sinned greatly",
             "and so has become unclean.",
@@ -172,7 +200,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Her filthiness clung to her skirts;",
             "she did not consider her future.",
@@ -185,7 +215,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "The enemy laid hands",
             "on all her treasures;",
@@ -198,7 +230,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "All her people groan",
             "as they search for bread;",
@@ -211,7 +245,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "“Is it nothing to you, all you who pass by?",
             "Look around and see.",
@@ -224,7 +260,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "“From on high he sent fire,",
             "sent it down into my bones.",
@@ -237,7 +275,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "“My sins have been bound into a yoke;",
             "by his hands they were woven together.",
@@ -250,7 +290,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "“The Lord has rejected",
             "all the warriors in my midst;",
@@ -263,7 +305,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "“This is why I weep",
             "and my eyes overflow with tears.",
@@ -276,7 +320,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Zion stretches out her hands,",
             "but there is no one to comfort her.",
@@ -289,7 +335,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "“The Lord is righteous,",
             "yet I rebelled against his command.",
@@ -302,7 +350,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "“I called to my allies",
             "but they betrayed me.",
@@ -315,7 +365,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "“See, Lord, how distressed I am!",
             "I am in torment within,",
@@ -328,7 +380,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "“People have heard my groaning,",
             "but there is no one to comfort me.",
@@ -341,7 +395,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "“Let all their wickedness come before you;",
             "deal with them",
@@ -358,18 +414,24 @@
       "chapter_usfm": "LAM.2",
       "is_chapter": true,
       "current": {
-        "usfm": ["LAM.2"],
+        "usfm": [
+          "LAM.2"
+        ],
         "human": "Lamentations 2"
       },
       "next": {
         "canonical": true,
-        "usfm": ["LAM.3"],
+        "usfm": [
+          "LAM.3"
+        ],
         "human": "Lamentations 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["LAM.1"],
+        "usfm": [
+          "LAM.1"
+        ],
         "human": "Lamentations 1",
         "toc": true
       },
@@ -378,7 +440,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "How the Lord has covered Daughter Zion",
             "with the cloud of his anger!",
@@ -391,7 +455,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Without pity the Lord has swallowed up",
             "all the dwellings of Jacob;",
@@ -404,7 +470,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "In fierce anger he has cut off",
             "every horn of Israel.",
@@ -417,7 +485,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Like an enemy he has strung his bow;",
             "his right hand is ready.",
@@ -430,7 +500,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "The Lord is like an enemy;",
             "he has swallowed up Israel.",
@@ -443,7 +515,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "He has laid waste his dwelling like a garden;",
             "he has destroyed his place of meeting.",
@@ -456,7 +530,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "The Lord has rejected his altar",
             "and abandoned his sanctuary.",
@@ -469,7 +545,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "The Lord determined to tear down",
             "the wall around Daughter Zion.",
@@ -482,7 +560,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Her gates have sunk into the ground;",
             "their bars he has broken and destroyed.",
@@ -495,7 +575,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "The elders of Daughter Zion",
             "sit on the ground in silence;",
@@ -508,7 +590,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "My eyes fail from weeping,",
             "I am in torment within;",
@@ -521,7 +605,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "They say to their mothers,",
             "“Where is bread and wine?”",
@@ -534,7 +620,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "What can I say for you?",
             "With what can I compare you,",
@@ -549,7 +637,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "The visions of your prophets",
             "were false and worthless;",
@@ -562,7 +652,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "All who pass your way",
             "clap their hands at you;",
@@ -576,7 +668,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "All your enemies open their mouths",
             "wide against you;",
@@ -589,7 +683,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "The Lord has done what he planned;",
             "he has fulfilled his word,",
@@ -602,7 +698,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "The hearts of the people",
             "cry out to the Lord.",
@@ -616,7 +714,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Arise, cry out in the night,",
             "as the watches of the night begin;",
@@ -631,7 +731,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "“Look, Lord, and consider:",
             "Whom have you ever treated like this?",
@@ -644,7 +746,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "“Young and old lie together",
             "in the dust of the streets;",
@@ -657,7 +761,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "“As you summon to a feast day,",
             "so you summoned against me terrors on every side.",
@@ -674,18 +780,24 @@
       "chapter_usfm": "LAM.3",
       "is_chapter": true,
       "current": {
-        "usfm": ["LAM.3"],
+        "usfm": [
+          "LAM.3"
+        ],
         "human": "Lamentations 3"
       },
       "next": {
         "canonical": true,
-        "usfm": ["LAM.4"],
+        "usfm": [
+          "LAM.4"
+        ],
         "human": "Lamentations 4",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["LAM.2"],
+        "usfm": [
+          "LAM.2"
+        ],
         "human": "Lamentations 2",
         "toc": true
       },
@@ -694,7 +806,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "I am the man who has seen affliction",
             "by the rod of the Lord’s wrath."
@@ -703,7 +817,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "He has driven me away and made me walk",
             "in darkness rather than light;"
@@ -712,7 +828,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "indeed, he has turned his hand against me",
             "again and again, all day long."
@@ -721,7 +839,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "He has made my skin and my flesh grow old",
             "and has broken my bones."
@@ -730,7 +850,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "He has besieged me and surrounded me",
             "with bitterness and hardship."
@@ -739,7 +861,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "He has made me dwell in darkness",
             "like those long dead."
@@ -748,7 +872,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "He has walled me in so I cannot escape;",
             "he has weighed me down with chains."
@@ -757,7 +883,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Even when I call out or cry for help,",
             "he shuts out my prayer."
@@ -766,7 +894,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "He has barred my way with blocks of stone;",
             "he has made my paths crooked."
@@ -775,13 +905,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
-          "lines": ["Like a bear lying in wait,", "like a lion in hiding,"],
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Like a bear lying in wait,",
+            "like a lion in hiding,"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "he dragged me from the path and mangled me",
             "and left me without help."
@@ -790,7 +927,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "He drew his bow",
             "and made me the target for his arrows."
@@ -799,13 +938,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
-          "lines": ["He pierced my heart", "with arrows from his quiver."],
+          "verse_numbers": [
+            13
+          ],
+          "lines": [
+            "He pierced my heart",
+            "with arrows from his quiver."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "I became the laughingstock of all my people;",
             "they mock me in song all day long."
@@ -814,7 +960,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "He has filled me with bitter herbs",
             "and given me gall to drink."
@@ -823,7 +971,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "He has broken my teeth with gravel;",
             "he has trampled me in the dust."
@@ -832,7 +982,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "I have been deprived of peace;",
             "I have forgotten what prosperity is."
@@ -841,7 +993,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "So I say, “My splendor is gone",
             "and all that I had hoped from the Lord.”"
@@ -850,7 +1004,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "I remember my affliction and my wandering,",
             "the bitterness and the gall."
@@ -859,7 +1015,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "I well remember them,",
             "and my soul is downcast within me."
@@ -868,13 +1026,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
-          "lines": ["Yet this I call to mind", "and therefore I have hope:"],
+          "verse_numbers": [
+            21
+          ],
+          "lines": [
+            "Yet this I call to mind",
+            "and therefore I have hope:"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Because of the Lord’s great love we are not consumed,",
             "for his compassions never fail."
@@ -883,7 +1048,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [23],
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "They are new every morning;",
             "great is your faithfulness."
@@ -892,7 +1059,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [24],
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "I say to myself, “The Lord is my portion;",
             "therefore I will wait for him.”"
@@ -901,7 +1070,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [25],
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "The Lord is good to those whose hope is in him,",
             "to the one who seeks him;"
@@ -910,7 +1081,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [26],
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "it is good to wait quietly",
             "for the salvation of the Lord."
@@ -919,7 +1092,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [27],
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "It is good for a man to bear the yoke",
             "while he is young."
@@ -928,7 +1103,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [28],
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "Let him sit alone in silence,",
             "for the Lord has laid it on him."
@@ -937,7 +1114,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [29],
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Let him bury his face in the dust—",
             "there may yet be hope."
@@ -946,7 +1125,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [30],
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "Let him offer his cheek to one who would strike him,",
             "and let him be filled with disgrace."
@@ -955,13 +1136,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [31],
-          "lines": ["For no one is cast off", "by the Lord forever."],
+          "verse_numbers": [
+            31
+          ],
+          "lines": [
+            "For no one is cast off",
+            "by the Lord forever."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [32],
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "Though he brings grief, he will show compassion,",
             "so great is his unfailing love."
@@ -970,7 +1158,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [33],
+          "verse_numbers": [
+            33
+          ],
           "lines": [
             "For he does not willingly bring affliction",
             "or grief to anyone."
@@ -979,19 +1169,31 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [34],
-          "lines": ["To crush underfoot", "all prisoners in the land,"],
+          "verse_numbers": [
+            34
+          ],
+          "lines": [
+            "To crush underfoot",
+            "all prisoners in the land,"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [35],
-          "lines": ["to deny people their rights", "before the Most High,"],
+          "verse_numbers": [
+            35
+          ],
+          "lines": [
+            "to deny people their rights",
+            "before the Most High,"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [36],
+          "verse_numbers": [
+            36
+          ],
           "lines": [
             "to deprive them of justice—",
             "would not the Lord see such things?"
@@ -1000,7 +1202,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [37],
+          "verse_numbers": [
+            37
+          ],
           "lines": [
             "Who can speak and have it happen",
             "if the Lord has not decreed it?"
@@ -1009,7 +1213,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [38],
+          "verse_numbers": [
+            38
+          ],
           "lines": [
             "Is it not from the mouth of the Most High",
             "that both calamities and good things come?"
@@ -1018,7 +1224,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [39],
+          "verse_numbers": [
+            39
+          ],
           "lines": [
             "Why should the living complain",
             "when punished for their sins?"
@@ -1027,7 +1235,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [40],
+          "verse_numbers": [
+            40
+          ],
           "lines": [
             "Let us examine our ways and test them,",
             "and let us return to the Lord."
@@ -1036,7 +1246,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [41],
+          "verse_numbers": [
+            41
+          ],
           "lines": [
             "Let us lift up our hearts and our hands",
             "to God in heaven, and say:"
@@ -1045,7 +1257,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [42],
+          "verse_numbers": [
+            42
+          ],
           "lines": [
             "“We have sinned and rebelled",
             "and you have not forgiven."
@@ -1054,7 +1268,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [43],
+          "verse_numbers": [
+            43
+          ],
           "lines": [
             "“You have covered yourself with anger and pursued us;",
             "you have slain without pity."
@@ -1063,7 +1279,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [44],
+          "verse_numbers": [
+            44
+          ],
           "lines": [
             "You have covered yourself with a cloud",
             "so that no prayer can get through."
@@ -1072,13 +1290,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [45],
-          "lines": ["You have made us scum and refuse", "among the nations."],
+          "verse_numbers": [
+            45
+          ],
+          "lines": [
+            "You have made us scum and refuse",
+            "among the nations."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [46],
+          "verse_numbers": [
+            46
+          ],
           "lines": [
             "“All our enemies have opened their mouths",
             "wide against us."
@@ -1087,7 +1312,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [47],
+          "verse_numbers": [
+            47
+          ],
           "lines": [
             "We have suffered terror and pitfalls,",
             "ruin and destruction.”"
@@ -1096,7 +1323,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [48],
+          "verse_numbers": [
+            48
+          ],
           "lines": [
             "Streams of tears flow from my eyes",
             "because my people are destroyed."
@@ -1105,19 +1334,31 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [49],
-          "lines": ["My eyes will flow unceasingly,", "without relief,"],
+          "verse_numbers": [
+            49
+          ],
+          "lines": [
+            "My eyes will flow unceasingly,",
+            "without relief,"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [50],
-          "lines": ["until the Lord looks down", "from heaven and sees."],
+          "verse_numbers": [
+            50
+          ],
+          "lines": [
+            "until the Lord looks down",
+            "from heaven and sees."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [51],
+          "verse_numbers": [
+            51
+          ],
           "lines": [
             "What I see brings grief to my soul",
             "because of all the women of my city."
@@ -1126,7 +1367,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [52],
+          "verse_numbers": [
+            52
+          ],
           "lines": [
             "Those who were my enemies without cause",
             "hunted me like a bird."
@@ -1135,7 +1378,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [53],
+          "verse_numbers": [
+            53
+          ],
           "lines": [
             "They tried to end my life in a pit",
             "and threw stones at me;"
@@ -1144,7 +1389,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [54],
+          "verse_numbers": [
+            54
+          ],
           "lines": [
             "the waters closed over my head,",
             "and I thought I was about to perish."
@@ -1153,7 +1400,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [55],
+          "verse_numbers": [
+            55
+          ],
           "lines": [
             "I called on your name, Lord,",
             "from the depths of the pit."
@@ -1162,7 +1411,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [56],
+          "verse_numbers": [
+            56
+          ],
           "lines": [
             "You heard my plea: “Do not close your ears",
             "to my cry for relief.”"
@@ -1171,7 +1422,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [57],
+          "verse_numbers": [
+            57
+          ],
           "lines": [
             "You came near when I called you,",
             "and you said, “Do not fear.”"
@@ -1180,13 +1433,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [58],
-          "lines": ["You, Lord, took up my case;", "you redeemed my life."],
+          "verse_numbers": [
+            58
+          ],
+          "lines": [
+            "You, Lord, took up my case;",
+            "you redeemed my life."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [59],
+          "verse_numbers": [
+            59
+          ],
           "lines": [
             "Lord, you have seen the wrong done to me.",
             "Uphold my cause!"
@@ -1195,7 +1455,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [60],
+          "verse_numbers": [
+            60
+          ],
           "lines": [
             "You have seen the depth of their vengeance,",
             "all their plots against me."
@@ -1204,7 +1466,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [61],
+          "verse_numbers": [
+            61
+          ],
           "lines": [
             "Lord, you have heard their insults,",
             "all their plots against me—"
@@ -1213,7 +1477,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [62],
+          "verse_numbers": [
+            62
+          ],
           "lines": [
             "what my enemies whisper and mutter",
             "against me all day long."
@@ -1222,7 +1488,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [63],
+          "verse_numbers": [
+            63
+          ],
           "lines": [
             "Look at them! Sitting or standing,",
             "they mock me in their songs."
@@ -1231,7 +1499,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [64],
+          "verse_numbers": [
+            64
+          ],
           "lines": [
             "Pay them back what they deserve, Lord,",
             "for what their hands have done."
@@ -1240,7 +1510,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [65],
+          "verse_numbers": [
+            65
+          ],
           "lines": [
             "Put a veil over their hearts,",
             "and may your curse be on them!"
@@ -1249,7 +1521,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [66],
+          "verse_numbers": [
+            66
+          ],
           "lines": [
             "Pursue them in anger and destroy them",
             "from under the heavens of the Lord."
@@ -1262,18 +1536,24 @@
       "chapter_usfm": "LAM.4",
       "is_chapter": true,
       "current": {
-        "usfm": ["LAM.4"],
+        "usfm": [
+          "LAM.4"
+        ],
         "human": "Lamentations 4"
       },
       "next": {
         "canonical": true,
-        "usfm": ["LAM.5"],
+        "usfm": [
+          "LAM.5"
+        ],
         "human": "Lamentations 5",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["LAM.3"],
+        "usfm": [
+          "LAM.3"
+        ],
         "human": "Lamentations 3",
         "toc": true
       },
@@ -1282,7 +1562,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "How the gold has lost its luster,",
             "the fine gold become dull!",
@@ -1293,7 +1575,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "How the precious children of Zion,",
             "once worth their weight in gold,",
@@ -1304,7 +1588,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Even jackals offer their breasts",
             "to nurse their young,",
@@ -1315,7 +1601,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "Because of thirst the infant’s tongue",
             "sticks to the roof of its mouth;",
@@ -1326,7 +1614,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Those who once ate delicacies",
             "are destitute in the streets.",
@@ -1337,7 +1627,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "The punishment of my people",
             "is greater than that of Sodom,",
@@ -1348,7 +1640,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Their princes were brighter than snow",
             "and whiter than milk,",
@@ -1359,7 +1653,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "But now they are blacker than soot;",
             "they are not recognized in the streets.",
@@ -1370,7 +1666,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Those killed by the sword are better off",
             "than those who die of famine;",
@@ -1381,7 +1679,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "With their own hands compassionate women",
             "have cooked their own children,",
@@ -1392,7 +1692,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "The Lord has given full vent to his wrath;",
             "he has poured out his fierce anger.",
@@ -1403,7 +1705,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "The kings of the earth did not believe,",
             "nor did any of the peoples of the world,",
@@ -1414,7 +1718,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "But it happened because of the sins of her prophets",
             "and the iniquities of her priests,",
@@ -1425,7 +1731,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Now they grope through the streets",
             "as if they were blind.",
@@ -1436,7 +1744,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "“Go away! You are unclean!” people cry to them.",
             "“Away! Away! Don’t touch us!”",
@@ -1448,7 +1758,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "The Lord himself has scattered them;",
             "he no longer watches over them.",
@@ -1459,7 +1771,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Moreover, our eyes failed,",
             "looking in vain for help;",
@@ -1470,7 +1784,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "People stalked us at every step,",
             "so we could not walk in our streets.",
@@ -1481,7 +1797,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "Our pursuers were swifter",
             "than eagles in the sky;",
@@ -1492,7 +1810,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "The Lord’s anointed, our very life breath,",
             "was caught in their traps.",
@@ -1503,7 +1823,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Rejoice and be glad, Daughter Edom,",
             "you who live in the land of Uz.",
@@ -1514,7 +1836,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Your punishment will end, Daughter Zion;",
             "he will not prolong your exile.",
@@ -1529,18 +1853,24 @@
       "chapter_usfm": "LAM.5",
       "is_chapter": true,
       "current": {
-        "usfm": ["LAM.5"],
+        "usfm": [
+          "LAM.5"
+        ],
         "human": "Lamentations 5"
       },
       "next": {
         "canonical": false,
-        "usfm": ["EZK.INTRO1"],
+        "usfm": [
+          "EZK.INTRO1"
+        ],
         "human": "Ezekiel Intro",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["LAM.4"],
+        "usfm": [
+          "LAM.4"
+        ],
         "human": "Lamentations 4",
         "toc": true
       },
@@ -1549,7 +1879,9 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Remember, Lord, what has happened to us;",
             "look, and see our disgrace."
@@ -1558,7 +1890,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Our inheritance has been turned over to strangers,",
             "our homes to foreigners."
@@ -1567,13 +1901,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
-          "lines": ["We have become fatherless,", "our mothers are widows."],
+          "verse_numbers": [
+            3
+          ],
+          "lines": [
+            "We have become fatherless,",
+            "our mothers are widows."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "We must buy the water we drink;",
             "our wood can be had only at a price."
@@ -1582,7 +1923,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Those who pursue us are at our heels;",
             "we are weary and find no rest."
@@ -1591,7 +1934,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "We submitted to Egypt and Assyria",
             "to get enough bread."
@@ -1600,7 +1945,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "Our ancestors sinned and are no more,",
             "and we bear their punishment."
@@ -1609,7 +1956,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Slaves rule over us,",
             "and there is no one to free us from their hands."
@@ -1618,7 +1967,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "We get our bread at the risk of our lives",
             "because of the sword in the desert."
@@ -1627,13 +1978,20 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
-          "lines": ["Our skin is hot as an oven,", "feverish from hunger."],
+          "verse_numbers": [
+            10
+          ],
+          "lines": [
+            "Our skin is hot as an oven,",
+            "feverish from hunger."
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Women have been violated in Zion,",
             "and virgins in the towns of Judah."
@@ -1642,7 +2000,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "Princes have been hung up by their hands;",
             "elders are shown no respect."
@@ -1651,7 +2011,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Young men toil at the millstones;",
             "boys stagger under loads of wood."
@@ -1660,7 +2022,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "The elders are gone from the city gate;",
             "the young men have stopped their music."
@@ -1669,7 +2033,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Joy is gone from our hearts;",
             "our dancing has turned to mourning."
@@ -1678,7 +2044,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "The crown has fallen from our head.",
             "Woe to us, for we have sinned!"
@@ -1687,7 +2055,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Because of this our hearts are faint,",
             "because of these things our eyes grow dim"
@@ -1696,7 +2066,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "for Mount Zion, which lies desolate,",
             "with jackals prowling over it."
@@ -1705,7 +2077,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "You, Lord, reign forever;",
             "your throne endures from generation to generation."
@@ -1714,7 +2088,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Why do you always forget us?",
             "Why do you forsake us so long?"
@@ -1723,7 +2099,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Restore us to yourself, Lord, that we may return;",
             "renew our days as of old"
@@ -1732,7 +2110,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "unless you have utterly rejected us",
             "and are angry with us beyond measure."

@@ -24,18 +24,24 @@
       "chapter_usfm": "JOL.INTRO1",
       "is_chapter": false,
       "current": {
-        "usfm": ["JOL.INTRO1"],
+        "usfm": [
+          "JOL.INTRO1"
+        ],
         "human": "Joel Intro"
       },
       "next": {
         "canonical": true,
-        "usfm": ["JOL.1"],
+        "usfm": [
+          "JOL.1"
+        ],
         "human": "Joel 1",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["HOS.14"],
+        "usfm": [
+          "HOS.14"
+        ],
         "human": "Hosea 14",
         "toc": true
       },
@@ -47,18 +53,24 @@
       "chapter_usfm": "JOL.1",
       "is_chapter": true,
       "current": {
-        "usfm": ["JOL.1"],
+        "usfm": [
+          "JOL.1"
+        ],
         "human": "Joel 1"
       },
       "next": {
         "canonical": true,
-        "usfm": ["JOL.2"],
+        "usfm": [
+          "JOL.2"
+        ],
         "human": "Joel 2",
         "toc": true
       },
       "previous": {
         "canonical": false,
-        "usfm": ["JOL.INTRO1"],
+        "usfm": [
+          "JOL.INTRO1"
+        ],
         "human": "Joel Intro",
         "toc": true
       },
@@ -67,19 +79,27 @@
       "items": [
         {
           "type": "verse",
-          "verse_numbers": [1],
-          "lines": ["The word of the Lord that came to Joel son of Pethuel."],
+          "verse_numbers": [
+            1
+          ],
+          "lines": [
+            "The word of the Lord that came to Joel son of Pethuel."
+          ],
           "rlw_lines": []
         },
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["An Invasion of Locusts"],
+          "lines": [
+            "An Invasion of Locusts"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "Hear this, you elders;",
             "listen, all who live in the land.",
@@ -90,7 +110,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Tell it to your children,",
             "and let your children tell it to their children,",
@@ -100,7 +122,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "What the locust swarm has left",
             "the great locusts have eaten;",
@@ -113,7 +137,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "Wake up, you drunkards, and weep!",
             "Wail, all you drinkers of wine;",
@@ -124,7 +150,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "A nation has invaded my land,",
             "a mighty army without number;",
@@ -135,7 +163,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "It has laid waste my vines",
             "and ruined my fig trees.",
@@ -147,7 +177,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "Mourn like a virgin in sackcloth",
             "grieving for the betrothed of her youth."
@@ -156,7 +188,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Grain offerings and drink offerings",
             "are cut off from the house of the Lord.",
@@ -167,7 +201,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "The fields are ruined,",
             "the ground is dried up;",
@@ -179,7 +215,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Despair, you farmers,",
             "wail, you vine growers;",
@@ -190,7 +228,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "The vine is dried up",
             "and the fig tree is withered;",
@@ -204,12 +244,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["A Call to Lamentation"],
+          "lines": [
+            "A Call to Lamentation"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Put on sackcloth, you priests, and mourn;",
             "wail, you who minister before the altar.",
@@ -222,7 +266,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Declare a holy fast;",
             "call a sacred assembly.",
@@ -235,7 +281,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Alas for that day!",
             "For the day of the Lord is near;",
@@ -245,7 +293,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Has not the food been cut off",
             "before our very eyes—",
@@ -256,7 +306,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "The seeds are shriveled",
             "beneath the clods.",
@@ -268,7 +320,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "How the cattle moan!",
             "The herds mill about",
@@ -279,7 +333,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "To you, Lord, I call,",
             "for fire has devoured the pastures in the wilderness",
@@ -289,7 +345,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Even the wild animals pant for you;",
             "the streams of water have dried up",
@@ -303,18 +361,24 @@
       "chapter_usfm": "JOL.2",
       "is_chapter": true,
       "current": {
-        "usfm": ["JOL.2"],
+        "usfm": [
+          "JOL.2"
+        ],
         "human": "Joel 2"
       },
       "next": {
         "canonical": true,
-        "usfm": ["JOL.3"],
+        "usfm": [
+          "JOL.3"
+        ],
         "human": "Joel 3",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["JOL.1"],
+        "usfm": [
+          "JOL.1"
+        ],
         "human": "Joel 1",
         "toc": true
       },
@@ -324,12 +388,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["An Army of Locusts"],
+          "lines": [
+            "An Army of Locusts"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "Blow the trumpet in Zion;",
             "sound the alarm on my holy hill.",
@@ -341,7 +409,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "a day of darkness and gloom,",
             "a day of clouds and blackness.",
@@ -354,7 +424,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "Before them fire devours,",
             "behind them a flame blazes.",
@@ -366,7 +438,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "They have the appearance of horses;",
             "they gallop along like cavalry."
@@ -375,7 +449,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "With a noise like that of chariots",
             "they leap over the mountaintops,",
@@ -386,7 +462,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "At the sight of them, nations are in anguish;",
             "every face turns pale."
@@ -395,7 +473,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "They charge like warriors;",
             "they scale walls like soldiers.",
@@ -406,7 +486,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "They do not jostle each other;",
             "each marches straight ahead.",
@@ -417,7 +499,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "They rush upon the city;",
             "they run along the wall.",
@@ -428,7 +512,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Before them the earth shakes,",
             "the heavens tremble,",
@@ -439,7 +525,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "The Lord thunders",
             "at the head of his army;",
@@ -454,12 +542,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Rend Your Heart"],
+          "lines": [
+            "Rend Your Heart"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "“Even now,” declares the Lord,",
             "“return to me with all your heart,",
@@ -469,7 +561,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Rend your heart",
             "and not your garments.",
@@ -482,7 +576,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Who knows? He may turn and relent",
             "and leave behind a blessing—",
@@ -493,7 +589,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "Blow the trumpet in Zion,",
             "declare a holy fast,",
@@ -503,7 +601,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "Gather the people,",
             "consecrate the assembly;",
@@ -517,7 +617,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "Let the priests, who minister before the Lord,",
             "weep between the portico and the altar.",
@@ -532,12 +634,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["The Lord’s Answer"],
+          "lines": [
+            "The Lord’s Answer"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "Then the Lord was jealous for his land",
             "and took pity on his people."
@@ -546,7 +652,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "The Lord replied to them:",
             "“I am sending you grain, new wine and olive oil,",
@@ -558,7 +666,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "“I will drive the northern horde far from you,",
             "pushing it into a parched and barren land;",
@@ -572,7 +682,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Do not be afraid, land of Judah;",
             "be glad and rejoice.",
@@ -582,7 +694,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [22],
+          "verse_numbers": [
+            22
+          ],
           "lines": [
             "Do not be afraid, you wild animals,",
             "for the pastures in the wilderness are becoming green.",
@@ -593,7 +707,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [23],
+          "verse_numbers": [
+            23
+          ],
           "lines": [
             "Be glad, people of Zion,",
             "rejoice in the Lord your God,",
@@ -606,7 +722,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [24],
+          "verse_numbers": [
+            24
+          ],
           "lines": [
             "The threshing floors will be filled with grain;",
             "the vats will overflow with new wine and oil."
@@ -615,7 +733,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [25],
+          "verse_numbers": [
+            25
+          ],
           "lines": [
             "“I will repay you for the years the locusts have eaten—",
             "the great locust and the young locust,",
@@ -626,7 +746,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [26],
+          "verse_numbers": [
+            26
+          ],
           "lines": [
             "You will have plenty to eat, until you are full,",
             "and you will praise the name of the Lord your God,",
@@ -637,7 +759,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [27],
+          "verse_numbers": [
+            27
+          ],
           "lines": [
             "Then you will know that I am in Israel,",
             "that I am the Lord your God,",
@@ -649,12 +773,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["The Day of the Lord"],
+          "lines": [
+            "The Day of the Lord"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [28],
+          "verse_numbers": [
+            28
+          ],
           "lines": [
             "“And afterward,",
             "I will pour out my Spirit on all people.",
@@ -666,7 +794,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [29],
+          "verse_numbers": [
+            29
+          ],
           "lines": [
             "Even on my servants, both men and women,",
             "I will pour out my Spirit in those days."
@@ -675,7 +805,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [30],
+          "verse_numbers": [
+            30
+          ],
           "lines": [
             "I will show wonders in the heavens",
             "and on the earth,",
@@ -685,7 +817,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [31],
+          "verse_numbers": [
+            31
+          ],
           "lines": [
             "The sun will be turned to darkness",
             "and the moon to blood",
@@ -695,7 +829,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [32],
+          "verse_numbers": [
+            32
+          ],
           "lines": [
             "And everyone who calls",
             "on the name of the Lord will be saved;",
@@ -713,18 +849,24 @@
       "chapter_usfm": "JOL.3",
       "is_chapter": true,
       "current": {
-        "usfm": ["JOL.3"],
+        "usfm": [
+          "JOL.3"
+        ],
         "human": "Joel 3"
       },
       "next": {
         "canonical": false,
-        "usfm": ["AMO.INTRO1"],
+        "usfm": [
+          "AMO.INTRO1"
+        ],
         "human": "Amos Intro",
         "toc": true
       },
       "previous": {
         "canonical": true,
-        "usfm": ["JOL.2"],
+        "usfm": [
+          "JOL.2"
+        ],
         "human": "Joel 2",
         "toc": true
       },
@@ -734,12 +876,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["The Nations Judged"],
+          "lines": [
+            "The Nations Judged"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [1],
+          "verse_numbers": [
+            1
+          ],
           "lines": [
             "“In those days and at that time,",
             "when I restore the fortunes of Judah and Jerusalem,"
@@ -748,7 +894,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [2],
+          "verse_numbers": [
+            2
+          ],
           "lines": [
             "I will gather all nations",
             "and bring them down to the Valley of Jehoshaphat.",
@@ -761,7 +909,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [3],
+          "verse_numbers": [
+            3
+          ],
           "lines": [
             "They cast lots for my people",
             "and traded boys for prostitutes;",
@@ -771,7 +921,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [4],
+          "verse_numbers": [
+            4
+          ],
           "lines": [
             "“Now what have you against me, Tyre and Sidon and all you regions of Philistia? Are you repaying me for something I have done? If you are paying me back, I will swiftly and speedily return on your own heads what you have done."
           ],
@@ -779,7 +931,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [5],
+          "verse_numbers": [
+            5
+          ],
           "lines": [
             "For you took my silver and my gold and carried off my finest treasures to your temples."
           ],
@@ -787,7 +941,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [6],
+          "verse_numbers": [
+            6
+          ],
           "lines": [
             "You sold the people of Judah and Jerusalem to the Greeks, that you might send them far from their homeland."
           ],
@@ -795,7 +951,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [7],
+          "verse_numbers": [
+            7
+          ],
           "lines": [
             "“See, I am going to rouse them out of the places to which you sold them, and I will return on your own heads what you have done."
           ],
@@ -803,7 +961,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [8],
+          "verse_numbers": [
+            8
+          ],
           "lines": [
             "I will sell your sons and daughters to the people of Judah, and they will sell them to the Sabeans, a nation far away.” The Lord has spoken."
           ],
@@ -811,7 +971,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [9],
+          "verse_numbers": [
+            9
+          ],
           "lines": [
             "Proclaim this among the nations:",
             "Prepare for war!",
@@ -822,7 +984,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [10],
+          "verse_numbers": [
+            10
+          ],
           "lines": [
             "Beat your plowshares into swords",
             "and your pruning hooks into spears.",
@@ -833,7 +997,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [11],
+          "verse_numbers": [
+            11
+          ],
           "lines": [
             "Come quickly, all you nations from every side,",
             "and assemble there.",
@@ -843,7 +1009,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [12],
+          "verse_numbers": [
+            12
+          ],
           "lines": [
             "“Let the nations be roused;",
             "let them advance into the Valley of Jehoshaphat,",
@@ -854,7 +1022,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [13],
+          "verse_numbers": [
+            13
+          ],
           "lines": [
             "Swing the sickle,",
             "for the harvest is ripe.",
@@ -867,7 +1037,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [14],
+          "verse_numbers": [
+            14
+          ],
           "lines": [
             "Multitudes, multitudes",
             "in the valley of decision!",
@@ -878,7 +1050,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [15],
+          "verse_numbers": [
+            15
+          ],
           "lines": [
             "The sun and moon will be darkened,",
             "and the stars no longer shine."
@@ -887,7 +1061,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [16],
+          "verse_numbers": [
+            16
+          ],
           "lines": [
             "The Lord will roar from Zion",
             "and thunder from Jerusalem;",
@@ -900,12 +1076,16 @@
         {
           "type": "heading1",
           "verse_numbers": [],
-          "lines": ["Blessings for God’s People"],
+          "lines": [
+            "Blessings for God’s People"
+          ],
           "rlw_lines": []
         },
         {
           "type": "verse",
-          "verse_numbers": [17],
+          "verse_numbers": [
+            17
+          ],
           "lines": [
             "“Then you will know that I, the Lord your God,",
             "dwell in Zion, my holy hill.",
@@ -916,7 +1096,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [18],
+          "verse_numbers": [
+            18
+          ],
           "lines": [
             "“In that day the mountains will drip new wine,",
             "and the hills will flow with milk;",
@@ -928,7 +1110,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [19],
+          "verse_numbers": [
+            19
+          ],
           "lines": [
             "But Egypt will be desolate,",
             "Edom a desert waste,",
@@ -939,7 +1123,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [20],
+          "verse_numbers": [
+            20
+          ],
           "lines": [
             "Judah will be inhabited forever",
             "and Jerusalem through all generations."
@@ -948,7 +1134,9 @@
         },
         {
           "type": "verse",
-          "verse_numbers": [21],
+          "verse_numbers": [
+            21
+          ],
           "lines": [
             "Shall I leave their innocent blood unavenged?",
             "No, I will not.”",
