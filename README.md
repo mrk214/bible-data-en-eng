@@ -213,15 +213,15 @@ Inside each version's folder, there is a `README.md` file that includes:
 - The **number of books** in that version.
 - And **direct links to the JSON files hosted on GitHub**.
 
-| usfm       | name                        | link                                                                                             |
-| ---------- | --------------------------- | ------------------------------------------------------------------------------------------------ |
-| `CSB`      | Christian Standard Bible    | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/CSB/README.md)      |
-| `ESV`      | English Standard Version    | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/ESV/README.md)      |
-| `KJV`      | King James Version          | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/KJV/README.md)      |
-| `NASB2020` | New American Standard Bible | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/NASB2020/README.md) |
-| `NIV`      | New International Version   | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/NIV/README.md)      |
-| `NKJV`     | New King James Version      | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/NKJV/README.md)     |
-| `NLT`      | New Living Translation      | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng/NLT/README.md)      |
+| usfm       | name                        | link                                                                                                   |
+| ---------- | --------------------------- | ------------------------------------------------------------------------------------------------------ |
+| `CSB`      | Christian Standard Bible    | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/CSB/README.md)      |
+| `ESV`      | English Standard Version    | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/ESV/README.md)      |
+| `KJV`      | King James Version          | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/KJV/README.md)      |
+| `NASB2020` | New American Standard Bible | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/NASB2020/README.md) |
+| `NIV`      | New International Version   | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/NIV/README.md)      |
+| `NKJV`     | New King James Version      | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/NKJV/README.md)     |
+| `NLT`      | New Living Translation      | [readme](https://github.com/mrk214/bible-data-en-eng/blob/main/data/en___eng___eng/NLT/README.md)      |
 
 ## Special Chapters
 
