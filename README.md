@@ -1,5 +1,7 @@
 # 🚀 File Links
 
+👉 Check out this [code example](https://github.com/mrk214/reading-json-files) to understand the [structure and **TypeScript types** of the JSON files](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts), and learn how to use them.
+
 | abbr | name | books | file |
 | --- | --- | :---: | --- |
 | `CSB` | Christian Standard Bible | **66** | [link](https://mrk214.github.io/snapshots/en___eng___eng/CSB.json) |
