@@ -8,13 +8,13 @@
 
 | abbr | name | books | file |
 | --- | --- | :---: | --- |
-| `CSB` | Christian Standard Bible | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/CSB.json) |
-| `ESV` | English Standard Version 2016 | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/ESV.json) |
-| `KJV` | King James Version | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/KJV.json) |
-| `NASB2020` | New American Standard Bible - NASB | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NASB2020.json) |
-| `NIV` | New International Version | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NIV.json) |
-| `NKJV` | New King James Version | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NKJV.json) |
-| `NLT` | New Living Translation | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NLT.json) |
+| `CSB` | Christian Standard Bible | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/CSB_vid_1713.json) |
+| `ESV` | English Standard Version 2016 | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/ESV_vid_59.json) |
+| `KJV` | King James Version | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/KJV_vid_1.json) |
+| `NASB2020` | New American Standard Bible - NASB | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NASB2020_vid_2692.json) |
+| `NIV` | New International Version | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NIV_vid_111.json) |
+| `NKJV` | New King James Version | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NKJV_vid_114.json) |
+| `NLT` | New Living Translation | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/NLT_vid_116.json) |
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### Christian Standard Bible
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/CSB.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/CSB_vid_1713.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -99,7 +99,7 @@
 
 ### English Standard Version 2016
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/ESV.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/ESV_vid_59.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -176,7 +176,7 @@
 
 ### King James Version
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/KJV.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/KJV_vid_1.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -253,7 +253,7 @@
 
 ### New American Standard Bible - NASB
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NASB2020.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NASB2020_vid_2692.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -330,7 +330,7 @@
 
 ### New International Version
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NIV.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NIV_vid_111.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -407,7 +407,7 @@
 
 ### New King James Version
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NKJV.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NKJV_vid_114.json).
 
 | usfm | name |
 | ---------- | ---------- |
@@ -484,7 +484,7 @@
 
 ### New Living Translation
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NLT.json).
+**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NLT_vid_116.json).
 
 | usfm | name |
 | ---------- | ---------- |
