@@ -1,12 +1,14 @@
-👉 [Available versions](https://mrk214.github.io/snapshots/data.json) data (`JSON file`).
+🧭 [Overview](https://github.com/mrk214)
 
-👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files.
+👉 [Available versions](https://mrk214.github.io/snapshots/data.json)
 
-👉 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`).
+👉 [TypeScript types](https://github.com/mrk214/reading-json-files/blob/main/src/types.ts) of the JSON files
 
-# 🚀 File Links
+📚 [Code example](https://github.com/mrk214/reading-json-files) (`how to use the JSON files`)
 
-| abbr | name | books | file |
+# 🚀 JSON files
+
+| abbr | name | books | link |
 | --- | --- | :---: | --- |
 | `CSB` | Christian Standard Bible | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/CSB_vid_1713.json) |
 | `ESV` | English Standard Version 2016 | **66** | [json](https://mrk214.github.io/snapshots/en___eng___eng/ESV_vid_59.json) |
@@ -18,11 +20,11 @@
 
 ---
 
-### 🔥 `CSB`
+### 📖 `CSB`
 
 ### Christian Standard Bible
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/CSB_vid_1713.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -95,11 +97,11 @@
 
 ---
 
-### 🔥 `ESV`
+### 📖 `ESV`
 
 ### English Standard Version 2016
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/ESV_vid_59.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -172,11 +174,11 @@
 
 ---
 
-### 🔥 `KJV`
+### 📖 `KJV`
 
 ### King James Version
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/KJV_vid_1.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -249,11 +251,11 @@
 
 ---
 
-### 🔥 `NASB2020`
+### 📖 `NASB2020`
 
 ### New American Standard Bible - NASB
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NASB2020_vid_2692.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -326,11 +328,11 @@
 
 ---
 
-### 🔥 `NIV`
+### 📖 `NIV`
 
 ### New International Version
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NIV_vid_111.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -403,11 +405,11 @@
 
 ---
 
-### 🔥 `NKJV`
+### 📖 `NKJV`
 
 ### New King James Version
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NKJV_vid_114.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
@@ -480,11 +482,11 @@
 
 ---
 
-### 🔥 `NLT`
+### 📖 `NLT`
 
 ### New Living Translation
 
-**66** books - [Source JSON file with **chapter_html** field](https://mrk214.github.io/bible-data-en-eng/data/en___eng___eng/NLT_vid_116.json).
+**66** books.
 
 | usfm | name |
 | ---------- | ---------- |
